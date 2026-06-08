@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>1001 Movies</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="1001 Movies 首页">
+        <span class="brand-mark">1001</span>
+        <span>Movies</span>
+      </a>
+      <nav class="nav" aria-label="主导航">
+        <a href="#categories">分类</a>
+        <a href="#library">片库</a>
+        <a href="#sources">来源</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-overlay">
+          <p class="kicker">精选电影索引</p>
+          <h1 id="hero-title">1001 部电影，按大类与小类重新整理</h1>
+          <p class="hero-copy">从经典、作者、类型、地区与时代线索进入片库。每张卡片都可以继续补年份、导演、海报与观影记录。</p>
+          <div class="formula" aria-label="片库结构：1001 等于 13 乘以 11 乘以 7">
+            <strong>1001</strong>
+            <span>=</span>
+            <span>13 大类</span>
+            <span>×</span>
+            <span>11 小类</span>
+            <span>×</span>
+            <span>7 部电影</span>
+          </div>
+          <div class="hero-actions">
+            <a class="button primary" href="#library">浏览片库</a>
+            <a class="button secondary" href="#categories">查看分类</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="stats-band" aria-label="片库概览">
+        <div>
+          <strong id="movie-count">1001</strong>
+          <span>电影条目</span>
+        </div>
+        <div>
+          <strong id="category-count">13</strong>
+          <span>大类</span>
+        </div>
+        <div>
+          <strong id="subcategory-count">143</strong>
+          <span>小类（每大类 11 个）</span>
+        </div>
+        <div>
+          <strong>7</strong>
+          <span>每小类影片</span>
+        </div>
+      </section>
+
+      <section class="section" id="categories">
+        <div class="section-heading">
+          <p class="kicker">Catalog</p>
+          <h2>13 个入口</h2>
+        </div>
+        <div class="category-grid" id="category-grid"></div>
+      </section>
+
+      <section class="section library-section" id="library">
+        <div class="section-heading library-heading">
+          <div>
+            <p class="kicker">Library</p>
+            <h2>电影片库</h2>
+          </div>
+          <div class="toolbar" role="search">
+            <input id="search-input" type="search" placeholder="搜索片名、分类或标签" aria-label="搜索片库">
+            <select id="category-filter" aria-label="按大类筛选"></select>
+          </div>
+        </div>
+        <div class="subnav" id="subnav" aria-label="小类筛选"></div>
+        <p class="result-count" id="result-count" aria-live="polite"></p>
+        <div class="movie-grid" id="movie-grid"></div>
+        <div class="empty-state" id="empty-state" hidden>没有找到匹配的电影。</div>
+      </section>
+
+      <section class="section sources" id="sources">
+        <div class="section-heading">
+          <p class="kicker">Notes</p>
+          <h2>片单说明</h2>
+        </div>
+        <p>当前版本是可运行的网站原型，按 13 个大类、每个大类 11 个小类、每个小类 7 部电影生成，合计 1001 部。</p>
+        <p>电影片名与封面来自公开的 MovieLens 海报映射数据，已整理成本地 <code>data/movies.js</code>，每部电影都有独立海报 URL。</p>
+        <p>后续可以把 <code>app.js</code> 里的数据生成器替换为外部 CSV、豆瓣条目或 TMDB API，界面会自动复用分类、搜索与卡片布局。</p>
+      </section>
+    </main>
+
+    <dialog class="movie-dialog" id="movie-dialog" aria-labelledby="dialog-title">
+      <button class="dialog-close" id="dialog-close" type="button" aria-label="关闭详情">×</button>
+      <div class="dialog-poster" id="dialog-poster"></div>
+      <div class="dialog-body">
+        <p class="kicker" id="dialog-number"></p>
+        <h2 id="dialog-title"></h2>
+        <div class="dialog-meta" id="dialog-meta"></div>
+        <p id="dialog-note"></p>
+      </div>
+    </dialog>
+
+    <script src="data/movies.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
