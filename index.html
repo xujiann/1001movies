@@ -91,8 +91,8 @@
           <h2>片单说明</h2>
         </div>
         <p>当前版本是可运行的网站原型，按 13 个大类、每个大类 11 个小类、每个小类 7 部电影生成，合计 1001 部。</p>
-        <p>电影片名与封面来自公开的 MovieLens 海报映射数据，已整理成本地 <code>data/movies.js</code>，每部电影都有独立海报 URL。</p>
-        <p>后续可以把 <code>app.js</code> 里的数据生成器替换为外部 CSV、豆瓣条目或 TMDB API，界面会自动复用分类、搜索与卡片布局。</p>
+        <p>电影片名与封面来自公开的 MovieLens 海报映射数据；分类优先使用 IMDb 官方 <code>title.basics</code> 中匹配到的 genres，未匹配条目使用 MovieLens genre 标记兜底。</p>
+        <p>后续可以继续补充导演、评分、简介、国家地区与观影状态，界面会自动复用分类、搜索与卡片布局。</p>
       </section>
     </main>
 

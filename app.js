@@ -9,7 +9,7 @@ const palette = [
   ["#67a8a3", "#254d52"],
 ];
 
-const categories = [
+const categories = globalThis.categoryPlanData || [
   {
     name: "世界经典",
     accent: "#d94f45",
@@ -136,9 +136,32 @@ function escapeHtml(value) {
 }
 
 function buildMovies() {
+  const posterData = Array.isArray(globalThis.moviePosterData) ? globalThis.moviePosterData : [];
+  if (posterData.length >= 1001 && posterData[0].category) {
+    return posterData.slice(0, 1001).map((movie, index) => {
+      const category = categories.find((item) => item.name === movie.category) || categories[index % categories.length];
+      const color = palette[index % palette.length];
+      return {
+        id: movie.id || index + 1,
+        title: movie.title,
+        subtitle: Array.isArray(movie.genres) && movie.genres.length ? movie.genres.join(", ") : "IMDb/MovieLens 类型数据",
+        year: movie.year,
+        region: movie.imdbId ? "IMDb" : "MovieLens",
+        category: movie.category,
+        subcategory: movie.subcategory,
+        accent: movie.accent || category.accent,
+        genres: movie.genres || [],
+        imdbUrl: movie.imdbUrl || "",
+        posterA: color[0],
+        posterB: color[1],
+        posterUrl: movie.poster || movie.posterUrl || "",
+        number: movie.number || String(index + 1).padStart(4, "0"),
+      };
+    });
+  }
+
   const movies = [];
   const usedTitles = new Set();
-  const posterData = Array.isArray(globalThis.moviePosterData) ? globalThis.moviePosterData : [];
   let index = 1;
 
   categories.forEach((category, categoryIndex) => {
@@ -260,7 +283,7 @@ function getFilteredMovies() {
   return movies.filter((movie) => {
     const inCategory = state.category === "全部" || movie.category === state.category;
     const inSubcategory = state.subcategory === "全部" || movie.subcategory === state.subcategory;
-    const text = `${movie.title} ${movie.subtitle} ${movie.category} ${movie.subcategory} ${movie.region}`.toLowerCase();
+    const text = `${movie.title} ${movie.subtitle} ${movie.category} ${movie.subcategory} ${movie.region} ${(movie.genres || []).join(" ")}`.toLowerCase();
     const inQuery = !query || text.includes(query);
     return inCategory && inSubcategory && inQuery;
   });
@@ -279,7 +302,7 @@ function renderMovies() {
       <div class="movie-body">
         <h3 class="movie-title">${escapeHtml(movie.title)}</h3>
         <div class="movie-info">
-          <span>${escapeHtml(movie.year)} · ${escapeHtml(movie.region)}</span>
+          <span>${escapeHtml(movie.year)} · ${escapeHtml((movie.genres || []).slice(0, 2).join(", ") || movie.region)}</span>
           <span>${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}</span>
           <span>${escapeHtml(movie.subtitle)}</span>
         </div>
@@ -315,8 +338,9 @@ function openMovieDialog(number) {
     <span>${escapeHtml(movie.region)}</span>
     <span>${escapeHtml(movie.category)}</span>
     <span>${escapeHtml(movie.subcategory)}</span>
+    ${(movie.genres || []).map((genre) => `<span>${escapeHtml(genre)}</span>`).join("")}
   `;
-  dialogNote.textContent = `这部电影位于“${movie.category} / ${movie.subcategory}”。当前版本已接入真实海报，后续可以继续补充导演、评分、简介和观影状态。`;
+  dialogNote.innerHTML = `这部电影根据真实类型标记归入“${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}”。当前版本保留真实海报，后续可以继续补充导演、评分、简介和观影状态。${movie.imdbUrl ? ` <a href="${escapeHtml(movie.imdbUrl)}" target="_blank" rel="noreferrer">查看 IMDb 条目</a>` : ""}`;
 
   if (typeof movieDialog.showModal === "function") {
     movieDialog.showModal();

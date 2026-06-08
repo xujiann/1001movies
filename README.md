@@ -15,6 +15,7 @@ The site is a self-contained HTML/CSS/JavaScript app. It displays 1001 movies wi
 - 7 movies in each subcategory
 - 1001 total movie cards
 - Real poster images from a public MovieLens poster mapping dataset
+- IMDb `title.basics` genre enrichment when `data/imdb/title.basics.tsv.gz` is available
 - Search by title, category, subcategory, or label
 - Category and subcategory filters
 - Clickable movie detail dialog
@@ -35,6 +36,8 @@ The site is a self-contained HTML/CSS/JavaScript app. It displays 1001 movies wi
 node scripts/build-movie-data.js
 ```
 
+The generator uses IMDb genres first when `data/imdb/title.basics.tsv.gz` exists locally. The large IMDb dataset is intentionally ignored by git and should not be committed.
+
 ## Local Use
 
 Open `index.html` directly in a browser.
@@ -53,3 +56,7 @@ After pushing this repository to GitHub:
 Poster data is derived from the public GitHub dataset:
 
 https://github.com/babu-thomas/movielens-posters
+
+Genre enrichment can use the official IMDb non-commercial datasets:
+
+https://datasets.imdbws.com/
