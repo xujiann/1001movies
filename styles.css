@@ -276,7 +276,7 @@ h2 {
 .toolbar {
   display: grid;
   gap: 10px;
-  grid-template-columns: minmax(220px, 340px) minmax(150px, 190px);
+  grid-template-columns: minmax(220px, 340px) repeat(4, minmax(130px, 170px)) repeat(2, auto);
 }
 
 input,
@@ -288,6 +288,28 @@ select {
   font: inherit;
   height: 44px;
   padding: 0 12px;
+}
+
+.icon-button {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  color: var(--text);
+  cursor: pointer;
+  font: inherit;
+  height: 44px;
+}
+
+.text-button {
+  font-weight: 800;
+  padding: 0 13px;
+  white-space: nowrap;
+}
+
+.icon-button:hover,
+.icon-button.active {
+  background: var(--text);
+  color: var(--bg);
 }
 
 .subnav {
@@ -340,6 +362,14 @@ select {
   transition: 160ms ease;
 }
 
+.movie-card.is-watched .poster img {
+  filter: saturate(0.62) brightness(0.78);
+}
+
+.movie-card.is-favorite {
+  border-color: rgba(216, 173, 92, 0.55);
+}
+
 .poster {
   align-items: end;
   aspect-ratio: 2 / 3;
@@ -376,6 +406,25 @@ select {
   font-weight: 900;
   position: relative;
   z-index: 1;
+}
+
+.card-badges {
+  display: flex;
+  gap: 6px;
+  position: absolute;
+  right: 8px;
+  top: 8px;
+  z-index: 2;
+}
+
+.card-badges b {
+  background: rgba(0, 0, 0, 0.72);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 999px;
+  color: #fff;
+  font-size: 11px;
+  line-height: 1;
+  padding: 5px 7px;
 }
 
 .movie-body {
@@ -513,10 +562,22 @@ code {
   padding: 7px 10px;
 }
 
-.dialog-body p:last-child {
+#dialog-note {
   color: var(--muted);
   line-height: 1.8;
   margin-bottom: 0;
+}
+
+.dialog-body a {
+  color: var(--gold);
+  font-weight: 800;
+}
+
+.dialog-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 24px;
 }
 
 @media (max-width: 1200px) {

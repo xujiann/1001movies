@@ -201,7 +201,15 @@ const movies = buildMovies();
 const state = {
   category: "全部",
   subcategory: "全部",
+  genre: "全部",
+  decade: "全部",
+  status: "全部",
   query: "",
+};
+
+const userState = {
+  favorites: new Set(JSON.parse(localStorage.getItem("movieFavorites") || "[]")),
+  watched: new Set(JSON.parse(localStorage.getItem("movieWatched") || "[]")),
 };
 
 const categoryGrid = document.querySelector("#category-grid");
@@ -209,6 +217,11 @@ const movieGrid = document.querySelector("#movie-grid");
 const subnav = document.querySelector("#subnav");
 const searchInput = document.querySelector("#search-input");
 const categoryFilter = document.querySelector("#category-filter");
+const genreFilter = document.querySelector("#genre-filter");
+const decadeFilter = document.querySelector("#decade-filter");
+const statusFilter = document.querySelector("#status-filter");
+const randomButton = document.querySelector("#random-button");
+const clearButton = document.querySelector("#clear-button");
 const emptyState = document.querySelector("#empty-state");
 const resultCount = document.querySelector("#result-count");
 const movieDialog = document.querySelector("#movie-dialog");
@@ -218,6 +231,42 @@ const dialogNumber = document.querySelector("#dialog-number");
 const dialogTitle = document.querySelector("#dialog-title");
 const dialogMeta = document.querySelector("#dialog-meta");
 const dialogNote = document.querySelector("#dialog-note");
+const dialogFavorite = document.querySelector("#dialog-favorite");
+const dialogWatched = document.querySelector("#dialog-watched");
+
+let activeDialogMovieNumber = null;
+
+function saveUserState() {
+  localStorage.setItem("movieFavorites", JSON.stringify([...userState.favorites]));
+  localStorage.setItem("movieWatched", JSON.stringify([...userState.watched]));
+}
+
+function getAllGenres() {
+  return [...new Set(movies.flatMap((movie) => movie.genres || []))].sort((a, b) => a.localeCompare(b));
+}
+
+function getDecade(year) {
+  if (!year) return "年代未知";
+  return `${Math.floor(year / 10) * 10}s`;
+}
+
+function getAllDecades() {
+  return [...new Set(movies.map((movie) => getDecade(movie.year)))]
+    .sort((a, b) => Number(a.slice(0, 4)) - Number(b.slice(0, 4)));
+}
+
+function isFavorite(movie) {
+  return userState.favorites.has(movie.number);
+}
+
+function isWatched(movie) {
+  return userState.watched.has(movie.number);
+}
+
+function toggleSet(set, value) {
+  if (set.has(value)) set.delete(value);
+  else set.add(value);
+}
 
 function renderStats() {
   document.querySelector("#movie-count").textContent = movies.length;
@@ -260,6 +309,12 @@ function renderFilters() {
   categoryFilter.innerHTML = ["全部", ...categories.map((category) => category.name)]
     .map((name) => `<option value="${name}">${name}</option>`)
     .join("");
+  genreFilter.innerHTML = ["全部", ...getAllGenres()]
+    .map((name) => `<option value="${name}">${name === "全部" ? "全部类型" : name}</option>`)
+    .join("");
+  decadeFilter.innerHTML = ["全部", ...getAllDecades()]
+    .map((name) => `<option value="${name}">${name === "全部" ? "全部年代" : name}</option>`)
+    .join("");
 }
 
 function renderSubnav() {
@@ -283,21 +338,32 @@ function getFilteredMovies() {
   return movies.filter((movie) => {
     const inCategory = state.category === "全部" || movie.category === state.category;
     const inSubcategory = state.subcategory === "全部" || movie.subcategory === state.subcategory;
+    const inGenre = state.genre === "全部" || (movie.genres || []).includes(state.genre);
+    const inDecade = state.decade === "全部" || getDecade(movie.year) === state.decade;
+    const inStatus =
+      state.status === "全部" ||
+      (state.status === "收藏" && isFavorite(movie)) ||
+      (state.status === "已看" && isWatched(movie)) ||
+      (state.status === "未看" && !isWatched(movie));
     const text = `${movie.title} ${movie.subtitle} ${movie.category} ${movie.subcategory} ${movie.region} ${(movie.genres || []).join(" ")}`.toLowerCase();
     const inQuery = !query || text.includes(query);
-    return inCategory && inSubcategory && inQuery;
+    return inCategory && inSubcategory && inGenre && inDecade && inStatus && inQuery;
   });
 }
 
 function renderMovies() {
   const filtered = getFilteredMovies();
   emptyState.hidden = filtered.length > 0;
-  resultCount.textContent = `当前显示 ${filtered.length} / ${movies.length} 部电影`;
+  resultCount.textContent = `当前显示 ${filtered.length} / ${movies.length} 部电影 · 已看 ${userState.watched.size} · 收藏 ${userState.favorites.size}`;
   movieGrid.innerHTML = filtered.map((movie) => `
-    <article class="movie-card" data-movie-number="${escapeHtml(movie.number)}" tabindex="0" role="button" aria-label="查看 ${escapeHtml(movie.title)} 详情">
+    <article class="movie-card ${isWatched(movie) ? "is-watched" : ""} ${isFavorite(movie) ? "is-favorite" : ""}" data-movie-number="${escapeHtml(movie.number)}" tabindex="0" role="button" aria-label="查看 ${escapeHtml(movie.title)} 详情">
       <div class="poster" style="--poster-a: ${movie.posterA}; --poster-b: ${movie.posterB}">
         ${movie.posterUrl ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} 海报" loading="lazy" onerror="this.closest('.poster').classList.add('poster-fallback');this.remove()">` : ""}
         <span>${escapeHtml(movie.number)}</span>
+        <div class="card-badges" aria-label="观影状态">
+          ${isFavorite(movie) ? `<b>收藏</b>` : ""}
+          ${isWatched(movie) ? `<b>已看</b>` : ""}
+        </div>
       </div>
       <div class="movie-body">
         <h3 class="movie-title">${escapeHtml(movie.title)}</h3>
@@ -325,6 +391,7 @@ function renderMovies() {
 function openMovieDialog(number) {
   const movie = movies.find((item) => item.number === number);
   if (!movie) return;
+  activeDialogMovieNumber = movie.number;
 
   dialogPoster.style.setProperty("--poster-a", movie.posterA);
   dialogPoster.style.setProperty("--poster-b", movie.posterB);
@@ -341,12 +408,20 @@ function openMovieDialog(number) {
     ${(movie.genres || []).map((genre) => `<span>${escapeHtml(genre)}</span>`).join("")}
   `;
   dialogNote.innerHTML = `这部电影根据真实类型标记归入“${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}”。当前版本保留真实海报，后续可以继续补充导演、评分、简介和观影状态。${movie.imdbUrl ? ` <a href="${escapeHtml(movie.imdbUrl)}" target="_blank" rel="noreferrer">查看 IMDb 条目</a>` : ""}`;
+  renderDialogActions(movie);
 
   if (typeof movieDialog.showModal === "function") {
     movieDialog.showModal();
   } else {
     movieDialog.setAttribute("open", "");
   }
+}
+
+function renderDialogActions(movie) {
+  dialogFavorite.textContent = isFavorite(movie) ? "取消收藏" : "收藏";
+  dialogWatched.textContent = isWatched(movie) ? "取消已看" : "标记已看";
+  dialogFavorite.classList.toggle("active", isFavorite(movie));
+  dialogWatched.classList.toggle("active", isWatched(movie));
 }
 
 function closeMovieDialog() {
@@ -366,6 +441,62 @@ categoryFilter.addEventListener("change", (event) => {
   state.category = event.target.value;
   state.subcategory = "全部";
   renderSubnav();
+  renderMovies();
+});
+
+genreFilter.addEventListener("change", (event) => {
+  state.genre = event.target.value;
+  renderMovies();
+});
+
+decadeFilter.addEventListener("change", (event) => {
+  state.decade = event.target.value;
+  renderMovies();
+});
+
+statusFilter.addEventListener("change", (event) => {
+  state.status = event.target.value;
+  renderMovies();
+});
+
+randomButton.addEventListener("click", () => {
+  const filtered = getFilteredMovies();
+  if (!filtered.length) return;
+  const movie = filtered[Math.floor(Math.random() * filtered.length)];
+  openMovieDialog(movie.number);
+});
+
+clearButton.addEventListener("click", () => {
+  state.category = "全部";
+  state.subcategory = "全部";
+  state.genre = "全部";
+  state.decade = "全部";
+  state.status = "全部";
+  state.query = "";
+  searchInput.value = "";
+  categoryFilter.value = "全部";
+  genreFilter.value = "全部";
+  decadeFilter.value = "全部";
+  statusFilter.value = "全部";
+  renderSubnav();
+  renderMovies();
+});
+
+dialogFavorite.addEventListener("click", () => {
+  if (!activeDialogMovieNumber) return;
+  toggleSet(userState.favorites, activeDialogMovieNumber);
+  saveUserState();
+  const movie = movies.find((item) => item.number === activeDialogMovieNumber);
+  renderDialogActions(movie);
+  renderMovies();
+});
+
+dialogWatched.addEventListener("click", () => {
+  if (!activeDialogMovieNumber) return;
+  toggleSet(userState.watched, activeDialogMovieNumber);
+  saveUserState();
+  const movie = movies.find((item) => item.number === activeDialogMovieNumber);
+  renderDialogActions(movie);
   renderMovies();
 });
 

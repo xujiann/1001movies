@@ -77,6 +77,16 @@
           <div class="toolbar" role="search">
             <input id="search-input" type="search" placeholder="搜索片名、分类或标签" aria-label="搜索片库">
             <select id="category-filter" aria-label="按大类筛选"></select>
+            <select id="genre-filter" aria-label="按类型筛选"></select>
+            <select id="decade-filter" aria-label="按年代筛选"></select>
+            <select id="status-filter" aria-label="按观影状态筛选">
+              <option value="全部">全部状态</option>
+              <option value="收藏">已收藏</option>
+              <option value="已看">已看</option>
+              <option value="未看">未看</option>
+            </select>
+            <button class="icon-button text-button" id="random-button" type="button">随机一部</button>
+            <button class="icon-button text-button" id="clear-button" type="button">清空筛选</button>
           </div>
         </div>
         <div class="subnav" id="subnav" aria-label="小类筛选"></div>
@@ -104,6 +114,10 @@
         <h2 id="dialog-title"></h2>
         <div class="dialog-meta" id="dialog-meta"></div>
         <p id="dialog-note"></p>
+        <div class="dialog-actions">
+          <button class="icon-button text-button" id="dialog-favorite" type="button">收藏</button>
+          <button class="icon-button text-button" id="dialog-watched" type="button">标记已看</button>
+        </div>
       </div>
     </dialog>
 

@@ -18,6 +18,9 @@ The site is a self-contained HTML/CSS/JavaScript app. It displays 1001 movies wi
 - IMDb `title.basics` genre enrichment when `data/imdb/title.basics.tsv.gz` is available
 - Search by title, category, subcategory, or label
 - Category and subcategory filters
+- Genre, decade, and watch-status filters
+- Random movie picker
+- Local favorites and watched markers using `localStorage`
 - Clickable movie detail dialog
 - Static deployment friendly: GitHub Pages, Netlify, Vercel, or any file server
 
