@@ -19,9 +19,11 @@ The site is a self-contained HTML/CSS/JavaScript app. It displays 1001 movies wi
 - Search by title, category, subcategory, or label
 - Category and subcategory filters
 - Genre, decade, and watch-status filters
+- Sorting by list order, title, and year
 - Random movie picker
 - Local favorites and watched markers using `localStorage`
 - Clickable movie detail dialog
+- Shareable movie detail hashes such as `#movie-0073`
 - Static deployment friendly: GitHub Pages, Netlify, Vercel, or any file server
 
 ## Files
