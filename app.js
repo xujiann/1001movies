@@ -235,6 +235,7 @@ const dialogMeta = document.querySelector("#dialog-meta");
 const dialogNote = document.querySelector("#dialog-note");
 const dialogPrev = document.querySelector("#dialog-prev");
 const dialogNext = document.querySelector("#dialog-next");
+const dialogShare = document.querySelector("#dialog-share");
 const dialogFavorite = document.querySelector("#dialog-favorite");
 const dialogWatched = document.querySelector("#dialog-watched");
 
@@ -426,6 +427,7 @@ function openMovieDialog(number) {
   dialogNote.innerHTML = `这部电影根据真实类型标记归入“${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}”。当前版本保留真实海报，后续可以继续补充导演、评分、简介和观影状态。${movie.imdbUrl ? ` <a href="${escapeHtml(movie.imdbUrl)}" target="_blank" rel="noreferrer">查看 IMDb 条目</a>` : ""}`;
   renderDialogActions(movie);
   renderDialogNavigation(movie);
+  dialogShare.textContent = "复制链接";
 
   if (typeof movieDialog.showModal === "function") {
     movieDialog.showModal();
@@ -454,6 +456,32 @@ function openAdjacentMovie(direction) {
   const index = filtered.findIndex((movie) => movie.number === activeDialogMovieNumber);
   const next = filtered[index + direction];
   if (next) openMovieDialog(next.number);
+}
+
+async function copyActiveMovieLink() {
+  if (!activeDialogMovieNumber) return;
+  const url = new URL(location.href);
+  url.hash = `movie-${activeDialogMovieNumber}`;
+  const text = url.toString();
+
+  try {
+    if (navigator.clipboard?.writeText) {
+      await navigator.clipboard.writeText(text);
+    } else {
+      const textarea = document.createElement("textarea");
+      textarea.value = text;
+      textarea.setAttribute("readonly", "");
+      textarea.style.position = "fixed";
+      textarea.style.opacity = "0";
+      document.body.append(textarea);
+      textarea.select();
+      document.execCommand("copy");
+      textarea.remove();
+    }
+    dialogShare.textContent = "已复制";
+  } catch {
+    dialogShare.textContent = "复制失败";
+  }
 }
 
 function closeMovieDialog() {
@@ -527,6 +555,8 @@ dialogPrev.addEventListener("click", () => openAdjacentMovie(-1));
 
 dialogNext.addEventListener("click", () => openAdjacentMovie(1));
 
+dialogShare.addEventListener("click", copyActiveMovieLink);
+
 dialogFavorite.addEventListener("click", () => {
   if (!activeDialogMovieNumber) return;
   toggleSet(userState.favorites, activeDialogMovieNumber);
@@ -555,6 +585,12 @@ window.addEventListener("keydown", (event) => {
   if (!movieDialog.open) return;
   if (event.key === "ArrowLeft") openAdjacentMovie(-1);
   if (event.key === "ArrowRight") openAdjacentMovie(1);
+});
+
+window.addEventListener("hashchange", () => {
+  const match = location.hash.match(/^#movie-(\d{4})$/);
+  if (match) openMovieDialog(match[1]);
+  else if (movieDialog.open) closeMovieDialog();
 });
 
 renderStats();

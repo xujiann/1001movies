@@ -1,5 +1,7 @@
 # 1001 Movies
 
+Live site: https://xujiann.github.io/1001movies/
+
 A static movie catalog website built around a simple structure:
 
 ```text
@@ -24,6 +26,7 @@ The site is a self-contained HTML/CSS/JavaScript app. It displays 1001 movies wi
 - Local favorites and watched markers using `localStorage`
 - Clickable movie detail dialog
 - Shareable movie detail hashes such as `#movie-0073`
+- One-click copy for movie detail links
 - Static deployment friendly: GitHub Pages, Netlify, Vercel, or any file server
 
 ## Files
