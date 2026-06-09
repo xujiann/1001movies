@@ -85,6 +85,12 @@
               <option value="已看">已看</option>
               <option value="未看">未看</option>
             </select>
+            <select id="sort-filter" aria-label="排序方式">
+              <option value="number">片单顺序</option>
+              <option value="title">片名 A-Z</option>
+              <option value="year-asc">年份从早到晚</option>
+              <option value="year-desc">年份从晚到早</option>
+            </select>
             <button class="icon-button text-button" id="random-button" type="button">随机一部</button>
             <button class="icon-button text-button" id="clear-button" type="button">清空筛选</button>
           </div>
@@ -115,6 +121,8 @@
         <div class="dialog-meta" id="dialog-meta"></div>
         <p id="dialog-note"></p>
         <div class="dialog-actions">
+          <button class="icon-button text-button" id="dialog-prev" type="button">上一部</button>
+          <button class="icon-button text-button" id="dialog-next" type="button">下一部</button>
           <button class="icon-button text-button" id="dialog-favorite" type="button">收藏</button>
           <button class="icon-button text-button" id="dialog-watched" type="button">标记已看</button>
         </div>
