@@ -15,7 +15,6 @@
       <nav class="nav" aria-label="主导航">
         <a href="#categories">分类</a>
         <a href="#library">片库</a>
-        <a href="#sources">来源</a>
       </nav>
     </header>
 
@@ -23,8 +22,7 @@
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-overlay">
           <p class="kicker">精选电影索引</p>
-          <h1 id="hero-title">1001 部电影，按大类与小类重新整理</h1>
-          <p class="hero-copy">从经典、作者、类型、地区与时代线索进入片库。每张卡片都可以继续补年份、导演、海报与观影记录。</p>
+          <h1 id="hero-title">1001 部电影</h1>
           <div class="formula" aria-label="片库结构：1001 等于 13 乘以 11 乘以 7">
             <strong>1001</strong>
             <span>=</span>
@@ -99,16 +97,6 @@
         <p class="result-count" id="result-count" aria-live="polite"></p>
         <div class="movie-grid" id="movie-grid"></div>
         <div class="empty-state" id="empty-state" hidden>没有找到匹配的电影。</div>
-      </section>
-
-      <section class="section sources" id="sources">
-        <div class="section-heading">
-          <p class="kicker">Notes</p>
-          <h2>片单说明</h2>
-        </div>
-        <p>当前版本是可运行的网站原型，按 13 个大类、每个大类 11 个小类、每个小类 7 部电影生成，合计 1001 部。</p>
-        <p>电影片名与封面来自公开的 MovieLens 海报映射数据；分类优先使用 IMDb 官方 <code>title.basics</code> 中匹配到的 genres，未匹配条目使用 MovieLens genre 标记兜底。</p>
-        <p>后续可以继续补充导演、评分、简介、国家地区与观影状态，界面会自动复用分类、搜索与卡片布局。</p>
       </section>
     </main>
 
