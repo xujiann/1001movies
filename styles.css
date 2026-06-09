@@ -276,7 +276,7 @@ h2 {
 .toolbar {
   display: grid;
   gap: 10px;
-  grid-template-columns: minmax(220px, 340px) repeat(4, minmax(130px, 170px)) repeat(2, auto);
+  grid-template-columns: minmax(220px, 340px) repeat(5, minmax(126px, 166px)) repeat(2, auto);
 }
 
 input,
@@ -310,6 +310,16 @@ select {
 .icon-button.active {
   background: var(--text);
   color: var(--bg);
+}
+
+.icon-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.42;
+}
+
+.icon-button:disabled:hover {
+  background: var(--panel);
+  color: var(--text);
 }
 
 .subnav {

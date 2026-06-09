@@ -204,6 +204,7 @@ const state = {
   genre: "全部",
   decade: "全部",
   status: "全部",
+  sort: "number",
   query: "",
 };
 
@@ -220,6 +221,7 @@ const categoryFilter = document.querySelector("#category-filter");
 const genreFilter = document.querySelector("#genre-filter");
 const decadeFilter = document.querySelector("#decade-filter");
 const statusFilter = document.querySelector("#status-filter");
+const sortFilter = document.querySelector("#sort-filter");
 const randomButton = document.querySelector("#random-button");
 const clearButton = document.querySelector("#clear-button");
 const emptyState = document.querySelector("#empty-state");
@@ -231,6 +233,8 @@ const dialogNumber = document.querySelector("#dialog-number");
 const dialogTitle = document.querySelector("#dialog-title");
 const dialogMeta = document.querySelector("#dialog-meta");
 const dialogNote = document.querySelector("#dialog-note");
+const dialogPrev = document.querySelector("#dialog-prev");
+const dialogNext = document.querySelector("#dialog-next");
 const dialogFavorite = document.querySelector("#dialog-favorite");
 const dialogWatched = document.querySelector("#dialog-watched");
 
@@ -335,7 +339,7 @@ function renderSubnav() {
 
 function getFilteredMovies() {
   const query = state.query.trim().toLowerCase();
-  return movies.filter((movie) => {
+  const filtered = movies.filter((movie) => {
     const inCategory = state.category === "全部" || movie.category === state.category;
     const inSubcategory = state.subcategory === "全部" || movie.subcategory === state.subcategory;
     const inGenre = state.genre === "全部" || (movie.genres || []).includes(state.genre);
@@ -348,6 +352,17 @@ function getFilteredMovies() {
     const text = `${movie.title} ${movie.subtitle} ${movie.category} ${movie.subcategory} ${movie.region} ${(movie.genres || []).join(" ")}`.toLowerCase();
     const inQuery = !query || text.includes(query);
     return inCategory && inSubcategory && inGenre && inDecade && inStatus && inQuery;
+  });
+
+  return sortMovies(filtered);
+}
+
+function sortMovies(list) {
+  return [...list].sort((a, b) => {
+    if (state.sort === "title") return a.title.localeCompare(b.title);
+    if (state.sort === "year-asc") return (a.year || 9999) - (b.year || 9999) || a.title.localeCompare(b.title);
+    if (state.sort === "year-desc") return (b.year || 0) - (a.year || 0) || a.title.localeCompare(b.title);
+    return Number(a.number) - Number(b.number);
   });
 }
 
@@ -392,6 +407,7 @@ function openMovieDialog(number) {
   const movie = movies.find((item) => item.number === number);
   if (!movie) return;
   activeDialogMovieNumber = movie.number;
+  if (location.hash !== `#movie-${movie.number}`) history.replaceState(null, "", `#movie-${movie.number}`);
 
   dialogPoster.style.setProperty("--poster-a", movie.posterA);
   dialogPoster.style.setProperty("--poster-b", movie.posterB);
@@ -409,6 +425,7 @@ function openMovieDialog(number) {
   `;
   dialogNote.innerHTML = `这部电影根据真实类型标记归入“${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}”。当前版本保留真实海报，后续可以继续补充导演、评分、简介和观影状态。${movie.imdbUrl ? ` <a href="${escapeHtml(movie.imdbUrl)}" target="_blank" rel="noreferrer">查看 IMDb 条目</a>` : ""}`;
   renderDialogActions(movie);
+  renderDialogNavigation(movie);
 
   if (typeof movieDialog.showModal === "function") {
     movieDialog.showModal();
@@ -424,7 +441,24 @@ function renderDialogActions(movie) {
   dialogWatched.classList.toggle("active", isWatched(movie));
 }
 
+function renderDialogNavigation(movie) {
+  const filtered = getFilteredMovies();
+  const index = filtered.findIndex((item) => item.number === movie.number);
+  dialogPrev.disabled = index <= 0;
+  dialogNext.disabled = index === -1 || index >= filtered.length - 1;
+}
+
+function openAdjacentMovie(direction) {
+  if (!activeDialogMovieNumber) return;
+  const filtered = getFilteredMovies();
+  const index = filtered.findIndex((movie) => movie.number === activeDialogMovieNumber);
+  const next = filtered[index + direction];
+  if (next) openMovieDialog(next.number);
+}
+
 function closeMovieDialog() {
+  if (location.hash.startsWith("#movie-")) history.replaceState(null, "", "#library");
+  activeDialogMovieNumber = null;
   if (typeof movieDialog.close === "function") {
     movieDialog.close();
   } else {
@@ -459,6 +493,11 @@ statusFilter.addEventListener("change", (event) => {
   renderMovies();
 });
 
+sortFilter.addEventListener("change", (event) => {
+  state.sort = event.target.value;
+  renderMovies();
+});
+
 randomButton.addEventListener("click", () => {
   const filtered = getFilteredMovies();
   if (!filtered.length) return;
@@ -472,15 +511,21 @@ clearButton.addEventListener("click", () => {
   state.genre = "全部";
   state.decade = "全部";
   state.status = "全部";
+  state.sort = "number";
   state.query = "";
   searchInput.value = "";
   categoryFilter.value = "全部";
   genreFilter.value = "全部";
   decadeFilter.value = "全部";
   statusFilter.value = "全部";
+  sortFilter.value = "number";
   renderSubnav();
   renderMovies();
 });
+
+dialogPrev.addEventListener("click", () => openAdjacentMovie(-1));
+
+dialogNext.addEventListener("click", () => openAdjacentMovie(1));
 
 dialogFavorite.addEventListener("click", () => {
   if (!activeDialogMovieNumber) return;
@@ -506,8 +551,17 @@ movieDialog.addEventListener("click", (event) => {
   if (event.target === movieDialog) closeMovieDialog();
 });
 
+window.addEventListener("keydown", (event) => {
+  if (!movieDialog.open) return;
+  if (event.key === "ArrowLeft") openAdjacentMovie(-1);
+  if (event.key === "ArrowRight") openAdjacentMovie(1);
+});
+
 renderStats();
 renderCategories();
 renderFilters();
 renderSubnav();
 renderMovies();
+
+const initialMovieMatch = location.hash.match(/^#movie-(\d{4})$/);
+if (initialMovieMatch) openMovieDialog(initialMovieMatch[1]);
