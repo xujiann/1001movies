@@ -22,6 +22,10 @@ The site is a self-contained HTML/CSS/JavaScript app. It displays 1001 movies wi
 - Category and subcategory filters
 - Genre, decade, and watch-status filters
 - Sorting by list order, title, and year
+- Daily recommendation card
+- Poster grid and compact list views
+- Shareable filter URLs for library states
+- Watch progress summaries
 - Random movie picker
 - Local favorites and watched markers using `localStorage`
 - Clickable movie detail dialog

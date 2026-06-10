@@ -205,6 +205,7 @@ const state = {
   decade: "全部",
   status: "全部",
   sort: "number",
+  view: localStorage.getItem("movieViewMode") || "grid",
   query: "",
 };
 
@@ -214,9 +215,15 @@ const userState = {
 };
 
 const categoryGrid = document.querySelector("#category-grid");
+const featuredCard = document.querySelector("#featured-card");
+const featuredRefresh = document.querySelector("#featured-refresh");
 const movieGrid = document.querySelector("#movie-grid");
 const subnav = document.querySelector("#subnav");
 const searchInput = document.querySelector("#search-input");
+const filterToggle = document.querySelector("#filter-toggle");
+const toolbar = document.querySelector("#library-toolbar");
+const gridViewButton = document.querySelector("#grid-view-button");
+const listViewButton = document.querySelector("#list-view-button");
 const categoryFilter = document.querySelector("#category-filter");
 const genreFilter = document.querySelector("#genre-filter");
 const decadeFilter = document.querySelector("#decade-filter");
@@ -240,10 +247,63 @@ const dialogFavorite = document.querySelector("#dialog-favorite");
 const dialogWatched = document.querySelector("#dialog-watched");
 
 let activeDialogMovieNumber = null;
+let featuredOffset = Number(localStorage.getItem("featuredOffset") || "0");
+let isApplyingUrlState = false;
+let hasInitialized = false;
 
 function saveUserState() {
   localStorage.setItem("movieFavorites", JSON.stringify([...userState.favorites]));
   localStorage.setItem("movieWatched", JSON.stringify([...userState.watched]));
+}
+
+function fromSlug(value) {
+  return value || "";
+}
+
+function getLibraryHash() {
+  const params = new URLSearchParams();
+  if (state.category !== "全部") params.set("category", state.category);
+  if (state.subcategory !== "全部") params.set("subcategory", state.subcategory);
+  if (state.genre !== "全部") params.set("genre", state.genre);
+  if (state.decade !== "全部") params.set("decade", state.decade);
+  if (state.status !== "全部") params.set("status", state.status);
+  if (state.sort !== "number") params.set("sort", state.sort);
+  if (state.view !== "grid") params.set("view", state.view);
+  if (state.query.trim()) params.set("q", state.query.trim());
+  const query = params.toString();
+  return query ? `#library?${query}` : "#library";
+}
+
+function updateLibraryHash() {
+  if (isApplyingUrlState || location.hash.startsWith("#movie-")) return;
+  if (!hasInitialized && !location.hash.startsWith("#library")) return;
+  const next = getLibraryHash();
+  if (location.hash !== next) history.replaceState(null, "", next);
+}
+
+function applyLibraryParams(hash = location.hash) {
+  if (!hash.startsWith("#library?")) return false;
+  const params = new URLSearchParams(hash.slice(hash.indexOf("?") + 1));
+  state.category = fromSlug(params.get("category")) || "全部";
+  state.subcategory = fromSlug(params.get("subcategory")) || "全部";
+  state.genre = fromSlug(params.get("genre")) || "全部";
+  state.decade = fromSlug(params.get("decade")) || "全部";
+  state.status = fromSlug(params.get("status")) || "全部";
+  state.sort = params.get("sort") || "number";
+  state.view = params.get("view") === "list" ? "list" : "grid";
+  state.query = fromSlug(params.get("q")) || "";
+  return true;
+}
+
+function syncControls() {
+  searchInput.value = state.query;
+  categoryFilter.value = state.category;
+  genreFilter.value = state.genre;
+  decadeFilter.value = state.decade;
+  statusFilter.value = state.status;
+  sortFilter.value = state.sort;
+  gridViewButton.classList.toggle("active", state.view === "grid");
+  listViewButton.classList.toggle("active", state.view === "list");
 }
 
 function getAllGenres() {
@@ -277,11 +337,42 @@ function renderStats() {
   document.querySelector("#movie-count").textContent = movies.length;
   document.querySelector("#category-count").textContent = categories.length;
   document.querySelector("#subcategory-count").textContent = categories.reduce((sum, item) => sum + item.subs.length, 0);
+  document.querySelector("#watched-count").textContent = `${userState.watched.size}/${movies.length}`;
+  document.querySelector("#progress-label").innerHTML = `已看 ${Math.round((userState.watched.size / movies.length) * 100)}%<progress value="${userState.watched.size}" max="${movies.length}"></progress>`;
+}
+
+function getDailyMovie() {
+  const start = new Date(new Date().getFullYear(), 0, 0);
+  const day = Math.floor((new Date() - start) / 86400000);
+  return movies[(day + featuredOffset) % movies.length];
+}
+
+function renderFeatured() {
+  const movie = getDailyMovie();
+  featuredCard.innerHTML = `
+    <div class="poster" style="--poster-a: ${movie.posterA}; --poster-b: ${movie.posterB}">
+      ${movie.posterUrl ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} 海报" loading="eager" onload="this.classList.add('is-loaded')" onerror="this.closest('.poster').classList.add('poster-fallback');this.remove()">` : ""}
+      <span>${escapeHtml(movie.number)}</span>
+    </div>
+    <div class="featured-body">
+      <h3>${escapeHtml(movie.title)}</h3>
+      <div class="featured-meta">
+        <span>${escapeHtml(movie.year)}</span>
+        <span>${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}</span>
+        <span>${escapeHtml((movie.genres || []).slice(0, 3).join(", ") || movie.region)}</span>
+      </div>
+      <button class="button primary" type="button" data-featured-open="${escapeHtml(movie.number)}">查看详情</button>
+    </div>
+  `;
+  featuredCard.querySelector("[data-featured-open]").addEventListener("click", () => openMovieDialog(movie.number));
 }
 
 function renderCategories() {
   categoryGrid.innerHTML = categories.map((category) => {
-    const count = movies.filter((movie) => movie.category === category.name).length;
+    const categoryMovies = movies.filter((movie) => movie.category === category.name);
+    const count = categoryMovies.length;
+    const watched = categoryMovies.filter(isWatched).length;
+    const percent = Math.round((watched / count) * 100);
     return `
       <article class="category-card" style="--accent: ${category.accent}" data-category="${category.name}" tabindex="0">
         <h3>${category.name}</h3>
@@ -289,6 +380,10 @@ function renderCategories() {
         <div class="category-meta">
           <span>${category.subs.length} 小类</span>
           <span>${count} 部</span>
+          <span>已看 ${percent}%</span>
+        </div>
+        <div class="category-progress" aria-label="${category.name} 已看 ${watched} / ${count}">
+          <span style="width: ${percent}%"></span>
         </div>
       </article>
     `;
@@ -301,6 +396,7 @@ function renderCategories() {
       categoryFilter.value = state.category;
       renderSubnav();
       renderMovies();
+      updateLibraryHash();
       document.querySelector("#library").scrollIntoView({ behavior: "smooth" });
     };
     card.addEventListener("click", selectCategory);
@@ -371,10 +467,11 @@ function renderMovies() {
   const filtered = getFilteredMovies();
   emptyState.hidden = filtered.length > 0;
   resultCount.textContent = `当前显示 ${filtered.length} / ${movies.length} 部电影 · 已看 ${userState.watched.size} · 收藏 ${userState.favorites.size}`;
+  movieGrid.classList.toggle("list-view", state.view === "list");
   movieGrid.innerHTML = filtered.map((movie) => `
     <article class="movie-card ${isWatched(movie) ? "is-watched" : ""} ${isFavorite(movie) ? "is-favorite" : ""}" data-movie-number="${escapeHtml(movie.number)}" tabindex="0" role="button" aria-label="查看 ${escapeHtml(movie.title)} 详情">
       <div class="poster" style="--poster-a: ${movie.posterA}; --poster-b: ${movie.posterB}">
-        ${movie.posterUrl ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} 海报" loading="lazy" onerror="this.closest('.poster').classList.add('poster-fallback');this.remove()">` : ""}
+        ${movie.posterUrl ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} 海报" loading="lazy" onload="this.classList.add('is-loaded')" onerror="this.closest('.poster').classList.add('poster-fallback');this.remove()">` : ""}
         <span>${escapeHtml(movie.number)}</span>
         <div class="card-badges" aria-label="观影状态">
           ${isFavorite(movie) ? `<b>收藏</b>` : ""}
@@ -387,10 +484,13 @@ function renderMovies() {
           <span>${escapeHtml(movie.year)} · ${escapeHtml((movie.genres || []).slice(0, 2).join(", ") || movie.region)}</span>
           <span>${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}</span>
           <span>${escapeHtml(movie.subtitle)}</span>
+          ${movie.imdbUrl ? `<span><a href="${escapeHtml(movie.imdbUrl)}" target="_blank" rel="noreferrer">IMDb</a></span>` : ""}
         </div>
       </div>
     </article>
   `).join("");
+  syncControls();
+  updateLibraryHash();
 
   movieGrid.querySelectorAll(".movie-card").forEach((card) => {
     const open = () => openMovieDialog(card.dataset.movieNumber);
@@ -401,6 +501,10 @@ function renderMovies() {
         open();
       }
     });
+  });
+
+  movieGrid.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", (event) => event.stopPropagation());
   });
 }
 
@@ -413,7 +517,7 @@ function openMovieDialog(number) {
   dialogPoster.style.setProperty("--poster-a", movie.posterA);
   dialogPoster.style.setProperty("--poster-b", movie.posterB);
   dialogPoster.innerHTML = movie.posterUrl
-    ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} 海报" onerror="this.remove()">`
+    ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} 海报" onload="this.classList.add('is-loaded')" onerror="this.remove()">`
     : `<span>${escapeHtml(movie.number)}</span>`;
   dialogNumber.textContent = `No. ${movie.number}`;
   dialogTitle.textContent = movie.title;
@@ -424,11 +528,14 @@ function openMovieDialog(number) {
     <span>${escapeHtml(movie.subcategory)}</span>
     ${(movie.genres || []).map((genre) => `<span>${escapeHtml(genre)}</span>`).join("")}
   `;
-  dialogNote.innerHTML = `这部电影根据真实类型标记归入“${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}”。当前版本保留真实海报，后续可以继续补充导演、评分、简介和观影状态。${movie.imdbUrl ? ` <a href="${escapeHtml(movie.imdbUrl)}" target="_blank" rel="noreferrer">查看 IMDb 条目</a>` : ""}`;
+  dialogNote.innerHTML = `归入“${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}”，类型标记：${escapeHtml((movie.genres || []).join(", ") || movie.subtitle)}。${movie.imdbUrl ? ` <a href="${escapeHtml(movie.imdbUrl)}" target="_blank" rel="noreferrer">查看 IMDb 条目</a>` : ""}`;
   renderDialogActions(movie);
   renderDialogNavigation(movie);
   dialogShare.textContent = "复制链接";
 
+  if (movieDialog.open) {
+    return;
+  }
   if (typeof movieDialog.showModal === "function") {
     movieDialog.showModal();
   } else {
@@ -499,6 +606,29 @@ searchInput.addEventListener("input", (event) => {
   renderMovies();
 });
 
+filterToggle.addEventListener("click", () => {
+  const collapsed = toolbar.classList.toggle("is-collapsed");
+  filterToggle.setAttribute("aria-expanded", String(!collapsed));
+});
+
+gridViewButton.addEventListener("click", () => {
+  state.view = "grid";
+  localStorage.setItem("movieViewMode", state.view);
+  renderMovies();
+});
+
+listViewButton.addEventListener("click", () => {
+  state.view = "list";
+  localStorage.setItem("movieViewMode", state.view);
+  renderMovies();
+});
+
+featuredRefresh.addEventListener("click", () => {
+  featuredOffset = (featuredOffset + 37) % movies.length;
+  localStorage.setItem("featuredOffset", String(featuredOffset));
+  renderFeatured();
+});
+
 categoryFilter.addEventListener("change", (event) => {
   state.category = event.target.value;
   state.subcategory = "全部";
@@ -563,6 +693,8 @@ dialogFavorite.addEventListener("click", () => {
   saveUserState();
   const movie = movies.find((item) => item.number === activeDialogMovieNumber);
   renderDialogActions(movie);
+  renderStats();
+  renderCategories();
   renderMovies();
 });
 
@@ -572,6 +704,8 @@ dialogWatched.addEventListener("click", () => {
   saveUserState();
   const movie = movies.find((item) => item.number === activeDialogMovieNumber);
   renderDialogActions(movie);
+  renderStats();
+  renderCategories();
   renderMovies();
 });
 
@@ -590,14 +724,29 @@ window.addEventListener("keydown", (event) => {
 window.addEventListener("hashchange", () => {
   const match = location.hash.match(/^#movie-(\d{4})$/);
   if (match) openMovieDialog(match[1]);
+  else if (applyLibraryParams()) {
+    isApplyingUrlState = true;
+    syncControls();
+    renderSubnav();
+    renderMovies();
+    isApplyingUrlState = false;
+  }
   else if (movieDialog.open) closeMovieDialog();
 });
 
+applyLibraryParams();
 renderStats();
+renderFeatured();
 renderCategories();
 renderFilters();
+syncControls();
+if (matchMedia("(max-width: 820px)").matches) {
+  toolbar.classList.add("is-collapsed");
+  filterToggle.setAttribute("aria-expanded", "false");
+}
 renderSubnav();
 renderMovies();
+hasInitialized = true;
 
 const initialMovieMatch = location.hash.match(/^#movie-(\d{4})$/);
 if (initialMovieMatch) openMovieDialog(initialMovieMatch[1]);

@@ -13,6 +13,7 @@
         <span>Movies</span>
       </a>
       <nav class="nav" aria-label="主导航">
+        <a href="#featured">推荐</a>
         <a href="#categories">分类</a>
         <a href="#library">片库</a>
       </nav>
@@ -53,9 +54,20 @@
           <span>小类（每大类 11 个）</span>
         </div>
         <div>
-          <strong>7</strong>
-          <span>每小类影片</span>
+          <strong id="watched-count">0</strong>
+          <span id="progress-label">已看进度</span>
         </div>
+      </section>
+
+      <section class="section featured-section" id="featured">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Today</p>
+            <h2>今日推荐</h2>
+          </div>
+          <button class="icon-button text-button" id="featured-refresh" type="button">换一部</button>
+        </div>
+        <article class="featured-card" id="featured-card"></article>
       </section>
 
       <section class="section" id="categories">
@@ -72,7 +84,12 @@
             <p class="kicker">Library</p>
             <h2>电影片库</h2>
           </div>
-          <div class="toolbar" role="search">
+          <button class="icon-button text-button filter-toggle" id="filter-toggle" type="button" aria-expanded="true" aria-controls="library-toolbar">筛选</button>
+          <div class="toolbar" id="library-toolbar" role="search">
+            <div class="view-toggle" aria-label="视图切换">
+              <button class="icon-button text-button active" id="grid-view-button" type="button">海报</button>
+              <button class="icon-button text-button" id="list-view-button" type="button">列表</button>
+            </div>
             <input id="search-input" type="search" placeholder="搜索片名、分类或标签" aria-label="搜索片库">
             <select id="category-filter" aria-label="按大类筛选"></select>
             <select id="genre-filter" aria-label="按类型筛选"></select>
