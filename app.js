@@ -135,13 +135,39 @@ function escapeHtml(value) {
   }[char]));
 }
 
+const videoPlatforms = [
+  { label: "腾讯视频", buildUrl: (query) => `https://v.qq.com/x/search/?q=${query}` },
+  { label: "爱奇艺", buildUrl: (query) => `https://so.iqiyi.com/so/q_${query}` },
+  { label: "优酷", buildUrl: (query) => `https://search.youku.com/search_video?keyword=${query}` },
+  { label: "哔哩哔哩", buildUrl: (query) => `https://search.bilibili.com/all?keyword=${query}` },
+  { label: "豆瓣", buildUrl: (query) => `https://search.douban.com/movie/subject_search?search_text=${query}` },
+];
+
+function buildVideoLinks(movie) {
+  const queryText = [movie.title, movie.year].filter(Boolean).join(" ");
+  const query = encodeURIComponent(queryText);
+  return videoPlatforms.map((platform) => ({
+    label: platform.label,
+    url: platform.buildUrl(query),
+  }));
+}
+
+function renderVideoLinks(movie, className = "video-links") {
+  const links = movie.videoLinks || buildVideoLinks(movie);
+  return `
+    <div class="${className}" aria-label="视频平台链接">
+      ${links.map((link) => `<a href="${escapeHtml(link.url)}" target="_blank" rel="noreferrer">${escapeHtml(link.label)}</a>`).join("")}
+    </div>
+  `;
+}
+
 function buildMovies() {
   const posterData = Array.isArray(globalThis.moviePosterData) ? globalThis.moviePosterData : [];
   if (posterData.length >= 1001 && posterData[0].category) {
     return posterData.slice(0, 1001).map((movie, index) => {
       const category = categories.find((item) => item.name === movie.category) || categories[index % categories.length];
       const color = palette[index % palette.length];
-      return {
+      const output = {
         id: movie.id || index + 1,
         title: movie.title,
         subtitle: Array.isArray(movie.genres) && movie.genres.length ? movie.genres.join(", ") : "IMDb/MovieLens 类型数据",
@@ -157,6 +183,8 @@ function buildMovies() {
         posterUrl: movie.poster || movie.posterUrl || "",
         number: movie.number || String(index + 1).padStart(4, "0"),
       };
+      output.videoLinks = buildVideoLinks(output);
+      return output;
     });
   }
 
@@ -175,7 +203,7 @@ function buildMovies() {
         usedTitles.add(title);
         const year = sourceMovie?.year || 1920 + ((index * 37 + categoryIndex * 11 + slot * 3) % 105);
         const color = palette[(categoryIndex + slot) % palette.length];
-        movies.push({
+        const output = {
           id: sourceMovie?.id || index,
           title,
           subtitle: sourceMovie?.poster ? "MovieLens 海报数据" : descriptors[(index + slot) % descriptors.length],
@@ -188,7 +216,9 @@ function buildMovies() {
           posterB: color[1],
           posterUrl: sourceMovie?.poster || "",
           number: String(index).padStart(4, "0"),
-        });
+        };
+        output.videoLinks = buildVideoLinks(output);
+        movies.push(output);
         index += 1;
       }
     });
@@ -542,6 +572,7 @@ function renderMovies() {
           <span>${escapeHtml(movie.subtitle)}</span>
           ${movie.imdbUrl ? `<span><a href="${escapeHtml(movie.imdbUrl)}" target="_blank" rel="noreferrer">IMDb</a></span>` : ""}
         </div>
+        ${renderVideoLinks(movie, "video-links compact")}
       </div>
     </article>
   `).join("");
@@ -586,6 +617,7 @@ function openMovieDialog(number) {
     ${(movie.genres || []).map((genre) => `<span>${escapeHtml(genre)}</span>`).join("")}
   `;
   dialogNote.innerHTML = `归入“${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}”，类型标记：${escapeHtml((movie.genres || []).join(", ") || movie.subtitle)}。${movie.imdbUrl ? ` <a href="${escapeHtml(movie.imdbUrl)}" target="_blank" rel="noreferrer">查看 IMDb 条目</a>` : ""}`;
+  dialogNote.innerHTML += renderVideoLinks(movie, "video-links dialog-video-links");
   renderDialogActions(movie);
   renderDialogNavigation(movie);
   dialogShare.textContent = "复制链接";
