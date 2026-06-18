@@ -111,11 +111,17 @@
           </div>
         </div>
         <div class="subnav" id="subnav" aria-label="小类筛选"></div>
+        <div class="active-filters" id="active-filters" aria-label="当前筛选"></div>
         <p class="result-count" id="result-count" aria-live="polite"></p>
         <div class="movie-grid" id="movie-grid"></div>
-        <div class="empty-state" id="empty-state" hidden>没有找到匹配的电影。</div>
+        <div class="empty-state" id="empty-state" hidden>
+          <p>没有找到匹配的电影。</p>
+          <button class="icon-button text-button" id="empty-clear-button" type="button">清空筛选</button>
+        </div>
       </section>
     </main>
+
+    <button class="to-top" id="to-top" type="button" aria-label="回到顶部">↑</button>
 
     <dialog class="movie-dialog" id="movie-dialog" aria-labelledby="dialog-title">
       <button class="dialog-close" id="dialog-close" type="button" aria-label="关闭详情">×</button>

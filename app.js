@@ -219,6 +219,7 @@ const featuredCard = document.querySelector("#featured-card");
 const featuredRefresh = document.querySelector("#featured-refresh");
 const movieGrid = document.querySelector("#movie-grid");
 const subnav = document.querySelector("#subnav");
+const activeFilters = document.querySelector("#active-filters");
 const searchInput = document.querySelector("#search-input");
 const filterToggle = document.querySelector("#filter-toggle");
 const toolbar = document.querySelector("#library-toolbar");
@@ -231,8 +232,10 @@ const statusFilter = document.querySelector("#status-filter");
 const sortFilter = document.querySelector("#sort-filter");
 const randomButton = document.querySelector("#random-button");
 const clearButton = document.querySelector("#clear-button");
+const emptyClearButton = document.querySelector("#empty-clear-button");
 const emptyState = document.querySelector("#empty-state");
 const resultCount = document.querySelector("#result-count");
+const toTopButton = document.querySelector("#to-top");
 const movieDialog = document.querySelector("#movie-dialog");
 const dialogClose = document.querySelector("#dialog-close");
 const dialogPoster = document.querySelector("#dialog-poster");
@@ -304,6 +307,18 @@ function syncControls() {
   sortFilter.value = state.sort;
   gridViewButton.classList.toggle("active", state.view === "grid");
   listViewButton.classList.toggle("active", state.view === "list");
+}
+
+function resetFilters() {
+  state.category = "全部";
+  state.subcategory = "全部";
+  state.genre = "全部";
+  state.decade = "全部";
+  state.status = "全部";
+  state.sort = "number";
+  state.query = "";
+  renderSubnav();
+  renderMovies();
 }
 
 function getAllGenres() {
@@ -434,6 +449,47 @@ function renderSubnav() {
   });
 }
 
+function renderActiveFilters() {
+  const filters = [];
+  if (state.query.trim()) filters.push(["query", "搜索", state.query.trim()]);
+  if (state.category !== "全部") filters.push(["category", "大类", state.category]);
+  if (state.subcategory !== "全部") filters.push(["subcategory", "小类", state.subcategory]);
+  if (state.genre !== "全部") filters.push(["genre", "类型", state.genre]);
+  if (state.decade !== "全部") filters.push(["decade", "年代", state.decade]);
+  if (state.status !== "全部") filters.push(["status", "状态", state.status]);
+  if (state.sort !== "number") filters.push(["sort", "排序", sortFilter.selectedOptions[0]?.textContent || state.sort]);
+  if (state.view !== "grid") filters.push(["view", "视图", "列表"]);
+
+  activeFilters.innerHTML = filters.map(([key, label, value]) => (
+    `<button class="filter-pill" type="button" data-filter-key="${key}"><span>${escapeHtml(label)}</span>${escapeHtml(value)} ×</button>`
+  )).join("");
+
+  activeFilters.querySelectorAll(".filter-pill").forEach((pill) => {
+    pill.addEventListener("click", () => {
+      const key = pill.dataset.filterKey;
+      if (key === "query") state.query = "";
+      if (key === "category") {
+        state.category = "全部";
+        state.subcategory = "全部";
+        renderSubnav();
+      }
+      if (key === "subcategory") {
+        state.subcategory = "全部";
+        renderSubnav();
+      }
+      if (key === "genre") state.genre = "全部";
+      if (key === "decade") state.decade = "全部";
+      if (key === "status") state.status = "全部";
+      if (key === "sort") state.sort = "number";
+      if (key === "view") {
+        state.view = "grid";
+        localStorage.setItem("movieViewMode", state.view);
+      }
+      renderMovies();
+    });
+  });
+}
+
 function getFilteredMovies() {
   const query = state.query.trim().toLowerCase();
   const filtered = movies.filter((movie) => {
@@ -490,6 +546,7 @@ function renderMovies() {
     </article>
   `).join("");
   syncControls();
+  renderActiveFilters();
   updateLibraryHash();
 
   movieGrid.querySelectorAll(".movie-card").forEach((card) => {
@@ -664,21 +721,13 @@ randomButton.addEventListener("click", () => {
 });
 
 clearButton.addEventListener("click", () => {
-  state.category = "全部";
-  state.subcategory = "全部";
-  state.genre = "全部";
-  state.decade = "全部";
-  state.status = "全部";
-  state.sort = "number";
-  state.query = "";
-  searchInput.value = "";
-  categoryFilter.value = "全部";
-  genreFilter.value = "全部";
-  decadeFilter.value = "全部";
-  statusFilter.value = "全部";
-  sortFilter.value = "number";
-  renderSubnav();
-  renderMovies();
+  resetFilters();
+});
+
+emptyClearButton.addEventListener("click", resetFilters);
+
+toTopButton.addEventListener("click", () => {
+  document.querySelector("#top").scrollIntoView({ behavior: "smooth" });
 });
 
 dialogPrev.addEventListener("click", () => openAdjacentMovie(-1));
@@ -720,6 +769,10 @@ window.addEventListener("keydown", (event) => {
   if (event.key === "ArrowLeft") openAdjacentMovie(-1);
   if (event.key === "ArrowRight") openAdjacentMovie(1);
 });
+
+window.addEventListener("scroll", () => {
+  toTopButton.classList.toggle("is-visible", scrollY > 640);
+}, { passive: true });
 
 window.addEventListener("hashchange", () => {
   const match = location.hash.match(/^#movie-(\d{4})$/);
