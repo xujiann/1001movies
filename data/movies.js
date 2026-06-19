@@ -248,6 +248,23 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMzE2Mzc4M15BMl5BanBnXkFtZTcwMTE4NTc1Nw@@..jpg",
     "imdbId": "tt0029583",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 238254,
+      "douban": null
+    },
+    "director": [
+      "William Cottrell",
+      "David Hand",
+      "Wilfred Jackson"
+    ],
+    "cast": [
+      "Adriana Caselotti",
+      "Harry Stockwell",
+      "Lucille La Verne",
+      "Roy Atwell",
+      "Stuart Buchanan"
+    ],
     "category": "动画与家庭",
     "subcategory": "动画长片",
     "accent": "#d94f45",
@@ -266,6 +283,23 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4ZDQ2YWUtYTIzNi00NTI0LTkxMjQtODBjZjE4NjkxNGI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0032455",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 111495,
+      "douban": null
+    },
+    "director": [
+      "James Algar",
+      "Samuel Armstrong",
+      "Ford Beebe Jr."
+    ],
+    "cast": [
+      "Corey Burton",
+      "Walt Disney",
+      "Hugh Douglas",
+      "James MacDonald",
+      "Tim Matheson"
+    ],
     "category": "动画与家庭",
     "subcategory": "动画长片",
     "accent": "#d94f45",
@@ -284,6 +318,23 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGU0NGQ1MzEtODIwZS00YTdiLWJhMzQtN2RkN2YzNGVjNDZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0042332",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 187666,
+      "douban": null
+    },
+    "director": [
+      "Clyde Geronimi",
+      "Wilfred Jackson",
+      "Hamilton Luske"
+    ],
+    "cast": [
+      "Ilene Woods",
+      "James MacDonald",
+      "Eleanor Audley",
+      "Verna Felton",
+      "Claire Du Brey"
+    ],
     "category": "动画与家庭",
     "subcategory": "动画长片",
     "accent": "#d94f45",
@@ -386,6 +437,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0101414",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 506342,
+      "douban": null
+    },
+    "director": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "cast": [
+      "Paige O'Hara",
+      "Robby Benson",
+      "Jesse Corti",
+      "Rex Everhart",
+      "Angela Lansbury"
+    ],
     "category": "动画与家庭",
     "subcategory": "家庭冒险",
     "accent": "#d94f45",
@@ -474,6 +541,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzQ5NzdkOWEtNjg3Yi00NzY1LWE1NzItOWFiOGFiYzRiYmJjXkEyXkFqcGdeQXVyNzc5MjA3OA@@..jpg",
     "imdbId": "tt0115509",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 7275,
+      "douban": null
+    },
+    "director": [
+      "Larry Leker",
+      "Paul Sabella"
+    ],
+    "cast": [
+      "Charlie Sheen",
+      "Sheena Easton",
+      "Dom DeLuise",
+      "Ernest Borgnine",
+      "Bebe Neuwirth"
+    ],
     "category": "动画与家庭",
     "subcategory": "家庭冒险",
     "accent": "#d94f45",
@@ -492,6 +575,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTNkNWIwNGUtNTJlOC00NDU3LTk0NWEtNjNjNDM4NzRiNThkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0116683",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 78788,
+      "douban": null
+    },
+    "director": [
+      "Henry Selick"
+    ],
+    "cast": [
+      "Paul Terry",
+      "Joanna Lumley",
+      "Pete Postlethwaite",
+      "Simon Callow",
+      "Richard Dreyfuss"
+    ],
     "category": "动画与家庭",
     "subcategory": "童年幻想",
     "accent": "#d94f45",
@@ -527,6 +625,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzNjc5ODEzNl5BMl5BanBnXkFtZTcwOTc1MzEyMQ@@..jpg",
     "imdbId": "tt0118829",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 9294,
+      "douban": null
+    },
+    "director": [
+      "Mark Dindal"
+    ],
+    "cast": [
+      "Scott Bakula",
+      "Jasmine Guy",
+      "Natalie Cole",
+      "Ashley Peldon",
+      "Lindsay Ridgeway"
+    ],
     "category": "动画与家庭",
     "subcategory": "童年幻想",
     "accent": "#d94f45",
@@ -560,6 +673,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTQ5ODg0MTM1Ml5BMl5BanBnXkFtZTcwMjMxMDAyMQ@@..jpg",
     "imdbId": "tt0027893",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 2841,
+      "douban": null
+    },
+    "director": [
+      "John Cromwell"
+    ],
+    "cast": [
+      "Freddie Bartholomew",
+      "Dolores Costello",
+      "C. Aubrey Smith",
+      "Guy Kibbee",
+      "Henry Stephenson"
+    ],
     "category": "动画与家庭",
     "subcategory": "童年幻想",
     "accent": "#d94f45",
@@ -596,6 +724,23 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4Mzk3ODIyOF5BMl5BanBnXkFtZTgwODgyNzk2NjE@..jpg",
     "imdbId": "tt0032910",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 172962,
+      "douban": null
+    },
+    "director": [
+      "Norman Ferguson",
+      "T. Hee",
+      "Wilfred Jackson"
+    ],
+    "cast": [
+      "Dickie Jones",
+      "Christian Rub",
+      "Mel Blanc",
+      "Don Brodie",
+      "Stuart Buchanan"
+    ],
     "category": "动画与家庭",
     "subcategory": "童年幻想",
     "accent": "#d94f45",
@@ -614,6 +759,23 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NDcxMDA1MV5BMl5BanBnXkFtZTgwNzI0Njg0MTE@..jpg",
     "imdbId": "tt0033563",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 150616,
+      "douban": null
+    },
+    "director": [
+      "Samuel Armstrong",
+      "Norman Ferguson",
+      "Wilfred Jackson"
+    ],
+    "cast": [
+      "Sterling Holloway",
+      "Edward Brophy",
+      "James Baskett",
+      "Herman Bing",
+      "Billy Bletcher"
+    ],
     "category": "动画与家庭",
     "subcategory": "温情喜剧",
     "accent": "#d94f45",
@@ -632,6 +794,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWVmZmRlNWQtYzYyMy00ZDljLWE5MjgtNDE5MGVmYTQ5NDk0XkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0037059",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 31163,
+      "douban": null
+    },
+    "director": [
+      "Vincente Minnelli"
+    ],
+    "cast": [
+      "Judy Garland",
+      "Margaret O'Brien",
+      "Mary Astor",
+      "Lucille Bremer",
+      "Leon Ames"
+    ],
     "category": "动画与家庭",
     "subcategory": "温情喜剧",
     "accent": "#d94f45",
@@ -650,6 +827,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@..jpg",
     "imdbId": "tt0038650",
+    "ratings": {
+      "imdb": 8.6,
+      "imdbVotes": 554746,
+      "douban": null
+    },
+    "director": [
+      "Frank Capra"
+    ],
+    "cast": [
+      "James Stewart",
+      "Donna Reed",
+      "Lionel Barrymore",
+      "Thomas Mitchell",
+      "Henry Travers"
+    ],
     "category": "动画与家庭",
     "subcategory": "温情喜剧",
     "accent": "#d94f45",
@@ -684,6 +876,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWZhYTViYzQtNDM5ZS00MDI1LWE5YmEtMjA0MWM5MmUwOGEzXkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0042644",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 2385,
+      "douban": null
+    },
+    "director": [
+      "Victor Saville"
+    ],
+    "cast": [
+      "Errol Flynn",
+      "Dean Stockwell",
+      "Paul Lukas",
+      "Robert Douglas",
+      "Thomas Gomez"
+    ],
     "category": "动画与家庭",
     "subcategory": "温情喜剧",
     "accent": "#d94f45",
@@ -702,6 +909,23 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMjM2NTAxMF5BMl5BanBnXkFtZTgwNjU1NDc2MTE@..jpg",
     "imdbId": "tt0043274",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 167134,
+      "douban": null
+    },
+    "director": [
+      "Clyde Geronimi",
+      "Wilfred Jackson",
+      "Hamilton Luske"
+    ],
+    "cast": [
+      "Kathryn Beaumont",
+      "Ed Wynn",
+      "Richard Haydn",
+      "Sterling Holloway",
+      "Jerry Colonna"
+    ],
     "category": "动画与家庭",
     "subcategory": "温情喜剧",
     "accent": "#d94f45",
@@ -720,6 +944,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODViYWZhNGUtOTU4My00YWM1LTg2MWUtOTVlNjRhZGJkNGViL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0046672",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 39358,
+      "douban": null
+    },
+    "director": [
+      "Richard Fleischer"
+    ],
+    "cast": [
+      "Kirk Douglas",
+      "James Mason",
+      "Paul Lukas",
+      "Peter Lorre",
+      "Robert J. Wilke"
+    ],
     "category": "动画与家庭",
     "subcategory": "温情喜剧",
     "accent": "#d94f45",
@@ -738,6 +977,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjRhNjVlYTgtODZiOS00OTVhLWE4ZTItZjc3MTFiYWY1YjI5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0048960",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 32076,
+      "douban": null
+    },
+    "director": [
+      "Michael Anderson",
+      "John Farrow"
+    ],
+    "cast": [
+      "David Niven",
+      "Cantinflas",
+      "Finlay Currie",
+      "Robert Morley",
+      "Ronald Squire"
+    ],
     "category": "动画与家庭",
     "subcategory": "动物伙伴",
     "accent": "#d94f45",
@@ -756,6 +1011,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTkzNzBkMWEtZjE3Yy00NDMxLWFhM2ItYWRiYThjNDhkOGY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTYzMTY1MjQ@..jpg",
     "imdbId": "tt0050798",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 16738,
+      "douban": null
+    },
+    "director": [
+      "Robert Stevenson"
+    ],
+    "cast": [
+      "Dorothy McGuire",
+      "Fess Parker",
+      "Tommy Kirk",
+      "Jeff York",
+      "Chuck Connors"
+    ],
     "category": "动画与家庭",
     "subcategory": "动物伙伴",
     "accent": "#d94f45",
@@ -789,6 +1059,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWUzZjgyMDUtZDMwZS00YjhkLWJkYTUtYmUyNDRkZjcxNGQzXkEyXkFqcGdeQXVyMjI4MjA5MzA@..jpg",
     "imdbId": "tt0054357",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 20027,
+      "douban": null
+    },
+    "director": [
+      "Ken Annakin"
+    ],
+    "cast": [
+      "John Mills",
+      "Dorothy McGuire",
+      "James MacArthur",
+      "Janet Munro",
+      "Sessue Hayakawa"
+    ],
     "category": "动画与家庭",
     "subcategory": "动物伙伴",
     "accent": "#d94f45",
@@ -807,6 +1092,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTdiMDQ5NTEtM2FjNS00YTFkLWExZTAtYjk5Mjc0YTMzYWM1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0054195",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 12585,
+      "douban": null
+    },
+    "director": [
+      "David Swift"
+    ],
+    "cast": [
+      "Jane Wyman",
+      "Hayley Mills",
+      "Richard Egan",
+      "Karl Malden",
+      "Nancy Olson"
+    ],
     "category": "动画与家庭",
     "subcategory": "动物伙伴",
     "accent": "#d94f45",
@@ -841,6 +1141,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmJkODczNjItNDI5Yy00MGI1LTkyOWItZDNmNjM4ZGI1ZDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0058331",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 199102,
+      "douban": null
+    },
+    "director": [
+      "Robert Stevenson"
+    ],
+    "cast": [
+      "Julie Andrews",
+      "Dick Van Dyke",
+      "David Tomlinson",
+      "Glynis Johns",
+      "Hermione Baddeley"
+    ],
     "category": "动画与家庭",
     "subcategory": "动物伙伴",
     "accent": "#d94f45",
@@ -859,6 +1174,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzVlMGQ0MzgtNWM0NC00MWI1LThlYzUtNTkwZDVhOGVmZjI3XkEyXkFqcGdeQXVyMDUyOTUyNQ@@..jpg",
     "imdbId": "tt0059793",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 8794,
+      "douban": null
+    },
+    "director": [
+      "Robert Stevenson"
+    ],
+    "cast": [
+      "Hayley Mills",
+      "Dean Jones",
+      "Dorothy Provine",
+      "Roddy McDowall",
+      "Neville Brand"
+    ],
     "category": "动画与家庭",
     "subcategory": "玩具世界",
     "accent": "#d94f45",
@@ -877,6 +1207,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMTY3MTE5OF5BMl5BanBnXkFtZTgwNTQ0ODgxMzE@..jpg",
     "imdbId": "tt0066817",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 43447,
+      "douban": null
+    },
+    "director": [
+      "Ward Kimball",
+      "Robert Stevenson"
+    ],
+    "cast": [
+      "Angela Lansbury",
+      "David Tomlinson",
+      "Roddy McDowall",
+      "Sam Jaffe",
+      "John Ericson"
+    ],
     "category": "动画与家庭",
     "subcategory": "玩具世界",
     "accent": "#d94f45",
@@ -912,6 +1258,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjU1Mjc4YjUtZjVjOC00NTdjLTg2NWItMTQ1NTExODdhNTk1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@..jpg",
     "imdbId": "tt0071607",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 9639,
+      "douban": null
+    },
+    "director": [
+      "Robert Stevenson"
+    ],
+    "cast": [
+      "Helen Hayes",
+      "Ken Berry",
+      "Stefanie Powers",
+      "John McIntire",
+      "Keenan Wynn"
+    ],
     "category": "动画与家庭",
     "subcategory": "玩具世界",
     "accent": "#d94f45",
@@ -947,6 +1308,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGRjOGNmYjEtNDk1Ny00ODFiLTg3OTAtNzIzMmVmY2RmYjkyXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0072951",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 12411,
+      "douban": null
+    },
+    "director": [
+      "John Hough"
+    ],
+    "cast": [
+      "Eddie Albert",
+      "Ray Milland",
+      "Donald Pleasence",
+      "Kim Richards",
+      "Ike Eisenmann"
+    ],
     "category": "动画与家庭",
     "subcategory": "玩具世界",
     "accent": "#d94f45",
@@ -965,6 +1341,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjJkMjcyOTktYTIwNC00MTY3LWE4ZTAtMTdlODg0NDE3YTQ1XkEyXkFqcGdeQXVyNjM1MTQ0NTQ@..jpg",
     "imdbId": "tt0076538",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 28201,
+      "douban": null
+    },
+    "director": [
+      "Don Chaffey"
+    ],
+    "cast": [
+      "Sean Marshall",
+      "Helen Reddy",
+      "Jim Dale",
+      "Mickey Rooney",
+      "Red Buttons"
+    ],
     "category": "动画与家庭",
     "subcategory": "玩具世界",
     "accent": "#d94f45",
@@ -983,6 +1374,23 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTc2NzM1ODgtM2RkYi00M2U4LWE4NzEtMDMzZGUzYmI1ZDUzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0082509",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 41766,
+      "douban": null
+    },
+    "director": [
+      "Gerald Potterton",
+      "John Bruno",
+      "John Halas"
+    ],
+    "cast": [
+      "Richard Romanus",
+      "John Candy",
+      "Joe Flaherty",
+      "Don Francks",
+      "Caroline Semple"
+    ],
     "category": "动画与家庭",
     "subcategory": "校园成长",
     "accent": "#d94f45",
@@ -1001,6 +1409,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0083866",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 472378,
+      "douban": null
+    },
+    "director": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      "Henry Thomas",
+      "Drew Barrymore",
+      "Peter Coyote",
+      "Dee Wallace",
+      "Robert MacNaughton"
+    ],
     "category": "动画与家庭",
     "subcategory": "校园成长",
     "accent": "#d94f45",
@@ -1019,6 +1442,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@..jpg",
     "imdbId": "tt0094625",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 227891,
+      "douban": null
+    },
+    "director": [
+      "Katsuhiro Ōtomo"
+    ],
+    "cast": [
+      "Mitsuo Iwata",
+      "Nozomu Sasaki",
+      "Mami Koyama",
+      "Tesshô Genda",
+      "Hiroshi Ôtake"
+    ],
     "category": "动画与家庭",
     "subcategory": "校园成长",
     "accent": "#d94f45",
@@ -1037,6 +1475,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI5NTE2OTQtN2YyZi00OTI5LTljMmEtMDZlMTk0MzNmZmY5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0095776",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 57230,
+      "douban": null
+    },
+    "director": [
+      "George Scribner"
+    ],
+    "cast": [
+      "Joey Lawrence",
+      "Billy Joel",
+      "Cheech Marin",
+      "Richard Mulligan",
+      "Roscoe Lee Browne"
+    ],
     "category": "动画与家庭",
     "subcategory": "校园成长",
     "accent": "#d94f45",
@@ -1055,6 +1508,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzk5OWY0YjAtYWU3ZS00Y2Q4LWFlNjItMzgwMTQ2MjIyMDFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0097351",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 139737,
+      "douban": null
+    },
+    "director": [
+      "Phil Alden Robinson"
+    ],
+    "cast": [
+      "Kevin Costner",
+      "James Earl Jones",
+      "Ray Liotta",
+      "Amy Madigan",
+      "Gaby Hoffmann"
+    ],
     "category": "动画与家庭",
     "subcategory": "校园成长",
     "accent": "#d94f45",
@@ -1072,6 +1540,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@..jpg",
     "imdbId": "tt0099785",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 746812,
+      "douban": null
+    },
+    "director": [
+      "Chris Columbus"
+    ],
+    "cast": [
+      "Macaulay Culkin",
+      "Joe Pesci",
+      "Daniel Stern",
+      "John Heard",
+      "Roberts Blossom"
+    ],
     "category": "动画与家庭",
     "subcategory": "校园成长",
     "accent": "#d94f45",
@@ -1090,6 +1573,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@..jpg",
     "imdbId": "tt0103639",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 501699,
+      "douban": null
+    },
+    "director": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman",
+      "Frank Welker"
+    ],
     "category": "动画与家庭",
     "subcategory": "校园成长",
     "accent": "#d94f45",
@@ -1108,6 +1607,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjZmZjM1NWEtYTllYy00NmIyLWEzN2EtZmQ5Yjk1ODAyZmE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0106965",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 89504,
+      "douban": null
+    },
+    "director": [
+      "Simon Wincer"
+    ],
+    "cast": [
+      "Jason James Richter",
+      "Lori Petty",
+      "Michael Madsen",
+      "Jayne Atkinson",
+      "August Schellenberg"
+    ],
     "category": "动画与家庭",
     "subcategory": "亲子共赏",
     "accent": "#d94f45",
@@ -1159,6 +1673,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMDUzODE1N15BMl5BanBnXkFtZTgwNTU5NTYxMTE@..jpg",
     "imdbId": "tt0107614",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 317179,
+      "douban": null
+    },
+    "director": [
+      "Chris Columbus"
+    ],
+    "cast": [
+      "Robin Williams",
+      "Sally Field",
+      "Pierce Brosnan",
+      "Harvey Fierstein",
+      "Polly Holliday"
+    ],
     "category": "动画与家庭",
     "subcategory": "亲子共赏",
     "accent": "#d94f45",
@@ -1177,6 +1706,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzRmNGY0NTctYTNkNC00M2FkLWI0ZTgtYTE5ODhiZjYxMDkxXkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0108255",
+    "ratings": {
+      "imdb": 4.2,
+      "imdbVotes": 67796,
+      "douban": null
+    },
+    "director": [
+      "Annabel Jankel",
+      "Rocky Morton"
+    ],
+    "cast": [
+      "Bob Hoskins",
+      "John Leguizamo",
+      "Dennis Hopper",
+      "Samantha Mathis",
+      "Fisher Stevens"
+    ],
     "category": "动画与家庭",
     "subcategory": "亲子共赏",
     "accent": "#d94f45",
@@ -1195,6 +1740,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxMTQ3MzMwMV5BMl5BanBnXkFtZTgwNTYxNzYxMTE@..jpg",
     "imdbId": "tt0106611",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 123892,
+      "douban": null
+    },
+    "director": [
+      "Jon Turteltaub"
+    ],
+    "cast": [
+      "John Candy",
+      "Leon",
+      "Doug E. Doug",
+      "Rawle D. Lewis",
+      "Malik Yoba"
+    ],
     "category": "动画与家庭",
     "subcategory": "亲子共赏",
     "accent": "#d94f45",
@@ -1212,6 +1772,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTgwMzQwZjMtNzA2MC00YTM5LWIyNDgtNWM4NjVkYWU2NzkxXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0107413",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 7041,
+      "douban": null
+    },
+    "director": [
+      "James Lapine"
+    ],
+    "cast": [
+      "Michael J. Fox",
+      "Christina Vidal",
+      "Nathan Lane",
+      "Cyndi Lauper",
+      "David Krumholtz"
+    ],
     "category": "动画与家庭",
     "subcategory": "亲子共赏",
     "accent": "#d94f45",
@@ -1278,6 +1853,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjk3M2UyN2YtNmQ1MS00MWI3LWEzNGMtYTRkM2E5MWNjOWJjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0110527",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 51040,
+      "douban": null
+    },
+    "director": [
+      "Les Mayfield"
+    ],
+    "cast": [
+      "Richard Attenborough",
+      "Elizabeth Perkins",
+      "Dylan McDermott",
+      "J.T. Walsh",
+      "James Remar"
+    ],
     "category": "动画与家庭",
     "subcategory": "节日电影",
     "accent": "#d94f45",
@@ -1296,6 +1886,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwNTc3NzI4NF5BMl5BanBnXkFtZTcwOTk3MDcyMQ@@..jpg",
     "imdbId": "tt0109279",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 11376,
+      "douban": null
+    },
+    "director": [
+      "Caroline Thompson"
+    ],
+    "cast": [
+      "Sean Bean",
+      "David Thewlis",
+      "Docs Keepin Time",
+      "Alan Cumming",
+      "Jim Carter"
+    ],
     "category": "动画与家庭",
     "subcategory": "节日电影",
     "accent": "#d94f45",
@@ -1347,6 +1952,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDE1MWU1ZDQtOTg3YS00MTEwLTkxNjItMDQzY2UxMThjYmZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0109127",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 37829,
+      "douban": null
+    },
+    "director": [
+      "William Dear"
+    ],
+    "cast": [
+      "Danny Glover",
+      "Brenda Fricker",
+      "Tony Danza",
+      "Christopher Lloyd",
+      "Ben Johnson"
+    ],
     "category": "动画与家庭",
     "subcategory": "奇幻家庭",
     "accent": "#d94f45",
@@ -1365,6 +1985,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDZjNWU0NmUtMGI1NS00YmI0LWIxNDctNWMwYTRlNWQxYTNiXkEyXkFqcGdeQXVyMjA5MTIzMjQ@..jpg",
     "imdbId": "tt0110367",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 69324,
+      "douban": null
+    },
+    "director": [
+      "Gillian Armstrong"
+    ],
+    "cast": [
+      "Susan Sarandon",
+      "Winona Ryder",
+      "Kirsten Dunst",
+      "Claire Danes",
+      "Gabriel Byrne"
+    ],
     "category": "动画与家庭",
     "subcategory": "奇幻家庭",
     "accent": "#d94f45",
@@ -1382,6 +2017,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTY4NDc2ODctMzA1ZC00MDc4LWE2ZjItYjIzODVkYTdmNzg0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0110989",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 79416,
+      "douban": null
+    },
+    "director": [
+      "Donald Petrie"
+    ],
+    "cast": [
+      "Macaulay Culkin",
+      "Edward Herrmann",
+      "John Larroquette",
+      "Christine Ebersole",
+      "Jonathan Hyde"
+    ],
     "category": "动画与家庭",
     "subcategory": "奇幻家庭",
     "accent": "#d94f45",
@@ -1400,6 +2050,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAxYTA3NzktYjlhYy00N2NlLTg0YjQtNzA1MTFkODhlODEyXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0109120",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 7724,
+      "douban": null
+    },
+    "director": [
+      "George Miller"
+    ],
+    "cast": [
+      "Tina Majorino",
+      "Keith Carradine",
+      "Chelsea Field",
+      "Shane Thomas Meier",
+      "Aidan Pendleton"
+    ],
     "category": "动画与家庭",
     "subcategory": "奇幻家庭",
     "accent": "#d94f45",
@@ -1417,6 +2082,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGMyZjAzZGItY2ZkZi00Y2YwLTk4M2QtNTRmNWEzYjU1NDVlXkEyXkFqcGdeQXVyNjg4NzYzMzA@..jpg",
     "imdbId": "tt0110305",
+    "ratings": {
+      "imdb": 5.9,
+      "imdbVotes": 6645,
+      "douban": null
+    },
+    "director": [
+      "Daniel Petrie"
+    ],
+    "cast": [
+      "Helen Slater",
+      "Tom Guiry",
+      "Jon Tenney",
+      "Brittany Boyd",
+      "Frederic Forrest"
+    ],
     "category": "动画与家庭",
     "subcategory": "奇幻家庭",
     "accent": "#d94f45",
@@ -1435,6 +2115,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWQ3NmIxMmEtYjMzMi00YWM1LWIxMDQtZTU2NWZmODEzODI4XkEyXkFqcGdeQXVyNTM5NzI0NDY@..jpg",
     "imdbId": "tt0110363",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 12455,
+      "douban": null
+    },
+    "director": [
+      "Andrew Scheinman"
+    ],
+    "cast": [
+      "Luke Edwards",
+      "Timothy Busfield",
+      "John Ashton",
+      "Ashley Crow",
+      "Kevin Dunn"
+    ],
     "category": "动画与家庭",
     "subcategory": "奇幻家庭",
     "accent": "#d94f45",
@@ -1453,6 +2148,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmZkYTBhODktYThiNC00ZGUwLThmOWQtOGI2NzBjNDNjNDNkXkEyXkFqcGdeQXVyMzE2MzMyNDE@..jpg",
     "imdbId": "tt0109781",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 4762,
+      "douban": null
+    },
+    "director": [
+      "Jan Švankmajer"
+    ],
+    "cast": [
+      "Petr Čepek",
+      "Jan Kraus",
+      "Vladimír Kudla",
+      "Antonin Zacpal",
+      "Jiří Suchý"
+    ],
     "category": "动画与家庭",
     "subcategory": "奇幻家庭",
     "accent": "#d94f45",
@@ -1487,6 +2197,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmY3NGRhM2MtY2UwZi00ZTNkLTljNTYtYjc4ZWE1OTQ3YjBhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@..jpg",
     "imdbId": "tt0109891",
+    "ratings": {
+      "imdb": 4.9,
+      "imdbVotes": 9351,
+      "douban": null
+    },
+    "director": [
+      "Howard Deutch"
+    ],
+    "cast": [
+      "Macaulay Culkin",
+      "Ted Danson",
+      "Glenne Headly",
+      "Saul Rubinek",
+      "Gailard Sartain"
+    ],
     "category": "动画与家庭",
     "subcategory": "动画经典",
     "accent": "#d94f45",
@@ -1505,6 +2230,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@..jpg",
     "imdbId": "tt0114709",
+    "ratings": {
+      "imdb": 8.3,
+      "imdbVotes": 1177978,
+      "douban": null
+    },
+    "director": [
+      "John Lasseter"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney",
+      "Wallace Shawn"
+    ],
     "category": "动画与家庭",
     "subcategory": "动画经典",
     "accent": "#d94f45",
@@ -1523,6 +2263,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjg4ZjUzMzMtYzlmYi00YTcwLTlkOWUtYWFmY2RhNjliODQzXkEyXkFqcGdeQXVyNTUyMzE4Mzg@..jpg",
     "imdbId": "tt0112431",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 142574,
+      "douban": null
+    },
+    "director": [
+      "Chris Noonan"
+    ],
+    "cast": [
+      "James Cromwell",
+      "Magda Szubanski",
+      "Christine Cavanaugh",
+      "Miriam Margolyes",
+      "Danny Mann"
+    ],
     "category": "动画与家庭",
     "subcategory": "动画经典",
     "accent": "#d94f45",
@@ -1541,6 +2296,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWY3OWY3MjUtN2E3NS00M2RkLWI5MWUtMmI4MjQ0MjFmZjM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113114",
+    "ratings": {
+      "imdb": 5.1,
+      "imdbVotes": 20749,
+      "douban": null
+    },
+    "director": [
+      "Dwight H. Little"
+    ],
+    "cast": [
+      "Jason James Richter",
+      "Michael Madsen",
+      "Francis Capra",
+      "Mary Kate Schellhardt",
+      "August Schellenberg"
+    ],
     "category": "动画与家庭",
     "subcategory": "动画经典",
     "accent": "#d94f45",
@@ -1559,6 +2329,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGE2MDBhODctN2JhMy00NGRjLWFlZjAtNjk5MGUwNTBmMzJlXkEyXkFqcGdeQXVyMTQ2MjQyNDc@..jpg",
     "imdbId": "tt0114658",
+    "ratings": {
+      "imdb": 2.4,
+      "imdbVotes": 5110,
+      "douban": null
+    },
+    "director": [
+      "Jonathan R. Betuel"
+    ],
+    "cast": [
+      "Whoopi Goldberg",
+      "Armin Mueller-Stahl",
+      "Juliet Landau",
+      "Bud Cort",
+      "Stephen McHattie"
+    ],
     "category": "动画与家庭",
     "subcategory": "动画经典",
     "accent": "#d94f45",
@@ -1577,6 +2362,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTVkYWU5MzgtZDVjMS00YTJhLWFmMWQtZTU1NDYzZjgwYzhlXkEyXkFqcGdeQXVyNTI4MjkwNjA@..jpg",
     "imdbId": "tt0113820",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 32062,
+      "douban": null
+    },
+    "director": [
+      "Bryan Spicer"
+    ],
+    "cast": [
+      "Karan Ashley",
+      "Johnny Yong Bosch",
+      "Steve Cardenas",
+      "Jason David Frank",
+      "Amy Jo Johnson"
+    ],
     "category": "动画与家庭",
     "subcategory": "动画经典",
     "accent": "#d94f45",
@@ -1611,6 +2411,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMzcwMjU4OV5BMl5BanBnXkFtZTgwNzYzMjU2MTE@..jpg",
     "imdbId": "tt0062711",
+    "ratings": {
+      "imdb": 5.9,
+      "imdbVotes": 40857,
+      "douban": null
+    },
+    "director": [
+      "Roger Vadim"
+    ],
+    "cast": [
+      "Jane Fonda",
+      "John Phillip Law",
+      "Anita Pallenberg",
+      "Milo O'Shea",
+      "Marcel Marceau"
+    ],
     "category": "动作冒险",
     "subcategory": "间谍任务",
     "accent": "#d07d52",
@@ -1629,6 +2444,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzMTY0Nzg0MV5BMl5BanBnXkFtZTgwMDU3MzQxMDE@..jpg",
     "imdbId": "tt0082340",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 173425,
+      "douban": null
+    },
+    "director": [
+      "John Carpenter"
+    ],
+    "cast": [
+      "Kurt Russell",
+      "Lee Van Cleef",
+      "Ernest Borgnine",
+      "Donald Pleasence",
+      "Isaac Hayes"
+    ],
     "category": "动作冒险",
     "subcategory": "间谍任务",
     "accent": "#d07d52",
@@ -1699,6 +2529,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTliZGVjZmMtNzEzMy00MzVhLWFhYjYtNDhlYmViNGNiMGFlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0088170",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 90878,
+      "douban": null
+    },
+    "director": [
+      "Leonard Nimoy"
+    ],
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "DeForest Kelley",
+      "James Doohan",
+      "Walter Koenig"
+    ],
     "category": "动作冒险",
     "subcategory": "间谍任务",
     "accent": "#d07d52",
@@ -1717,6 +2562,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzVlMWViZGEtYjEyYy00YWZmLThmZGEtYmM4MDZlN2Q5MmRmXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0090605",
+    "ratings": {
+      "imdb": 8.4,
+      "imdbVotes": 841384,
+      "douban": null
+    },
+    "director": [
+      "James Cameron"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Carrie Henn",
+      "Paul Reiser",
+      "Lance Henriksen"
+    ],
     "category": "动作冒险",
     "subcategory": "硬汉动作",
     "accent": "#d07d52",
@@ -1735,6 +2595,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjc3YmU3MzQtNTA4OC00ZjljLWFmODAtZDU1YzY5ZTNkZDU3XkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0091203",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 159458,
+      "douban": null
+    },
+    "director": [
+      "Russell Mulcahy"
+    ],
+    "cast": [
+      "Christopher Lambert",
+      "Sean Connery",
+      "Clancy Brown",
+      "Roxanne Hart",
+      "Beatie Edney"
+    ],
     "category": "动作冒险",
     "subcategory": "硬汉动作",
     "accent": "#d07d52",
@@ -1789,6 +2664,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTE2NTE0YmYtNTE3YS00NzFmLWJmMDMtZWQ5Njg5NDBmNTFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0098382",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 68103,
+      "douban": null
+    },
+    "director": [
+      "William Shatner"
+    ],
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "DeForest Kelley",
+      "James Doohan",
+      "Walter Koenig"
+    ],
     "category": "动作冒险",
     "subcategory": "硬汉动作",
     "accent": "#d07d52",
@@ -1807,6 +2697,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2FhOTQ2MmQtNTY0OC00NWYyLThjNjMtZmZiOTBmYTY4MmM2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@..jpg",
     "imdbId": "tt0103064",
+    "ratings": {
+      "imdb": 8.6,
+      "imdbVotes": 1286584,
+      "douban": null
+    },
+    "director": [
+      "James Cameron"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong",
+      "Robert Patrick",
+      "Earl Boen"
+    ],
     "category": "动作冒险",
     "subcategory": "硬汉动作",
     "accent": "#d07d52",
@@ -1825,6 +2730,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTM1ZDc0MDEtYjhhMC00ZWFmLThlMTYtOTI2MTdkZDVhODQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0102975",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 85340,
+      "douban": null
+    },
+    "director": [
+      "Nicholas Meyer"
+    ],
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "DeForest Kelley",
+      "James Doohan",
+      "Walter Koenig"
+    ],
     "category": "动作冒险",
     "subcategory": "硬汉动作",
     "accent": "#d07d52",
@@ -1843,6 +2763,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODM3MjA3NDM3M15BMl5BanBnXkFtZTgwMDc1NjUwMjI@..jpg",
     "imdbId": "tt0102798",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 222510,
+      "douban": null
+    },
+    "director": [
+      "Kevin Reynolds"
+    ],
+    "cast": [
+      "Kevin Costner",
+      "Morgan Freeman",
+      "Mary Elizabeth Mastrantonio",
+      "Christian Slater",
+      "Alan Rickman"
+    ],
     "category": "动作冒险",
     "subcategory": "追逐逃亡",
     "accent": "#d07d52",
@@ -1880,6 +2815,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjdhOGY1OTktYWJkZC00OGY5LWJhY2QtZmQzZDA2MzY5MmNmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0107362",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 173718,
+      "douban": null
+    },
+    "director": [
+      "John McTiernan"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "F. Murray Abraham",
+      "Art Carney",
+      "Charles Dance",
+      "Frank McRae"
+    ],
     "category": "动作冒险",
     "subcategory": "追逐逃亡",
     "accent": "#d07d52",
@@ -1898,6 +2848,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjU5YmFjMjctYThkOS00MTQyLThjZmMtOWIyYzk2ZjU0ODkxXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0106582",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 148665,
+      "douban": null
+    },
+    "director": [
+      "Renny Harlin"
+    ],
+    "cast": [
+      "Sylvester Stallone",
+      "John Lithgow",
+      "Michael Rooker",
+      "Janine Turner",
+      "Rex Linn"
+    ],
     "category": "动作冒险",
     "subcategory": "追逐逃亡",
     "accent": "#d07d52",
@@ -1916,6 +2881,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWEyYTQzNzQtZTg5OS00NDhkLTg1NjYtMzA5Y2MyYjYzNWQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0111282",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 219750,
+      "douban": null
+    },
+    "director": [
+      "Roland Emmerich"
+    ],
+    "cast": [
+      "Kurt Russell",
+      "James Spader",
+      "Jaye Davidson",
+      "Viveca Lindfors",
+      "Alexis Cruz"
+    ],
     "category": "动作冒险",
     "subcategory": "追逐逃亡",
     "accent": "#d07d52",
@@ -1934,6 +2914,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2I1OTY2NmUtMGVlZi00NjNmLThkNTgtMjExMzRhOTM2MDJiXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0110478",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 125165,
+      "douban": null
+    },
+    "director": [
+      "Richard Donner"
+    ],
+    "cast": [
+      "Mel Gibson",
+      "Jodie Foster",
+      "James Garner",
+      "Graham Greene",
+      "Alfred Molina"
+    ],
     "category": "动作冒险",
     "subcategory": "追逐逃亡",
     "accent": "#d07d52",
@@ -1952,6 +2947,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjFiMzc4YzAtNGMzYS00NjI0LWJhYTYtN2JiOTI2ODczYzE3XkEyXkFqcGdeQXVyNTUyMzE4Mzg@..jpg",
     "imdbId": "tt0111280",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 91448,
+      "douban": null
+    },
+    "director": [
+      "David Carson"
+    ],
+    "cast": [
+      "Patrick Stewart",
+      "William Shatner",
+      "Malcolm McDowell",
+      "Jonathan Frakes",
+      "Brent Spiner"
+    ],
     "category": "动作冒险",
     "subcategory": "追逐逃亡",
     "accent": "#d07d52",
@@ -1970,6 +2980,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjc0MjYyN2EtZGRhMy00NzJiLWI2Y2QtYzhiYTU3NzAxNzg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0111257",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 423376,
+      "douban": null
+    },
+    "director": [
+      "Jan de Bont"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Dennis Hopper",
+      "Sandra Bullock",
+      "Joe Morton",
+      "Jeff Daniels"
+    ],
     "category": "动作冒险",
     "subcategory": "英雄旅程",
     "accent": "#d07d52",
@@ -1988,6 +3013,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTFjOWQyODItZWJiOC00NTM2LWIzNDEtMjRlY2NiNTI4YWU1XkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0109676",
+    "ratings": {
+      "imdb": 5.6,
+      "imdbVotes": 23059,
+      "douban": null
+    },
+    "director": [
+      "John Badham"
+    ],
+    "cast": [
+      "Wesley Snipes",
+      "Gary Busey",
+      "Yancy Butler",
+      "Michael Jeter",
+      "Corin Nemec"
+    ],
     "category": "动作冒险",
     "subcategory": "英雄旅程",
     "accent": "#d07d52",
@@ -2006,6 +3046,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTE4ODIwMzU0MF5BMl5BanBnXkFtZTcwNjgyOTcyMQ@@..jpg",
     "imdbId": "tt0109198",
+    "ratings": {
+      "imdb": 5.2,
+      "imdbVotes": 14341,
+      "douban": null
+    },
+    "director": [
+      "Jonathan Kaplan"
+    ],
+    "cast": [
+      "Madeleine Stowe",
+      "Mary Stuart Masterson",
+      "Andie MacDowell",
+      "Drew Barrymore",
+      "James Russo"
+    ],
     "category": "动作冒险",
     "subcategory": "英雄旅程",
     "accent": "#d07d52",
@@ -2024,6 +3079,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxMzY0MDU0OV5BMl5BanBnXkFtZTcwNjIxNTYyMQ@@..jpg",
     "imdbId": "tt0111323",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 14404,
+      "douban": null
+    },
+    "director": [
+      "Ernest Dickerson"
+    ],
+    "cast": [
+      "Rutger Hauer",
+      "Ice-T",
+      "Charles S. Dutton",
+      "Gary Busey",
+      "F. Murray Abraham"
+    ],
     "category": "动作冒险",
     "subcategory": "英雄旅程",
     "accent": "#d07d52",
@@ -2042,6 +3112,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2JhYjUzYzAtMWFhMi00YzIyLTllZGQtMTAzNThkNTJhNTBmXkEyXkFqcGdeQXVyNDc2NjEyMw@@..jpg",
     "imdbId": "tt0111301",
+    "ratings": {
+      "imdb": 4.1,
+      "imdbVotes": 79539,
+      "douban": null
+    },
+    "director": [
+      "Steven E. de Souza"
+    ],
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Raul Julia",
+      "Ming-Na Wen",
+      "Damian Chapa",
+      "Kylie Minogue"
+    ],
     "category": "动作冒险",
     "subcategory": "英雄旅程",
     "accent": "#d07d52",
@@ -2076,6 +3161,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk2OTg4MTk1NF5BMl5BanBnXkFtZTcwNjExNTgzNA@@..jpg",
     "imdbId": "tt0113189",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 286983,
+      "douban": null
+    },
+    "director": [
+      "Martin Campbell"
+    ],
+    "cast": [
+      "Pierce Brosnan",
+      "Sean Bean",
+      "Izabella Scorupco",
+      "Famke Janssen",
+      "Joe Don Baker"
+    ],
     "category": "动作冒险",
     "subcategory": "英雄旅程",
     "accent": "#d07d52",
@@ -2093,6 +3193,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWY3M2I0YzItNzA1ZS00MzE3LThlYTEtMTg2YjNiOTYzODQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0112462",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 282789,
+      "douban": null
+    },
+    "director": [
+      "Joel Schumacher"
+    ],
+    "cast": [
+      "Val Kilmer",
+      "Tommy Lee Jones",
+      "Jim Carrey",
+      "Nicole Kidman",
+      "Chris O'Donnell"
+    ],
     "category": "动作冒险",
     "subcategory": "灾难营救",
     "accent": "#d07d52",
@@ -2111,6 +3226,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTU2NzQyNDQ0NV5BMl5BanBnXkFtZTcwNTk4NjIyMQ@@..jpg",
     "imdbId": "tt0114048",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 10247,
+      "douban": null
+    },
+    "director": [
+      "Simon Wincer"
+    ],
+    "cast": [
+      "Danny Glover",
+      "Ray Liotta",
+      "Denis Leary",
+      "Doug E. Doug",
+      "Corin Nemec"
+    ],
     "category": "动作冒险",
     "subcategory": "灾难营救",
     "accent": "#d07d52",
@@ -2129,6 +3259,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzJhYjYxMTctNmY4My00NGIzLThmN2MtYjgwMjlmZWNjMTJlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113855",
+    "ratings": {
+      "imdb": 5.9,
+      "imdbVotes": 134524,
+      "douban": null
+    },
+    "director": [
+      "Paul W.S. Anderson"
+    ],
+    "cast": [
+      "Christopher Lambert",
+      "Robin Shou",
+      "Linden Ashby",
+      "Cary-Hiroyuki Tagawa",
+      "Bridgette Wilson-Sampras"
+    ],
     "category": "动作冒险",
     "subcategory": "灾难营救",
     "accent": "#d07d52",
@@ -2147,6 +3292,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjI0ZWFiMmQtMjRlZi00ZmFhLWI4NmYtMjQ5YmY0MzIyMzRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0112864",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 431096,
+      "douban": null
+    },
+    "director": [
+      "John McTiernan"
+    ],
+    "cast": [
+      "Bruce Willis",
+      "Jeremy Irons",
+      "Samuel L. Jackson",
+      "Graham Greene",
+      "Colleen Camp"
+    ],
     "category": "动作冒险",
     "subcategory": "灾难营救",
     "accent": "#d07d52",
@@ -2165,6 +3325,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzE4NTRmMDYtNWYzYi00YmNkLTk4NDEtYjFmMDc4ODQ3ODY2XkEyXkFqcGdeQXVyNTUyMzE4Mzg@..jpg",
     "imdbId": "tt0114898",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 225124,
+      "douban": null
+    },
+    "director": [
+      "Kevin Reynolds"
+    ],
+    "cast": [
+      "Kevin Costner",
+      "Jeanne Tripplehorn",
+      "Dennis Hopper",
+      "Tina Majorino",
+      "Chaim Jeraffi"
+    ],
     "category": "动作冒险",
     "subcategory": "灾难营救",
     "accent": "#d07d52",
@@ -2200,6 +3375,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGUyZmJmM2MtMDNlZC00ZDU0LWIwODQtNGFmOWJjZjk5ZThhXkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0113071",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 82808,
+      "douban": null
+    },
+    "director": [
+      "Jerry Zucker"
+    ],
+    "cast": [
+      "Sean Connery",
+      "Richard Gere",
+      "Julia Ormond",
+      "Ben Cross",
+      "Liam Cunningham"
+    ],
     "category": "动作冒险",
     "subcategory": "灾难营救",
     "accent": "#d07d52",
@@ -2218,6 +3408,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmQ2YWFjZGItMTNiZi00ZDFmLWE3ZTAtNTZiZTI5ZjBjYzlkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0112715",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 52660,
+      "douban": null
+    },
+    "director": [
+      "Frank Marshall"
+    ],
+    "cast": [
+      "Laura Linney",
+      "Tim Curry",
+      "Dylan Walsh",
+      "Ernie Hudson",
+      "Grant Heslov"
+    ],
     "category": "动作冒险",
     "subcategory": "武侠格斗",
     "accent": "#d07d52",
@@ -2253,6 +3458,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwODgxMTA1NV5BMl5BanBnXkFtZTcwNzg0MTgyMQ@@..jpg",
     "imdbId": "tt0112495",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 5705,
+      "douban": null
+    },
+    "director": [
+      "John Boorman"
+    ],
+    "cast": [
+      "Patricia Arquette",
+      "U Aung Ko",
+      "Frances McDormand",
+      "Spalding Gray",
+      "Tiara Jacquelina"
+    ],
     "category": "动作冒险",
     "subcategory": "武侠格斗",
     "accent": "#d07d52",
@@ -2271,6 +3491,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmUxMDE0MTItMTRiMC00YzgwLTkwODItN2FkOTQ0MjNhY2QwXkEyXkFqcGdeQXVyMDEwMjgxNg@@..jpg",
     "imdbId": "tt0114781",
+    "ratings": {
+      "imdb": 5.6,
+      "imdbVotes": 53445,
+      "douban": null
+    },
+    "director": [
+      "Geoff Murphy"
+    ],
+    "cast": [
+      "Steven Seagal",
+      "Eric Bogosian",
+      "Everett McGill",
+      "Katherine Heigl",
+      "Morris Chestnut"
+    ],
     "category": "动作冒险",
     "subcategory": "武侠格斗",
     "accent": "#d07d52",
@@ -2289,6 +3524,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDg2YTI0YmQtYzgwMi00Zjk4LWJkZjgtYjg0ZDE2ODUzY2RlL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@..jpg",
     "imdbId": "tt0112760",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 33232,
+      "douban": null
+    },
+    "director": [
+      "Renny Harlin"
+    ],
+    "cast": [
+      "Geena Davis",
+      "Matthew Modine",
+      "Frank Langella",
+      "Maury Chaykin",
+      "Patrick Malahide"
+    ],
     "category": "动作冒险",
     "subcategory": "武侠格斗",
     "accent": "#d07d52",
@@ -2307,6 +3557,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTlmNzhiMWEtOWVjZC00NmM0LTgxNDItMDJmYTkxYTZkY2FjXkEyXkFqcGdeQXVyNTUyMzE4Mzg@..jpg",
     "imdbId": "tt0117110",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 29374,
+      "douban": null
+    },
+    "director": [
+      "Brian Henson"
+    ],
+    "cast": [
+      "Tim Curry",
+      "Billy Connolly",
+      "Jennifer Saunders",
+      "Kevin Bishop",
+      "Dave Goelz"
+    ],
     "category": "动作冒险",
     "subcategory": "武侠格斗",
     "accent": "#d07d52",
@@ -2342,6 +3607,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODExYTM0MzEtZGY2Yy00N2ExLTkwZjItNGYzYTRmMWZlOGEzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0117998",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 251756,
+      "douban": null
+    },
+    "director": [
+      "Jan de Bont"
+    ],
+    "cast": [
+      "Helen Hunt",
+      "Bill Paxton",
+      "Jami Gertz",
+      "Cary Elwes",
+      "Lois Smith"
+    ],
     "category": "动作冒险",
     "subcategory": "丛林探险",
     "accent": "#d07d52",
@@ -2376,6 +3656,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2M0NTMxOWMtYWRhNC00OGVmLTg2ZTgtNzM2YTI0ZmE5NmQzXkEyXkFqcGdeQXVyMzMxNDQ0NQ@@..jpg",
     "imdbId": "tt0117731",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 138109,
+      "douban": null
+    },
+    "director": [
+      "Jonathan Frakes"
+    ],
+    "cast": [
+      "Patrick Stewart",
+      "Jonathan Frakes",
+      "Brent Spiner",
+      "LeVar Burton",
+      "Michael Dorn"
+    ],
     "category": "动作冒险",
     "subcategory": "丛林探险",
     "accent": "#d07d52",
@@ -2394,6 +3689,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NjI2MjU0Nl5BMl5BanBnXkFtZTgwNDk3ODYxMTE@..jpg",
     "imdbId": "tt0117060",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 519052,
+      "douban": null
+    },
+    "director": [
+      "Brian De Palma"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Jon Voight",
+      "Emmanuelle Béart",
+      "Henry Czerny",
+      "Jean Reno"
+    ],
     "category": "动作冒险",
     "subcategory": "丛林探险",
     "accent": "#d07d52",
@@ -2412,6 +3722,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3MjEzODczMF5BMl5BanBnXkFtZTYwODUwMzA5..jpg",
     "imdbId": "tt0116136",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 104817,
+      "douban": null
+    },
+    "director": [
+      "Rob Cohen"
+    ],
+    "cast": [
+      "Dennis Quaid",
+      "Sean Connery",
+      "Dina Meyer",
+      "Pete Postlethwaite",
+      "David Thewlis"
+    ],
     "category": "动作冒险",
     "subcategory": "丛林探险",
     "accent": "#d07d52",
@@ -2430,6 +3755,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzU2NDg3ZTItNzRmNy00NTQzLTljMDUtNjczOTMwZjEzNWVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0115759",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 110715,
+      "douban": null
+    },
+    "director": [
+      "John Woo"
+    ],
+    "cast": [
+      "John Travolta",
+      "Christian Slater",
+      "Samantha Mathis",
+      "Delroy Lindo",
+      "Bob Gunton"
+    ],
     "category": "动作冒险",
     "subcategory": "丛林探险",
     "accent": "#d07d52",
@@ -2448,6 +3788,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjZkMDgxYjUtOTUxMi00MWE4LTkxOGEtZGIyZjMwNGJiYjFjL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@..jpg",
     "imdbId": "tt0116253",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 65518,
+      "douban": null
+    },
+    "director": [
+      "Stuart Baird"
+    ],
+    "cast": [
+      "Kurt Russell",
+      "Halle Berry",
+      "Steven Seagal",
+      "John Leguizamo",
+      "Oliver Platt"
+    ],
     "category": "动作冒险",
     "subcategory": "丛林探险",
     "accent": "#d07d52",
@@ -2466,6 +3821,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGE5MDkxYzktODU4OS00Yjc4LTk5MjktYzlkY2RjMGVlNjU0XkEyXkFqcGdeQXVyNDc2NjEyMw@@..jpg",
     "imdbId": "tt0116040",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 80525,
+      "douban": null
+    },
+    "director": [
+      "Rob Cohen"
+    ],
+    "cast": [
+      "Sylvester Stallone",
+      "Amy Brenneman",
+      "Viggo Mortensen",
+      "Dan Hedaya",
+      "Jay O. Sanders"
+    ],
     "category": "动作冒险",
     "subcategory": "超级任务",
     "accent": "#d07d52",
@@ -2484,6 +3854,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWQxMWI5NWUtZmJlMi00ZjUzLWIwMWYtNDFlMGU5Yjk5MGQ5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0116320",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 10596,
+      "douban": null
+    },
+    "director": [
+      "Kevin Hooks"
+    ],
+    "cast": [
+      "Laurence Fishburne",
+      "Stephen Baldwin",
+      "Will Patton",
+      "Robert John Burke",
+      "Robert Hooks"
+    ],
     "category": "动作冒险",
     "subcategory": "超级任务",
     "accent": "#d07d52",
@@ -2502,6 +3887,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWUzNTRmNTQtNWMwZS00MTg4LThhMDUtYmQ5OGQ5MmNmYzNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0116225",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 86191,
+      "douban": null
+    },
+    "director": [
+      "John Carpenter"
+    ],
+    "cast": [
+      "Kurt Russell",
+      "Steve Buscemi",
+      "Stacy Keach",
+      "A.J. Langer",
+      "Georges Corraface"
+    ],
     "category": "动作冒险",
     "subcategory": "超级任务",
     "accent": "#d07d52",
@@ -2520,6 +3920,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2OTc1MzMxNDheQTJeQWpwZ15BbWU3MDM4ODc1MjE@..jpg",
     "imdbId": "tt0120389",
+    "ratings": {
+      "imdb": 3.7,
+      "imdbVotes": 10463,
+      "douban": null
+    },
+    "director": [
+      "Shuki Levy",
+      "David Winning"
+    ],
+    "cast": [
+      "Jason David Frank",
+      "Catherine Sutherland",
+      "Hilary Shepard",
+      "Jon Simanton",
+      "Kai Doi"
+    ],
     "category": "动作冒险",
     "subcategory": "超级任务",
     "accent": "#d07d52",
@@ -2556,6 +3972,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTlhYTVkMDktYzIyNC00NzlkLTlmN2ItOGEyMWQ4OTA2NDdmXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0119654",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 665872,
+      "douban": null
+    },
+    "director": [
+      "Barry Sonnenfeld"
+    ],
+    "cast": [
+      "Tommy Lee Jones",
+      "Will Smith",
+      "Linda Fiorentino",
+      "Vincent D'Onofrio",
+      "Rip Torn"
+    ],
     "category": "动作冒险",
     "subcategory": "超级任务",
     "accent": "#d07d52",
@@ -2574,6 +4005,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTdiM2VjYjYtZjEwNS00ZWU5LWFkZGYtZGYxMDcwMzY1OTEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTczNjQwOTY@..jpg",
     "imdbId": "tt0119190",
+    "ratings": {
+      "imdb": 5.6,
+      "imdbVotes": 90423,
+      "douban": null
+    },
+    "director": [
+      "Sam Weisman"
+    ],
+    "cast": [
+      "Brendan Fraser",
+      "Leslie Mann",
+      "Thomas Haden Church",
+      "Richard Roundtree",
+      "Greg Cruttwell"
+    ],
     "category": "动作冒险",
     "subcategory": "超级任务",
     "accent": "#d07d52",
@@ -2592,6 +4038,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODM0OTYxOF5BMl5BanBnXkFtZTcwNjEwMjgxMQ@@..jpg",
     "imdbId": "tt0120207",
+    "ratings": {
+      "imdb": 3,
+      "imdbVotes": 15881,
+      "douban": null
+    },
+    "director": [
+      "Kenneth Johnson"
+    ],
+    "cast": [
+      "Shaquille O'Neal",
+      "Annabeth Gish",
+      "Judd Nelson",
+      "Richard Roundtree",
+      "Irma P. Hall"
+    ],
     "category": "动作冒险",
     "subcategory": "夺宝奇遇",
     "accent": "#d07d52",
@@ -2626,6 +4087,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNThlOTFhOGEtZjE2NC00MzMzLThkYWItZjlkNWNlMDAzMGZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0120201",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 347254,
+      "douban": null
+    },
+    "director": [
+      "Paul Verhoeven"
+    ],
+    "cast": [
+      "Casper Van Dien",
+      "Denise Richards",
+      "Dina Meyer",
+      "Jake Busey",
+      "Neil Patrick Harris"
+    ],
     "category": "动作冒险",
     "subcategory": "夺宝奇遇",
     "accent": "#d07d52",
@@ -2644,6 +4120,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1MWM3Y2MtM2YyMS00ZGI1LTgwMGQtMzczYjA5ZThmZTQ1XkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0118928",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 108302,
+      "douban": null
+    },
+    "director": [
+      "Roger Donaldson"
+    ],
+    "cast": [
+      "Pierce Brosnan",
+      "Linda Hamilton",
+      "Jamie Renée Smith",
+      "Jeremy Foley",
+      "Elizabeth Hoffman"
+    ],
     "category": "动作冒险",
     "subcategory": "夺宝奇遇",
     "accent": "#d07d52",
@@ -2678,6 +4169,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1MTk2ODQxNV5BMl5BanBnXkFtZTcwOTY5MDg0NA@@..jpg",
     "imdbId": "tt0120347",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 216458,
+      "douban": null
+    },
+    "director": [
+      "Roger Spottiswoode"
+    ],
+    "cast": [
+      "Pierce Brosnan",
+      "Jonathan Pryce",
+      "Michelle Yeoh",
+      "Teri Hatcher",
+      "Ricky Jay"
+    ],
     "category": "动作冒险",
     "subcategory": "夺宝奇遇",
     "accent": "#d07d52",
@@ -2696,6 +4202,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjdmZTU3MWMtZTU4ZC00NjYzLTk1NzAtODc2ZDY0ZWNhYWEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0119707",
+    "ratings": {
+      "imdb": 3.6,
+      "imdbVotes": 61769,
+      "douban": null
+    },
+    "director": [
+      "John R. Leonetti"
+    ],
+    "cast": [
+      "Robin Shou",
+      "Talisa Soto",
+      "James Remar",
+      "Sandra Hess",
+      "Lynn 'Red' Williams"
+    ],
     "category": "动作冒险",
     "subcategory": "夺宝奇遇",
     "accent": "#d07d52",
@@ -2714,6 +4235,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDcwYjEyNWItMGI1Mi00MjI1LWIyMDEtMTQ4YjhkNjM4NDU3XkEyXkFqcGdeQXVyNDUyOTg3Njg@..jpg",
     "imdbId": "tt0119282",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 280573,
+      "douban": null
+    },
+    "director": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "cast": [
+      "Tate Donovan",
+      "Susan Egan",
+      "James Woods",
+      "Barbara Barrie",
+      "Roger Bart"
+    ],
     "category": "动作冒险",
     "subcategory": "动作喜剧",
     "accent": "#d07d52",
@@ -2732,6 +4269,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzMTU5NjcxNl5BMl5BanBnXkFtZTcwMzE2NDU2MQ@@..jpg",
     "imdbId": "tt0118615",
+    "ratings": {
+      "imdb": 5,
+      "imdbVotes": 125793,
+      "douban": null
+    },
+    "director": [
+      "Luis Llosa"
+    ],
+    "cast": [
+      "Jon Voight",
+      "Jennifer Lopez",
+      "Eric Stoltz",
+      "Ice Cube",
+      "Jonathan Hyde"
+    ],
     "category": "动作冒险",
     "subcategory": "动作喜剧",
     "accent": "#d07d52",
@@ -2750,6 +4302,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTRlOTQ0MzItZjUwYi00MDkwLWIwYTctZTgyNGY3OGQwZWViXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0120179",
+    "ratings": {
+      "imdb": 4,
+      "imdbVotes": 89191,
+      "douban": null
+    },
+    "director": [
+      "Jan de Bont"
+    ],
+    "cast": [
+      "Sandra Bullock",
+      "Jason Patric",
+      "Willem Dafoe",
+      "Temuera Morrison",
+      "Brian McCardie"
+    ],
     "category": "动作冒险",
     "subcategory": "动作喜剧",
     "accent": "#d07d52",
@@ -2768,6 +4335,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDkxOTY0NTg0Ml5BMl5BanBnXkFtZTcwMjkwMzEyMQ@@..jpg",
     "imdbId": "tt0120512",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 8721,
+      "douban": null
+    },
+    "director": [
+      "William Dear"
+    ],
+    "cast": [
+      "Jonathan Taylor Thomas",
+      "Devon Sawa",
+      "Scott Bairstow",
+      "Frances Fisher",
+      "Jamey Sheridan"
+    ],
     "category": "动作冒险",
     "subcategory": "动作喜剧",
     "accent": "#d07d52",
@@ -2786,6 +4368,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzOTg4MzM5MV5BMl5BanBnXkFtZTcwNzIwNTc3NA@@..jpg",
     "imdbId": "tt0120479",
+    "ratings": {
+      "imdb": 4.8,
+      "imdbVotes": 3894,
+      "douban": null
+    },
+    "director": [
+      "Ronny Yu"
+    ],
+    "cast": [
+      "Angus Macfadyen",
+      "Mario Yedidia",
+      "Marley Shelton",
+      "Chao Li Chi",
+      "Jack Tate"
+    ],
     "category": "动作冒险",
     "subcategory": "动作喜剧",
     "accent": "#d07d52",
@@ -2804,6 +4401,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzMjQxNTc5N15BMl5BanBnXkFtZTcwMTUwMzAzMQ@@..jpg",
     "imdbId": "tt0118539",
+    "ratings": {
+      "imdb": 3,
+      "imdbVotes": 12971,
+      "douban": null
+    },
+    "director": [
+      "Sean McNamara"
+    ],
+    "cast": [
+      "Loni Anderson",
+      "Hulk Hogan",
+      "Jim Varney",
+      "Victor Wong",
+      "Mathew Botuchis"
+    ],
     "category": "动作冒险",
     "subcategory": "动作喜剧",
     "accent": "#d07d52",
@@ -2822,6 +4434,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWU3NTFjYjgtNmZhNi00YTU0LTg4YWQtZTI0YmVmYmExZjM2XkEyXkFqcGdeQXVyNDQwMTQ5ODk@..jpg",
     "imdbId": "tt0118956",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 45074,
+      "douban": null
+    },
+    "director": [
+      "Stephen Sommers"
+    ],
+    "cast": [
+      "Treat Williams",
+      "Famke Janssen",
+      "Anthony Heald",
+      "Kevin J. O'Connor",
+      "Wes Studi"
+    ],
     "category": "动作冒险",
     "subcategory": "动作喜剧",
     "accent": "#d07d52",
@@ -2840,6 +4467,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNzEyNTgyN15BMl5BanBnXkFtZTcwODk4NTU0Mg@@..jpg",
     "imdbId": "tt0120738",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 77809,
+      "douban": null
+    },
+    "director": [
+      "Stephen Hopkins"
+    ],
+    "cast": [
+      "Gary Oldman",
+      "William Hurt",
+      "Matt LeBlanc",
+      "Mimi Rogers",
+      "Heather Graham"
+    ],
     "category": "动作冒险",
     "subcategory": "冒险经典",
     "accent": "#d07d52",
@@ -2858,6 +4500,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDIwODc3MDAtZWY5Ny00MTNkLTk2ZTMtYTE4NDY4NDk3MTVmXkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0029162",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 15758,
+      "douban": null
+    },
+    "director": [
+      "Frank Capra"
+    ],
+    "cast": [
+      "Ronald Colman",
+      "Jane Wyatt",
+      "Edward Everett Horton",
+      "John Howard",
+      "Thomas Mitchell"
+    ],
     "category": "动作冒险",
     "subcategory": "冒险经典",
     "accent": "#d07d52",
@@ -2891,6 +4548,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmM3ZGE4Y2EtNGFlMS00YjE5LWExYzYtYzQyYTQxYTZlMWRmXkEyXkFqcGdeQXVyMTMxMTY0OTQ@..jpg",
     "imdbId": "tt0032484",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 26099,
+      "douban": null
+    },
+    "director": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      "Joel McCrea",
+      "Laraine Day",
+      "Herbert Marshall",
+      "George Sanders",
+      "Albert Bassermann"
+    ],
     "category": "动作冒险",
     "subcategory": "冒险经典",
     "accent": "#d07d52",
@@ -2909,6 +4581,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2U0MDQwMjctOGI2Yy00NjIyLWI4NjEtMjY3MDQxZDEwZGY2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0035896",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 11147,
+      "douban": null
+    },
+    "director": [
+      "Sam Wood"
+    ],
+    "cast": [
+      "Gary Cooper",
+      "Ingrid Bergman",
+      "Akim Tamiroff",
+      "Arturo de Córdova",
+      "Vladimir Sokoloff"
+    ],
     "category": "动作冒险",
     "subcategory": "冒险经典",
     "accent": "#d07d52",
@@ -2927,6 +4614,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzOTUxMTYzMl5BMl5BanBnXkFtZTYwNTA5MzA5..jpg",
     "imdbId": "tt0038300",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 3436,
+      "douban": null
+    },
+    "director": [
+      "Archie Mayo"
+    ],
+    "cast": [
+      "Paul Muni",
+      "Anne Baxter",
+      "Claude Rains",
+      "Onslow Stevens",
+      "George Cleveland"
+    ],
     "category": "动作冒险",
     "subcategory": "冒险经典",
     "accent": "#d07d52",
@@ -2945,6 +4647,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNlMTFmYzktNDJlZi00MDEyLWJiNjctZTNkMjMyN2JhNmFhXkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0039428",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 1379,
+      "douban": null
+    },
+    "director": [
+      "Mitchell Leisen"
+    ],
+    "cast": [
+      "Ray Milland",
+      "Marlene Dietrich",
+      "Murvyn Vye",
+      "Bruce Lester",
+      "Dennis Hoey"
+    ],
     "category": "动作冒险",
     "subcategory": "冒险经典",
     "accent": "#d07d52",
@@ -2963,6 +4680,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmJmMTM5YzItOTU2OS00ZGUwLWI3MzgtMmYwMWY2YmFlM2Q1XkEyXkFqcGdeQXVyNjg3MDM4Mzc@..jpg",
     "imdbId": "tt0076759",
+    "ratings": {
+      "imdb": 8.6,
+      "imdbVotes": 1573662,
+      "douban": null
+    },
+    "director": [
+      "George Lucas"
+    ],
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Alec Guinness",
+      "Peter Cushing"
+    ],
     "category": "科幻奇幻",
     "subcategory": "太空旅行",
     "accent": "#b76f9f",
@@ -3019,6 +4751,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGExOGExM2UtNWM5ZS00OWEzLTllNzYtM2NlMTJlYjBlZTJkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0118929",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 226819,
+      "douban": null
+    },
+    "director": [
+      "Alex Proyas"
+    ],
+    "cast": [
+      "Rufus Sewell",
+      "Kiefer Sutherland",
+      "Jennifer Connelly",
+      "William Hurt",
+      "Richard O'Brien"
+    ],
     "category": "科幻奇幻",
     "subcategory": "太空旅行",
     "accent": "#b76f9f",
@@ -3037,6 +4784,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTUzMzAzMzEzNV5BMl5BanBnXkFtZTgwOTg1NTAwMjE@..jpg",
     "imdbId": "tt0026138",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 59085,
+      "douban": null
+    },
+    "director": [
+      "James Whale"
+    ],
+    "cast": [
+      "Boris Karloff",
+      "Elsa Lanchester",
+      "Colin Clive",
+      "Valerie Hobson",
+      "Ernest Thesiger"
+    ],
     "category": "科幻奇幻",
     "subcategory": "太空旅行",
     "accent": "#b76f9f",
@@ -3070,6 +4832,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTdmODZkNmQtYjU4Mi00MTcyLTg5YmEtNmVjMWU1M2Y5NzgyXkEyXkFqcGdeQXVyNDYyMDk5MTU@..jpg",
     "imdbId": "tt0049223",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 57288,
+      "douban": null
+    },
+    "director": [
+      "Fred M. Wilcox"
+    ],
+    "cast": [
+      "Walter Pidgeon",
+      "Anne Francis",
+      "Leslie Nielsen",
+      "Warren Stevens",
+      "Jack Kelly"
+    ],
     "category": "科幻奇幻",
     "subcategory": "太空旅行",
     "accent": "#b76f9f",
@@ -3103,6 +4880,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@..jpg",
     "imdbId": "tt0062622",
+    "ratings": {
+      "imdb": 8.3,
+      "imdbVotes": 784935,
+      "douban": null
+    },
+    "director": [
+      "Stanley Kubrick"
+    ],
+    "cast": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester",
+      "Daniel Richter",
+      "Leonard Rossiter"
+    ],
     "category": "科幻奇幻",
     "subcategory": "未来社会",
     "accent": "#b76f9f",
@@ -3135,6 +4927,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzMzY1MzI3Nl5BMl5BanBnXkFtZTcwOTM4OTYwNA@@..jpg",
     "imdbId": "tt0070707",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 45423,
+      "douban": null
+    },
+    "director": [
+      "Woody Allen"
+    ],
+    "cast": [
+      "Woody Allen",
+      "Diane Keaton",
+      "John Beck",
+      "Mary Gregory",
+      "Don Keefer"
+    ],
     "category": "科幻奇幻",
     "subcategory": "未来社会",
     "accent": "#b76f9f",
@@ -3153,6 +4960,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODQ0NDU3Njk2Ml5BMl5BanBnXkFtZTcwODk3MTE3NA@@..jpg",
     "imdbId": "tt0075704",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 7412,
+      "douban": null
+    },
+    "director": [
+      "Robert Wise"
+    ],
+    "cast": [
+      "Anthony Hopkins",
+      "Marsha Mason",
+      "John Beck",
+      "Susan Swift",
+      "Norman Lloyd"
+    ],
     "category": "科幻奇幻",
     "subcategory": "未来社会",
     "accent": "#b76f9f",
@@ -3170,6 +4992,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNhN2IxZWItNGEwYS00ZDNhLThiM2UtODU3NWJlZjBkYjQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0078748",
+    "ratings": {
+      "imdb": 8.4,
+      "imdbVotes": 1066524,
+      "douban": null
+    },
+    "director": [
+      "Ridley Scott"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt",
+      "Veronica Cartwright",
+      "Harry Dean Stanton"
+    ],
     "category": "科幻奇幻",
     "subcategory": "未来社会",
     "accent": "#b76f9f",
@@ -3188,6 +5025,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzNlMzNlNmQtNmYzNS00YmU5LWIzYWQtMDRkYzIzNzEzOTIyXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0079945",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 101435,
+      "douban": null
+    },
+    "director": [
+      "Robert Wise"
+    ],
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "DeForest Kelley",
+      "James Doohan",
+      "George Takei"
+    ],
     "category": "科幻奇幻",
     "subcategory": "未来社会",
     "accent": "#b76f9f",
@@ -3205,6 +5057,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDY2NjU0NDAxOF5BMl5BanBnXkFtZTgwNjQ4MTI2MTE@..jpg",
     "imdbId": "tt0079944",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 156326,
+      "douban": null
+    },
+    "director": [
+      "Andrei Tarkovsky"
+    ],
+    "cast": [
+      "Alisa Freyndlikh",
+      "Aleksandr Kaydanovskiy",
+      "Anatoliy Solonitsyn",
+      "Nikolay Grinko",
+      "Natalya Abramova"
+    ],
     "category": "科幻奇幻",
     "subcategory": "人工智能",
     "accent": "#b76f9f",
@@ -3223,6 +5090,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3MTI4MzE3MV5BMl5BanBnXkFtZTcwOTMzNzAwMQ@@..jpg",
     "imdbId": "tt0081534",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 36489,
+      "douban": null
+    },
+    "director": [
+      "Jeannot Szwarc"
+    ],
+    "cast": [
+      "Christopher Reeve",
+      "Jane Seymour",
+      "Christopher Plummer",
+      "Teresa Wright",
+      "Bill Erwin"
+    ],
     "category": "科幻奇幻",
     "subcategory": "人工智能",
     "accent": "#b76f9f",
@@ -3241,6 +5123,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0083658",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 883006,
+      "douban": null
+    },
+    "director": [
+      "Ridley Scott"
+    ],
+    "cast": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young",
+      "Edward James Olmos",
+      "M. Emmet Walsh"
+    ],
     "category": "科幻奇幻",
     "subcategory": "人工智能",
     "accent": "#b76f9f",
@@ -3259,6 +5156,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MjI5MDE2M15BMl5BanBnXkFtZTgwMTY0MjEyMDE@..jpg",
     "imdbId": "tt0083722",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 26595,
+      "douban": null
+    },
+    "director": [
+      "Paul Schrader"
+    ],
+    "cast": [
+      "Nastassja Kinski",
+      "Malcolm McDowell",
+      "John Heard",
+      "Annette O'Toole",
+      "Ruby Dee"
+    ],
     "category": "科幻奇幻",
     "subcategory": "人工智能",
     "accent": "#b76f9f",
@@ -3294,6 +5206,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDM0YTM3Y2UtNzY5MC00OTc4LThhZTYtMmM0ZGZjMmU1ZjdmXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0088846",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 221878,
+      "douban": null
+    },
+    "director": [
+      "Terry Gilliam"
+    ],
+    "cast": [
+      "Jonathan Pryce",
+      "Kim Greist",
+      "Robert De Niro",
+      "Katherine Helmond",
+      "Ian Holm"
+    ],
     "category": "科幻奇幻",
     "subcategory": "人工智能",
     "accent": "#b76f9f",
@@ -3312,6 +5239,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0088763",
+    "ratings": {
+      "imdb": 8.5,
+      "imdbVotes": 1456963,
+      "douban": null
+    },
+    "director": [
+      "Robert Zemeckis"
+    ],
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Crispin Glover",
+      "Tom Wilson"
+    ],
     "category": "科幻奇幻",
     "subcategory": "人工智能",
     "accent": "#b76f9f",
@@ -3330,6 +5272,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTQ5MzU3ODg0OF5BMl5BanBnXkFtZTgwODM0MzQxMDE@..jpg",
     "imdbId": "tt0089886",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 41442,
+      "douban": null
+    },
+    "director": [
+      "Martha Coolidge"
+    ],
+    "cast": [
+      "Val Kilmer",
+      "Stacy Peralta",
+      "Daniel Ades",
+      "Andres Aybar",
+      "Louis Giambalvo"
+    ],
     "category": "科幻奇幻",
     "subcategory": "怪兽异形",
     "accent": "#b76f9f",
@@ -3348,6 +5305,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGY2MDE2MGQtMjczYi00YTdhLWIzNzktNDk2NzMzZmYwMTJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0092007",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 96876,
+      "douban": null
+    },
+    "director": [
+      "Leonard Nimoy"
+    ],
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "DeForest Kelley",
+      "James Doohan",
+      "George Takei"
+    ],
     "category": "科幻奇幻",
     "subcategory": "怪兽异形",
     "accent": "#b76f9f",
@@ -3366,6 +5338,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGM1OGVhNTEtYjk3Zi00MzFhLWI4NDQtNWNlYTgyNTIyYjU2XkEyXkFqcGdeQXVyNDkzNTM2ODg@..jpg",
     "imdbId": "tt0093191",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 84150,
+      "douban": null
+    },
+    "director": [
+      "Wim Wenders"
+    ],
+    "cast": [
+      "Bruno Ganz",
+      "Solveig Dommartin",
+      "Otto Sander",
+      "Curt Bois",
+      "Peter Falk"
+    ],
     "category": "科幻奇幻",
     "subcategory": "怪兽异形",
     "accent": "#b76f9f",
@@ -3384,6 +5371,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjI5ZDY5OWYtOTIwMy00MzQ3LWFlM2EtYjMzODIzZGU0NGUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0092610",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 51492,
+      "douban": null
+    },
+    "director": [
+      "Peter Jackson"
+    ],
+    "cast": [
+      "Terry Potter",
+      "Pete O'Herne",
+      "Craig Smith",
+      "Mike Minett",
+      "Peter Jackson"
+    ],
     "category": "科幻奇幻",
     "subcategory": "怪兽异形",
     "accent": "#b76f9f",
@@ -3417,6 +5419,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NzQzODUzNl5BMl5BanBnXkFtZTgwMjc5NTYxMTE@..jpg",
     "imdbId": "tt0099653",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 257331,
+      "douban": null
+    },
+    "director": [
+      "Jerry Zucker"
+    ],
+    "cast": [
+      "Patrick Swayze",
+      "Demi Moore",
+      "Whoopi Goldberg",
+      "Tony Goldwyn",
+      "Stanley Lawrence"
+    ],
     "category": "科幻奇幻",
     "subcategory": "怪兽异形",
     "accent": "#b76f9f",
@@ -3435,6 +5452,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTBiY2FhNzgtODI5NC00MTEzLTg1MzEtNmZhNzAyYWFlMGZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0101492",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 5578,
+      "douban": null
+    },
+    "director": [
+      "Eric Red"
+    ],
+    "cast": [
+      "Jeff Fahey",
+      "Lindsay Duncan",
+      "Kim Delaney",
+      "Zakes Mokae",
+      "Brad Dourif"
+    ],
     "category": "科幻奇幻",
     "subcategory": "怪兽异形",
     "accent": "#b76f9f",
@@ -3469,6 +5501,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDNkZWIzZjktYWNkMi00MTQ2LWIyMTgtMmJhOGRiZDZlNmU4XkEyXkFqcGdeQXVyNTUyMzE4Mzg@..jpg",
     "imdbId": "tt0101775",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 33893,
+      "douban": null
+    },
+    "director": [
+      "Ate de Jong"
+    ],
+    "cast": [
+      "Phoebe Cates",
+      "Rik Mayall",
+      "Marsha Mason",
+      "Tim Matheson",
+      "Carrie Fisher"
+    ],
     "category": "科幻奇幻",
     "subcategory": "时间谜题",
     "accent": "#b76f9f",
@@ -3504,6 +5551,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyOTM5NzU3Nl5BMl5BanBnXkFtZTgwOTQxNjAxNzE@..jpg",
     "imdbId": "tt0103874",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 268601,
+      "douban": null
+    },
+    "director": [
+      "Francis Ford Coppola"
+    ],
+    "cast": [
+      "Gary Oldman",
+      "Winona Ryder",
+      "Anthony Hopkins",
+      "Keanu Reeves",
+      "Richard E. Grant"
+    ],
     "category": "科幻奇幻",
     "subcategory": "时间谜题",
     "accent": "#b76f9f",
@@ -3522,6 +5584,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@..jpg",
     "imdbId": "tt0103776",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 350173,
+      "douban": null
+    },
+    "director": [
+      "Tim Burton"
+    ],
+    "cast": [
+      "Michael Keaton",
+      "Danny DeVito",
+      "Michelle Pfeiffer",
+      "Christopher Walken",
+      "Michael Gough"
+    ],
     "category": "科幻奇幻",
     "subcategory": "时间谜题",
     "accent": "#b76f9f",
@@ -3558,6 +5635,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDFmMjAwYWEtYjk1YS00NzMxLTg0NGYtNjkwMjI1NjY2MTBlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@..jpg",
     "imdbId": "tt0105569",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 5680,
+      "douban": null
+    },
+    "director": [
+      "Shin'ya Tsukamoto"
+    ],
+    "cast": [
+      "Tomoroo Taguchi",
+      "Shin'ya Tsukamoto",
+      "Nobu Kanaoka",
+      "Sujin Kim",
+      "Hideaki Tezuka"
+    ],
     "category": "科幻奇幻",
     "subcategory": "时间谜题",
     "accent": "#b76f9f",
@@ -3575,6 +5667,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@..jpg",
     "imdbId": "tt0107290",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 1181951,
+      "douban": null
+    },
+    "director": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough",
+      "Bob Peck"
+    ],
     "category": "科幻奇幻",
     "subcategory": "魔法世界",
     "accent": "#b76f9f",
@@ -3593,6 +5700,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0107048",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 737049,
+      "douban": null
+    },
+    "director": [
+      "Harold Ramis"
+    ],
+    "cast": [
+      "Bill Murray",
+      "Andie MacDowell",
+      "Chris Elliott",
+      "Stephen Tobolowsky",
+      "Brian Doyle-Murray"
+    ],
     "category": "科幻奇幻",
     "subcategory": "魔法世界",
     "accent": "#b76f9f",
@@ -3610,6 +5732,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWFhNjY0YjItNjM5NC00NzAwLWI3ZWUtMTlkNTA0ZWVkNjBkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0106220",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 123725,
+      "douban": null
+    },
+    "director": [
+      "Barry Sonnenfeld"
+    ],
+    "cast": [
+      "Anjelica Huston",
+      "Raul Julia",
+      "Christopher Lloyd",
+      "Joan Cusack",
+      "Christina Ricci"
+    ],
     "category": "科幻奇幻",
     "subcategory": "魔法世界",
     "accent": "#b76f9f",
@@ -3644,6 +5781,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTNjNGM5OTktM2Q1Zi00YTFmLWJlYzUtMTMyMzgzNjNlNmQzL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0106598",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 62256,
+      "douban": null
+    },
+    "director": [
+      "Steve Barron"
+    ],
+    "cast": [
+      "Dan Aykroyd",
+      "Jane Curtin",
+      "Robert Knott",
+      "Jonathan Penner",
+      "Whip Hubley"
+    ],
     "category": "科幻奇幻",
     "subcategory": "魔法世界",
     "accent": "#b76f9f",
@@ -3662,6 +5814,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDBmNDhjOTYtZWVlMC00YzUwLWIyZjEtYzFjMWM5OTdiZDJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0106697",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 209542,
+      "douban": null
+    },
+    "director": [
+      "Marco Brambilla"
+    ],
+    "cast": [
+      "Sylvester Stallone",
+      "Wesley Snipes",
+      "Sandra Bullock",
+      "Nigel Hawthorne",
+      "Benjamin Bratt"
+    ],
     "category": "科幻奇幻",
     "subcategory": "魔法世界",
     "accent": "#b76f9f",
@@ -3679,6 +5846,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmM4NWY1NGEtMjI5ZC00MmRkLWI1Y2QtNDg4NzMzNTI1MDYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0106452",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 21877,
+      "douban": null
+    },
+    "director": [
+      "Abel Ferrara"
+    ],
+    "cast": [
+      "Gabrielle Anwar",
+      "Meg Tilly",
+      "Terry Kinney",
+      "Reilly Murphy",
+      "Billy Wirth"
+    ],
     "category": "科幻奇幻",
     "subcategory": "魔法世界",
     "accent": "#b76f9f",
@@ -3697,6 +5879,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4NTU5ODYyNl5BMl5BanBnXkFtZTcwMjkzODM1NA@@..jpg",
     "imdbId": "tt0107978",
+    "ratings": {
+      "imdb": 4.2,
+      "imdbVotes": 57287,
+      "douban": null
+    },
+    "director": [
+      "Fred Dekker"
+    ],
+    "cast": [
+      "Robert John Burke",
+      "Nancy Allen",
+      "Mario Machado",
+      "Remy Ryan",
+      "Jodi Long"
+    ],
     "category": "科幻奇幻",
     "subcategory": "赛博想象",
     "accent": "#b76f9f",
@@ -3764,6 +5961,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmM0YTFmYzItYWE3My00YzcyLTk0NzgtYjUzODQ1ZWUyNjIyXkEyXkFqcGdeQXVyMjE5NTUyMjk@..jpg",
     "imdbId": "tt0111686",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 69824,
+      "douban": null
+    },
+    "director": [
+      "Wes Craven"
+    ],
+    "cast": [
+      "Heather Langenkamp",
+      "Robert Englund",
+      "Jf Davis",
+      "Miko Hughes",
+      "Matt Winston"
+    ],
     "category": "科幻奇幻",
     "subcategory": "赛博想象",
     "accent": "#b76f9f",
@@ -3782,6 +5994,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDUwN2E1ODMtMjRiMS00Yzk0LTk1MWYtZjE4M2I5NzcyMmI4XkEyXkFqcGdeQXVyNTIzOTk5ODM@..jpg",
     "imdbId": "tt0110216",
+    "ratings": {
+      "imdb": 4.8,
+      "imdbVotes": 78114,
+      "douban": null
+    },
+    "director": [
+      "Ivan Reitman"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Danny DeVito",
+      "Emma Thompson",
+      "Frank Langella",
+      "Pamela Reed"
+    ],
     "category": "科幻奇幻",
     "subcategory": "赛博想象",
     "accent": "#b76f9f",
@@ -3800,6 +6027,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGUxOTI3OGUtY2UyYS00NzRmLTk2ODQtMGRjZGY2Mjk5NTczXkEyXkFqcGdeQXVyNDc2NjEyMw@@..jpg",
     "imdbId": "tt0111438",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 70032,
+      "douban": null
+    },
+    "director": [
+      "Peter Hyams"
+    ],
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Mia Sara",
+      "Ron Silver",
+      "Bruce McGill",
+      "Gloria Reuben"
+    ],
     "category": "科幻奇幻",
     "subcategory": "赛博想象",
     "accent": "#b76f9f",
@@ -3818,6 +6060,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQ3ODA1ODc4N15BMl5BanBnXkFtZTgwMDI4MzgxMTE@..jpg",
     "imdbId": "tt0110678",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 24448,
+      "douban": null
+    },
+    "director": [
+      "Martin Campbell"
+    ],
+    "cast": [
+      "Ray Liotta",
+      "Lance Henriksen",
+      "Stuart Wilson",
+      "Kevin Dillon",
+      "Kevin J. O'Connor"
+    ],
     "category": "科幻奇幻",
     "subcategory": "超自然",
     "accent": "#b76f9f",
@@ -3836,6 +6093,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmJmMTM5YzItOTU2OS00ZGUwLWI3MzgtMmYwMWY2YmFlM2Q1XkEyXkFqcGdeQXVyNjg3MDM4Mzc@..jpg",
     "imdbId": "tt0110027",
+    "ratings": {
+      "imdb": 4.5,
+      "imdbVotes": 23337,
+      "douban": null
+    },
+    "director": [
+      "Andrew Morahan"
+    ],
+    "cast": [
+      "Christopher Lambert",
+      "Mario Van Peebles",
+      "Deborah Kara Unger",
+      "Mako",
+      "Raoul Max Trujillo"
+    ],
     "category": "科幻奇幻",
     "subcategory": "超自然",
     "accent": "#b76f9f",
@@ -3854,6 +6126,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2Y2OWU4MWMtNmIyMy00YzMyLWI0Y2ItMTcyZDc3MTdmZDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114746",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 680346,
+      "douban": null
+    },
+    "director": [
+      "Terry Gilliam"
+    ],
+    "cast": [
+      "Bruce Willis",
+      "Madeleine Stowe",
+      "Brad Pitt",
+      "Joseph Melito",
+      "Jon Seda"
+    ],
     "category": "科幻奇幻",
     "subcategory": "超自然",
     "accent": "#b76f9f",
@@ -3872,6 +6159,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3MzMwMzIxMF5BMl5BanBnXkFtZTYwNTM0Nzc5..jpg",
     "imdbId": "tt0114279",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 16382,
+      "douban": null
+    },
+    "director": [
+      "Richard Loncraine"
+    ],
+    "cast": [
+      "Ian McKellen",
+      "Annette Bening",
+      "Christopher Bowen",
+      "Edward Jewesbury",
+      "Bill Paterson"
+    ],
     "category": "科幻奇幻",
     "subcategory": "超自然",
     "accent": "#b76f9f",
@@ -3890,6 +6192,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGM1NzM2ZjktNDM5ZS00YmExLTk5ZmYtNDdkNjdkNTdhZWZkXkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0113819",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 45062,
+      "douban": null
+    },
+    "director": [
+      "Woody Allen"
+    ],
+    "cast": [
+      "Woody Allen",
+      "Mira Sorvino",
+      "Pamela Blair",
+      "Rene Ceballos",
+      "Elie Chaib"
+    ],
     "category": "科幻奇幻",
     "subcategory": "超自然",
     "accent": "#b76f9f",
@@ -3924,6 +6241,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ2NTQ0NzgtODUzYy00NThlLWFhNDEtNjhkY2M0M2EwY2ZmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0114558",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 85498,
+      "douban": null
+    },
+    "director": [
+      "Kathryn Bigelow"
+    ],
+    "cast": [
+      "Ralph Fiennes",
+      "Angela Bassett",
+      "Juliette Lewis",
+      "Tom Sizemore",
+      "Michael Wincott"
+    ],
     "category": "科幻奇幻",
     "subcategory": "超自然",
     "accent": "#b76f9f",
@@ -3942,6 +6274,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGUzYzNiZTItYmZlNi00ODI1LThjNTMtNjI1MTNlZDQ0OGY2XkEyXkFqcGdeQXVyNjExODE1MDc@..jpg",
     "imdbId": "tt0114168",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 35009,
+      "douban": null
+    },
+    "director": [
+      "Victor Salva"
+    ],
+    "cast": [
+      "Mary Steenburgen",
+      "Sean Patrick Flanery",
+      "Lance Henriksen",
+      "Jeff Goldblum",
+      "Brandon Smith"
+    ],
     "category": "科幻奇幻",
     "subcategory": "技术寓言",
     "accent": "#b76f9f",
@@ -3960,6 +6307,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmM1NzUyY2YtOTU4My00ZmFmLWI4ZjYtYzJlM2JlOTBhZmIzXkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0113492",
+    "ratings": {
+      "imdb": 5.6,
+      "imdbVotes": 132069,
+      "douban": null
+    },
+    "director": [
+      "Danny Cannon"
+    ],
+    "cast": [
+      "Sylvester Stallone",
+      "Armand Assante",
+      "Rob Schneider",
+      "Jürgen Prochnow",
+      "Max von Sydow"
+    ],
     "category": "科幻奇幻",
     "subcategory": "技术寓言",
     "accent": "#b76f9f",
@@ -3978,6 +6340,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWFlYjJiYzUtNWE1YS00YzM5LTkxYzMtN2FlMjI4NTNlNzExXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114825",
+    "ratings": {
+      "imdb": 4.7,
+      "imdbVotes": 26929,
+      "douban": null
+    },
+    "director": [
+      "Wes Craven"
+    ],
+    "cast": [
+      "Eddie Murphy",
+      "Angela Bassett",
+      "Allen Payne",
+      "Kadeem Hardison",
+      "John Witherspoon"
+    ],
     "category": "科幻奇幻",
     "subcategory": "技术寓言",
     "accent": "#b76f9f",
@@ -3996,6 +6373,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzOTkxNTcyM15BMl5BanBnXkFtZTcwOTk0MjI3NA@@..jpg",
     "imdbId": "tt0114508",
+    "ratings": {
+      "imdb": 5.9,
+      "imdbVotes": 90914,
+      "douban": null
+    },
+    "director": [
+      "Roger Donaldson"
+    ],
+    "cast": [
+      "Natasha Henstridge",
+      "Michael Madsen",
+      "Ben Kingsley",
+      "Alfred Molina",
+      "Forest Whitaker"
+    ],
     "category": "科幻奇幻",
     "subcategory": "技术寓言",
     "accent": "#b76f9f",
@@ -4014,6 +6406,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTY5MzEwMjctMmQ1MS00YThmLWJhMjQtYzMxOWZlNTEyNGM5XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114852",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 36954,
+      "douban": null
+    },
+    "director": [
+      "John Carpenter"
+    ],
+    "cast": [
+      "Christopher Reeve",
+      "Kirstie Alley",
+      "Linda Kozlowski",
+      "Michael Paré",
+      "Meredith Salenger"
+    ],
     "category": "科幻奇幻",
     "subcategory": "技术寓言",
     "accent": "#b76f9f",
@@ -4032,6 +6439,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODM0ZTQ2ZGYtNmNlMi00OGU3LTgyMjQtYmVlOGNlYWQ2Y2Y3L2ltYWdlXkEyXkFqcGdeQXVyNjg4NzYzMzA@..jpg",
     "imdbId": "tt0113089",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 8200,
+      "douban": null
+    },
+    "director": [
+      "Carlo Carlei"
+    ],
+    "cast": [
+      "Matthew Modine",
+      "Nancy Travis",
+      "Eric Stoltz",
+      "Max Pomeranc",
+      "Ron Perlman"
+    ],
     "category": "科幻奇幻",
     "subcategory": "技术寓言",
     "accent": "#b76f9f",
@@ -4050,6 +6472,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2M2ZGM0NDUtODRhNS00MjcxLTg3ZWYtYjkyZDJkYmVjOWYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114367",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 31805,
+      "douban": null
+    },
+    "director": [
+      "Christian Duguay"
+    ],
+    "cast": [
+      "Peter Weller",
+      "Roy Dupuis",
+      "Jennifer Rubin",
+      "Andy Lauer",
+      "Charles Edwin Powell"
+    ],
     "category": "科幻奇幻",
     "subcategory": "技术寓言",
     "accent": "#b76f9f",
@@ -4068,6 +6505,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZThhYTlhMDUtMDhjZi00MTljLTkwMDYtOGU3ZjVlMWE4NDk4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0112642",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 159849,
+      "douban": null
+    },
+    "director": [
+      "Rob Letterman",
+      "Brad Silberling"
+    ],
+    "cast": [
+      "Bill Pullman",
+      "Christina Ricci",
+      "Cathy Moriarty",
+      "Eric Idle",
+      "Chauncey Leopardi"
+    ],
     "category": "科幻奇幻",
     "subcategory": "末日之后",
     "accent": "#b76f9f",
@@ -4086,6 +6539,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTdhYjEzYTEtYTkwZC00NzgxLWI0ZWEtYmEyMGZhOWYwMjE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113481",
+    "ratings": {
+      "imdb": 5.6,
+      "imdbVotes": 81358,
+      "douban": null
+    },
+    "director": [
+      "Robert Longo"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Dolph Lundgren",
+      "Dina Meyer",
+      "Ice-T",
+      "Takeshi Kitano"
+    ],
     "category": "科幻奇幻",
     "subcategory": "末日之后",
     "accent": "#b76f9f",
@@ -4104,6 +6572,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzMTYxODc2N15BMl5BanBnXkFtZTcwMTMzNjAwMQ@@..jpg",
     "imdbId": "tt0114663",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 3530,
+      "douban": null
+    },
+    "director": [
+      "Martha Coolidge"
+    ],
+    "cast": [
+      "Patrick Swayze",
+      "Mary Elizabeth Mastrantonio",
+      "Joseph Mazzello",
+      "Seth Mumy",
+      "David Marshall Grant"
+    ],
     "category": "科幻奇幻",
     "subcategory": "末日之后",
     "accent": "#b76f9f",
@@ -4155,6 +6638,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWQ0ZDFmYzMtZGMyMi00NmYxLWE0MGYtYzM2ZGNhMTE1NTczL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjM5ODMxODc@..jpg",
     "imdbId": "tt0112896",
+    "ratings": {
+      "imdb": 5.9,
+      "imdbVotes": 49023,
+      "douban": null
+    },
+    "director": [
+      "Mel Brooks"
+    ],
+    "cast": [
+      "Leslie Nielsen",
+      "Mel Brooks",
+      "Peter MacNicol",
+      "Steven Weber",
+      "Amy Yasbeck"
+    ],
     "category": "科幻奇幻",
     "subcategory": "末日之后",
     "accent": "#b76f9f",
@@ -4173,6 +6671,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3ODMxNzU3NV5BMl5BanBnXkFtZTcwOTQzMTM3NA@@..jpg",
     "imdbId": "tt0114614",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 37823,
+      "douban": null
+    },
+    "director": [
+      "Rachel Talalay"
+    ],
+    "cast": [
+      "Lori Petty",
+      "Ice-T",
+      "Naomi Watts",
+      "Don Harvey",
+      "Jeff Kober"
+    ],
     "category": "科幻奇幻",
     "subcategory": "末日之后",
     "accent": "#b76f9f",
@@ -4191,6 +6704,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDhhZmMyNmItNTc3Ni00MmI3LTlhZWItM2ZiNmUxOTM0YTMxXkEyXkFqcGdeQXVyNjExODE1MDc@..jpg",
     "imdbId": "tt0114857",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 34839,
+      "douban": null
+    },
+    "director": [
+      "Brett Leonard"
+    ],
+    "cast": [
+      "Denzel Washington",
+      "Russell Crowe",
+      "Kelly Lynch",
+      "Stephen Spinella",
+      "William Forsythe"
+    ],
     "category": "科幻奇幻",
     "subcategory": "幻想经典",
     "accent": "#b76f9f",
@@ -4225,6 +6753,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmM1OTU2MDQtZWVjMi00NmY4LWI1ZDYtZTg0ODE5YTUxNDA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0113303",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 8041,
+      "douban": null
+    },
+    "director": [
+      "Brett Leonard"
+    ],
+    "cast": [
+      "Jeff Goldblum",
+      "Christine Lahti",
+      "Alicia Silverstone",
+      "Jeremy Sisto",
+      "Alfred Molina"
+    ],
     "category": "科幻奇幻",
     "subcategory": "幻想经典",
     "accent": "#b76f9f",
@@ -4243,6 +6786,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODEzNDktM2U1ZC00MjhiLWEyMTgtNmI2NGM0ZWE3MTE2XkEyXkFqcGdeQXVyNjExODE1MDc@..jpg",
     "imdbId": "tt0114241",
+    "ratings": {
+      "imdb": 5.2,
+      "imdbVotes": 539,
+      "douban": null
+    },
+    "director": [
+      "Norman René"
+    ],
+    "cast": [
+      "Mia Farrow",
+      "Tony Goldwyn",
+      "Juana Barrios",
+      "Mike Heibeck",
+      "Vee Brown"
+    ],
     "category": "科幻奇幻",
     "subcategory": "幻想经典",
     "accent": "#b76f9f",
@@ -4261,6 +6819,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxMjI0MzY4MV5BMl5BanBnXkFtZTcwMzYxMzQyMQ@@..jpg",
     "imdbId": "tt0114787",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 64256,
+      "douban": null
+    },
+    "director": [
+      "Emir Kusturica"
+    ],
+    "cast": [
+      "Predrag 'Miki' Manojlovic",
+      "Lazar Ristovski",
+      "Mirjana Joković",
+      "Slavko Stimac",
+      "Ernst Stötzner"
+    ],
     "category": "科幻奇幻",
     "subcategory": "幻想经典",
     "accent": "#b76f9f",
@@ -4279,6 +6852,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWQ5YmQ5YWUtMDYyOS00Yzk1LTg2MTktOGVmMDMzODFiMWJlXkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0112854",
+    "ratings": {
+      "imdb": 4.6,
+      "imdbVotes": 2664,
+      "douban": null
+    },
+    "director": [
+      "Jack Baran"
+    ],
+    "cast": [
+      "Dylan McDermott",
+      "Nancy Travis",
+      "Quentin Tarantino",
+      "James Le Gros",
+      "Jim Belushi"
+    ],
     "category": "科幻奇幻",
     "subcategory": "幻想经典",
     "accent": "#b76f9f",
@@ -4297,6 +6885,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGViNmRkYzQtOTFlOC00NjY2LThhMDYtNzc0YzI3MWMwMDBiXkEyXkFqcGdeQXVyNjExODE1MDc@..jpg",
     "imdbId": "tt0113948",
+    "ratings": {
+      "imdb": 3.8,
+      "imdbVotes": 2204,
+      "douban": null
+    },
+    "director": [
+      "Albert Pyun"
+    ],
+    "cast": [
+      "Sue Price",
+      "Chad Stahelski",
+      "Tina Cote",
+      "Earl White",
+      "Jahi J.J. Zuri"
+    ],
     "category": "科幻奇幻",
     "subcategory": "幻想经典",
     "accent": "#b76f9f",
@@ -4315,6 +6918,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjIwMTM0ZDEtMTdiMy00NmQ0LWJmYmMtNGJmNmMzZmJlZjVkXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0022100",
+    "ratings": {
+      "imdb": 8.3,
+      "imdbVotes": 183081,
+      "douban": null
+    },
+    "director": [
+      "Fritz Lang"
+    ],
+    "cast": [
+      "Peter Lorre",
+      "Ellen Widmann",
+      "Inge Landgut",
+      "Otto Wernicke",
+      "Theodor Loos"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "侦探谜案",
     "accent": "#5c91c9",
@@ -4349,6 +6967,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWQ0MmRiMjMtM2Y1MC00MTYwLWI4YzktOGI0MjdiNzJlZDc3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0037008",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 56154,
+      "douban": null
+    },
+    "director": [
+      "Otto Preminger",
+      "Rouben Mamoulian"
+    ],
+    "cast": [
+      "Gene Tierney",
+      "Dana Andrews",
+      "Clifton Webb",
+      "Vincent Price",
+      "Judith Anderson"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "侦探谜案",
     "accent": "#5c91c9",
@@ -4367,6 +7001,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2YyNWVhNzYtMjNkNS00YTNlLTlkYjYtMDVmMWExNTAxNGFlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0037101",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 16402,
+      "douban": null
+    },
+    "director": [
+      "Edward Dmytryk"
+    ],
+    "cast": [
+      "Dick Powell",
+      "Claire Trevor",
+      "Anne Shirley",
+      "Otto Kruger",
+      "Mike Mazurki"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "侦探谜案",
     "accent": "#5c91c9",
@@ -4385,6 +7034,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTI0Y2Q1YjAtZTJhOS00NTZjLTk5ZWItNzJiMTM1NGVjZThlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0036855",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 37960,
+      "douban": null
+    },
+    "director": [
+      "George Cukor"
+    ],
+    "cast": [
+      "Charles Boyer",
+      "Ingrid Bergman",
+      "Joseph Cotten",
+      "May Whitty",
+      "Angela Lansbury"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "侦探谜案",
     "accent": "#5c91c9",
@@ -4403,6 +7067,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2NDI5Nzg5Nl5BMl5BanBnXkFtZTcwNDk3NzI0NA@@..jpg",
     "imdbId": "tt0038109",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 55465,
+      "douban": null
+    },
+    "director": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      "Ingrid Bergman",
+      "Gregory Peck",
+      "Michael Chekhov",
+      "Leo G. Carroll",
+      "Rhonda Fleming"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "侦探谜案",
     "accent": "#5c91c9",
@@ -4421,6 +7100,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTc1NGViOTMtNjZhNS00OGY2LWI4MmItOWQwNTY4MDMzNWI3L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0038787",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 112718,
+      "douban": null
+    },
+    "director": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      "Cary Grant",
+      "Ingrid Bergman",
+      "Claude Rains",
+      "Louis Calhern",
+      "Leopoldine Konstantin"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "侦探谜案",
     "accent": "#5c91c9",
@@ -4455,6 +7149,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODI3NzI5ODMwM15BMl5BanBnXkFtZTgwMzg1MDkxMTE@..jpg",
     "imdbId": "tt0039286",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 10917,
+      "douban": null
+    },
+    "director": [
+      "Edward Dmytryk"
+    ],
+    "cast": [
+      "Robert Young",
+      "Robert Mitchum",
+      "Robert Ryan",
+      "Gloria Grahame",
+      "Paul Kelly"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑色电影",
     "accent": "#5c91c9",
@@ -4473,6 +7182,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDM3OGUyNzYtNDA5Mi00MmM5LWEwOTgtYWE3NjQ1NDFmODZjXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0039881",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 4381,
+      "douban": null
+    },
+    "director": [
+      "Anthony Mann"
+    ],
+    "cast": [
+      "Dennis O'Keefe",
+      "Wallace Ford",
+      "Alfred Ryder",
+      "Mary Meade",
+      "June Lockhart"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑色电影",
     "accent": "#5c91c9",
@@ -4491,6 +7215,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1MjQzMjQ2MF5BMl5BanBnXkFtZTgwNDY0MjE3MjE@..jpg",
     "imdbId": "tt0040723",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 6215,
+      "douban": null
+    },
+    "director": [
+      "Anthony Mann"
+    ],
+    "cast": [
+      "Dennis O'Keefe",
+      "Claire Trevor",
+      "Marsha Hunt",
+      "John Ireland",
+      "Raymond Burr"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑色电影",
     "accent": "#5c91c9",
@@ -4509,6 +7248,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTVlZDYyYjUtZmIzZC00ZjVlLWJkMDAtZGI1ZDNlZjQ0ODI2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0040427",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 7481,
+      "douban": null
+    },
+    "director": [
+      "Alfred L. Werker",
+      "Anthony Mann"
+    ],
+    "cast": [
+      "Richard Basehart",
+      "Scott Brady",
+      "Roy Roberts",
+      "Whit Bissell",
+      "James Cardwell"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑色电影",
     "accent": "#5c91c9",
@@ -4527,6 +7282,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0046912",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 205145,
+      "douban": null
+    },
+    "director": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      "Ray Milland",
+      "Grace Kelly",
+      "Robert Cummings",
+      "John Williams",
+      "Anthony Dawson"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑色电影",
     "accent": "#5c91c9",
@@ -4545,6 +7315,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjMxOTEwZDMtYzQ2YS00ZTQ2LTlhZWEtMmI4OTlhMjFhNDY4XkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0052311",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 114885,
+      "douban": null
+    },
+    "director": [
+      "Orson Welles"
+    ],
+    "cast": [
+      "Charlton Heston",
+      "Orson Welles",
+      "Janet Leigh",
+      "Joseph Calleia",
+      "Akim Tamiroff"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑色电影",
     "accent": "#5c91c9",
@@ -4563,6 +7348,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzAwNWJhOTktY2YzOC00ZTVmLTg2NDktMTJhMGE5MWM4MWIxXkEyXkFqcGdeQXVyMTA0MjU0Ng@@..jpg",
     "imdbId": "tt0094822",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 358,
+      "douban": null
+    },
+    "director": [
+      "Rafael Moleón"
+    ],
+    "cast": [
+      "Victoria Abril",
+      "Carmen Maura",
+      "Antonio Banderas",
+      "Ángel de Andrés López",
+      "Laura Cepeda"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "城市犯罪",
     "accent": "#5c91c9",
@@ -4598,6 +7398,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTYzN2MxODMtMDBhOC00Y2M0LTgzMTItMzQ4NDIyYWIwMDEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc1NTQxODI@..jpg",
     "imdbId": "tt0104348",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 126141,
+      "douban": null
+    },
+    "director": [
+      "James Foley"
+    ],
+    "cast": [
+      "Al Pacino",
+      "Jack Lemmon",
+      "Alec Baldwin",
+      "Alan Arkin",
+      "Ed Harris"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "城市犯罪",
     "accent": "#5c91c9",
@@ -4616,6 +7431,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMDEwMTc5N15BMl5BanBnXkFtZTgwMzczNjQxMTE@..jpg",
     "imdbId": "tt0108238",
+    "ratings": {
+      "imdb": 5.9,
+      "imdbVotes": 51172,
+      "douban": null
+    },
+    "director": [
+      "Rowdy Herrington"
+    ],
+    "cast": [
+      "Bruce Willis",
+      "Sarah Jessica Parker",
+      "Dennis Farina",
+      "Tom Sizemore",
+      "Brion James"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "城市犯罪",
     "accent": "#5c91c9",
@@ -4634,6 +7464,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTA4NWFkOGItN2Q2NS00MDdlLTliMDYtZWEwNmU1MmVkMzQ4XkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0107497",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 31156,
+      "douban": null
+    },
+    "director": [
+      "Harold Becker"
+    ],
+    "cast": [
+      "Alec Baldwin",
+      "Nicole Kidman",
+      "Bill Pullman",
+      "Bebe Neuwirth",
+      "George C. Scott"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "城市犯罪",
     "accent": "#5c91c9",
@@ -4652,6 +7497,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTFkZmQ5OWEtNjFmMC00ZTI2LWE0ZWUtN2VhOWE1MzdiOGJhXkEyXkFqcGdeQXVyMTQ4NDY5OTc@..jpg",
     "imdbId": "tt0109297",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 9755,
+      "douban": null
+    },
+    "director": [
+      "Michael Apted"
+    ],
+    "cast": [
+      "Madeleine Stowe",
+      "Aidan Quinn",
+      "James Remar",
+      "Peter Friedman",
+      "Bruce A. Young"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "城市犯罪",
     "accent": "#5c91c9",
@@ -4670,6 +7530,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODk4YWVkZmUtMzExMS00ZDUxLTg5OGEtNGUyNDdiYWVjODRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114736",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 3541,
+      "douban": null
+    },
+    "director": [
+      "Pat Verducci"
+    ],
+    "cast": [
+      "Alicia Silverstone",
+      "Kevin Dillon",
+      "Bill Nunn",
+      "Michael Bowen",
+      "Ann Devaney"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "城市犯罪",
     "accent": "#5c91c9",
@@ -4688,6 +7563,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjI3NjFiNmMtMmQ1ZC00OTUwLWJlMWMtM2UxY2M2NDQ0OWJhXkEyXkFqcGdeQXVyNTI4MjkwNjA@..jpg",
     "imdbId": "tt0112857",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 27677,
+      "douban": null
+    },
+    "director": [
+      "Carl Franklin"
+    ],
+    "cast": [
+      "Denzel Washington",
+      "Tom Sizemore",
+      "Jennifer Beals",
+      "Don Cheadle",
+      "Maury Chaykin"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "法庭攻防",
     "accent": "#5c91c9",
@@ -4706,6 +7596,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODQ5NTcyODQ4Ml5BMl5BanBnXkFtZTcwNjgxNzUyMQ@@..jpg",
     "imdbId": "tt0113044",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 639,
+      "douban": null
+    },
+    "director": [
+      "Christopher Menaul"
+    ],
+    "cast": [
+      "Embeth Davidtz",
+      "Tom Bell",
+      "Gemma Jones",
+      "James Purefoy",
+      "Ben Chaplin"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "法庭攻防",
     "accent": "#5c91c9",
@@ -4724,6 +7629,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2JmNTUyYWQtMTZhMy00YTE4LTllNGItMDZmNTBiZTkyNjE2XkEyXkFqcGdeQXVyMTMxMTY0OTQ@..jpg",
     "imdbId": "tt0112688",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 24990,
+      "douban": null
+    },
+    "director": [
+      "Spike Lee"
+    ],
+    "cast": [
+      "Harvey Keitel",
+      "John Turturro",
+      "Delroy Lindo",
+      "Mekhi Phifer",
+      "Isaiah Washington"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "法庭攻防",
     "accent": "#5c91c9",
@@ -4742,6 +7662,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTljMTEwMGUtYzUyMi00Y2U4LTk3ZDItYWRlNTA5NjkyMjU1XkEyXkFqcGdeQXVyNTA4NzY1MzY@..jpg",
     "imdbId": "tt0117381",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 287989,
+      "douban": null
+    },
+    "director": [
+      "Gregory Hoblit"
+    ],
+    "cast": [
+      "Richard Gere",
+      "Laura Linney",
+      "Edward Norton",
+      "John Mahoney",
+      "Alfre Woodard"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "法庭攻防",
     "accent": "#5c91c9",
@@ -4760,6 +7695,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWVlMmJhYWUtMzc1ZC00OGY2LTk2YmItMTM4NmMyYzA3YjAyXkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0116259",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 20910,
+      "douban": null
+    },
+    "director": [
+      "Michael Apted"
+    ],
+    "cast": [
+      "Hugh Grant",
+      "Gene Hackman",
+      "Sarah Jessica Parker",
+      "David Morse",
+      "Bill Nunn"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "法庭攻防",
     "accent": "#5c91c9",
@@ -4778,6 +7728,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDg3M2YzZWQtMmZjZC00NzJmLThiNDMtZjM3Mjk0MjFkOTQ0XkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0115907",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 24313,
+      "douban": null
+    },
+    "director": [
+      "Harold Becker"
+    ],
+    "cast": [
+      "Al Pacino",
+      "John Cusack",
+      "Bridget Fonda",
+      "Danny Aiello",
+      "Martin Landau"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "法庭攻防",
     "accent": "#5c91c9",
@@ -4796,6 +7761,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTcwMDE3MTQ5OV5BMl5BanBnXkFtZTcwMzA0MDQ1NA@@..jpg",
     "imdbId": "tt0117107",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 21204,
+      "douban": null
+    },
+    "director": [
+      "Lee Tamahori"
+    ],
+    "cast": [
+      "Nick Nolte",
+      "Melanie Griffith",
+      "Jennifer Connelly",
+      "Chazz Palminteri",
+      "Michael Madsen"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "法庭攻防",
     "accent": "#5c91c9",
@@ -4814,6 +7794,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwODk4NDkzNF5BMl5BanBnXkFtZTcwMjA0MjUyMQ@@..jpg",
     "imdbId": "tt0115645",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 11422,
+      "douban": null
+    },
+    "director": [
+      "Barbet Schroeder"
+    ],
+    "cast": [
+      "Meryl Streep",
+      "Liam Neeson",
+      "Edward Furlong",
+      "Julia Weldon",
+      "Alfred Molina"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑帮世界",
     "accent": "#5c91c9",
@@ -4832,6 +7827,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2FlOGNmNjItMGYwMC00NjMxLWJiZGUtZTI4MGZmYTllM2JkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0120152",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 16016,
+      "douban": null
+    },
+    "director": [
+      "Bille August"
+    ],
+    "cast": [
+      "Julia Ormond",
+      "Jens Jørgen Fleischer",
+      "Agga Olsen",
+      "Patrick Field",
+      "Matthew Marsh"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑帮世界",
     "accent": "#5c91c9",
@@ -4850,6 +7860,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0119488",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 659232,
+      "douban": null
+    },
+    "director": [
+      "Curtis Hanson"
+    ],
+    "cast": [
+      "Kevin Spacey",
+      "Russell Crowe",
+      "Guy Pearce",
+      "Kim Basinger",
+      "James Cromwell"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑帮世界",
     "accent": "#5c91c9",
@@ -4886,6 +7911,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDdlOGM3ODItNDUzZi00MTRlLTliMzUtYjE3ZGY0NzhkNDlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0119668",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 43833,
+      "douban": null
+    },
+    "director": [
+      "Clint Eastwood"
+    ],
+    "cast": [
+      "John Cusack",
+      "Kevin Spacey",
+      "Jack Thompson",
+      "Irma P. Hall",
+      "Jude Law"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑帮世界",
     "accent": "#5c91c9",
@@ -4904,6 +7944,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MWE1ZDYtNjNkYS00YjZmLWJkZjctOTYzYTVjMDFiN2M5XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0119468",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 100567,
+      "douban": null
+    },
+    "director": [
+      "Gary Fleder"
+    ],
+    "cast": [
+      "Morgan Freeman",
+      "Ashley Judd",
+      "Cary Elwes",
+      "Alex McArthur",
+      "Tony Goldwyn"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑帮世界",
     "accent": "#5c91c9",
@@ -4922,6 +7977,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjk0ZGMxZmEtMTk1OC00Y2JkLTlhMzQtM2M0ZTVmZGQzNTM1XkEyXkFqcGdeQXVyNTgzMzU5MDI@..jpg",
     "imdbId": "tt0119210",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 16223,
+      "douban": null
+    },
+    "director": [
+      "Jeb Stuart"
+    ],
+    "cast": [
+      "Danny Glover",
+      "Dennis Quaid",
+      "Claudia Stedelin",
+      "Ian Nelson",
+      "Brent Hinkley"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "黑帮世界",
     "accent": "#5c91c9",
@@ -4940,6 +8010,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMDk1NjQyM15BMl5BanBnXkFtZTgwODYzMzgwMzE@..jpg",
     "imdbId": "tt0119527",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 7579,
+      "douban": null
+    },
+    "director": [
+      "Jonas Pate",
+      "Josh Pate"
+    ],
+    "cast": [
+      "Tim Roth",
+      "Chris Penn",
+      "Michael Rooker",
+      "Renée Zellweger",
+      "Ellen Burstyn"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "抢劫骗局",
     "accent": "#5c91c9",
@@ -4976,6 +8062,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMTM0OTkzNF5BMl5BanBnXkFtZTcwMDA1NDgyMQ@@..jpg",
     "imdbId": "tt0119594",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 14074,
+      "douban": null
+    },
+    "director": [
+      "Robert Benton"
+    ],
+    "cast": [
+      "Paul Newman",
+      "Susan Sarandon",
+      "Gene Hackman",
+      "Reese Witherspoon",
+      "Stockard Channing"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "抢劫骗局",
     "accent": "#5c91c9",
@@ -4994,6 +8095,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODMyYTlkNWYtODAzMC00ZjFiLWE3YjctMGUyMzM1MDk3ZDFlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0120890",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 140928,
+      "douban": null
+    },
+    "director": [
+      "John McNaughton"
+    ],
+    "cast": [
+      "Kevin Bacon",
+      "Neve Campbell",
+      "Matt Dillon",
+      "Denise Richards",
+      "Theresa Russell"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "抢劫骗局",
     "accent": "#5c91c9",
@@ -5012,6 +8128,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGE2MDU2ZmEtYWY0MC00ZDc1LWJmZTItMDFkZmYzYmViODZkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0120782",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 9011,
+      "douban": null
+    },
+    "director": [
+      "Volker Schlöndorff"
+    ],
+    "cast": [
+      "Woody Harrelson",
+      "Elisabeth Shue",
+      "Gina Gershon",
+      "Rolf Hoppe",
+      "Michael Rapaport"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "抢劫骗局",
     "accent": "#5c91c9",
@@ -5045,6 +8176,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDJiOGNkYTUtZDBmMS00MTgyLWIxYjQtODg0YTU2MTQ4ZDMzXkEyXkFqcGdeQXVyMjUxODE0MDY@..jpg",
     "imdbId": "tt0025586",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 9197,
+      "douban": null
+    },
+    "director": [
+      "John Cromwell"
+    ],
+    "cast": [
+      "Bette Davis",
+      "Leslie Howard",
+      "Frances Dee",
+      "Kay Johnson",
+      "Reginald Denny"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "抢劫骗局",
     "accent": "#5c91c9",
@@ -5079,6 +8225,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0032976",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 161366,
+      "douban": null
+    },
+    "director": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      "Laurence Olivier",
+      "Joan Fontaine",
+      "George Sanders",
+      "Judith Anderson",
+      "Nigel Bruce"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "道德困局",
     "accent": "#5c91c9",
@@ -5096,6 +8257,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2Mjc1MDQwMl5BMl5BanBnXkFtZTcwNzUyOTUyMg@@..jpg",
     "imdbId": "tt0033467",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 493411,
+      "douban": null
+    },
+    "director": [
+      "Orson Welles"
+    ],
+    "cast": [
+      "Orson Welles",
+      "Joseph Cotten",
+      "Dorothy Comingore",
+      "Agnes Moorehead",
+      "Ruth Warrick"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "道德困局",
     "accent": "#5c91c9",
@@ -5114,6 +8290,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDVlNTBjMjctNjAzNS00ZGJhLTg2NzMtNzIwYTIzYTBiMDkyXkEyXkFqcGdeQXVyNTA4NzY1MzY@..jpg",
     "imdbId": "tt0036613",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 77677,
+      "douban": null
+    },
+    "director": [
+      "Frank Capra"
+    ],
+    "cast": [
+      "Cary Grant",
+      "Priscilla Lane",
+      "Raymond Massey",
+      "Jack Carson",
+      "Edward Everett Horton"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "道德困局",
     "accent": "#5c91c9",
@@ -5147,6 +8338,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@..jpg",
     "imdbId": "tt0043014",
+    "ratings": {
+      "imdb": 8.4,
+      "imdbVotes": 261734,
+      "douban": null
+    },
+    "director": [
+      "Billy Wilder"
+    ],
+    "cast": [
+      "William Holden",
+      "Gloria Swanson",
+      "Erich von Stroheim",
+      "Nancy Olson",
+      "Fred Clark"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "道德困局",
     "accent": "#5c91c9",
@@ -5180,6 +8386,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0047396",
+    "ratings": {
+      "imdb": 8.4,
+      "imdbVotes": 569315,
+      "douban": null
+    },
+    "director": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      "James Stewart",
+      "Grace Kelly",
+      "Wendell Corey",
+      "Thelma Ritter",
+      "Raymond Burr"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "心理迷局",
     "accent": "#5c91c9",
@@ -5198,6 +8419,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODM2ODgyOGYtYzYwMC00ZTEwLTg2MmItZDI2OTdhMTdiMGFiL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0048728",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 86928,
+      "douban": null
+    },
+    "director": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      "Cary Grant",
+      "Grace Kelly",
+      "Jessie Royce Landis",
+      "John Williams",
+      "Charles Vanel"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "心理迷局",
     "accent": "#5c91c9",
@@ -5215,6 +8451,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0050083",
+    "ratings": {
+      "imdb": 9,
+      "imdbVotes": 987010,
+      "douban": null
+    },
+    "director": [
+      "Sidney Lumet"
+    ],
+    "cast": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam",
+      "John Fiedler",
+      "E.G. Marshall"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "心理迷局",
     "accent": "#5c91c9",
@@ -5233,6 +8484,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDgxMTM4OWQtNjJmMS00YTgwLWI0NjItMWRmMDIwMzQzYTMyXkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0050658",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 18403,
+      "douban": null
+    },
+    "director": [
+      "Billy Wilder"
+    ],
+    "cast": [
+      "Gary Cooper",
+      "Audrey Hepburn",
+      "Maurice Chevalier",
+      "John McGiver",
+      "Van Doude"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "心理迷局",
     "accent": "#5c91c9",
@@ -5251,6 +8517,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0052357",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 459083,
+      "douban": null
+    },
+    "director": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      "James Stewart",
+      "Kim Novak",
+      "Barbara Bel Geddes",
+      "Tom Helmore",
+      "Henry Jones"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "心理迷局",
     "accent": "#5c91c9",
@@ -5269,6 +8550,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0053125",
+    "ratings": {
+      "imdb": 8.3,
+      "imdbVotes": 369100,
+      "douban": null
+    },
+    "director": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      "Cary Grant",
+      "Eva Marie Saint",
+      "James Mason",
+      "Jessie Royce Landis",
+      "Leo G. Carroll"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "心理迷局",
     "accent": "#5c91c9",
@@ -5287,6 +8583,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzJmNjEzZDYtNGViZC00MTBiLTllZjYtOTY1YjBjZmMyODg0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0054215",
+    "ratings": {
+      "imdb": 8.5,
+      "imdbVotes": 787142,
+      "douban": null
+    },
+    "director": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles",
+      "John Gavin",
+      "Martin Balsam"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "心理迷局",
     "accent": "#5c91c9",
@@ -5305,6 +8616,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGZkMjQxM2YtMzEyMS00ZjQyLWE1NzAtZTUwMmQ5MDY5YzNjXkEyXkFqcGdeQXVyODQ0OTczOQ@@..jpg",
     "imdbId": "tt0054189",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 24031,
+      "douban": null
+    },
+    "director": [
+      "René Clément"
+    ],
+    "cast": [
+      "Alain Delon",
+      "Maurice Ronet",
+      "Marie Laforêt",
+      "Erno Crisa",
+      "Frank Latimore"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "警匪对峙",
     "accent": "#5c91c9",
@@ -5322,6 +8648,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2YxZDUxYzMtYzQxNy00NTRjLThmZjQtY2Q4Njg2MTUyOTkzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0056592",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 351050,
+      "douban": null
+    },
+    "director": [
+      "Robert Mulligan"
+    ],
+    "cast": [
+      "Gregory Peck",
+      "John Megna",
+      "Frank Overton",
+      "Rosemary Murphy",
+      "Ruth White"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "警匪对峙",
     "accent": "#5c91c9",
@@ -5356,6 +8697,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0Y2UyMDUtZGZiOS00ZmVkLTg3NmItODQyNTY1ZjU1MWE4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0056923",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 93673,
+      "douban": null
+    },
+    "director": [
+      "Stanley Donen"
+    ],
+    "cast": [
+      "Cary Grant",
+      "Audrey Hepburn",
+      "Walter Matthau",
+      "James Coburn",
+      "George Kennedy"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "警匪对峙",
     "accent": "#5c91c9",
@@ -5374,6 +8730,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk2MTlkM2EtNzNhYi00Y2YxLWIwODktNGQ0NDM2ZTgwODJiXkEyXkFqcGdeQXVyNjI5NTk0MzE@..jpg",
     "imdbId": "tt0058898",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 30155,
+      "douban": null
+    },
+    "director": [
+      "Jean-Luc Godard"
+    ],
+    "cast": [
+      "Eddie Constantine",
+      "Anna Karina",
+      "Akim Tamiroff",
+      "Valérie Boisgel",
+      "Jean-Louis Comolli"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "警匪对峙",
     "accent": "#5c91c9",
@@ -5392,6 +8763,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ3ODZmOTktYWRiYy00YjZjLWFkYTctMjA4MmYxNTVmN2I2XkEyXkFqcGdeQXVyMjUzOTY1NTc@..jpg",
     "imdbId": "tt0061418",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 126953,
+      "douban": null
+    },
+    "director": [
+      "Arthur Penn"
+    ],
+    "cast": [
+      "Warren Beatty",
+      "Faye Dunaway",
+      "Michael J. Pollard",
+      "Gene Hackman",
+      "Estelle Parsons"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "警匪对峙",
     "accent": "#5c91c9",
@@ -5409,6 +8795,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0061512",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 196411,
+      "douban": null
+    },
+    "director": [
+      "Stuart Rosenberg"
+    ],
+    "cast": [
+      "Paul Newman",
+      "George Kennedy",
+      "Strother Martin",
+      "J.D. Cannon",
+      "Lou Antonio"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "警匪对峙",
     "accent": "#5c91c9",
@@ -5427,6 +8828,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@..jpg",
     "imdbId": "tt0064115",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 238451,
+      "douban": null
+    },
+    "director": [
+      "George Roy Hill"
+    ],
+    "cast": [
+      "Paul Newman",
+      "Robert Redford",
+      "Katharine Ross",
+      "Strother Martin",
+      "Henry Jones"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "复仇故事",
     "accent": "#5c91c9",
@@ -5495,6 +8911,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWRkNGJhMmEtMWM3Ni00MDc3LThhMTQtMWI2OTMxYmE5MTZhXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0071315",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 376915,
+      "douban": null
+    },
+    "director": [
+      "Roman Polanski"
+    ],
+    "cast": [
+      "Jack Nicholson",
+      "Faye Dunaway",
+      "John Huston",
+      "Perry Lopez",
+      "John Hillerman"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "复仇故事",
     "accent": "#5c91c9",
@@ -5513,6 +8944,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmVkMmE0M2EtZjYwOC00YWU2LWE1YjYtNDY5MDA3NGY4NDZiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@..jpg",
     "imdbId": "tt0073778",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 4839,
+      "douban": null
+    },
+    "director": [
+      "Jack Hill"
+    ],
+    "cast": [
+      "Robbie Lee",
+      "Joanne Nail",
+      "Monica Gayle",
+      "Asher Brauner",
+      "Chase Newhart"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "复仇故事",
     "accent": "#5c91c9",
@@ -5530,6 +8976,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0075314",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 1029024,
+      "douban": null
+    },
+    "director": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd",
+      "Albert Brooks",
+      "Diahnne Abbott"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "复仇故事",
     "accent": "#5c91c9",
@@ -5548,6 +9009,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNzYzNTc3Nl5BMl5BanBnXkFtZTgwMDUwNTkyMTE@..jpg",
     "imdbId": "tt0074258",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 15104,
+      "douban": null
+    },
+    "director": [
+      "Dan Curtis"
+    ],
+    "cast": [
+      "Karen Black",
+      "Oliver Reed",
+      "Burgess Meredith",
+      "Eileen Heckart",
+      "Lee Montgomery"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "犯罪经典",
     "accent": "#5c91c9",
@@ -5566,6 +9042,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDg1MDgzMmQtNDhlYS00MzZiLTllZGItNzliZTE1ODBiZDQwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0078788",
+    "ratings": {
+      "imdb": 8.4,
+      "imdbVotes": 771928,
+      "douban": null
+    },
+    "director": [
+      "Francis Ford Coppola"
+    ],
+    "cast": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall",
+      "Frederic Forrest",
+      "Sam Bottoms"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "犯罪经典",
     "accent": "#5c91c9",
@@ -5584,6 +9075,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjRjOGNlMjYtZDVmOC00ODZlLWE3MDAtNzM2NmZjY2YwNDQ0XkEyXkFqcGdeQXVyMjQzMzQzODY@..jpg",
     "imdbId": "tt0082269",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 15358,
+      "douban": null
+    },
+    "director": [
+      "Jean-Jacques Beineix"
+    ],
+    "cast": [
+      "Wilhelmenia Fernandez",
+      "Frédéric Andréi",
+      "Roland Bertin",
+      "Richard Bohringer",
+      "Gérard Darmon"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "犯罪经典",
     "accent": "#5c91c9",
@@ -5616,6 +9122,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0087843",
+    "ratings": {
+      "imdb": 8.3,
+      "imdbVotes": 408716,
+      "douban": null
+    },
+    "director": [
+      "Sergio Leone"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "James Woods",
+      "Elizabeth McGovern",
+      "Treat Williams",
+      "Tuesday Weld"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "犯罪经典",
     "accent": "#5c91c9",
@@ -5634,6 +9155,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWQzYmM5OGYtMDJlOC00M2RlLThhYzgtNjZiOWYxNjlhMDJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0090329",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 114367,
+      "douban": null
+    },
+    "director": [
+      "Peter Weir"
+    ],
+    "cast": [
+      "Harrison Ford",
+      "Kelly McGillis",
+      "Lukas Haas",
+      "Josef Sommer",
+      "Jan Rubes"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "犯罪经典",
     "accent": "#5c91c9",
@@ -5652,6 +9188,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2ZmNDJiZTUtYjg5Zi00M2I3LTliZjAtNzQ4NTlkYTAzYTAxXkEyXkFqcGdeQXVyNTkyMDc0MjI@..jpg",
     "imdbId": "tt0090967",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 58797,
+      "douban": null
+    },
+    "director": [
+      "Jim Jarmusch"
+    ],
+    "cast": [
+      "Tom Waits",
+      "John Lurie",
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Ellen Barkin"
+    ],
     "category": "犯罪悬疑",
     "subcategory": "犯罪经典",
     "accent": "#5c91c9",
@@ -5669,6 +9220,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjRjZjE3OGUtYzIyYy00NGRkLTliYTUtYmI1ZjQ3YmZjYTZiXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0063350",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 151315,
+      "douban": null
+    },
+    "director": [
+      "George A. Romero"
+    ],
+    "cast": [
+      "Duane Jones",
+      "Judith O'Dea",
+      "Karl Hardman",
+      "Marilyn Eastman",
+      "Keith Wayne"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "心理惊悚",
     "accent": "#67a8a3",
@@ -5687,6 +9253,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2U1MWE1NTMtYjQ2ZC00MTFmLWFmYjItODMyNGYxOTAyZmEzXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0077766",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 91557,
+      "douban": null
+    },
+    "director": [
+      "Jeannot Szwarc"
+    ],
+    "cast": [
+      "Roy Scheider",
+      "Lorraine Gary",
+      "Murray Hamilton",
+      "Joseph Mascolo",
+      "Jeffrey Kramer"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "心理惊悚",
     "accent": "#67a8a3",
@@ -5705,6 +9286,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2QwYjhiMzQtN2RiYS00MzgxLThmNzItMmJlNmMyMmQyYTA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0085750",
+    "ratings": {
+      "imdb": 3.8,
+      "imdbVotes": 52905,
+      "douban": null
+    },
+    "director": [
+      "Joe Alves"
+    ],
+    "cast": [
+      "Dennis Quaid",
+      "Bess Armstrong",
+      "Simon MacCorkindale",
+      "Louis Gossett Jr.",
+      "John Putch"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "心理惊悚",
     "accent": "#67a8a3",
@@ -5738,6 +9334,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzViMTE0YTItZTEyZS00ZDk5LWI4OWEtZmI4YzE3NzllYTUwXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0103919",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 109581,
+      "douban": null
+    },
+    "director": [
+      "Bernard Rose"
+    ],
+    "cast": [
+      "Virginia Madsen",
+      "Xander Berkeley",
+      "Tony Todd",
+      "Kasi Lemmons",
+      "Vanessa Williams"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "心理惊悚",
     "accent": "#67a8a3",
@@ -5756,6 +9367,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTAyMDBkYTgtNzNhOC00ZWFmLWFlYjEtMzA0MGY4MDEwZjM2XkEyXkFqcGdeQXVyMzU0NzkwMDg@..jpg",
     "imdbId": "tt0110965",
+    "ratings": {
+      "imdb": 5.6,
+      "imdbVotes": 413,
+      "douban": null
+    },
+    "director": [
+      "George Mihalka"
+    ],
+    "cast": [
+      "Darlanne Fluegel",
+      "Martin Neufeld",
+      "James Brolin",
+      "Denise Crosby",
+      "M. Emmet Walsh"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "心理惊悚",
     "accent": "#67a8a3",
@@ -5774,6 +9400,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDg1OTc0MDQwNl5BMl5BanBnXkFtZTcwMjQ3NDk0NA@@..jpg",
     "imdbId": "tt0113690",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 19953,
+      "douban": null
+    },
+    "director": [
+      "Clive Barker"
+    ],
+    "cast": [
+      "Scott Bakula",
+      "Kevin J. O'Connor",
+      "J. Trevor Edmond",
+      "Daniel von Bargen",
+      "Joseph Latimore"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "心理惊悚",
     "accent": "#67a8a3",
@@ -5807,6 +9448,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDA2ZWE2YTctN2JiNi00NjdmLThhYWQtN2JjY2M4MTNhM2I5XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0112625",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 15744,
+      "douban": null
+    },
+    "director": [
+      "Bill Condon"
+    ],
+    "cast": [
+      "Tony Todd",
+      "Kelly Rowan",
+      "Caroline Barclay",
+      "Michael Bergeron",
+      "Brianna Blanchard"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "密室危机",
     "accent": "#67a8a3",
@@ -5824,6 +9480,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzQ3MjgzMWMtMjJhMy00MmVjLTllMzMtMWVjMmMxNTIzNWQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113253",
+    "ratings": {
+      "imdb": 4.7,
+      "imdbVotes": 46760,
+      "douban": null
+    },
+    "director": [
+      "Joe Chappelle"
+    ],
+    "cast": [
+      "Donald Pleasence",
+      "Paul Rudd",
+      "Marianne Hagan",
+      "Mitchell Ryan",
+      "Kim Darby"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "密室危机",
     "accent": "#67a8a3",
@@ -5857,6 +9528,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODZmZGU3MjktZGUyMi00Njc5LWFkMjgtNTQyMDA5ODI4NTIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0115610",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 9951,
+      "douban": null
+    },
+    "director": [
+      "Eric Red"
+    ],
+    "cast": [
+      "Mariel Hemingway",
+      "Michael Paré",
+      "Mason Gamble",
+      "Ken Pogue",
+      "Hrothgar Mathews"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "密室危机",
     "accent": "#67a8a3",
@@ -5875,6 +9561,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzYzNzcxNWEtZGUyYy00YTA0LWI4ZjQtYTc0NGRmOTcyMWM5XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@..jpg",
     "imdbId": "tt0119081",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 214688,
+      "douban": null
+    },
+    "director": [
+      "Paul W.S. Anderson"
+    ],
+    "cast": [
+      "Laurence Fishburne",
+      "Sam Neill",
+      "Kathleen Quinlan",
+      "Joely Richardson",
+      "Richard T. Jones"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "密室危机",
     "accent": "#67a8a3",
@@ -5909,6 +9610,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWQyNzdhNTQtZjUzYS00Yzk2LTk3OTEtYzhkYjc4YzJiMGYyXkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0119791",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 22684,
+      "douban": null
+    },
+    "director": [
+      "Ole Bornedal"
+    ],
+    "cast": [
+      "Ewan McGregor",
+      "Nick Nolte",
+      "Anais Evans",
+      "Erich Anderson",
+      "Josh Brolin"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "连环追凶",
     "accent": "#67a8a3",
@@ -5927,6 +9643,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTM2ZmEwZTEtOGI4OC00NDJlLWFhYWUtNGIyMDU5NGE5OTE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0119891",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 24561,
+      "douban": null
+    },
+    "director": [
+      "Joe Chappelle"
+    ],
+    "cast": [
+      "Peter O'Toole",
+      "Rose McGowan",
+      "Joanna Going",
+      "Liev Schreiber",
+      "Ben Affleck"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "连环追凶",
     "accent": "#67a8a3",
@@ -5975,6 +9706,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzM4NzM2MTkyN15BMl5BanBnXkFtZTcwNTA2ODU0NQ@@..jpg",
     "imdbId": "tt0036094",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 3194,
+      "douban": null
+    },
+    "director": [
+      "William A. Wellman"
+    ],
+    "cast": [
+      "Barbara Stanwyck",
+      "Michael O'Shea",
+      "Iris Adrian",
+      "Charles Dingle",
+      "J. Edward Bromberg"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "连环追凶",
     "accent": "#67a8a3",
@@ -6008,6 +9754,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWIzZGUxZmItOThkMS00Y2QxLTg0MTYtMDdhMjRlNTNlYTI3L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0044706",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 116556,
+      "douban": null
+    },
+    "director": [
+      "Fred Zinnemann"
+    ],
+    "cast": [
+      "Gary Cooper",
+      "Grace Kelly",
+      "Thomas Mitchell",
+      "Lloyd Bridges",
+      "Katy Jurado"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "连环追凶",
     "accent": "#67a8a3",
@@ -6025,6 +9786,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWNlMTJmMWUtYjk0MC00M2U4LWI1ODItZDgxNDZiODFmNjc5XkEyXkFqcGdeQXVyMTAwMzUyOTc@..jpg",
     "imdbId": "tt0055824",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 35166,
+      "douban": null
+    },
+    "director": [
+      "J. Lee Thompson"
+    ],
+    "cast": [
+      "Gregory Peck",
+      "Robert Mitchum",
+      "Polly Bergen",
+      "Lori Martin",
+      "Martin Balsam"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "怪物恐怖",
     "accent": "#67a8a3",
@@ -6088,6 +9864,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0073195",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 739951,
+      "douban": null
+    },
+    "director": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss",
+      "Lorraine Gary",
+      "Murray Hamilton"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "怪物恐怖",
     "accent": "#67a8a3",
@@ -6104,6 +9895,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTlhNmVkZGUtNjdjOC00YWY3LTljZWQtMTY1YWFhNGYwNDQwXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0074285",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 229074,
+      "douban": null
+    },
+    "director": [
+      "Brian De Palma"
+    ],
+    "cast": [
+      "Sissy Spacek",
+      "Piper Laurie",
+      "Amy Irving",
+      "John Travolta",
+      "William Katt"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "怪物恐怖",
     "accent": "#67a8a3",
@@ -6227,6 +10033,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWUzMDczZjItYjkyYS00OTgwLTg0MTktNDk0YzRmYmRlNTAzXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0083550",
+    "ratings": {
+      "imdb": 5.6,
+      "imdbVotes": 14239,
+      "douban": null
+    },
+    "director": [
+      "Damiano Damiani"
+    ],
+    "cast": [
+      "James Olson",
+      "Burt Young",
+      "Rutanya Alda",
+      "Jack Magner",
+      "Andrew Prine"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "灵异传说",
     "accent": "#67a8a3",
@@ -6243,6 +10064,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTU5Y2YwOGUtM2UwMi00NjZiLWJkMTYtZTI0YzdmYTRhZmRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0085159",
+    "ratings": {
+      "imdb": 4.2,
+      "imdbVotes": 8338,
+      "douban": null
+    },
+    "director": [
+      "Richard Fleischer"
+    ],
+    "cast": [
+      "Tony Roberts",
+      "Tess Harper",
+      "Robert Joy",
+      "Candy Clark",
+      "John Beal"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "生存惊悚",
     "accent": "#67a8a3",
@@ -6275,6 +10111,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjY0NjNiZDgtMTY0ZS00MTQwLTg2Y2UtYzVlOWQ0NDdkNWNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0090655",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 20187,
+      "douban": null
+    },
+    "director": [
+      "Fred Walton"
+    ],
+    "cast": [
+      "Deborah Foreman",
+      "Griffin O'Neal",
+      "Clayton Rohner",
+      "Jay Baker",
+      "Pat Barlow"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "生存惊悚",
     "accent": "#67a8a3",
@@ -6292,6 +10143,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA4Nzg5MjMwNzFeQTJeQWpwZ15BbWU4MDA2NDg4MDcx..jpg",
     "imdbId": "tt0092991",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 196905,
+      "douban": null
+    },
+    "director": [
+      "Sam Raimi"
+    ],
+    "cast": [
+      "Bruce Campbell",
+      "Sarah Berry",
+      "Dan Hicks",
+      "Kassie Wesley DePaiva",
+      "Ted Raimi"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "生存惊悚",
     "accent": "#67a8a3",
@@ -6309,6 +10175,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmY2ZGEwMTYtNjBmZS00OGE4LWEyMmUtNjAwMWUxZjVmZTRiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0095016",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 1031205,
+      "douban": null
+    },
+    "director": [
+      "John McTiernan"
+    ],
+    "cast": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Bonnie Bedelia",
+      "Reginald VelJohnson",
+      "Paul Gleason"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "生存惊悚",
     "accent": "#67a8a3",
@@ -6357,6 +10238,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzMzYzk3ZTEtZDg0My00MTY5LWE3ZmQtYzNhYjhjN2RhZGRjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0099423",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 407713,
+      "douban": null
+    },
+    "director": [
+      "Renny Harlin"
+    ],
+    "cast": [
+      "Bruce Willis",
+      "William Atherton",
+      "Bonnie Bedelia",
+      "Reginald VelJohnson",
+      "Franco Nero"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "身体恐怖",
     "accent": "#67a8a3",
@@ -6406,6 +10302,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2Njk3MTAzM15BMl5BanBnXkFtZTgwMTY5Mzk4NjE@..jpg",
     "imdbId": "tt0100150",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 148411,
+      "douban": null
+    },
+    "director": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "cast": [
+      "Gabriel Byrne",
+      "Albert Finney",
+      "John Turturro",
+      "Marcia Gay Harden",
+      "Jon Polito"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "身体恐怖",
     "accent": "#67a8a3",
@@ -6423,6 +10335,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTE2NDcxNzE4N15BMl5BanBnXkFtZTgwMDc1NTk4NjE@..jpg",
     "imdbId": "tt0099939",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 48909,
+      "douban": null
+    },
+    "director": [
+      "Abel Ferrara"
+    ],
+    "cast": [
+      "Christopher Walken",
+      "David Caruso",
+      "Laurence Fishburne",
+      "Victor Argo",
+      "Wesley Snipes"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "身体恐怖",
     "accent": "#67a8a3",
@@ -6457,6 +10384,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjdhNzZlYzYtYTBlNS00NTJiLWI2ZWUtMDI2YzI2MzM5NjY4XkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0101540",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 245109,
+      "douban": null
+    },
+    "director": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "Nick Nolte",
+      "Jessica Lange",
+      "Juliette Lewis",
+      "Joe Don Baker"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "身体恐怖",
     "accent": "#67a8a3",
@@ -6490,6 +10432,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0105236",
+    "ratings": {
+      "imdb": 8.3,
+      "imdbVotes": 1171873,
+      "douban": null
+    },
+    "director": [
+      "Quentin Tarantino"
+    ],
+    "cast": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen",
+      "Chris Penn",
+      "Steve Buscemi"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "邪典午夜",
     "accent": "#67a8a3",
@@ -6507,6 +10464,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWYxMDZkNmMtZjljNS00MDE5LTlmYmItMmVjZWU5NjQwYmI0L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0105690",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 103079,
+      "douban": null
+    },
+    "director": [
+      "Andrew Davis"
+    ],
+    "cast": [
+      "Steven Seagal",
+      "Gary Busey",
+      "Tommy Lee Jones",
+      "Erika Eleniak",
+      "Damian Chapa"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "邪典午夜",
     "accent": "#67a8a3",
@@ -6523,6 +10495,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjc0MThhNzMtZGVkNi00NmU5LTk4OWItM2YxYjFmNTRmMWM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0103678",
+    "ratings": {
+      "imdb": 4.7,
+      "imdbVotes": 3997,
+      "douban": null
+    },
+    "director": [
+      "Tony Randel"
+    ],
+    "cast": [
+      "Stephen Macht",
+      "Shawn Weatherly",
+      "Megan Ward",
+      "Damon Martin",
+      "Jonathan Penner"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "邪典午夜",
     "accent": "#67a8a3",
@@ -6556,6 +10543,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTVhOTdiNjgtMzUyZC00YTEzLTliM2QtNjYyMTNjOWM1NTg3XkEyXkFqcGdeQXVyMjUyNDk2ODc@..jpg",
     "imdbId": "tt0104779",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 46404,
+      "douban": null
+    },
+    "director": [
+      "Roman Polanski"
+    ],
+    "cast": [
+      "Hugh Grant",
+      "Kristin Scott Thomas",
+      "Emmanuelle Seigner",
+      "Peter Coyote",
+      "Victor Banerjee"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "邪典午夜",
     "accent": "#67a8a3",
@@ -6574,6 +10576,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2Mjk4MTEzN15BMl5BanBnXkFtZTgwNTExNTkwMzE@..jpg",
     "imdbId": "tt0103926",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 2033,
+      "douban": null
+    },
+    "director": [
+      "Guy Maddin"
+    ],
+    "cast": [
+      "Kyle McCulloch",
+      "Gosia Dobrowolska",
+      "Sarah Neville",
+      "Brent Neale",
+      "Paul Cox"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "邪典午夜",
     "accent": "#67a8a3",
@@ -6592,6 +10609,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxNjgxNDA4MV5BMl5BanBnXkFtZTcwNTY4NDEzMQ@@..jpg",
     "imdbId": "tt0105275",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 43611,
+      "douban": null
+    },
+    "director": [
+      "Geoffrey Wright"
+    ],
+    "cast": [
+      "Russell Crowe",
+      "Daniel Pollock",
+      "Jacqueline McKenzie",
+      "Alex Scott",
+      "Leigh Russell"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "惊悚悬念",
     "accent": "#67a8a3",
@@ -6610,6 +10642,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmQ1ZDc0MDAtNjVmYi00MDkxLWE5MDItZmJmNjcxZGEyMWRjXkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0106519",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 248525,
+      "douban": null
+    },
+    "director": [
+      "Brian De Palma"
+    ],
+    "cast": [
+      "Al Pacino",
+      "Sean Penn",
+      "Penelope Ann Miller",
+      "John Leguizamo",
+      "Ingrid Rogers"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "惊悚悬念",
     "accent": "#67a8a3",
@@ -6658,6 +10705,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzc4NTg1NTY4NF5BMl5BanBnXkFtZTcwMjAzMjEzMQ@@..jpg",
     "imdbId": "tt0106262",
+    "ratings": {
+      "imdb": 4,
+      "imdbVotes": 2875,
+      "douban": null
+    },
+    "director": [
+      "John Murlowski"
+    ],
+    "cast": [
+      "Ross Partridge",
+      "Julia Nickson",
+      "Lala Sloatman",
+      "David Naughton",
+      "Barbara Howard"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "惊悚悬念",
     "accent": "#67a8a3",
@@ -6676,6 +10738,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTNlYzhmNmUtYjdiMC00NGQ4LWFkYTItZGNiNmQ4YmEwZDc5XkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0106873",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 8935,
+      "douban": null
+    },
+    "director": [
+      "Carl Reiner"
+    ],
+    "cast": [
+      "Armand Assante",
+      "Sherilyn Fenn",
+      "Kate Nelligan",
+      "Sean Young",
+      "Christopher McDonald"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "惊悚悬念",
     "accent": "#67a8a3",
@@ -6694,6 +10771,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE2ODZhYzUtMTBhYi00ODgxLWJlNTAtODljN2Q2NDhjZmVhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0107302",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 62679,
+      "douban": null
+    },
+    "director": [
+      "Dominic Sena"
+    ],
+    "cast": [
+      "Brad Pitt",
+      "Juliette Lewis",
+      "Kathy Larson",
+      "David Milford",
+      "David Duchovny"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "惊悚悬念",
     "accent": "#67a8a3",
@@ -6728,6 +10820,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTUxNmZiOWQtOWFmMy00YTU1LTkzMGItOTRhZDA0ZDAwMDE5XkEyXkFqcGdeQXVyNDc2NjEyMw@@..jpg",
     "imdbId": "tt0107076",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 60046,
+      "douban": null
+    },
+    "director": [
+      "John Woo"
+    ],
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Lance Henriksen",
+      "Yancy Butler",
+      "Chuck Pfarrer",
+      "Robert Apisa"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "灾难恐惧",
     "accent": "#67a8a3",
@@ -6746,6 +10853,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTFlMDg2MGEtODk2My00MGNhLThkMDAtY2Y5OWNlM2FkNjQ1XkEyXkFqcGdeQXVyNTI4MjkwNjA@..jpg",
     "imdbId": "tt0107554",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 70346,
+      "douban": null
+    },
+    "director": [
+      "Albert Hughes",
+      "Allen Hughes"
+    ],
+    "cast": [
+      "Tyrin Turner",
+      "Larenz Tate",
+      "June Kyoto Lu",
+      "Toshi Toda",
+      "Samuel L. Jackson"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "灾难恐惧",
     "accent": "#67a8a3",
@@ -6779,6 +10902,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGYyYzgyODMtOGYwOC00OTM5LTk4NDUtNTRkN2I3YmUxNTM5XkEyXkFqcGdeQXVyMTAwMzUyOTc@..jpg",
     "imdbId": "tt0106881",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 26238,
+      "douban": null
+    },
+    "director": [
+      "Peter Weir"
+    ],
+    "cast": [
+      "Jeff Bridges",
+      "Isabella Rossellini",
+      "Rosie Perez",
+      "Tom Hulce",
+      "John Turturro"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "灾难恐惧",
     "accent": "#67a8a3",
@@ -6796,6 +10934,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWM4NTI2N2MtMWY2Mi00YzUwLTg4MDEtOWRjMTY4Njg0MDU4XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@..jpg",
     "imdbId": "tt0108162",
+    "ratings": {
+      "imdb": 5.1,
+      "imdbVotes": 37647,
+      "douban": null
+    },
+    "director": [
+      "Phillip Noyce"
+    ],
+    "cast": [
+      "Sharon Stone",
+      "William Baldwin",
+      "Tom Berenger",
+      "Polly Walker",
+      "Colleen Camp"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "灾难恐惧",
     "accent": "#67a8a3",
@@ -6814,6 +10967,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2EwMWVmODYtYjJmOC00ZDdiLWJmYzgtOGVhMzA2Mjc4ZjAwXkEyXkFqcGdeQXVyMTMxMTY0OTQ@..jpg",
     "imdbId": "tt0107057",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 6292,
+      "douban": null
+    },
+    "director": [
+      "Sidney Lumet"
+    ],
+    "cast": [
+      "Rebecca De Mornay",
+      "Don Johnson",
+      "Stephen Lang",
+      "Jack Warden",
+      "Dana Ivey"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "灾难恐惧",
     "accent": "#67a8a3",
@@ -6832,6 +11000,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWE2MzBjZmItNzk1My00YjE0LWI5ODItM2IwOWY5MzA1OTY5XkEyXkFqcGdeQXVyMTcxNTYyMjM@..jpg",
     "imdbId": "tt0107274",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 714,
+      "douban": null
+    },
+    "director": [
+      "Gustavo Graef Marino"
+    ],
+    "cast": [
+      "Armando Araiza",
+      "Patricia Rivera",
+      "Willy Semler",
+      "Aldo Parodi",
+      "Rodolfo Bravo"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "恐怖经典",
     "accent": "#67a8a3",
@@ -6849,6 +11032,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTc0ODlkMzEtNjE5My00ODA2LTg5ZjMtYWFjOTE1ZmNmMzk0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0108260",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 2256,
+      "douban": null
+    },
+    "director": [
+      "Scott McGehee",
+      "David Siegel"
+    ],
+    "cast": [
+      "Dennis Haysbert",
+      "Mel Harris",
+      "Sab Shimono",
+      "Dina Merrill",
+      "Michael Harris"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "恐怖经典",
     "accent": "#67a8a3",
@@ -6867,6 +11066,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyNzk4Mjk3Nl5BMl5BanBnXkFtZTcwNzIzNjcyMQ@@..jpg",
     "imdbId": "tt0107779",
+    "ratings": {
+      "imdb": 5.1,
+      "imdbVotes": 602,
+      "douban": null
+    },
+    "director": [
+      "Jerry Ciccoritti"
+    ],
+    "cast": [
+      "Leslie Hope",
+      "Peter Outerbridge",
+      "Victor Ertmanis",
+      "Dan Lett",
+      "Raoul Max Trujillo"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "恐怖经典",
     "accent": "#67a8a3",
@@ -6885,6 +11099,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTE5MDI4MV5BMl5BanBnXkFtZTcwODM4MDMzMQ@@..jpg",
     "imdbId": "tt0110620",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 3857,
+      "douban": null
+    },
+    "director": [
+      "Michael Almereyda"
+    ],
+    "cast": [
+      "Elina Löwensohn",
+      "Peter Fonda",
+      "Nic Ratner",
+      "Karl Geary",
+      "Martin Donovan"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "恐怖经典",
     "accent": "#67a8a3",
@@ -6902,6 +11131,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzhkNjE2YTQtYWQzNS00ZTkwLTg4YzAtNjNlYTRlMGEzYjcxL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0109635",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 58437,
+      "douban": null
+    },
+    "director": [
+      "Barry Levinson"
+    ],
+    "cast": [
+      "Michael Douglas",
+      "Demi Moore",
+      "Donald Sutherland",
+      "Caroline Goodall",
+      "Roma Maffia"
+    ],
     "category": "惊悚恐怖",
     "subcategory": "恐怖经典",
     "accent": "#67a8a3",
@@ -6953,6 +11197,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmYxZGU2NWYtNzQxZS00NmEyLWIzN2YtMDk5MWM0ODc5ZTE4XkEyXkFqcGdeQXVyNTA4NzY1MzY@..jpg",
     "imdbId": "tt0023969",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 64123,
+      "douban": null
+    },
+    "director": [
+      "Leo McCarey"
+    ],
+    "cast": [
+      "Groucho Marx",
+      "Harpo Marx",
+      "Chico Marx",
+      "Zeppo Marx",
+      "The Marx Brothers"
+    ],
     "category": "喜剧",
     "subcategory": "浪漫喜剧",
     "accent": "#8aa75a",
@@ -6970,6 +11229,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0025316",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 119902,
+      "douban": null
+    },
+    "director": [
+      "Frank Capra"
+    ],
+    "cast": [
+      "Clark Gable",
+      "Claudette Colbert",
+      "Walter Connolly",
+      "Roscoe Karns",
+      "Jameson Thomas"
+    ],
     "category": "喜剧",
     "subcategory": "浪漫喜剧",
     "accent": "#8aa75a",
@@ -7005,6 +11279,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTYxOTgzMTktNDVhYy00NjU3LWJjZmEtZWVlNDk1MThjZjkyXkEyXkFqcGdeQXVyNjc0MzMzNjA@..jpg",
     "imdbId": "tt0027125",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 22200,
+      "douban": null
+    },
+    "director": [
+      "Mark Sandrich"
+    ],
+    "cast": [
+      "Fred Astaire",
+      "Ginger Rogers",
+      "Edward Everett Horton",
+      "Erik Rhodes",
+      "Eric Blore"
+    ],
     "category": "喜剧",
     "subcategory": "浪漫喜剧",
     "accent": "#8aa75a",
@@ -7023,6 +11312,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyNDQ4NTg0NF5BMl5BanBnXkFtZTcwODM4OTQxMQ@@..jpg",
     "imdbId": "tt0026465",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 186,
+      "douban": null
+    },
+    "director": [
+      "Norman Z. McLeod"
+    ],
+    "cast": [
+      "George Burns",
+      "Gracie Allen",
+      "George Barbier",
+      "Betty Furness",
+      "Andrew Tombes"
+    ],
     "category": "喜剧",
     "subcategory": "浪漫喜剧",
     "accent": "#8aa75a",
@@ -7041,6 +11345,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmMwZTJlMTctYjM5Ni00Zjg4LWEzN2EtZmJlZjcyMmMzM2NiL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0028010",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 28702,
+      "douban": null
+    },
+    "director": [
+      "Gregory La Cava"
+    ],
+    "cast": [
+      "William Powell",
+      "Carole Lombard",
+      "Alice Brady",
+      "Gail Patrick",
+      "Eugene Pallette"
+    ],
     "category": "喜剧",
     "subcategory": "浪漫喜剧",
     "accent": "#8aa75a",
@@ -7091,6 +11410,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmVkOTRiYmItZjE4NS00MWNjLWE0ZmMtYzg5YzFjMjMyY2RkXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0029947",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 69300,
+      "douban": null
+    },
+    "director": [
+      "Howard Hawks"
+    ],
+    "cast": [
+      "Katharine Hepburn",
+      "Cary Grant",
+      "Charles Ruggles",
+      "Walter Catlett",
+      "Barry Fitzgerald"
+    ],
     "category": "喜剧",
     "subcategory": "讽刺喜剧",
     "accent": "#8aa75a",
@@ -7108,6 +11442,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0031679",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 129620,
+      "douban": null
+    },
+    "director": [
+      "Frank Capra"
+    ],
+    "cast": [
+      "James Stewart",
+      "Jean Arthur",
+      "Claude Rains",
+      "Edward Arnold",
+      "Guy Kibbee"
+    ],
     "category": "喜剧",
     "subcategory": "讽刺喜剧",
     "accent": "#8aa75a",
@@ -7125,6 +11474,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ1ZDg5MjctZmNkNC00M2E5LTgyMjEtMjg0NDVjMTBiZjFhXkEyXkFqcGdeQXVyNjc0MzMzNjA@..jpg",
     "imdbId": "tt0031725",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 24909,
+      "douban": null
+    },
+    "director": [
+      "Ernst Lubitsch"
+    ],
+    "cast": [
+      "Greta Garbo",
+      "Melvyn Douglas",
+      "Ina Claire",
+      "Bela Lugosi",
+      "Sig Ruman"
+    ],
     "category": "喜剧",
     "subcategory": "讽刺喜剧",
     "accent": "#8aa75a",
@@ -7159,6 +11523,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTU4ODdjNDYtZjk0Zi00ZDBmLTllODEtMzQ5NmYzZGEzNjVlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0032599",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 68040,
+      "douban": null
+    },
+    "director": [
+      "Howard Hawks"
+    ],
+    "cast": [
+      "Cary Grant",
+      "Rosalind Russell",
+      "Ralph Bellamy",
+      "Gene Lockhart",
+      "Porter Hall"
+    ],
     "category": "喜剧",
     "subcategory": "讽刺喜剧",
     "accent": "#8aa75a",
@@ -7192,6 +11571,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTc4NTdlMDItNDFhZC00NDZjLTgwMTItOTIzZTJlYTU3MDg2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0033891",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 16434,
+      "douban": null
+    },
+    "director": [
+      "Frank Capra"
+    ],
+    "cast": [
+      "Gary Cooper",
+      "Barbara Stanwyck",
+      "Edward Arnold",
+      "Walter Brennan",
+      "Spring Byington"
+    ],
     "category": "喜剧",
     "subcategory": "家庭喜剧",
     "accent": "#8aa75a",
@@ -7210,6 +11604,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@..jpg",
     "imdbId": "tt0035446",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 49936,
+      "douban": null
+    },
+    "director": [
+      "Ernst Lubitsch"
+    ],
+    "cast": [
+      "Carole Lombard",
+      "Jack Benny",
+      "Robert Stack",
+      "Felix Bressart",
+      "Lionel Atwill"
+    ],
     "category": "喜剧",
     "subcategory": "家庭喜剧",
     "accent": "#8aa75a",
@@ -7228,6 +11637,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzAxNzc2ZjQtZjRhYy00NmQwLThkNjMtMGIxNWIyZGRkYmI1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0042451",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 13513,
+      "douban": null
+    },
+    "director": [
+      "Vincente Minnelli"
+    ],
+    "cast": [
+      "Spencer Tracy",
+      "Joan Bennett",
+      "Elizabeth Taylor",
+      "Don Taylor",
+      "Billie Burke"
+    ],
     "category": "喜剧",
     "subcategory": "家庭喜剧",
     "accent": "#8aa75a",
@@ -7262,6 +11686,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@..jpg",
     "imdbId": "tt0045152",
+    "ratings": {
+      "imdb": 8.3,
+      "imdbVotes": 283290,
+      "douban": null
+    },
+    "director": [
+      "Stanley Donen",
+      "Gene Kelly"
+    ],
+    "cast": [
+      "Gene Kelly",
+      "Donald O'Connor",
+      "Debbie Reynolds",
+      "Jean Hagen",
+      "Millard Mitchell"
+    ],
     "category": "喜剧",
     "subcategory": "家庭喜剧",
     "accent": "#8aa75a",
@@ -7280,6 +11720,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTE2MDM4MTMtZmNkZC00Y2QyLWE0YjUtMTAxZGJmODMxMDM0XkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0046250",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 157690,
+      "douban": null
+    },
+    "director": [
+      "William Wyler"
+    ],
+    "cast": [
+      "Gregory Peck",
+      "Audrey Hepburn",
+      "Eddie Albert",
+      "Hartley Power",
+      "Harcourt Williams"
+    ],
     "category": "喜剧",
     "subcategory": "家庭喜剧",
     "accent": "#8aa75a",
@@ -7314,6 +11769,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmFlNTA1NWItODQxNC00YjFmLWE3ZWYtMzg3YTkwYmMxMjY2XkEyXkFqcGdeQXVyMTMxMTY0OTQ@..jpg",
     "imdbId": "tt0047437",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 76074,
+      "douban": null
+    },
+    "director": [
+      "Billy Wilder"
+    ],
+    "cast": [
+      "Humphrey Bogart",
+      "Audrey Hepburn",
+      "William Holden",
+      "Walter Hampden",
+      "John Williams"
+    ],
     "category": "喜剧",
     "subcategory": "青春喜剧",
     "accent": "#8aa75a",
@@ -7348,6 +11818,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzJkZmY2MGUtNjdlMy00ODVmLTliZjEtNTFjZGRhNTY0MWI1XkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0050419",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 35678,
+      "douban": null
+    },
+    "director": [
+      "Stanley Donen"
+    ],
+    "cast": [
+      "Audrey Hepburn",
+      "Fred Astaire",
+      "Kay Thompson",
+      "Michel Auclair",
+      "Robert Flemyng"
+    ],
     "category": "喜剧",
     "subcategory": "青春喜剧",
     "accent": "#8aa75a",
@@ -7366,6 +11851,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWIzNzlkMWUtY2VhYy00NWMwLTg3MWUtZWY4ODZjMjBiMmM1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0051658",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 24975,
+      "douban": null
+    },
+    "director": [
+      "Vincente Minnelli",
+      "Charles Walters"
+    ],
+    "cast": [
+      "Leslie Caron",
+      "Maurice Chevalier",
+      "Louis Jourdan",
+      "Hermione Gingold",
+      "Eva Gabor"
+    ],
     "category": "喜剧",
     "subcategory": "青春喜剧",
     "accent": "#8aa75a",
@@ -7400,6 +11901,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0053291",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 304691,
+      "douban": null
+    },
+    "director": [
+      "Billy Wilder"
+    ],
+    "cast": [
+      "Marilyn Monroe",
+      "Tony Curtis",
+      "Jack Lemmon",
+      "George Raft",
+      "Pat O'Brien"
+    ],
     "category": "喜剧",
     "subcategory": "青春喜剧",
     "accent": "#8aa75a",
@@ -7434,6 +11950,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGEwMTRmZTQtMDY4Ni00MTliLTk5ZmMtOWMxYWMyMTllMDg0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0054698",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 204949,
+      "douban": null
+    },
+    "director": [
+      "Blake Edwards"
+    ],
+    "cast": [
+      "Audrey Hepburn",
+      "George Peppard",
+      "Patricia Neal",
+      "Buddy Ebsen",
+      "Martin Balsam"
+    ],
     "category": "喜剧",
     "subcategory": "荒诞幽默",
     "accent": "#8aa75a",
@@ -7485,6 +12016,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4NjE4MzI0N15BMl5BanBnXkFtZTgwMzIwMTM0MDE@..jpg",
     "imdbId": "tt0066026",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 82961,
+      "douban": null
+    },
+    "director": [
+      "Robert Altman"
+    ],
+    "cast": [
+      "Donald Sutherland",
+      "Elliott Gould",
+      "Tom Skerritt",
+      "Sally Kellerman",
+      "Robert Duvall"
+    ],
     "category": "喜剧",
     "subcategory": "荒诞幽默",
     "accent": "#8aa75a",
@@ -7503,6 +12049,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2M5Mzg3NjctZTlkNy00MTU0LWFlYTQtY2E2Y2M4NjNiNzllXkEyXkFqcGdeQXVyMTAwMzUyOTc@..jpg",
     "imdbId": "tt0067185",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 85146,
+      "douban": null
+    },
+    "director": [
+      "Hal Ashby"
+    ],
+    "cast": [
+      "Ruth Gordon",
+      "Bud Cort",
+      "Vivian Pickles",
+      "Cyril Cusack",
+      "Charles Tyner"
+    ],
     "category": "喜剧",
     "subcategory": "荒诞幽默",
     "accent": "#8aa75a",
@@ -7519,6 +12080,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTE3MzI3MF5BMl5BanBnXkFtZTcwODg3OTYwNA@@..jpg",
     "imdbId": "tt0066808",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 40075,
+      "douban": null
+    },
+    "director": [
+      "Woody Allen"
+    ],
+    "cast": [
+      "Woody Allen",
+      "Louise Lasser",
+      "Carlos Montalbán",
+      "Nati Abascal",
+      "Jacobo Morales"
+    ],
     "category": "喜剧",
     "subcategory": "荒诞幽默",
     "accent": "#8aa75a",
@@ -7580,6 +12156,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx..jpg",
     "imdbId": "tt0072431",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 180401,
+      "douban": null
+    },
+    "director": [
+      "Mel Brooks"
+    ],
+    "cast": [
+      "Gene Wilder",
+      "Madeline Kahn",
+      "Marty Feldman",
+      "Peter Boyle",
+      "Cloris Leachman"
+    ],
     "category": "喜剧",
     "subcategory": "黑色幽默",
     "accent": "#8aa75a",
@@ -7597,6 +12188,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDg1OGQ4YzgtM2Y2NS00NjA3LWFjYTctMDRlMDI3NWE1OTUyXkEyXkFqcGdeQXVyMjUzOTY1NTc@..jpg",
     "imdbId": "tt0075686",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 291522,
+      "douban": null
+    },
+    "director": [
+      "Woody Allen"
+    ],
+    "cast": [
+      "Woody Allen",
+      "Diane Keaton",
+      "Tony Roberts",
+      "Carol Kane",
+      "Paul Simon"
+    ],
     "category": "喜剧",
     "subcategory": "黑色幽默",
     "accent": "#8aa75a",
@@ -7615,6 +12221,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDYwMDBiYWUtMDU0YS00YzEzLWJhYTctNGU0MDhmMzI4NWUxXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@..jpg",
     "imdbId": "tt0077631",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 326983,
+      "douban": null
+    },
+    "director": [
+      "Randal Kleiser"
+    ],
+    "cast": [
+      "John Travolta",
+      "Olivia Newton-John",
+      "Stockard Channing",
+      "Jeff Conaway",
+      "Barry Pearl"
+    ],
     "category": "喜剧",
     "subcategory": "黑色幽默",
     "accent": "#8aa75a",
@@ -7633,6 +12254,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzZkNzQwMzQtNWI5Ni00NzcyLWFhYWItM2U0YjI4MjAyYmM1L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0078446",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 43637,
+      "douban": null
+    },
+    "director": [
+      "Lou Adler",
+      "Tommy Chong"
+    ],
+    "cast": [
+      "Cheech Marin",
+      "Tommy Chong",
+      "Strother Martin",
+      "Edie Adams",
+      "Harold Fong"
+    ],
     "category": "喜剧",
     "subcategory": "黑色幽默",
     "accent": "#8aa75a",
@@ -7649,6 +12286,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0079470",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 434300,
+      "douban": null
+    },
+    "director": [
+      "Terry Jones"
+    ],
+    "cast": [
+      "Graham Chapman",
+      "John Cleese",
+      "Michael Palin",
+      "Terry Gilliam",
+      "Eric Idle"
+    ],
     "category": "喜剧",
     "subcategory": "黑色幽默",
     "accent": "#8aa75a",
@@ -7667,6 +12319,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzdmY2I3MmEtOGFiZi00MTg1LWIxY2QtNWUwM2NmNWNlY2U5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0079522",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 152881,
+      "douban": null
+    },
+    "director": [
+      "Woody Allen"
+    ],
+    "cast": [
+      "Woody Allen",
+      "Diane Keaton",
+      "Mariel Hemingway",
+      "Michael Murphy",
+      "Meryl Streep"
+    ],
     "category": "喜剧",
     "subcategory": "职场笑谈",
     "accent": "#8aa75a",
@@ -7684,6 +12351,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODg0NTZmNTUtNzBhOC00ZjU2LWJjYmEtYjc2ODhkZWRhYmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0078841",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 82059,
+      "douban": null
+    },
+    "director": [
+      "Hal Ashby"
+    ],
+    "cast": [
+      "Peter Sellers",
+      "Shirley MacLaine",
+      "Melvyn Douglas",
+      "Jack Warden",
+      "Richard Dysart"
+    ],
     "category": "喜剧",
     "subcategory": "职场笑谈",
     "accent": "#8aa75a",
@@ -7701,6 +12383,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNjkxMjUyMF5BMl5BanBnXkFtZTgwMzU0MjEyMDE@..jpg",
     "imdbId": "tt0081375",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 30920,
+      "douban": null
+    },
+    "director": [
+      "Howard Zieff"
+    ],
+    "cast": [
+      "Goldie Hawn",
+      "Eileen Brennan",
+      "Armand Assante",
+      "Robert Webber",
+      "Sam Wanamaker"
+    ],
     "category": "喜剧",
     "subcategory": "职场笑谈",
     "accent": "#8aa75a",
@@ -7735,6 +12432,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NzU2NjYyNF5BMl5BanBnXkFtZTgwMjg1MzQxMDE@..jpg",
     "imdbId": "tt0083131",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 86218,
+      "douban": null
+    },
+    "director": [
+      "Ivan Reitman"
+    ],
+    "cast": [
+      "Bill Murray",
+      "John Candy",
+      "Harold Ramis",
+      "Warren Oates",
+      "P.J. Soles"
+    ],
     "category": "喜剧",
     "subcategory": "职场笑谈",
     "accent": "#8aa75a",
@@ -7752,6 +12464,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjNmZDkyZWQtMmFkYi00NDNjLWJmY2QtMTE1YTIwN2E0OWEzXkEyXkFqcGdeQXVyMjI4MjA5MzA@..jpg",
     "imdbId": "tt0084370",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 11294,
+      "douban": null
+    },
+    "director": [
+      "Richard Benjamin"
+    ],
+    "cast": [
+      "Peter O'Toole",
+      "Mark Linn-Baker",
+      "Jessica Harper",
+      "Joseph Bologna",
+      "Bill Macy"
+    ],
     "category": "喜剧",
     "subcategory": "职场笑谈",
     "accent": "#8aa75a",
@@ -7770,6 +12497,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTdmYmNmMGUtNTE4Mi00OWE2LWI5MTItYzZkN2RlNTMyYzg0XkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0084865",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 25686,
+      "douban": null
+    },
+    "director": [
+      "Blake Edwards"
+    ],
+    "cast": [
+      "Julie Andrews",
+      "James Garner",
+      "Robert Preston",
+      "Lesley Ann Warren",
+      "Alex Karras"
+    ],
     "category": "喜剧",
     "subcategory": "职场笑谈",
     "accent": "#8aa75a",
@@ -7788,6 +12530,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjViYmViYzAtNzAxOC00YWM2LTg4M2YtZmQzYWJhZTQzMzkyXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0084021",
+    "ratings": {
+      "imdb": 4.6,
+      "imdbVotes": 41411,
+      "douban": null
+    },
+    "director": [
+      "Patricia Birch"
+    ],
+    "cast": [
+      "Michelle Pfeiffer",
+      "Maxwell Caulfield",
+      "Lorna Luft",
+      "Maureen Teefy",
+      "Alison Price"
+    ],
     "category": "喜剧",
     "subcategory": "公路喜剧",
     "accent": "#8aa75a",
@@ -7805,6 +12562,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODhiMmM3YzQtZjMwNy00YTdkLTkwOTItZDhjYWE1ZTVlNmExXkEyXkFqcGdeQXVyMjI4MjA5MzA@..jpg",
     "imdbId": "tt0085859",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 29836,
+      "douban": null
+    },
+    "director": [
+      "Bill Forsyth"
+    ],
+    "cast": [
+      "Burt Lancaster",
+      "Peter Riegert",
+      "Fulton Mackay",
+      "Denis Lawson",
+      "Norman Chancer"
+    ],
     "category": "喜剧",
     "subcategory": "公路喜剧",
     "accent": "#8aa75a",
@@ -7822,6 +12594,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MTIzMzg5Nl5BMl5BanBnXkFtZTgwOTc5NDI1MDE@..jpg",
     "imdbId": "tt0088258",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 160560,
+      "douban": null
+    },
+    "director": [
+      "Rob Reiner"
+    ],
+    "cast": [
+      "Rob Reiner",
+      "Michael McKean",
+      "Christopher Guest",
+      "Kimberly Stringer",
+      "Chazz Dominguez"
+    ],
     "category": "喜剧",
     "subcategory": "公路喜剧",
     "accent": "#8aa75a",
@@ -7839,6 +12626,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzRmMjE0MzMtZmQzYi00NjQ1LTk5ODgtYWEzZDViODkxNWFjXkEyXkFqcGdeQXVyNTI4MjkwNjA@..jpg",
     "imdbId": "tt0088794",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 53899,
+      "douban": null
+    },
+    "director": [
+      "Savage Steve Holland"
+    ],
+    "cast": [
+      "John Cusack",
+      "David Ogden Stiers",
+      "Kim Darby",
+      "Demian Slade",
+      "Scooter Stevens"
+    ],
     "category": "喜剧",
     "subcategory": "公路喜剧",
     "accent": "#8aa75a",
@@ -7856,6 +12658,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGUwZTEwZTYtZmQ0OS00NmM1LWE2ZTQtNjZiYmE4ZmUxMjk1XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0093822",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 161203,
+      "douban": null
+    },
+    "director": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "cast": [
+      "Nicolas Cage",
+      "Holly Hunter",
+      "Trey Wilson",
+      "John Goodman",
+      "William Forsythe"
+    ],
     "category": "喜剧",
     "subcategory": "公路喜剧",
     "accent": "#8aa75a",
@@ -7873,6 +12691,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGZhMWY4OTUtMTQ2Ni00NzE3LTk1ZTMtNzdkOGFmZTQ4NjY1XkEyXkFqcGdeQXVyMjI4MjA5MzA@..jpg",
     "imdbId": "tt0094155",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 10650,
+      "douban": null
+    },
+    "director": [
+      "Barry Levinson"
+    ],
+    "cast": [
+      "Richard Dreyfuss",
+      "Danny DeVito",
+      "Barbara Hershey",
+      "John Mahoney",
+      "Jackie Gayle"
+    ],
     "category": "喜剧",
     "subcategory": "公路喜剧",
     "accent": "#8aa75a",
@@ -7890,6 +12723,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjE3ODY5OWEtZmE0Mi00MjUxLTg5MmUtZmFkMzM1N2VjMmU5XkEyXkFqcGdeQXVyNTI4MjkwNjA@..jpg",
     "imdbId": "tt0094336",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 52348,
+      "douban": null
+    },
+    "director": [
+      "Bruce Robinson"
+    ],
+    "cast": [
+      "Richard E. Grant",
+      "Paul McGann",
+      "Richard Griffiths",
+      "Ralph Brown",
+      "Michael Elphick"
+    ],
     "category": "喜剧",
     "subcategory": "公路喜剧",
     "accent": "#8aa75a",
@@ -7923,6 +12771,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDgwN2QxODItOTcwZS00ZDA1LThjYzUtZTI5NWI3YWY4ZjM4XkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0098627",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 68390,
+      "douban": null
+    },
+    "director": [
+      "Ted Kotcheff"
+    ],
+    "cast": [
+      "Andrew McCarthy",
+      "Jonathan Silverman",
+      "Catherine Mary Stewart",
+      "Terry Kiser",
+      "Don Calfa"
+    ],
     "category": "喜剧",
     "subcategory": "身体喜剧",
     "accent": "#8aa75a",
@@ -7940,6 +12803,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0097165",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 656308,
+      "douban": null
+    },
+    "director": [
+      "Peter Weir"
+    ],
+    "cast": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke",
+      "Josh Charles",
+      "Gale Hansen"
+    ],
     "category": "喜剧",
     "subcategory": "身体喜剧",
     "accent": "#8aa75a",
@@ -7958,6 +12836,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@..jpg",
     "imdbId": "tt0098635",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 272617,
+      "douban": null
+    },
+    "director": [
+      "Rob Reiner"
+    ],
+    "cast": [
+      "Billy Crystal",
+      "Meg Ryan",
+      "Carrie Fisher",
+      "Bruno Kirby",
+      "Steven Ford"
+    ],
     "category": "喜剧",
     "subcategory": "身体喜剧",
     "accent": "#8aa75a",
@@ -7976,6 +12869,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1MTI5ODc3Nl5BMl5BanBnXkFtZTcwNjkyNDYyMQ@@..jpg",
     "imdbId": "tt0099334",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 27600,
+      "douban": null
+    },
+    "director": [
+      "Jean-Paul Rappeneau"
+    ],
+    "cast": [
+      "Gérard Depardieu",
+      "Anne Brochet",
+      "Vincent Perez",
+      "Jacques Weber",
+      "Roland Bertin"
+    ],
     "category": "喜剧",
     "subcategory": "身体喜剧",
     "accent": "#8aa75a",
@@ -8010,6 +12918,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzY2OTkzNzUyNl5BMl5BanBnXkFtZTgwNTY1NTk4NjE@..jpg",
     "imdbId": "tt0100436",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 33564,
+      "douban": null
+    },
+    "director": [
+      "Allan Moyle"
+    ],
+    "cast": [
+      "Christian Slater",
+      "Samantha Mathis",
+      "Anthony Luke Lucero",
+      "Andy Romano",
+      "Keith Stuart Thayer"
+    ],
     "category": "喜剧",
     "subcategory": "身体喜剧",
     "accent": "#8aa75a",
@@ -8027,6 +12950,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@..jpg",
     "imdbId": "tt0100405",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 407020,
+      "douban": null
+    },
+    "director": [
+      "Garry Marshall"
+    ],
+    "cast": [
+      "Richard Gere",
+      "Julia Roberts",
+      "Jason Alexander",
+      "Laura San Giacomo",
+      "Ralph Bellamy"
+    ],
     "category": "喜剧",
     "subcategory": "群像喜剧",
     "accent": "#8aa75a",
@@ -8045,6 +12983,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTQxMjM2MjQ0OF5BMl5BanBnXkFtZTcwMzYzMzYyOQ@@..jpg",
     "imdbId": "tt0103130",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 11807,
+      "douban": null
+    },
+    "director": [
+      "Hal Hartley"
+    ],
+    "cast": [
+      "Adrienne Shelly",
+      "Martin Donovan",
+      "Rebecca Nelson",
+      "John MacKay",
+      "Edie Falco"
+    ],
     "category": "喜剧",
     "subcategory": "群像喜剧",
     "accent": "#8aa75a",
@@ -8062,6 +13015,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjg5ZDM0MTEtYTZmNC00NDJiLWI5MTktYzk4N2QxY2IxZTc2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0101700",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 94439,
+      "douban": null
+    },
+    "director": [
+      "Marc Caro",
+      "Jean-Pierre Jeunet"
+    ],
+    "cast": [
+      "Marie-Laure Dougnac",
+      "Dominique Pinon",
+      "Pascal Benezech",
+      "Jean-Claude Dreyfus",
+      "Karin Viard"
+    ],
     "category": "喜剧",
     "subcategory": "群像喜剧",
     "accent": "#8aa75a",
@@ -8079,6 +13048,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzAyM2I3ZmYtNmNkZC00MGZmLWIyNGYtYzU2ZWFlMGRiNGJlXkEyXkFqcGdeQXVyNjMxODMyODU@..jpg",
     "imdbId": "tt0102536",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 71273,
+      "douban": null
+    },
+    "director": [
+      "Jim Jarmusch"
+    ],
+    "cast": [
+      "Winona Ryder",
+      "Gena Rowlands",
+      "Lisanne Falk",
+      "Alan Randolph Scott",
+      "Anthony Portillo"
+    ],
     "category": "喜剧",
     "subcategory": "群像喜剧",
     "accent": "#8aa75a",
@@ -8097,6 +13081,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTMxMjAxNDEzNl5BMl5BanBnXkFtZTcwNDEwODAzMQ@@..jpg",
     "imdbId": "tt0102014",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 2070,
+      "douban": null
+    },
+    "director": [
+      "Peter Chelsom"
+    ],
+    "cast": [
+      "Ned Beatty",
+      "Adrian Dunbar",
+      "Brian Flanagan",
+      "Constance Cowley",
+      "Marie Mullen"
+    ],
     "category": "喜剧",
     "subcategory": "群像喜剧",
     "accent": "#8aa75a",
@@ -8115,6 +13114,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTU0MzcwMjI0M15BMl5BanBnXkFtZTcwODAxNTUyMQ@@..jpg",
     "imdbId": "tt0102426",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 17773,
+      "douban": null
+    },
+    "director": [
+      "Gabriele Salvatores"
+    ],
+    "cast": [
+      "Diego Abatantuono",
+      "Claudio Bigagli",
+      "Giuseppe Cederna",
+      "Claudio Bisio",
+      "Gigio Alberti"
+    ],
     "category": "喜剧",
     "subcategory": "群像喜剧",
     "accent": "#8aa75a",
@@ -8146,6 +13160,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMjE5NjYzMF5BMl5BanBnXkFtZTcwMTQ1NjAwMQ@@..jpg",
     "imdbId": "tt0103095",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 42,
+      "douban": null
+    },
+    "director": [
+      "Barry Caillier"
+    ],
+    "cast": [
+      "Patricia Royce",
+      "Lorraine Devon Wilke",
+      "JD Souther",
+      "Wade Madsen",
+      "Billy Burke"
+    ],
     "category": "喜剧",
     "subcategory": "喜剧经典",
     "accent": "#8aa75a",
@@ -8179,6 +13208,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWM2OWI0OTAtYTVlOC00YTA0LTllMTItNWM5OTIwZDJlYWFmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0105435",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 67439,
+      "douban": null
+    },
+    "director": [
+      "Phil Alden Robinson"
+    ],
+    "cast": [
+      "Robert Redford",
+      "Dan Aykroyd",
+      "Sidney Poitier",
+      "Jo Marr",
+      "Gary Hershberger"
+    ],
     "category": "喜剧",
     "subcategory": "喜剧经典",
     "accent": "#8aa75a",
@@ -8196,6 +13240,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGY2MWQwZTMtNGY2MS00ZGE2LTk3MjQtNWQwNWY5OGI2NWJlXkEyXkFqcGdeQXVyNzc5MjA3OA@@..jpg",
     "imdbId": "tt0103850",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 14958,
+      "douban": null
+    },
+    "director": [
+      "Tim Robbins"
+    ],
+    "cast": [
+      "Tim Robbins",
+      "Giancarlo Esposito",
+      "Alan Rickman",
+      "Ray Wise",
+      "Brian Murray"
+    ],
     "category": "喜剧",
     "subcategory": "喜剧经典",
     "accent": "#8aa75a",
@@ -8214,6 +13273,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGFkMDgwNTUtMTA5NC00YzMzLTljY2EtMWFiNjQ4OTBjMWUzXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0105488",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 30981,
+      "douban": null
+    },
+    "director": [
+      "Baz Luhrmann"
+    ],
+    "cast": [
+      "Paul Mercurio",
+      "Tara Morice",
+      "Bill Hunter",
+      "Pat Thomson",
+      "Gia Carides"
+    ],
     "category": "喜剧",
     "subcategory": "喜剧经典",
     "accent": "#8aa75a",
@@ -8232,6 +13306,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDZmZDU5MGYtMTU3YS00NDczLWJmOTQtOTdlODk2NmMxZjllXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0103859",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 32539,
+      "douban": null
+    },
+    "director": [
+      "Reginald Hudlin"
+    ],
+    "cast": [
+      "Eddie Murphy",
+      "Robin Givens",
+      "Halle Berry",
+      "David Alan Grier",
+      "Martin Lawrence"
+    ],
     "category": "喜剧",
     "subcategory": "喜剧经典",
     "accent": "#8aa75a",
@@ -8280,6 +13369,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjA3NDQ2MDQ3OV5BMl5BanBnXkFtZTgwNjk2OTgzMjE@..jpg",
     "imdbId": "tt0024252",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 1663,
+      "douban": null
+    },
+    "director": [
+      "Max Ophüls"
+    ],
+    "cast": [
+      "Wolfgang Liebeneiner",
+      "Carl Esmond",
+      "Magda Schneider",
+      "Luise Ullrich",
+      "Olga Tschechowa"
+    ],
     "category": "爱情",
     "subcategory": "初恋故事",
     "accent": "#d8ad5c",
@@ -8298,6 +13402,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWQwOWVkMGItMDU2Yy00YjIzLWJkMjEtNmVkZjE3MjMwYzEzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0031381",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 356097,
+      "douban": null
+    },
+    "director": [
+      "Victor Fleming"
+    ],
+    "cast": [
+      "Clark Gable",
+      "Vivien Leigh",
+      "Thomas Mitchell",
+      "Barbara O'Neil",
+      "Evelyn Keyes"
+    ],
     "category": "爱情",
     "subcategory": "初恋故事",
     "accent": "#d8ad5c",
@@ -8315,6 +13434,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGVjYzU4NjAtOWVkYi00OWQ3LWEwYzMtOTI2ZWY3YTQ1ZGM4L2ltYWdlXkEyXkFqcGdeQXVyNDQzMDg4Nzk@..jpg",
     "imdbId": "tt0034012",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 8910,
+      "douban": null
+    },
+    "director": [
+      "George Stevens"
+    ],
+    "cast": [
+      "Cary Grant",
+      "Irene Dunne",
+      "Beulah Bondi",
+      "Edgar Buchanan",
+      "Ann Doran"
+    ],
     "category": "爱情",
     "subcategory": "初恋故事",
     "accent": "#d8ad5c",
@@ -8333,6 +13467,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@..jpg",
     "imdbId": "tt0034583",
+    "ratings": {
+      "imdb": 8.5,
+      "imdbVotes": 655822,
+      "douban": null
+    },
+    "director": [
+      "Michael Curtiz"
+    ],
+    "cast": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid",
+      "Claude Rains",
+      "Conrad Veidt"
+    ],
     "category": "爱情",
     "subcategory": "初恋故事",
     "accent": "#d8ad5c",
@@ -8367,6 +13516,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWI1NzdhYTMtZGE2ZS00ZjJjLThmZWQtNjY4ODcxNWM2YjQ3XkEyXkFqcGdeQXVyMTI1NDQ4NQ@@..jpg",
     "imdbId": "tt0039152",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 7410,
+      "douban": null
+    },
+    "director": [
+      "James Edward Grant"
+    ],
+    "cast": [
+      "John Wayne",
+      "Gail Russell",
+      "Harry Carey",
+      "Bruce Cabot",
+      "Irene Rich"
+    ],
     "category": "爱情",
     "subcategory": "初恋故事",
     "accent": "#d8ad5c",
@@ -8400,6 +13564,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2YxNjI5OWMtYjhmOS00ODBjLThiOTYtMTdiMjJmNzRmNzNhXkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0048491",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 10707,
+      "douban": null
+    },
+    "director": [
+      "Joshua Logan"
+    ],
+    "cast": [
+      "William Holden",
+      "Kim Novak",
+      "Betty Field",
+      "Susan Strasberg",
+      "Cliff Robertson"
+    ],
     "category": "爱情",
     "subcategory": "都市爱情",
     "accent": "#d8ad5c",
@@ -8433,6 +13612,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5MTEzMzE4MF5BMl5BanBnXkFtZTcwMDAzMTUyMg@@..jpg",
     "imdbId": "tt0058385",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 107949,
+      "douban": null
+    },
+    "director": [
+      "George Cukor"
+    ],
+    "cast": [
+      "Audrey Hepburn",
+      "Rex Harrison",
+      "Stanley Holloway",
+      "Wilfrid Hyde-White",
+      "Gladys Cooper"
+    ],
     "category": "爱情",
     "subcategory": "都市爱情",
     "accent": "#d8ad5c",
@@ -8450,6 +13644,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjNkNGJjYWEtM2IyNi00ZjM5LWFlYjYtYjQ4NTU5MGFlMTI2XkEyXkFqcGdeQXVyMTMxMTY0OTQ@..jpg",
     "imdbId": "tt0061395",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 53591,
+      "douban": null
+    },
+    "director": [
+      "Luis Buñuel"
+    ],
+    "cast": [
+      "Catherine Deneuve",
+      "Jean Sorel",
+      "Michel Piccoli",
+      "Geneviève Page",
+      "Pierre Clémenti"
+    ],
     "category": "爱情",
     "subcategory": "都市爱情",
     "accent": "#d8ad5c",
@@ -8483,6 +13692,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ3NGFjY2ItZDRjOS00N2NjLTk2YTAtNWY4NWYyMzFhZjI1XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0080714",
+    "ratings": {
+      "imdb": 5,
+      "imdbVotes": 504,
+      "douban": null
+    },
+    "director": [
+      "Steven Paul"
+    ],
+    "cast": [
+      "Elliott Gould",
+      "Susannah York",
+      "Michelle Pfeiffer",
+      "Kaye Ballard",
+      "Stuart Paul"
+    ],
     "category": "爱情",
     "subcategory": "都市爱情",
     "accent": "#d8ad5c",
@@ -8500,6 +13724,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NDUyYTEtMzkyZi00YjMzLTkwMDUtYWMzNjIwNmM5NWQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0084707",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 55924,
+      "douban": null
+    },
+    "director": [
+      "Alan J. Pakula"
+    ],
+    "cast": [
+      "Meryl Streep",
+      "Kevin Kline",
+      "Peter MacNicol",
+      "Rita Karin",
+      "Stephen D. Newman"
+    ],
     "category": "爱情",
     "subcategory": "婚姻关系",
     "accent": "#d8ad5c",
@@ -8534,6 +13773,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3MDY3ODQ2OV5BMl5BanBnXkFtZTgwOTQ2NTYxMTE@..jpg",
     "imdbId": "tt0092890",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 280959,
+      "douban": null
+    },
+    "director": [
+      "Emile Ardolino"
+    ],
+    "cast": [
+      "Patrick Swayze",
+      "Jennifer Grey",
+      "Jerry Orbach",
+      "Cynthia Rhodes",
+      "Jack Weston"
+    ],
     "category": "爱情",
     "subcategory": "婚姻关系",
     "accent": "#d8ad5c",
@@ -8551,6 +13805,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzM5ODExMjc5MV5BMl5BanBnXkFtZTgwODc3MjEyMDE@..jpg",
     "imdbId": "tt0094006",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 37672,
+      "douban": null
+    },
+    "director": [
+      "Howard Deutch"
+    ],
+    "cast": [
+      "Eric Stoltz",
+      "Mary Stuart Masterson",
+      "Lea Thompson",
+      "Craig Sheffer",
+      "John Ashton"
+    ],
     "category": "爱情",
     "subcategory": "婚姻关系",
     "accent": "#d8ad5c",
@@ -8568,6 +13837,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@..jpg",
     "imdbId": "tt0095765",
+    "ratings": {
+      "imdb": 8.5,
+      "imdbVotes": 317317,
+      "douban": null
+    },
+    "director": [
+      "Giuseppe Tornatore"
+    ],
+    "cast": [
+      "Philippe Noiret",
+      "Enzo Cannavale",
+      "Antonella Attili",
+      "Isa Danieli",
+      "Leo Gullotta"
+    ],
     "category": "爱情",
     "subcategory": "婚姻关系",
     "accent": "#d8ad5c",
@@ -8601,6 +13885,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNjY5NDcwNV5BMl5BanBnXkFtZTcwNzEwMzg4NA@@..jpg",
     "imdbId": "tt0101640",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 38121,
+      "douban": null
+    },
+    "director": [
+      "Yimou Zhang"
+    ],
+    "cast": [
+      "Gong Li",
+      "Jingwu Ma",
+      "Saifei He",
+      "Cuifen Cao",
+      "Qi Zhao"
+    ],
     "category": "爱情",
     "subcategory": "婚姻关系",
     "accent": "#d8ad5c",
@@ -8619,6 +13918,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjk0YmJkNjItNDY3Mi00ZWFiLWEwY2EtMDJlZWJlOWZkNzJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0103772",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 244341,
+      "douban": null
+    },
+    "director": [
+      "Paul Verhoeven"
+    ],
+    "cast": [
+      "Michael Douglas",
+      "Sharon Stone",
+      "George Dzundza",
+      "Jeanne Tripplehorn",
+      "Denis Arndt"
+    ],
     "category": "爱情",
     "subcategory": "时代恋人",
     "accent": "#d8ad5c",
@@ -8688,6 +14002,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1ODU3NjI4M15BMl5BanBnXkFtZTcwNjA3ODcxMQ@@..jpg",
     "imdbId": "tt0104403",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 500,
+      "douban": null
+    },
+    "director": [
+      "Paul Turner"
+    ],
+    "cast": [
+      "Huw Garmon",
+      "Catrin Fychan",
+      "Ceri Cunnington",
+      "Llio Silyn",
+      "Grey Evans"
+    ],
     "category": "爱情",
     "subcategory": "时代恋人",
     "accent": "#d8ad5c",
@@ -8705,6 +14034,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3OTE5ODA0NV5BMl5BanBnXkFtZTcwNDE2NDMyMQ@@..jpg",
     "imdbId": "tt0105729",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 288,
+      "douban": null
+    },
+    "director": [
+      "Henry Jaglom"
+    ],
+    "cast": [
+      "Nelly Alard",
+      "Henry Jaglom",
+      "Melissa Leo",
+      "Suzanne Bertish",
+      "Daphna Kastner"
+    ],
     "category": "爱情",
     "subcategory": "时代恋人",
     "accent": "#d8ad5c",
@@ -8723,6 +14067,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2Q3YTU4OTgtZTc0My00YmY1LWJmOTQtMmMwNGE2ZjBmNmIxXkEyXkFqcGdeQXVyMTAwMzUyOTc@..jpg",
     "imdbId": "tt0107616",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 55725,
+      "douban": null
+    },
+    "director": [
+      "Kenneth Branagh"
+    ],
+    "cast": [
+      "Kenneth Branagh",
+      "Emma Thompson",
+      "Keanu Reeves",
+      "Kate Beckinsale",
+      "Richard Briers"
+    ],
     "category": "爱情",
     "subcategory": "时代恋人",
     "accent": "#d8ad5c",
@@ -8741,6 +14100,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTNiMWUzNGItMzYzMy00MWZmLTk3MTQtOWUxNDQ1ZDljMGE0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0108160",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 207886,
+      "douban": null
+    },
+    "director": [
+      "Nora Ephron"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Meg Ryan",
+      "Ross Malinger",
+      "Rita Wilson",
+      "Victor Garber"
+    ],
     "category": "爱情",
     "subcategory": "爱情喜剧",
     "accent": "#d8ad5c",
@@ -8758,6 +14132,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjU0YzdhNjYtNzdlZi00ZDIwLWIzNWUtOWE2NmVjOGI2ZThiXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0108174",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 46037,
+      "douban": null
+    },
+    "director": [
+      "Thomas Schlamme"
+    ],
+    "cast": [
+      "Mike Myers",
+      "Nancy Travis",
+      "Anthony LaPaglia",
+      "Amanda Plummer",
+      "Brenda Fricker"
+    ],
     "category": "爱情",
     "subcategory": "爱情喜剧",
     "accent": "#d8ad5c",
@@ -8776,6 +14165,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTJkN2VhNGQtOWYwMS00NjYwLWJhYTgtMGNmMDkzMDBlZDdhXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@..jpg",
     "imdbId": "tt0108399",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 261053,
+      "douban": null
+    },
+    "director": [
+      "Tony Scott"
+    ],
+    "cast": [
+      "Christian Slater",
+      "Patricia Arquette",
+      "Dennis Hopper",
+      "Val Kilmer",
+      "Gary Oldman"
+    ],
     "category": "爱情",
     "subcategory": "爱情喜剧",
     "accent": "#d8ad5c",
@@ -8794,6 +14198,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjdhOWE4MDMtZGM5Zi00Mzc1LTkyNWUtYWQ1ODU4NGEyZDhiXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0106471",
+    "ratings": {
+      "imdb": 4.8,
+      "imdbVotes": 13993,
+      "douban": null
+    },
+    "director": [
+      "Jennifer Lynch"
+    ],
+    "cast": [
+      "Julian Sands",
+      "Sherilyn Fenn",
+      "Bill Paxton",
+      "Kurtwood Smith",
+      "Art Garfunkel"
+    ],
     "category": "爱情",
     "subcategory": "爱情喜剧",
     "accent": "#d8ad5c",
@@ -8828,6 +14247,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTkzZmM5YjUtNDE3MS00ZTdjLWFmMTMtNzUyOTVjYmJjY2ZmXkEyXkFqcGdeQXVyMTE2OTg4Mjg@..jpg",
     "imdbId": "tt0107983",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 16741,
+      "douban": null
+    },
+    "director": [
+      "Peter Medak"
+    ],
+    "cast": [
+      "Gary Oldman",
+      "Lena Olin",
+      "Wallace Wood",
+      "Juliette Lewis",
+      "David Proval"
+    ],
     "category": "爱情",
     "subcategory": "爱情喜剧",
     "accent": "#d8ad5c",
@@ -8846,6 +14280,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWY1YWUwNjQtMDk2Zi00MDJiLWIzMDAtNzAyNjJiYTFlMGI0XkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0108186",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 23607,
+      "douban": null
+    },
+    "director": [
+      "Steve Rash"
+    ],
+    "cast": [
+      "Pauly Shore",
+      "Carla Gugino",
+      "Lane Smith",
+      "Cindy Pickett",
+      "Mason Adams"
+    ],
     "category": "爱情",
     "subcategory": "爱情喜剧",
     "accent": "#d8ad5c",
@@ -8879,6 +14328,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGVlM2I0NDUtYjQ4ZC00NTJjLTkzZGUtZGM5NGZjZDQwOWZkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0106673",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 60320,
+      "douban": null
+    },
+    "director": [
+      "Ivan Reitman"
+    ],
+    "cast": [
+      "Kevin Kline",
+      "Sigourney Weaver",
+      "Frank Langella",
+      "Kevin Dunn",
+      "Ving Rhames"
+    ],
     "category": "爱情",
     "subcategory": "爱情悲剧",
     "accent": "#d8ad5c",
@@ -8897,6 +14361,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI4NjgwMDMyMl5BMl5BanBnXkFtZTcwNTM4MDMzMQ@@..jpg",
     "imdbId": "tt0108101",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 21617,
+      "douban": null
+    },
+    "director": [
+      "Richard Attenborough"
+    ],
+    "cast": [
+      "Anthony Hopkins",
+      "Debra Winger",
+      "Julian Fellowes",
+      "Roddy Maude-Roxby",
+      "Michael Denison"
+    ],
     "category": "爱情",
     "subcategory": "爱情悲剧",
     "accent": "#d8ad5c",
@@ -8915,6 +14394,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMzkyNjIzMl5BMl5BanBnXkFtZTcwMDMyNDcyNA@@..jpg",
     "imdbId": "tt0106387",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 65426,
+      "douban": null
+    },
+    "director": [
+      "Jeremiah S. Chechik"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Mary Stuart Masterson",
+      "Aidan Quinn",
+      "Julianne Moore",
+      "Oliver Platt"
+    ],
     "category": "爱情",
     "subcategory": "爱情悲剧",
     "accent": "#d8ad5c",
@@ -8932,6 +14426,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTk0YjE0ZTAtNDcyZC00MmRhLWFhYWQtZDVjN2U3ZDdjN2UzXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0107840",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 18436,
+      "douban": null
+    },
+    "director": [
+      "John Singleton"
+    ],
+    "cast": [
+      "Janet Jackson",
+      "Tupac Shakur",
+      "Regina King",
+      "Joe Torry",
+      "Khandi Alexander"
+    ],
     "category": "爱情",
     "subcategory": "爱情悲剧",
     "accent": "#d8ad5c",
@@ -8950,6 +14459,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzg2NDI4MTM5OF5BMl5BanBnXkFtZTYwODU0ODU5..jpg",
     "imdbId": "tt0106332",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 37230,
+      "douban": null
+    },
+    "director": [
+      "Kaige Chen"
+    ],
+    "cast": [
+      "Leslie Cheung",
+      "Fengyi Zhang",
+      "Gong Li",
+      "You Ge",
+      "Da Ying"
+    ],
     "category": "爱情",
     "subcategory": "爱情悲剧",
     "accent": "#d8ad5c",
@@ -8967,6 +14491,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5MTY4ODExNF5BMl5BanBnXkFtZTcwMzM1ODUxMQ@@..jpg",
     "imdbId": "tt0108000",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 3437,
+      "douban": null
+    },
+    "director": [
+      "Victor Nunez"
+    ],
+    "cast": [
+      "Ashley Judd",
+      "Todd Field",
+      "Bentley Mitchum",
+      "Allison Dean",
+      "Dorothy Lyman"
+    ],
     "category": "爱情",
     "subcategory": "爱情悲剧",
     "accent": "#d8ad5c",
@@ -8985,6 +14524,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzEzNTA3N2MtNzEyNC00ZDA3LTkwNGMtYWEyODRlNjZhZDQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0106926",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 6559,
+      "douban": null
+    },
+    "director": [
+      "Steve Kloves"
+    ],
+    "cast": [
+      "Dennis Quaid",
+      "Meg Ryan",
+      "James Caan",
+      "Julia McNeal",
+      "Ron Kuhlman"
+    ],
     "category": "爱情",
     "subcategory": "重逢错过",
     "accent": "#d8ad5c",
@@ -9003,6 +14557,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjg1NGE4YjQtNGU3Yi00ZWJiLWFkZGYtY2Y2YTE0Njc3YTdiXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0106941",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 16731,
+      "douban": null
+    },
+    "director": [
+      "Barry Sonnenfeld"
+    ],
+    "cast": [
+      "Michael J. Fox",
+      "Gabrielle Anwar",
+      "Anthony Higgins",
+      "Michael Tucker",
+      "Bob Balaban"
+    ],
     "category": "爱情",
     "subcategory": "重逢错过",
     "accent": "#d8ad5c",
@@ -9020,6 +14589,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzYxNzgyODE1NF5BMl5BanBnXkFtZTcwMTgyODYxMQ@@..jpg",
     "imdbId": "tt0107575",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 187,
+      "douban": null
+    },
+    "director": [
+      "Leone Pompucci"
+    ],
+    "cast": [
+      "Carla Benedetti",
+      "Matteo Fadda",
+      "Giacomo Fadda",
+      "Stefano Masciarelli",
+      "Nicoletta Boris"
+    ],
     "category": "爱情",
     "subcategory": "重逢错过",
     "accent": "#d8ad5c",
@@ -9037,6 +14621,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODhhMGEwOGEtNDJjMi00OWQ1LThlZjItNTk3Y2IzZThlNjdkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@..jpg",
     "imdbId": "tt0107468",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 11774,
+      "douban": null
+    },
+    "director": [
+      "David Cronenberg"
+    ],
+    "cast": [
+      "Jeremy Irons",
+      "John Lone",
+      "Barbara Sukowa",
+      "Ian Richardson",
+      "Annabel Leventon"
+    ],
     "category": "爱情",
     "subcategory": "重逢错过",
     "accent": "#d8ad5c",
@@ -9054,6 +14653,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjg1OTc2NjU5OV5BMl5BanBnXkFtZTcwNjMwNDAyMQ@@..jpg",
     "imdbId": "tt0107611",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 8013,
+      "douban": null
+    },
+    "director": [
+      "Mike Figgis",
+      "Jon Amiel"
+    ],
+    "cast": [
+      "Richard Gere",
+      "Lena Olin",
+      "Anne Bancroft",
+      "Tom Irwin",
+      "Delroy Lindo"
+    ],
     "category": "爱情",
     "subcategory": "重逢错过",
     "accent": "#d8ad5c",
@@ -9071,6 +14686,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1ODYwNzI1OF5BMl5BanBnXkFtZTcwNjMxODcxMQ@@..jpg",
     "imdbId": "tt0106537",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 442,
+      "douban": null
+    },
+    "director": [
+      "Stephen Poliakoff"
+    ],
+    "cast": [
+      "Charles Dance",
+      "Clive Owen",
+      "Miranda Richardson",
+      "Robert Stephens",
+      "Joan Hickson"
+    ],
     "category": "爱情",
     "subcategory": "重逢错过",
     "accent": "#d8ad5c",
@@ -9088,6 +14718,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0NzE2MzA2NF5BMl5BanBnXkFtZTgwNDc3NTkwMzE@..jpg",
     "imdbId": "tt0107471",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 2368,
+      "douban": null
+    },
+    "director": [
+      "André Téchiné"
+    ],
+    "cast": [
+      "Catherine Deneuve",
+      "Daniel Auteuil",
+      "Marthe Villalonga",
+      "Jean-Pierre Bouvier",
+      "Chiara Mastroianni"
+    ],
     "category": "爱情",
     "subcategory": "重逢错过",
     "accent": "#d8ad5c",
@@ -9106,6 +14751,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzMjY3MDY4Ml5BMl5BanBnXkFtZTcwMjY2MzcyMQ@@..jpg",
     "imdbId": "tt0106834",
+    "ratings": {
+      "imdb": 4.3,
+      "imdbVotes": 8241,
+      "douban": null
+    },
+    "director": [
+      "Gus Van Sant"
+    ],
+    "cast": [
+      "Uma Thurman",
+      "Lorraine Bracco",
+      "Pat Morita",
+      "Angie Dickinson",
+      "Keanu Reeves"
+    ],
     "category": "爱情",
     "subcategory": "异国恋曲",
     "accent": "#d8ad5c",
@@ -9123,6 +14783,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjViOGU4ZjctMjQ1Mi00MzliLTk2ZDgtYWU3ZGZlMjNjNGMzXkEyXkFqcGdeQXVyMjQzMzQzODY@..jpg",
     "imdbId": "tt0107002",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 6172,
+      "douban": null
+    },
+    "director": [
+      "Claude Berri"
+    ],
+    "cast": [
+      "Renaud",
+      "Gérard Depardieu",
+      "Miou-Miou",
+      "Jean Carmet",
+      "Judith Henry"
+    ],
     "category": "爱情",
     "subcategory": "异国恋曲",
     "accent": "#d8ad5c",
@@ -9140,6 +14815,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWI3OWE2ODYtMzE0NC00ZGI4LTk1MTAtZWUxMDU1NDE0M2U3XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0107613",
+    "ratings": {
+      "imdb": 5.9,
+      "imdbVotes": 3826,
+      "douban": null
+    },
+    "director": [
+      "Anthony Minghella"
+    ],
+    "cast": [
+      "Matt Dillon",
+      "Annabella Sciorra",
+      "Mary-Louise Parker",
+      "William Hurt",
+      "Vincent D'Onofrio"
+    ],
     "category": "爱情",
     "subcategory": "异国恋曲",
     "accent": "#d8ad5c",
@@ -9174,6 +14864,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NTQxMjc5MV5BMl5BanBnXkFtZTcwMjYxODcxMQ@@..jpg",
     "imdbId": "tt0111797",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 25254,
+      "douban": null
+    },
+    "director": [
+      "Ang Lee"
+    ],
+    "cast": [
+      "Sihung Lung",
+      "Kuei-Mei Yang",
+      "Wang Yu-wen",
+      "Chien-Lien Wu",
+      "Sylvia Chang"
+    ],
     "category": "爱情",
     "subcategory": "异国恋曲",
     "accent": "#d8ad5c",
@@ -9191,6 +14896,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2VkMzZlMTctZjVlOS00NmQ1LTg1ZDItMDc5NzhlNDRhMjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0110099",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 27729,
+      "douban": null
+    },
+    "director": [
+      "Fred Schepisi"
+    ],
+    "cast": [
+      "Tim Robbins",
+      "Meg Ryan",
+      "Walter Matthau",
+      "Lou Jacobi",
+      "Gene Saks"
+    ],
     "category": "爱情",
     "subcategory": "异国恋曲",
     "accent": "#d8ad5c",
@@ -9209,6 +14929,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMjYxNTAyN15BMl5BanBnXkFtZTgwMTc3MjkyMTE@..jpg",
     "imdbId": "tt0110322",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 200314,
+      "douban": null
+    },
+    "director": [
+      "Edward Zwick"
+    ],
+    "cast": [
+      "Brad Pitt",
+      "Anthony Hopkins",
+      "Aidan Quinn",
+      "Julia Ormond",
+      "Henry Thomas"
+    ],
     "category": "爱情",
     "subcategory": "异国恋曲",
     "accent": "#d8ad5c",
@@ -9226,6 +14961,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2NTU2Nzc0MV5BMl5BanBnXkFtZTcwMzY1OTM2MQ@@..jpg",
     "imdbId": "tt0110632",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 268264,
+      "douban": null
+    },
+    "director": [
+      "Oliver Stone"
+    ],
+    "cast": [
+      "Woody Harrelson",
+      "Juliette Lewis",
+      "O-Lan Jones",
+      "Ed White",
+      "Richard Lineback"
+    ],
     "category": "爱情",
     "subcategory": "家庭与爱情",
     "accent": "#d8ad5c",
@@ -9243,6 +14993,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzAyYzQ0ODQtNzNhMi00NWVkLTk1YTItODE4Y2U4YmE0NDgzXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0110889",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 11781,
+      "douban": null
+    },
+    "director": [
+      "Antonia Bird"
+    ],
+    "cast": [
+      "Linus Roache",
+      "Tom Wilkinson",
+      "Robert Carlyle",
+      "Cathy Tyson",
+      "Lesley Sharp"
+    ],
     "category": "爱情",
     "subcategory": "家庭与爱情",
     "accent": "#d8ad5c",
@@ -9261,6 +15026,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTg1MmNiMjItMmY4Yy00ZDQ3LThjMzYtZGQ0ZTQzNTdkMGQ1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0111495",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 115994,
+      "douban": null
+    },
+    "director": [
+      "Krzysztof Kieślowski"
+    ],
+    "cast": [
+      "Irène Jacob",
+      "Jean-Louis Trintignant",
+      "Frédérique Feder",
+      "Jean-Pierre Lorit",
+      "Samuel Le Bihan"
+    ],
     "category": "爱情",
     "subcategory": "家庭与爱情",
     "accent": "#d8ad5c",
@@ -9279,6 +15059,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTliYTI1YTctMTE0Mi00NDM0LThjZDgtYmY3NGNiODBjZjAwXkEyXkFqcGdeQXVyMTAwMzUyOTc@..jpg",
     "imdbId": "tt0111507",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 84664,
+      "douban": null
+    },
+    "director": [
+      "Krzysztof Kieślowski"
+    ],
+    "cast": [
+      "Zbigniew Zamachowski",
+      "Julie Delpy",
+      "Janusz Gajos",
+      "Jerzy Stuhr",
+      "Aleksander Bardini"
+    ],
     "category": "爱情",
     "subcategory": "家庭与爱情",
     "accent": "#d8ad5c",
@@ -9313,6 +15108,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0109830",
+    "ratings": {
+      "imdb": 8.8,
+      "imdbVotes": 2503259,
+      "douban": null
+    },
+    "director": [
+      "Robert Zemeckis"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field",
+      "Rebecca Williams"
+    ],
     "category": "爱情",
     "subcategory": "家庭与爱情",
     "accent": "#d8ad5c",
@@ -9331,6 +15141,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyNzg2NzgxNV5BMl5BanBnXkFtZTcwMTcxNzczNA@@..jpg",
     "imdbId": "tt0109831",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 182581,
+      "douban": null
+    },
+    "director": [
+      "Mike Newell"
+    ],
+    "cast": [
+      "Hugh Grant",
+      "Andie MacDowell",
+      "James Fleet",
+      "Simon Callow",
+      "John Hannah"
+    ],
     "category": "爱情",
     "subcategory": "家庭与爱情",
     "accent": "#d8ad5c",
@@ -9365,6 +15190,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWIzMTEwNGUtN2Y5MS00NTAzLTljZDktMTBkZGZiNGFiZjM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0111590",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 5672,
+      "douban": null
+    },
+    "director": [
+      "Louis Malle"
+    ],
+    "cast": [
+      "Wallace Shawn",
+      "Phoebe Brand",
+      "George Gaynes",
+      "Jerry Mayer",
+      "Lynn Cohen"
+    ],
     "category": "爱情",
     "subcategory": "成长爱情",
     "accent": "#d8ad5c",
@@ -9383,6 +15223,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDY3ZjIyOGMtZjI3YS00YTUxLTg4YjAtODhjNWM1Nzk4MDE3XkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0109836",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 63978,
+      "douban": null
+    },
+    "director": [
+      "Kenneth Branagh"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "Kenneth Branagh",
+      "Helena Bonham Carter",
+      "Tom Hulce",
+      "Aidan Quinn"
+    ],
     "category": "爱情",
     "subcategory": "成长爱情",
     "accent": "#d8ad5c",
@@ -9401,6 +15256,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjY3NTgxZGItMWU2Mi00OTQ0LTg2OGQtYWI3NzU4MTYxMTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0111742",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 64549,
+      "douban": null
+    },
+    "director": [
+      "Mike Nichols"
+    ],
+    "cast": [
+      "Jack Nicholson",
+      "Michelle Pfeiffer",
+      "James Spader",
+      "Kate Nelligan",
+      "Richard Jenkins"
+    ],
     "category": "爱情",
     "subcategory": "成长爱情",
     "accent": "#d8ad5c",
@@ -9419,6 +15289,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGQxMTQ0ZjQtOTVmYi00N2ViLTg2NzItZmZjMGE2NmFlM2I4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0111400",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 15547,
+      "douban": null
+    },
+    "director": [
+      "Deran Sarafian"
+    ],
+    "cast": [
+      "Charlie Sheen",
+      "Nastassja Kinski",
+      "James Gandolfini",
+      "Christopher McDonald",
+      "Gary Bullock"
+    ],
     "category": "爱情",
     "subcategory": "成长爱情",
     "accent": "#d8ad5c",
@@ -9437,6 +15322,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWU2YzE2YzctNDg1OS00ZDdhLWI3M2ItYWY1MzExZjlmOGM5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@..jpg",
     "imdbId": "tt0109219",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 7040,
+      "douban": null
+    },
+    "director": [
+      "Whit Stillman"
+    ],
+    "cast": [
+      "Taylor Nichols",
+      "Chris Eigeman",
+      "Tushka Bergen",
+      "Mira Sorvino",
+      "Pep Munné"
+    ],
     "category": "爱情",
     "subcategory": "成长爱情",
     "accent": "#d8ad5c",
@@ -9455,6 +15355,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3OTM4NjQ4Nl5BMl5BanBnXkFtZTcwODY0NjIyMQ@@..jpg",
     "imdbId": "tt0109758",
+    "ratings": {
+      "imdb": 4.3,
+      "imdbVotes": 7698,
+      "douban": null
+    },
+    "director": [
+      "Garry Marshall"
+    ],
+    "cast": [
+      "Dana Delany",
+      "Dan Aykroyd",
+      "Rosie O'Donnell",
+      "Paul Mercurio",
+      "Hector Elizondo"
+    ],
     "category": "爱情",
     "subcategory": "成长爱情",
     "accent": "#d8ad5c",
@@ -9489,6 +15404,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2MTM0MjE1Nl5BMl5BanBnXkFtZTcwOTcwMzEyMQ@@..jpg",
     "imdbId": "tt0109484",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 15319,
+      "douban": null
+    },
+    "director": [
+      "Jessie Nelson"
+    ],
+    "cast": [
+      "Ray Liotta",
+      "Whoopi Goldberg",
+      "Tina Majorino",
+      "Noreen Hennessey",
+      "Lucy Webb"
+    ],
     "category": "爱情",
     "subcategory": "爱情经典",
     "accent": "#d8ad5c",
@@ -9507,6 +15437,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwODAzMzM5N15BMl5BanBnXkFtZTcwMDcxNjEyMQ@@..jpg",
     "imdbId": "tt0109913",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 2611,
+      "douban": null
+    },
+    "director": [
+      "Rose Troche"
+    ],
+    "cast": [
+      "V.S. Brodie",
+      "Guinevere Turner",
+      "T. Wendy McMillan",
+      "Migdalia Melendez",
+      "Anastasia Sharp"
+    ],
     "category": "爱情",
     "subcategory": "爱情经典",
     "accent": "#d8ad5c",
@@ -9525,6 +15470,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NDQzNTYwMV5BMl5BanBnXkFtZTcwOTQ1MTEyMQ@@..jpg",
     "imdbId": "tt0111201",
+    "ratings": {
+      "imdb": 5.9,
+      "imdbVotes": 12244,
+      "douban": null
+    },
+    "director": [
+      "John Duigan"
+    ],
+    "cast": [
+      "Hugh Grant",
+      "Tara Fitzgerald",
+      "Sam Neill",
+      "Elle Macpherson",
+      "Portia de Rossi"
+    ],
     "category": "爱情",
     "subcategory": "爱情经典",
     "accent": "#d8ad5c",
@@ -9543,6 +15503,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2E1MjU5ZmUtYzJkMC00NDM2LTk1MjctMGY3ZGU4ZGNkNWFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0111418",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 14303,
+      "douban": null
+    },
+    "director": [
+      "Andrew Fleming"
+    ],
+    "cast": [
+      "Lara Flynn Boyle",
+      "Josh Charles",
+      "Stephen Baldwin",
+      "Alexis Arquette",
+      "Martha Gehman"
+    ],
     "category": "爱情",
     "subcategory": "爱情经典",
     "accent": "#d8ad5c",
@@ -9560,6 +15535,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NDQ3NzU4NV5BMl5BanBnXkFtZTcwNTA1MTYyMQ@@..jpg",
     "imdbId": "tt0110516",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 14005,
+      "douban": null
+    },
+    "director": [
+      "Richard Benjamin"
+    ],
+    "cast": [
+      "Melanie Griffith",
+      "Ed Harris",
+      "Michael Patrick Carter",
+      "Malcolm McDowell",
+      "Anne Heche"
+    ],
     "category": "爱情",
     "subcategory": "爱情经典",
     "accent": "#d8ad5c",
@@ -9577,6 +15567,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmEzOWI2YTUtMDNkNS00MDRlLWFmMTctNDAyNTdiYjU5MDZiXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0110737",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 29763,
+      "douban": null
+    },
+    "director": [
+      "Norman Jewison"
+    ],
+    "cast": [
+      "Marisa Tomei",
+      "Robert Downey Jr.",
+      "Bonnie Hunt",
+      "Joaquim de Almeida",
+      "Fisher Stevens"
+    ],
     "category": "爱情",
     "subcategory": "爱情经典",
     "accent": "#d8ad5c",
@@ -9668,6 +15673,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0ODgzNzQ5Ml5BMl5BanBnXkFtZTcwNDMwMTE0MQ@@..jpg",
     "imdbId": "tt0042054",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 353,
+      "douban": null
+    },
+    "director": [
+      "Junli Zheng"
+    ],
+    "cast": [
+      "Dan Zhao",
+      "Yin Wu",
+      "Daolin Sun",
+      "Yunzhu Shangguan",
+      "Heling Wei"
+    ],
     "category": "剧情人生",
     "subcategory": "成长叙事",
     "accent": "#5da579",
@@ -9684,6 +15704,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@..jpg",
     "imdbId": "tt0042192",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 149531,
+      "douban": null
+    },
+    "director": [
+      "Joseph L. Mankiewicz"
+    ],
+    "cast": [
+      "Bette Davis",
+      "Anne Baxter",
+      "George Sanders",
+      "Celeste Holm",
+      "Gary Merrill"
+    ],
     "category": "剧情人生",
     "subcategory": "成长叙事",
     "accent": "#5da579",
@@ -9747,6 +15782,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTYzNjI3MWUtZjg3Yi00ZDBkLWIwM2YtYmUyZGZjN2RiZjI5XkEyXkFqcGdeQXVyMDI2NDg0NQ@@..jpg",
     "imdbId": "tt0048028",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 50702,
+      "douban": null
+    },
+    "director": [
+      "Elia Kazan"
+    ],
+    "cast": [
+      "James Dean",
+      "Raymond Massey",
+      "Julie Harris",
+      "Burl Ives",
+      "Richard Davalos"
+    ],
     "category": "剧情人生",
     "subcategory": "家庭关系",
     "accent": "#5da579",
@@ -9763,6 +15813,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwNWIwYzAtMWVhZi00YzQ2LTlmNGYtOTg3NDdkNTRjOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0048545",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 103466,
+      "douban": null
+    },
+    "director": [
+      "Nicholas Ray"
+    ],
+    "cast": [
+      "James Dean",
+      "Natalie Wood",
+      "Sal Mineo",
+      "Jim Backus",
+      "Ann Doran"
+    ],
     "category": "剧情人生",
     "subcategory": "家庭关系",
     "accent": "#5da579",
@@ -9780,6 +15845,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5ZTk4Y2YtYTQ4Zi00YzQ3LWJmZjEtOGJjMjQzN2M4MTY1XkEyXkFqcGdeQXVyMjQ3NzUxOTM@..jpg",
     "imdbId": "tt0048473",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 41765,
+      "douban": null
+    },
+    "director": [
+      "Satyajit Ray"
+    ],
+    "cast": [
+      "Kanu Bannerjee",
+      "Karuna Bannerjee",
+      "Subir Banerjee",
+      "Chunibala Devi",
+      "Uma Das Gupta"
+    ],
     "category": "剧情人生",
     "subcategory": "家庭关系",
     "accent": "#5da579",
@@ -9797,6 +15877,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWQ3ZmZhMmQtODQyMS00Y2Q0LThlOTAtM2NiMDMyNDdlYmQ0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0049261",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 44043,
+      "douban": null
+    },
+    "director": [
+      "George Stevens"
+    ],
+    "cast": [
+      "Elizabeth Taylor",
+      "Rock Hudson",
+      "James Dean",
+      "Carroll Baker",
+      "Jane Withers"
+    ],
     "category": "剧情人生",
     "subcategory": "家庭关系",
     "accent": "#5da579",
@@ -9813,6 +15908,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1NjI2OTM4N15BMl5BanBnXkFtZTgwMzQ2MzkwNzE@..jpg",
     "imdbId": "tt0048956",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 19696,
+      "douban": null
+    },
+    "director": [
+      "Satyajit Ray"
+    ],
+    "cast": [
+      "Pinaki Sengupta",
+      "Smaran Ghosal",
+      "Kamala Adhikari",
+      "Rani Bala",
+      "Lalchand Banerjee"
+    ],
     "category": "剧情人生",
     "subcategory": "社会现实",
     "accent": "#5da579",
@@ -9861,6 +15971,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@..jpg",
     "imdbId": "tt0050825",
+    "ratings": {
+      "imdb": 8.4,
+      "imdbVotes": 239522,
+      "douban": null
+    },
+    "director": [
+      "Stanley Kubrick"
+    ],
+    "cast": [
+      "Kirk Douglas",
+      "Ralph Meeker",
+      "Adolphe Menjou",
+      "George Macready",
+      "Wayne Morris"
+    ],
     "category": "剧情人生",
     "subcategory": "社会现实",
     "accent": "#5da579",
@@ -9892,6 +16017,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzFhNTMwNDMtZjY3Yy00NzY3LWI1ZWQtZTQxMWJmODVhZWFkXkEyXkFqcGdeQXVyNjQzNDI3NzY@..jpg",
     "imdbId": "tt0051459",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 57088,
+      "douban": null
+    },
+    "director": [
+      "Richard Brooks"
+    ],
+    "cast": [
+      "Elizabeth Taylor",
+      "Paul Newman",
+      "Burl Ives",
+      "Jack Carson",
+      "Judith Anderson"
+    ],
     "category": "剧情人生",
     "subcategory": "社会现实",
     "accent": "#5da579",
@@ -9940,6 +16080,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTM0ZWM1ZTQtYjM2Yi00MGU2LTgyNjAtOWMwZjdlNGY0MmFhXkEyXkFqcGdeQXVyNTk1MTk0MDI@..jpg",
     "imdbId": "tt0052287",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 2659,
+      "douban": null
+    },
+    "director": [
+      "Joseph H. Lewis"
+    ],
+    "cast": [
+      "Sterling Hayden",
+      "Sebastian Cabot",
+      "Carol Kelly",
+      "Eugene Mazzola",
+      "Nedrick Young"
+    ],
     "category": "剧情人生",
     "subcategory": "城市人生",
     "accent": "#5da579",
@@ -9957,6 +16112,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0052618",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 271381,
+      "douban": null
+    },
+    "director": [
+      "William Wyler"
+    ],
+    "cast": [
+      "Charlton Heston",
+      "Jack Hawkins",
+      "Stephen Boyd",
+      "Haya Harareet",
+      "Hugh Griffith"
+    ],
     "category": "剧情人生",
     "subcategory": "城市人生",
     "accent": "#5da579",
@@ -9990,6 +16160,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0056172",
+    "ratings": {
+      "imdb": 8.3,
+      "imdbVotes": 342042,
+      "douban": null
+    },
+    "director": [
+      "David Lean"
+    ],
+    "cast": [
+      "Peter O'Toole",
+      "Alec Guinness",
+      "Anthony Quinn",
+      "Jack Hawkins",
+      "Omar Sharif"
+    ],
     "category": "剧情人生",
     "subcategory": "城市人生",
     "accent": "#5da579",
@@ -10006,6 +16191,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2RmZjg1OWYtNGMxZS00Nzc3LTljNTctNTM2NTdkMDg5NGY1XkEyXkFqcGdeQXVyMTAwMzUyOTc@..jpg",
     "imdbId": "tt0056215",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 11444,
+      "douban": null
+    },
+    "director": [
+      "Pier Paolo Pasolini"
+    ],
+    "cast": [
+      "Anna Magnani",
+      "Ettore Garofolo",
+      "Franco Citti",
+      "Silvana Corsini",
+      "Luisa Loiano"
+    ],
     "category": "剧情人生",
     "subcategory": "城市人生",
     "accent": "#5da579",
@@ -10098,6 +16298,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTUxZGVhNzctZDZkMS00NjMzLWJkNzgtZDA0OTJiNzA3NjM2XkEyXkFqcGdeQXVyMjI4MjA5MzA@..jpg",
     "imdbId": "tt0062952",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 12781,
+      "douban": null
+    },
+    "director": [
+      "John Cassavetes"
+    ],
+    "cast": [
+      "John Marley",
+      "Gena Rowlands",
+      "Lynn Carlin",
+      "Seymour Cassel",
+      "Fred Draper"
+    ],
     "category": "剧情人生",
     "subcategory": "乡土记忆",
     "accent": "#5da579",
@@ -10116,6 +16331,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmNhZmJhMmYtNjlkMC00MjhjLTk1NzMtMTNlMzYzNjZlMjNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0066206",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 113293,
+      "douban": null
+    },
+    "director": [
+      "Franklin J. Schaffner"
+    ],
+    "cast": [
+      "George C. Scott",
+      "Karl Malden",
+      "Stephen Young",
+      "Michael Strong",
+      "Carey Loftin"
+    ],
     "category": "剧情人生",
     "subcategory": "乡土记忆",
     "accent": "#5da579",
@@ -10148,6 +16378,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzI1ZjA3ZDAtYmQ4My00MzZhLWJmYjMtMzc5M2FlMDk2YzExXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0067959",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 29749,
+      "douban": null
+    },
+    "director": [
+      "Nicolas Roeg"
+    ],
+    "cast": [
+      "Jenny Agutter",
+      "David Gulpilil",
+      "Luc Roeg",
+      "John Meillon",
+      "Robert McDarra"
+    ],
     "category": "剧情人生",
     "subcategory": "女性处境",
     "accent": "#5da579",
@@ -10209,6 +16454,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0073486",
+    "ratings": {
+      "imdb": 8.6,
+      "imdbVotes": 1158127,
+      "douban": null
+    },
+    "director": [
+      "Miloš Forman"
+    ],
+    "cast": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Michael Berryman",
+      "Peter Brocco",
+      "Dean R. Brooks"
+    ],
     "category": "剧情人生",
     "subcategory": "女性处境",
     "accent": "#5da579",
@@ -10288,6 +16548,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@..jpg",
     "imdbId": "tt0081398",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 410742,
+      "douban": null
+    },
+    "director": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci",
+      "Frank Vincent",
+      "Nicholas Colasanto"
+    ],
     "category": "剧情人生",
     "subcategory": "父子母女",
     "accent": "#5da579",
@@ -10304,6 +16579,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWQ4MGZlZmYtZjY0MS00N2JhLWE0NmMtOTMwMTk4NDQ4NjE2XkEyXkFqcGdeQXVyNTI4MjkwNjA@..jpg",
     "imdbId": "tt0082846",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 37788,
+      "douban": null
+    },
+    "director": [
+      "Mark Rydell"
+    ],
+    "cast": [
+      "Katharine Hepburn",
+      "Henry Fonda",
+      "Jane Fonda",
+      "Doug McKeon",
+      "Dabney Coleman"
+    ],
     "category": "剧情人生",
     "subcategory": "父子母女",
     "accent": "#5da579",
@@ -10356,6 +16646,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0083987",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 246227,
+      "douban": null
+    },
+    "director": [
+      "Richard Attenborough"
+    ],
+    "cast": [
+      "Ben Kingsley",
+      "John Gielgud",
+      "Rohini Hattangadi",
+      "Roshan Seth",
+      "Candice Bergen"
+    ],
     "category": "剧情人生",
     "subcategory": "父子母女",
     "accent": "#5da579",
@@ -10419,6 +16724,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NDkwMTk5N15BMl5BanBnXkFtZTYwODg3MDk2..jpg",
     "imdbId": "tt0086879",
+    "ratings": {
+      "imdb": 8.4,
+      "imdbVotes": 469263,
+      "douban": null
+    },
+    "director": [
+      "Miloš Forman"
+    ],
+    "cast": [
+      "F. Murray Abraham",
+      "Tom Hulce",
+      "Elizabeth Berridge",
+      "Roy Dotrice",
+      "Simon Callow"
+    ],
     "category": "剧情人生",
     "subcategory": "中年危机",
     "accent": "#5da579",
@@ -10435,6 +16755,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@..jpg",
     "imdbId": "tt0087884",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 141986,
+      "douban": null
+    },
+    "director": [
+      "Wim Wenders"
+    ],
+    "cast": [
+      "Harry Dean Stanton",
+      "Nastassja Kinski",
+      "Dean Stockwell",
+      "Sam Berry",
+      "Bernhard Wicki"
+    ],
     "category": "剧情人生",
     "subcategory": "中年危机",
     "accent": "#5da579",
@@ -10468,6 +16803,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTEyNjg0MDM4OF5BMl5BanBnXkFtZTgwODI0NjUxODE@..jpg",
     "imdbId": "tt0089881",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 152539,
+      "douban": null
+    },
+    "director": [
+      "Akira Kurosawa"
+    ],
+    "cast": [
+      "Tatsuya Nakadai",
+      "Akira Terao",
+      "Jinpachi Nezu",
+      "Daisuke Ryû",
+      "Mieko Harada"
+    ],
     "category": "剧情人生",
     "subcategory": "中年危机",
     "accent": "#5da579",
@@ -10485,6 +16835,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmJlOTE1ZTgtODdmNC00NmZhLThlZDYtNTllMmIyOTIwN2EwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0091763",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 472636,
+      "douban": null
+    },
+    "director": [
+      "Oliver Stone"
+    ],
+    "cast": [
+      "Charlie Sheen",
+      "Tom Berenger",
+      "Willem Dafoe",
+      "Keith David",
+      "Forest Whitaker"
+    ],
     "category": "剧情人生",
     "subcategory": "命运寓言",
     "accent": "#5da579",
@@ -10502,6 +16867,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0092099",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 555233,
+      "douban": null
+    },
+    "director": [
+      "Tony Scott"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Tim Robbins",
+      "Kelly McGillis",
+      "Val Kilmer",
+      "Anthony Edwards"
+    ],
     "category": "剧情人生",
     "subcategory": "命运寓言",
     "accent": "#5da579",
@@ -10518,6 +16898,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxNDc1NTE2OF5BMl5BanBnXkFtZTcwMjczNzA2NA@@..jpg",
     "imdbId": "tt0091288",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 29416,
+      "douban": null
+    },
+    "director": [
+      "Claude Berri"
+    ],
+    "cast": [
+      "Yves Montand",
+      "Gérard Depardieu",
+      "Daniel Auteuil",
+      "Elisabeth Depardieu",
+      "Margarita Lozano"
+    ],
     "category": "剧情人生",
     "subcategory": "命运寓言",
     "accent": "#5da579",
@@ -10550,6 +16945,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxODliZDYtMGMyYy00ZDQzLTgzOTMtMWY5YWEyNTBhNzk5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0092005",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 488536,
+      "douban": null
+    },
+    "director": [
+      "Rob Reiner"
+    ],
+    "cast": [
+      "Wil Wheaton",
+      "River Phoenix",
+      "Corey Feldman",
+      "Jerry O'Connell",
+      "Kiefer Sutherland"
+    ],
     "category": "剧情人生",
     "subcategory": "命运寓言",
     "accent": "#5da579",
@@ -10597,6 +17007,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzc2ZThkOGItZGY5YS00MDYwLTkyOTAtNDRmZWIwMGRhYTc0L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0093058",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 851825,
+      "douban": null
+    },
+    "director": [
+      "Stanley Kubrick"
+    ],
+    "cast": [
+      "Matthew Modine",
+      "R. Lee Ermey",
+      "Vincent D'Onofrio",
+      "Adam Baldwin",
+      "Dorian Harewood"
+    ],
     "category": "剧情人生",
     "subcategory": "伦理选择",
     "accent": "#5da579",
@@ -10630,6 +17055,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODA0MWZhNjctZWUxYy00OThjLWJkNGQtZjNlNGMzY2Y0MDBjXkEyXkFqcGdeQXVyMjY3MjUzNDk@..jpg",
     "imdbId": "tt0096487",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 74008,
+      "douban": null
+    },
+    "director": [
+      "Christopher Cain"
+    ],
+    "cast": [
+      "Emilio Estevez",
+      "Kiefer Sutherland",
+      "Lou Diamond Phillips",
+      "Charlie Sheen",
+      "Dermot Mulroney"
+    ],
     "category": "剧情人生",
     "subcategory": "伦理选择",
     "accent": "#5da579",
@@ -10663,6 +17103,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODdlYzU0ZGYtNWQ1YS00Nzk4LTllZTItZTEyNjkxMWI5ODk4L2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0097499",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 33413,
+      "douban": null
+    },
+    "director": [
+      "Kenneth Branagh"
+    ],
+    "cast": [
+      "Kenneth Branagh",
+      "Derek Jacobi",
+      "Simon Shepherd",
+      "James Larkin",
+      "Brian Blessed"
+    ],
     "category": "剧情人生",
     "subcategory": "伦理选择",
     "accent": "#5da579",
@@ -10680,6 +17135,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjdkNzA4MzYtZThhOS00ZDgzLTlmMDItNmY1ZjI5YjkzZTE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0097937",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 85318,
+      "douban": null
+    },
+    "director": [
+      "Jim Sheridan"
+    ],
+    "cast": [
+      "Daniel Day-Lewis",
+      "Brenda Fricker",
+      "Alison Whelan",
+      "Kirsten Sheridan",
+      "Declan Croghan"
+    ],
     "category": "剧情人生",
     "subcategory": "伦理选择",
     "accent": "#5da579",
@@ -10713,6 +17183,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTViNGM4NjYtMTJkNC00MjNiLWIzNmMtYWU5Mjg4N2UwNzlkL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0097441",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 152971,
+      "douban": null
+    },
+    "director": [
+      "Edward Zwick"
+    ],
+    "cast": [
+      "Matthew Broderick",
+      "Denzel Washington",
+      "Cary Elwes",
+      "Morgan Freeman",
+      "Jihmi Kennedy"
+    ],
     "category": "剧情人生",
     "subcategory": "剧情经典",
     "accent": "#5da579",
@@ -10729,6 +17214,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDllYWVkOTQtZjRlMC00NWFjLWI0OGEtOWY4YzU4ZjMxYzg3XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0098724",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 64723,
+      "douban": null
+    },
+    "director": [
+      "Steven Soderbergh"
+    ],
+    "cast": [
+      "James Spader",
+      "Andie MacDowell",
+      "Peter Gallagher",
+      "Laura San Giacomo",
+      "Ron Vawter"
+    ],
     "category": "剧情人生",
     "subcategory": "剧情经典",
     "accent": "#5da579",
@@ -10747,6 +17247,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@..jpg",
     "imdbId": "tt0099348",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 310962,
+      "douban": null
+    },
+    "director": [
+      "Kevin Costner"
+    ],
+    "cast": [
+      "Kevin Costner",
+      "Mary McDonnell",
+      "Graham Greene",
+      "Rodney A. Grant",
+      "Floyd 'Red Crow' Westerman"
+    ],
     "category": "剧情人生",
     "subcategory": "剧情经典",
     "accent": "#5da579",
@@ -10765,6 +17280,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNThjMzczMjctZmIwOC00NTQ4LWJhZWItZDdhNTk5ZTdiMWFlXkEyXkFqcGdeQXVyNDYyMDk5MTU@..jpg",
     "imdbId": "tt0099685",
+    "ratings": {
+      "imdb": 8.7,
+      "imdbVotes": 1395863,
+      "douban": null
+    },
+    "director": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco",
+      "Paul Sorvino"
+    ],
     "category": "剧情人生",
     "subcategory": "剧情经典",
     "accent": "#5da579",
@@ -10783,6 +17313,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjc5NjQ1ODIzN15BMl5BanBnXkFtZTgwMjkwNTg4NjE@..jpg",
     "imdbId": "tt0099371",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 104864,
+      "douban": null
+    },
+    "director": [
+      "Tony Scott"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Nicole Kidman",
+      "Robert Duvall",
+      "Randy Quaid",
+      "Cary Elwes"
+    ],
     "category": "剧情人生",
     "subcategory": "剧情经典",
     "accent": "#5da579",
@@ -10816,6 +17361,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzZmQxMDUtZjM1ZC00OTYwLWE4MmUtYTUxNzY2MDg0OTRlXkEyXkFqcGdeQXVyMjY3MjUzNDk@..jpg",
     "imdbId": "tt0100994",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 40619,
+      "douban": null
+    },
+    "director": [
+      "Geoff Murphy"
+    ],
+    "cast": [
+      "Emilio Estevez",
+      "Kiefer Sutherland",
+      "Lou Diamond Phillips",
+      "Christian Slater",
+      "William Petersen"
+    ],
     "category": "剧情人生",
     "subcategory": "剧情经典",
     "accent": "#5da579",
@@ -10834,6 +17394,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTJlZmQ1OTAtODQzZi00NGIzLWI1MmEtZGE4NjFlOWRhODIyXkEyXkFqcGdeQXVyNTc1NTQxODI@..jpg",
     "imdbId": "tt0112817",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 109290,
+      "douban": null
+    },
+    "director": [
+      "Jim Jarmusch"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Gary Farmer",
+      "Crispin Glover",
+      "Lance Henriksen",
+      "Michael Wincott"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战地人性",
     "accent": "#b88757",
@@ -10852,6 +17427,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NTc2ODYwOV5BMl5BanBnXkFtZTcwMDU5MzYyMQ@@..jpg",
     "imdbId": "tt0114122",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 800,
+      "douban": null
+    },
+    "director": [
+      "Robby Henson"
+    ],
+    "cast": [
+      "Chris Cooper",
+      "Patricia Clarkson",
+      "Kris Kristofferson",
+      "Robert Joy",
+      "Richard Tyson"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战地人性",
     "accent": "#b88757",
@@ -10888,6 +17478,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTJhOTY4M2EtNjA2Ny00YjBjLWE4MjItZjRiOTRhMGFjZmU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0119173",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 91990,
+      "douban": null
+    },
+    "director": [
+      "Ridley Scott"
+    ],
+    "cast": [
+      "Demi Moore",
+      "Viggo Mortensen",
+      "Anne Bancroft",
+      "Jason Beghe",
+      "Daniel von Bargen"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战地人性",
     "accent": "#b88757",
@@ -10906,6 +17511,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzcwNTIzZmEtNzMwMC00OTMyLWFiNTQtZjUxZGYzMDk4MzkwXkEyXkFqcGdeQXVyMDEwMjgxNg@@..jpg",
     "imdbId": "tt0100114",
+    "ratings": {
+      "imdb": 5.9,
+      "imdbVotes": 26339,
+      "douban": null
+    },
+    "director": [
+      "Dwight H. Little"
+    ],
+    "cast": [
+      "Steven Seagal",
+      "Joanna Pacula",
+      "Basil Wallace",
+      "Keith David",
+      "Tom Wright"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战地人性",
     "accent": "#b88757",
@@ -10923,6 +17543,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0105695",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 468862,
+      "douban": null
+    },
+    "director": [
+      "Clint Eastwood"
+    ],
+    "cast": [
+      "Clint Eastwood",
+      "Gene Hackman",
+      "Morgan Freeman",
+      "Richard Harris",
+      "Jaimz Woolvett"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战地人性",
     "accent": "#b88757",
@@ -10941,6 +17576,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmRlODBjOWEtODViZS00NGNiLWEwNzYtYjIyZWQwZThhODBkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0107131",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 55519,
+      "douban": null
+    },
+    "director": [
+      "Duwayne Dunham"
+    ],
+    "cast": [
+      "Michael J. Fox",
+      "Sally Field",
+      "Don Ameche",
+      "Don Alder",
+      "Ed Bernard"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战地人性",
     "accent": "#b88757",
@@ -10958,6 +17608,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NDA1ODExMV5BMl5BanBnXkFtZTcwNDc1NDMzMQ@@..jpg",
     "imdbId": "tt0108211",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 39303,
+      "douban": null
+    },
+    "director": [
+      "Joseph Vilsmaier"
+    ],
+    "cast": [
+      "Dominique Horwitz",
+      "Thomas Kretschmann",
+      "Jochen Nickel",
+      "Sebastian Rudolph",
+      "Dana Vávrová"
+    ],
     "category": "战争历史与西部",
     "subcategory": "反战经典",
     "accent": "#b88757",
@@ -10976,6 +17641,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjdhYjRlMTgtNTMzOS00OTZlLWIxMjAtNjM4NGY0NGQxODM3XkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0107206",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 123539,
+      "douban": null
+    },
+    "director": [
+      "Wolfgang Petersen"
+    ],
+    "cast": [
+      "Clint Eastwood",
+      "John Malkovich",
+      "Rene Russo",
+      "Dylan McDermott",
+      "Gary Cole"
+    ],
     "category": "战争历史与西部",
     "subcategory": "反战经典",
     "accent": "#b88757",
@@ -11010,6 +17690,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODUzODIxOTctYTkxYi00NGFlLTkzNWYtYjJhZjM4ZGNiNjM4XkEyXkFqcGdeQXVyNTIzOTk5ODM@..jpg",
     "imdbId": "tt0107096",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 16140,
+      "douban": null
+    },
+    "director": [
+      "Oliver Stone"
+    ],
+    "cast": [
+      "Hiep Thi Le",
+      "Tommy Lee Jones",
+      "Haing S. Ngor",
+      "Bussaro Sanruck",
+      "Supak Pititam"
+    ],
     "category": "战争历史与西部",
     "subcategory": "反战经典",
     "accent": "#b88757",
@@ -11044,6 +17739,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTVkMGUwN2UtZjI4MS00YWU0LWI2NjAtOTc1MmMzMzkxZTUwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0107969",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 50380,
+      "douban": null
+    },
+    "director": [
+      "Philip Kaufman"
+    ],
+    "cast": [
+      "Sean Connery",
+      "Wesley Snipes",
+      "Harvey Keitel",
+      "Cary-Hiroyuki Tagawa",
+      "Kevin Anderson"
+    ],
     "category": "战争历史与西部",
     "subcategory": "反战经典",
     "accent": "#b88757",
@@ -11062,6 +17772,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MDY2NjM1OF5BMl5BanBnXkFtZTYwMDE0NzQ5..jpg",
     "imdbId": "tt0107004",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 15396,
+      "douban": null
+    },
+    "director": [
+      "Walter Hill"
+    ],
+    "cast": [
+      "Jason Patric",
+      "Gene Hackman",
+      "Robert Duvall",
+      "Wes Studi",
+      "Matt Damon"
+    ],
     "category": "战争历史与西部",
     "subcategory": "反战经典",
     "accent": "#b88757",
@@ -11080,6 +17805,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1NjIzMDIyN15BMl5BanBnXkFtZTcwNjIzNDQyMQ@@..jpg",
     "imdbId": "tt0107286",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 21115,
+      "douban": null
+    },
+    "director": [
+      "Stephen Hopkins"
+    ],
+    "cast": [
+      "Emilio Estevez",
+      "Cuba Gooding Jr.",
+      "Denis Leary",
+      "Stephen Dorff",
+      "Jeremy Piven"
+    ],
     "category": "战争历史与西部",
     "subcategory": "历史创伤",
     "accent": "#b88757",
@@ -11098,6 +17838,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyNTM0Mzk3MF5BMl5BanBnXkFtZTcwNDAzMTgxMQ@@..jpg",
     "imdbId": "tt0106408",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 1316,
+      "douban": null
+    },
+    "director": [
+      "Gurinder Chadha"
+    ],
+    "cast": [
+      "Kim Vithana",
+      "Jimmi Harkishin",
+      "Sarita Khajuria",
+      "Akbar Kurtha",
+      "Mo Sesay"
+    ],
     "category": "战争历史与西部",
     "subcategory": "历史创伤",
     "accent": "#b88757",
@@ -11116,6 +17871,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDczOWNiMmEtZjA4MS00NDMzLWExNTktYjc0MGU0YTQ3ZDExXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0109444",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 116807,
+      "douban": null
+    },
+    "director": [
+      "Phillip Noyce"
+    ],
+    "cast": [
+      "Harrison Ford",
+      "Willem Dafoe",
+      "Anne Archer",
+      "Joaquim de Almeida",
+      "Henry Czerny"
+    ],
     "category": "战争历史与西部",
     "subcategory": "历史创伤",
     "accent": "#b88757",
@@ -11134,6 +17904,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjU1ZWIxZTgtMzcxMS00NTA4LTliNDMtMzY1MjA2N2EzMzQ1XkEyXkFqcGdeQXVyNTUyMzE4Mzg@..jpg",
     "imdbId": "tt0111756",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 59601,
+      "douban": null
+    },
+    "director": [
+      "Lawrence Kasdan"
+    ],
+    "cast": [
+      "Kevin Costner",
+      "Dennis Quaid",
+      "Gene Hackman",
+      "David Andrews",
+      "Linden Ashby"
+    ],
     "category": "战争历史与西部",
     "subcategory": "历史创伤",
     "accent": "#b88757",
@@ -11152,6 +17937,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzgxYjA3YmEtYjZiNC00ZjdhLTg3MzQtNmIwN2RhM2QyMjIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0109303",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 36841,
+      "douban": null
+    },
+    "director": [
+      "Stephen Hopkins"
+    ],
+    "cast": [
+      "Jeff Bridges",
+      "Tommy Lee Jones",
+      "Suzy Amis",
+      "Lloyd Bridges",
+      "Forest Whitaker"
+    ],
     "category": "战争历史与西部",
     "subcategory": "历史创伤",
     "accent": "#b88757",
@@ -11169,6 +17969,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzQ5MDUwNDMyOV5BMl5BanBnXkFtZTcwOTQyMTAwMQ@@..jpg",
     "imdbId": "tt0111579",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 17300,
+      "douban": null
+    },
+    "director": [
+      "Nikita Mikhalkov"
+    ],
+    "cast": [
+      "Nikita Mikhalkov",
+      "Ingeborga Dapkunaite",
+      "Oleg Menshikov",
+      "Nadezhda Mikhalkova",
+      "Vyacheslav Tikhonov"
+    ],
     "category": "战争历史与西部",
     "subcategory": "历史创伤",
     "accent": "#b88757",
@@ -11203,6 +18018,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODc2MWQzMzUtZDMyZS00MmI2LWJlMDEtNTg1MjVjYzY0ZTRlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0110687",
+    "ratings": {
+      "imdb": 4.6,
+      "imdbVotes": 15706,
+      "douban": null
+    },
+    "director": [
+      "Rob Reiner"
+    ],
+    "cast": [
+      "Elijah Wood",
+      "Bruce Willis",
+      "Jason Alexander",
+      "Julia Louis-Dreyfus",
+      "Marc Shaiman"
+    ],
     "category": "战争历史与西部",
     "subcategory": "军旅行动",
     "accent": "#b88757",
@@ -11221,6 +18051,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2OTcwMDAzNF5BMl5BanBnXkFtZTcwMDk4MDQyMQ@@..jpg",
     "imdbId": "tt0111546",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 1194,
+      "douban": null
+    },
+    "director": [
+      "Lucian Pintilie"
+    ],
+    "cast": [
+      "Kristin Scott Thomas",
+      "Claudiu Bleont",
+      "Olga Tudorache",
+      "George Constantin",
+      "Ion Pavlescu"
+    ],
     "category": "战争历史与西部",
     "subcategory": "军旅行动",
     "accent": "#b88757",
@@ -11256,6 +18101,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNTQ1OTUxOV5BMl5BanBnXkFtZTcwNTY5NjkxMQ@@..jpg",
     "imdbId": "tt0109403",
+    "ratings": {
+      "imdb": 5.2,
+      "imdbVotes": 7483,
+      "douban": null
+    },
+    "director": [
+      "Dennis Hopper"
+    ],
+    "cast": [
+      "Tom Berenger",
+      "Erika Eleniak",
+      "William McNamara",
+      "Crispin Glover",
+      "Matthew Glave"
+    ],
     "category": "战争历史与西部",
     "subcategory": "军旅行动",
     "accent": "#b88757",
@@ -11291,6 +18151,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA5NzE3MjQ4MzFeQTJeQWpwZ15BbWU3MDQ1MDU2MjE@..jpg",
     "imdbId": "tt0111173",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 3284,
+      "douban": null
+    },
+    "director": [
+      "Paul W.S. Anderson"
+    ],
+    "cast": [
+      "Sadie Frost",
+      "Jude Law",
+      "Sean Pertwee",
+      "Fraser James",
+      "Sean Bean"
+    ],
     "category": "战争历史与西部",
     "subcategory": "军旅行动",
     "accent": "#b88757",
@@ -11308,6 +18183,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODg4NzA0MTktOGU5ZS00ODlkLWE3ZmQtYjAzNjNmM2E3NmEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0112573",
+    "ratings": {
+      "imdb": 8.3,
+      "imdbVotes": 1163428,
+      "douban": null
+    },
+    "director": [
+      "Mel Gibson"
+    ],
+    "cast": [
+      "Mel Gibson",
+      "Sophie Marceau",
+      "Patrick McGoohan",
+      "Angus Macfadyen",
+      "James Robinson"
+    ],
     "category": "战争历史与西部",
     "subcategory": "军旅行动",
     "accent": "#b88757",
@@ -11326,6 +18216,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjEzYjJmNzgtNDkwNy00MTQ4LTlmMWMtNzA4YjE2NjI0ZDg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0112384",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 339396,
+      "douban": null
+    },
+    "director": [
+      "Ron Howard"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Bill Paxton",
+      "Kevin Bacon",
+      "Gary Sinise",
+      "Ed Harris"
+    ],
     "category": "战争历史与西部",
     "subcategory": "前线营救",
     "accent": "#b88757",
@@ -11344,6 +18249,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmFkY2IxNTAtMWRiNS00MWU2LWI1NDYtY2YxYTQyYTk5OTBhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0112740",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 136604,
+      "douban": null
+    },
+    "director": [
+      "Tony Scott"
+    ],
+    "cast": [
+      "Gene Hackman",
+      "Denzel Washington",
+      "Matt Craven",
+      "George Dzundza",
+      "Viggo Mortensen"
+    ],
     "category": "战争历史与西部",
     "subcategory": "前线营救",
     "accent": "#b88757",
@@ -11362,6 +18282,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjA0NDMyYTgtMDgxOC00NGE0LWJkOTQtNDRjMjEzZmU0ZTQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0112851",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 208744,
+      "douban": null
+    },
+    "director": [
+      "Robert Rodriguez"
+    ],
+    "cast": [
+      "Antonio Banderas",
+      "Salma Hayek",
+      "Joaquim de Almeida",
+      "Cheech Marin",
+      "Steve Buscemi"
+    ],
     "category": "战争历史与西部",
     "subcategory": "前线营救",
     "accent": "#b88757",
@@ -11380,6 +18315,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTg1Mzk1NjAtNGFlOS00NzdlLWI0NTgtYzlmNTUzZGQ0NjYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114069",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 146141,
+      "douban": null
+    },
+    "director": [
+      "Wolfgang Petersen"
+    ],
+    "cast": [
+      "Dustin Hoffman",
+      "Rene Russo",
+      "Morgan Freeman",
+      "Kevin Spacey",
+      "Cuba Gooding Jr."
+    ],
     "category": "战争历史与西部",
     "subcategory": "前线营救",
     "accent": "#b88757",
@@ -11398,6 +18348,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0113277",
+    "ratings": {
+      "imdb": 8.3,
+      "imdbVotes": 806992,
+      "douban": null
+    },
+    "director": [
+      "Michael Mann"
+    ],
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Val Kilmer",
+      "Jon Voight",
+      "Tom Sizemore"
+    ],
     "category": "战争历史与西部",
     "subcategory": "前线营救",
     "accent": "#b88757",
@@ -11416,6 +18381,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzc4YzhiN2ItY2Y4NC00YTA0LWEyMjEtNzllNTcxZDdjODhiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@..jpg",
     "imdbId": "tt0114148",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 218212,
+      "douban": null
+    },
+    "director": [
+      "Mike Gabriel",
+      "Eric Goldberg"
+    ],
+    "cast": [
+      "Mel Gibson",
+      "Linda Hunt",
+      "Christian Bale",
+      "Joe Baker",
+      "Irene Bedard"
+    ],
     "category": "战争历史与西部",
     "subcategory": "前线营救",
     "accent": "#b88757",
@@ -11434,6 +18415,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NTU2ODI0MV5BMl5BanBnXkFtZTcwNTIwODU2NA@@..jpg",
     "imdbId": "tt0114287",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 49529,
+      "douban": null
+    },
+    "director": [
+      "Michael Caton-Jones"
+    ],
+    "cast": [
+      "Liam Neeson",
+      "Jessica Lange",
+      "John Hurt",
+      "Tim Roth",
+      "Eric Stoltz"
+    ],
     "category": "战争历史与西部",
     "subcategory": "前线营救",
     "accent": "#b88757",
@@ -11452,6 +18448,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0MjI4NDkyOF5BMl5BanBnXkFtZTcwNzQ0NTg3NA@@..jpg",
     "imdbId": "tt0114938",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 8843,
+      "douban": null
+    },
+    "director": [
+      "Walter Hill"
+    ],
+    "cast": [
+      "Jeff Bridges",
+      "Ellen Barkin",
+      "John Hurt",
+      "Diane Lane",
+      "Keith Carradine"
+    ],
     "category": "战争历史与西部",
     "subcategory": "边境小镇",
     "accent": "#b88757",
@@ -11470,6 +18481,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTIwMzk1MDc1MF5BMl5BanBnXkFtZTcwMTEzNDkyMQ@@..jpg",
     "imdbId": "tt0112286",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 325,
+      "douban": null
+    },
+    "director": [
+      "Stephen Low"
+    ],
+    "cast": [
+      "Peter Reznick",
+      "John McDonough",
+      "Avi Hoffman",
+      "Victor Steinbach",
+      "Peter Boyden"
+    ],
     "category": "战争历史与西部",
     "subcategory": "边境小镇",
     "accent": "#b88757",
@@ -11488,6 +18514,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODg1ODNjMzItYjRkMS00NmExLTkxNWUtMWYwNWM2NDU1YzU1XkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0113972",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 47572,
+      "douban": null
+    },
+    "director": [
+      "John Badham"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Christopher Walken",
+      "Courtney Chase",
+      "Charles S. Dutton",
+      "Roma Maffia"
+    ],
     "category": "战争历史与西部",
     "subcategory": "边境小镇",
     "accent": "#b88757",
@@ -11506,6 +18547,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzNlNzEyMDEtMjM0Yi00YjNiLWI4YmItNjFjZWQ2MWUxMTZiXkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0113501",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 32968,
+      "douban": null
+    },
+    "director": [
+      "Arne Glimcher"
+    ],
+    "cast": [
+      "Sean Connery",
+      "Laurence Fishburne",
+      "Kate Capshaw",
+      "Blair Underwood",
+      "Ed Harris"
+    ],
     "category": "战争历史与西部",
     "subcategory": "边境小镇",
     "accent": "#b88757",
@@ -11524,6 +18580,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjBhNmFlZjMtMzhlYy00NDBlLWFiMjctMmE0ZjgwOGM2MTNmXkEyXkFqcGdeQXVyNjExODE1MDc@..jpg",
     "imdbId": "tt0112453",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 52012,
+      "douban": null
+    },
+    "director": [
+      "Simon Wells"
+    ],
+    "cast": [
+      "Kevin Bacon",
+      "Bob Hoskins",
+      "Bridget Fonda",
+      "Jim Cummings",
+      "Phil Collins"
+    ],
     "category": "战争历史与西部",
     "subcategory": "边境小镇",
     "accent": "#b88757",
@@ -11542,6 +18613,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1Mzg0MzY0OV5BMl5BanBnXkFtZTYwMzA3MzQ5..jpg",
     "imdbId": "tt0112483",
+    "ratings": {
+      "imdb": 4.9,
+      "imdbVotes": 2750,
+      "douban": null
+    },
+    "director": [
+      "Phillip Rhee"
+    ],
+    "cast": [
+      "Phillip Rhee",
+      "Christopher McDonald",
+      "Gina Gershon",
+      "Mark Rolston",
+      "Peter Simmons"
+    ],
     "category": "战争历史与西部",
     "subcategory": "边境小镇",
     "accent": "#b88757",
@@ -11559,6 +18645,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjkxMjAwNzM3M15BMl5BanBnXkFtZTcwMDAwNDEyMQ@@..jpg",
     "imdbId": "tt0117999",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 548,
+      "douban": null
+    },
+    "director": [
+      "Nicolas Roeg"
+    ],
+    "cast": [
+      "Sonia Braga",
+      "Patrick Malahide",
+      "Ion Caramitru",
+      "Sevilla Delofski",
+      "Nickolas Grace"
+    ],
     "category": "战争历史与西部",
     "subcategory": "边境小镇",
     "accent": "#b88757",
@@ -11593,6 +18694,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNDYzMDY1OV5BMl5BanBnXkFtZTcwNDA2MzYxMQ@@..jpg",
     "imdbId": "tt0112302",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 12500,
+      "douban": null
+    },
+    "director": [
+      "Peter Hewitt"
+    ],
+    "cast": [
+      "Jonathan Taylor Thomas",
+      "Brad Renfro",
+      "Charles Rocket",
+      "Eric Schweig",
+      "Amy Wright"
+    ],
     "category": "战争历史与西部",
     "subcategory": "枪手传说",
     "accent": "#b88757",
@@ -11611,6 +18727,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjdhZWEzMzEtMjNhZS00OThhLWFiZWUtM2EwMWU5MWE0MDA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0112819",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 26803,
+      "douban": null
+    },
+    "director": [
+      "Albert Hughes",
+      "Allen Hughes"
+    ],
+    "cast": [
+      "Larenz Tate",
+      "Keith David",
+      "Chris Tucker",
+      "Freddy Rodríguez",
+      "Rose Jackson"
+    ],
     "category": "战争历史与西部",
     "subcategory": "枪手传说",
     "accent": "#b88757",
@@ -11629,6 +18761,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxMzIwMzI2Ml5BMl5BanBnXkFtZTcwMDAyMzIyMQ@@..jpg",
     "imdbId": "tt0113173",
+    "ratings": {
+      "imdb": 5,
+      "imdbVotes": 275,
+      "douban": null
+    },
+    "director": [
+      "Lucas Platt"
+    ],
+    "cast": [
+      "Erika Eleniak",
+      "William McNamara",
+      "Michael Lerner",
+      "Bud Cort",
+      "Ed Lauter"
+    ],
     "category": "战争历史与西部",
     "subcategory": "枪手传说",
     "accent": "#b88757",
@@ -11647,6 +18794,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5OTQxMjc5NF5BMl5BanBnXkFtZTcwOTY0NTQyMQ@@..jpg",
     "imdbId": "tt0114706",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 700,
+      "douban": null
+    },
+    "director": [
+      "Steve Cohen"
+    ],
+    "cast": [
+      "Billy Blanks",
+      "Roddy Piper",
+      "Richard Norton",
+      "Charles Kahlenberg",
+      "James Karen"
+    ],
     "category": "战争历史与西部",
     "subcategory": "枪手传说",
     "accent": "#b88757",
@@ -11665,6 +18827,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDhkYTk3Y2ItNTdiZS00NTIwLTgwNTMtODVmMmIwMjMwZGYxXkEyXkFqcGdeQXVyNjgzMjI4ODE@..jpg",
     "imdbId": "tt0113188",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 5371,
+      "douban": null
+    },
+    "director": [
+      "Kevin James Dobson"
+    ],
+    "cast": [
+      "Christina Ricci",
+      "Anna Chlumsky",
+      "Polly Draper",
+      "Brian Kerwin",
+      "Diana Scarwid"
+    ],
     "category": "战争历史与西部",
     "subcategory": "枪手传说",
     "accent": "#b88757",
@@ -11683,6 +18860,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzU0MzI0OF5BMl5BanBnXkFtZTcwMjI3MzMyMQ@@..jpg",
     "imdbId": "tt0113107",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 961,
+      "douban": null
+    },
+    "director": [
+      "Michael Lindsay-Hogg"
+    ],
+    "cast": [
+      "Matt Dillon",
+      "Anne Parillaud",
+      "Gabriel Byrne",
+      "Corban Walker",
+      "Niall Toibin"
+    ],
     "category": "战争历史与西部",
     "subcategory": "枪手传说",
     "accent": "#b88757",
@@ -11701,6 +18893,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MzA2Nzk0MV5BMl5BanBnXkFtZTcwODAyMTgyMQ@@..jpg",
     "imdbId": "tt0112712",
+    "ratings": {
+      "imdb": 4.8,
+      "imdbVotes": 393,
+      "douban": null
+    },
+    "director": [
+      "Mika Kaurismäki"
+    ],
+    "cast": [
+      "James Russo",
+      "Cynda Williams",
+      "Paul Calderon",
+      "Victor Argo",
+      "Jonathan Shaw"
+    ],
     "category": "战争历史与西部",
     "subcategory": "荒原旅程",
     "accent": "#b88757",
@@ -11719,6 +18926,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTAzMTkxZDktODllMi00NmIwLWFiZGEtY2FiNTE2OTIxMWM4XkEyXkFqcGdeQXVyMTMxMTY0OTQ@..jpg",
     "imdbId": "tt0114690",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 4689,
+      "douban": null
+    },
+    "director": [
+      "Shin'ya Tsukamoto"
+    ],
+    "cast": [
+      "Kaori Fujii",
+      "Shin'ya Tsukamoto",
+      "Kôji Tsukamoto",
+      "Naomasa Musaka",
+      "Naoto Takenaka"
+    ],
     "category": "战争历史与西部",
     "subcategory": "荒原旅程",
     "accent": "#b88757",
@@ -11737,6 +18959,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmUzZGFiYTYtY2I3Ny00MGJmLTlmZTItNTNhZTJjZGQyNDdiXkEyXkFqcGdeQXVyNzc5MjA3OA@@..jpg",
     "imdbId": "tt0116322",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 12667,
+      "douban": null
+    },
+    "director": [
+      "Alan Shapiro"
+    ],
+    "cast": [
+      "Paul Hogan",
+      "Elijah Wood",
+      "Jonathan Banks",
+      "Robert Deacon",
+      "Ann Carey"
+    ],
     "category": "战争历史与西部",
     "subcategory": "荒原旅程",
     "accent": "#b88757",
@@ -11772,6 +19009,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2NjUwODY0Nl5BMl5BanBnXkFtZTcwMjYyODcxMQ@@..jpg",
     "imdbId": "tt0116905",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 35902,
+      "douban": null
+    },
+    "director": [
+      "John Sayles"
+    ],
+    "cast": [
+      "Chris Cooper",
+      "Elizabeth Peña",
+      "Stephen Mendillo",
+      "Stephen J. Lang",
+      "Oni Faida Lampley"
+    ],
     "category": "战争历史与西部",
     "subcategory": "荒原旅程",
     "accent": "#b88757",
@@ -11790,6 +19042,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWMyZmNkNTMtYTZlMi00MmQ5LWE4NWQtMzVjZWZhNmU1Yjc1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0116000",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 30449,
+      "douban": null
+    },
+    "director": [
+      "Robert Lieberman"
+    ],
+    "cast": [
+      "Emilio Estevez",
+      "Jeffrey Nordling",
+      "David Selby",
+      "Heidi Kling",
+      "Joshua Jackson"
+    ],
     "category": "战争历史与西部",
     "subcategory": "荒原旅程",
     "accent": "#b88757",
@@ -11825,6 +19092,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODJlOTlkNzUtN2U2OC00NWUxLTg3MjgtNGVmZGU5ZTk0ZjM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0115956",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 63737,
+      "douban": null
+    },
+    "director": [
+      "Edward Zwick"
+    ],
+    "cast": [
+      "Denzel Washington",
+      "Meg Ryan",
+      "Lou Diamond Phillips",
+      "Michael Moriarty",
+      "Matt Damon"
+    ],
     "category": "战争历史与西部",
     "subcategory": "家国命运",
     "accent": "#b88757",
@@ -11843,6 +19125,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0OTE5MDQ0NTBeQTJeQWpwZ15BbWU4MDI5OTc3NTMx..jpg",
     "imdbId": "tt0116329",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 28911,
+      "douban": null
+    },
+    "director": [
+      "Carroll Ballard"
+    ],
+    "cast": [
+      "Jeff Daniels",
+      "Anna Paquin",
+      "Dana Delany",
+      "Terry Kinney",
+      "Holter Graham"
+    ],
     "category": "战争历史与西部",
     "subcategory": "家国命运",
     "accent": "#b88757",
@@ -11861,6 +19158,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTc0ZjNkYTktMmJmOS00OTJlLTg1NWUtMzQ5ZGMxM2NhY2M0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0117438",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 144413,
+      "douban": null
+    },
+    "director": [
+      "Ron Howard"
+    ],
+    "cast": [
+      "Mel Gibson",
+      "Gary Sinise",
+      "Rene Russo",
+      "Brawley Nolte",
+      "Delroy Lindo"
+    ],
     "category": "战争历史与西部",
     "subcategory": "家国命运",
     "accent": "#b88757",
@@ -11879,6 +19191,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmZkZDM5OTAtZTM5My00NDM4LTk3YzgtZTg3YzFiYmYzZDczXkEyXkFqcGdeQXVyNjgzMjI4ODE@..jpg",
     "imdbId": "tt0115493",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 6136,
+      "douban": null
+    },
+    "director": [
+      "Fraser C. Heston"
+    ],
+    "cast": [
+      "Thora Birch",
+      "Vincent Kartheiser",
+      "Dirk Benedict",
+      "Charlton Heston",
+      "Duncan Fraser"
+    ],
     "category": "战争历史与西部",
     "subcategory": "家国命运",
     "accent": "#b88757",
@@ -11897,6 +19224,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOThkYmJjYTMtOWMzNC00ZjQ4LWI4NzAtYjRlMDA3ZWMyYWRmXkEyXkFqcGdeQXVyNDIyMjczNjI@..jpg",
     "imdbId": "tt0116830",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 62518,
+      "douban": null
+    },
+    "director": [
+      "Walter Hill"
+    ],
+    "cast": [
+      "Bruce Willis",
+      "Bruce Dern",
+      "William Sanderson",
+      "Christopher Walken",
+      "David Patrick Kelly"
+    ],
     "category": "战争历史与西部",
     "subcategory": "家国命运",
     "accent": "#b88757",
@@ -11914,6 +19256,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjlmMDcwMWUtODBlZi00MmJkLThiODAtY2NkOGQxMTExZDU3L2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@..jpg",
     "imdbId": "tt0118158",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 26057,
+      "douban": null
+    },
+    "director": [
+      "Ridley Scott"
+    ],
+    "cast": [
+      "Jeff Bridges",
+      "Caroline Goodall",
+      "John Savage",
+      "Scott Wolf",
+      "Jeremy Sisto"
+    ],
     "category": "战争历史与西部",
     "subcategory": "家国命运",
     "accent": "#b88757",
@@ -11932,6 +19289,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTkzZmQxZmQtZmJkMS00YmJlLWI0YmItMjcwYzBhM2E3NGQzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0115857",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 58556,
+      "douban": null
+    },
+    "director": [
+      "Andrew Davis"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Morgan Freeman",
+      "Rachel Weisz",
+      "Fred Ward",
+      "Kevin Dunn"
+    ],
     "category": "战争历史与西部",
     "subcategory": "家国命运",
     "accent": "#b88757",
@@ -11950,6 +19322,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDA0OGI4ODctMzRkOC00NzI0LWEyZmYtODU1NmM5MzYxOWYwXkEyXkFqcGdeQXVyNjQzNDI3NzY@..jpg",
     "imdbId": "tt0117093",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 5891,
+      "douban": null
+    },
+    "director": [
+      "Keith Gordon"
+    ],
+    "cast": [
+      "Nick Nolte",
+      "Sheryl Lee",
+      "Tony Robinow",
+      "Michael McGill",
+      "Shimon Aviel"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战争爱情",
     "accent": "#b88757",
@@ -11968,6 +19355,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTliNjQ1MDYtZTQwNi00MzQzLTllZTgtZGYyZGExZDZlNGM5XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0116404",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 6406,
+      "douban": null
+    },
+    "director": [
+      "Spike Lee"
+    ],
+    "cast": [
+      "Ossie Davis",
+      "Charles S. Dutton",
+      "Andre Braugher",
+      "Richard Belzer",
+      "De'aundre Bonds"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战争爱情",
     "accent": "#b88757",
@@ -11986,6 +19388,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4OTI2MzY0Ml5BMl5BanBnXkFtZTcwOTMwOTc2NA@@..jpg",
     "imdbId": "tt0117260",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 2228,
+      "douban": null
+    },
+    "director": [
+      "Larry Cohen",
+      "Fred Williamson"
+    ],
+    "cast": [
+      "Fred Williamson",
+      "Jim Brown",
+      "Pam Grier",
+      "Paul Winfield",
+      "Isabel Sanford"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战争爱情",
     "accent": "#b88757",
@@ -12020,6 +19438,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MzUxODQ0Nl5BMl5BanBnXkFtZTcwNTQyNzEyMQ@@..jpg",
     "imdbId": "tt0117603",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 20476,
+      "douban": null
+    },
+    "director": [
+      "F. Gary Gray"
+    ],
+    "cast": [
+      "Jada Pinkett Smith",
+      "Queen Latifah",
+      "Vivica A. Fox",
+      "Kimberly Elise",
+      "John C. McGinley"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战争爱情",
     "accent": "#b88757",
@@ -12038,6 +19471,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3Mjc4MjgwOF5BMl5BanBnXkFtZTcwNzE3NzgxMQ@@..jpg",
     "imdbId": "tt0116334",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 1254,
+      "douban": null
+    },
+    "director": [
+      "Jean-Luc Godard"
+    ],
+    "cast": [
+      "Madeleine Assas",
+      "Ghalya Lacroix",
+      "Bérangère Allaux",
+      "Vicky Messica",
+      "Frédéric Pierrot"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战争爱情",
     "accent": "#b88757",
@@ -12056,6 +19504,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDQ2ZGJlOTAtMmM1Yi00MGNlLWIwMDgtMzkzNTA1NWU3YzhiXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0117427",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 3594,
+      "douban": null
+    },
+    "director": [
+      "Charles T. Kanganis"
+    ],
+    "cast": [
+      "Halle Berry",
+      "Jim Belushi",
+      "Bill Hunter",
+      "Casey Affleck",
+      "Eliza Dushku"
+    ],
     "category": "战争历史与西部",
     "subcategory": "战争爱情",
     "accent": "#b88757",
@@ -12074,6 +19537,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDFlNTZmOGYtYmE0ZC00OTE4LWI5YzctNmZmZDU3M2ZiMmI4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0118548",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 65151,
+      "douban": null
+    },
+    "director": [
+      "Clint Eastwood"
+    ],
+    "cast": [
+      "Clint Eastwood",
+      "Gene Hackman",
+      "Ed Harris",
+      "Laura Linney",
+      "Scott Glenn"
+    ],
     "category": "战争历史与西部",
     "subcategory": "冲突经典",
     "accent": "#b88757",
@@ -12092,6 +19570,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWNmZGM3NjUtOTgzYi00YjVmLTk4NGYtNGQ1Y2MwZjBkN2I3XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0120036",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 9408,
+      "douban": null
+    },
+    "director": [
+      "John Singleton"
+    ],
+    "cast": [
+      "Jon Voight",
+      "Ving Rhames",
+      "Don Cheadle",
+      "Bruce McGill",
+      "Loren Dean"
+    ],
     "category": "战争历史与西部",
     "subcategory": "冲突经典",
     "accent": "#b88757",
@@ -12110,6 +19603,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGQ0Yzc1Y2UtZTRhMi00NTI5LTkyZjgtNjVkZDc0ZGY4OTI2XkEyXkFqcGdeQXVyNTIzOTk5ODM@..jpg",
     "imdbId": "tt0118771",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 70582,
+      "douban": null
+    },
+    "director": [
+      "Jonathan Mostow"
+    ],
+    "cast": [
+      "Kurt Russell",
+      "J.T. Walsh",
+      "Kathleen Quinlan",
+      "M.C. Gainey",
+      "Jack Noseworthy"
+    ],
     "category": "战争历史与西部",
     "subcategory": "冲突经典",
     "accent": "#b88757",
@@ -12128,6 +19636,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTk5NWE2ZjAtZmRmOS00ZGYzLWI5ZmUtMDcwODI0YWY0MTRlL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@..jpg",
     "imdbId": "tt0118571",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 224310,
+      "douban": null
+    },
+    "director": [
+      "Wolfgang Petersen"
+    ],
+    "cast": [
+      "Harrison Ford",
+      "Gary Oldman",
+      "Glenn Close",
+      "Wendy Crewson",
+      "Liesel Matthews"
+    ],
     "category": "战争历史与西部",
     "subcategory": "冲突经典",
     "accent": "#b88757",
@@ -12146,6 +19669,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2EyYTAyNjAtNGQ3MC00NTE0LThmNGItN2Q4MWY2YzMyYzczXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0119731",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 34702,
+      "douban": null
+    },
+    "director": [
+      "Dwight H. Little"
+    ],
+    "cast": [
+      "Wesley Snipes",
+      "Diane Lane",
+      "Daniel Benzali",
+      "Dennis Miller",
+      "Alan Alda"
+    ],
     "category": "战争历史与西部",
     "subcategory": "冲突经典",
     "accent": "#b88757",
@@ -12164,6 +19702,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1MTYxMzA4OF5BMl5BanBnXkFtZTgwNjg2NTM1MTI@..jpg",
     "imdbId": "tt0118883",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 114590,
+      "douban": null
+    },
+    "director": [
+      "Richard Donner"
+    ],
+    "cast": [
+      "Mel Gibson",
+      "Julia Roberts",
+      "Patrick Stewart",
+      "Cylk Cozart",
+      "Steve Kahan"
+    ],
     "category": "战争历史与西部",
     "subcategory": "冲突经典",
     "accent": "#b88757",
@@ -12182,6 +19735,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTU3MGE1OTgtM2YwNC00ODAyLTg3Y2YtYTM0NTc2ZTc3ZDFkL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0123817",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 62,
+      "douban": null
+    },
+    "director": [
+      "Brian Harty"
+    ],
+    "cast": [
+      "Aaron Michael Lacey",
+      "Steve Tartalia",
+      "Briel Banks",
+      "Celeste Lynch",
+      "Mark O'Flahavan"
+    ],
     "category": "战争历史与西部",
     "subcategory": "冲突经典",
     "accent": "#b88757",
@@ -12200,6 +19768,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzMxOGUzOWEtMGUxMi00ZWM1LWE3ODgtNzc4OGVjZmJhMmFmXkEyXkFqcGdeQXVyODY0NzcxNw@@..jpg",
     "imdbId": "tt0110167",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 49216,
+      "douban": null
+    },
+    "director": [
+      "Andrew Bergman"
+    ],
+    "cast": [
+      "Nicolas Cage",
+      "Bridget Fonda",
+      "Rosie Perez",
+      "Wendell Pierce",
+      "Isaac Hayes"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞黄金",
     "accent": "#c487b8",
@@ -12218,6 +19801,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWY1ZGEyY2YtNWZhNS00OGZhLTg3OWEtODE2M2U5NjE4YmUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0110950",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 57660,
+      "douban": null
+    },
+    "director": [
+      "Ben Stiller"
+    ],
+    "cast": [
+      "Winona Ryder",
+      "Ethan Hawke",
+      "Janeane Garofalo",
+      "Steve Zahn",
+      "Ben Stiller"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞黄金",
     "accent": "#c487b8",
@@ -12236,6 +19834,18 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMTY0NTY5OF5BMl5BanBnXkFtZTcwOTIzODEzMQ@@..jpg",
     "imdbId": "tt0111689",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 2857,
+      "douban": null
+    },
+    "director": [
+      "Tom Noonan"
+    ],
+    "cast": [
+      "Tom Noonan",
+      "Karen Sillas"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞黄金",
     "accent": "#c487b8",
@@ -12254,6 +19864,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDU0OTI1ZDItNzQzMC00NGUxLTkwMmEtYWRkMmJhZjlmNWE0XkEyXkFqcGdeQXVyNDY2NzgwOTE@..jpg",
     "imdbId": "tt0111357",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 48,
+      "douban": null
+    },
+    "director": [
+      "Aaron Speiser"
+    ],
+    "cast": [
+      "Kim Wayans",
+      "Daniel Beer",
+      "Daria Lynn",
+      "Randolph Powell",
+      "Kerry Ruff"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞黄金",
     "accent": "#c487b8",
@@ -12272,6 +19897,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2MzY0NTE3MF5BMl5BanBnXkFtZTcwOTk1NTAyMQ@@..jpg",
     "imdbId": "tt0110391",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 5385,
+      "douban": null
+    },
+    "director": [
+      "Glenn Gordon Caron"
+    ],
+    "cast": [
+      "Warren Beatty",
+      "Annette Bening",
+      "Katharine Hepburn",
+      "Garry Shandling",
+      "Chloe Webb"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞黄金",
     "accent": "#c487b8",
@@ -12290,6 +19930,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NTY2NjkzNl5BMl5BanBnXkFtZTcwNjUyMDQyMQ@@..jpg",
     "imdbId": "tt0109191",
+    "ratings": {
+      "imdb": 5.2,
+      "imdbVotes": 182,
+      "douban": null
+    },
+    "director": [
+      "Victoria Foyt",
+      "Henry Jaglom"
+    ],
+    "cast": [
+      "Victoria Foyt",
+      "Matt Salinger",
+      "Frances Fisher",
+      "Eric Roberts",
+      "Dinah Lenney"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞黄金",
     "accent": "#c487b8",
@@ -12308,6 +19964,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIyODAzNjAyNF5BMl5BanBnXkFtZTcwNjc3ODUyMQ@@..jpg",
     "imdbId": "tt0110091",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 2058,
+      "douban": null
+    },
+    "director": [
+      "Darnell Martin"
+    ],
+    "cast": [
+      "Luna Lauren Velez",
+      "Jon Seda",
+      "Tomas Melly",
+      "Desiree Casado",
+      "Isaiah Garcia"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞黄金",
     "accent": "#c487b8",
@@ -12326,6 +19997,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1MTU5Nzc3N15BMl5BanBnXkFtZTcwNzY4MTUyMQ@@..jpg",
     "imdbId": "tt0110671",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 743,
+      "douban": null
+    },
+    "director": [
+      "Alan Jacobs"
+    ],
+    "cast": [
+      "Laura San Giacomo",
+      "Paul Rhys",
+      "Michael O'Keefe",
+      "Cristi Conaway",
+      "Fisher Stevens"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "舞台改编",
     "accent": "#c487b8",
@@ -12344,6 +20030,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE0NTQ1NjQzM15BMl5BanBnXkFtZTYwNDI4MDU5..jpg",
     "imdbId": "tt0113729",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 7419,
+      "douban": null
+    },
+    "director": [
+      "Antonia Bird"
+    ],
+    "cast": [
+      "Chris O'Donnell",
+      "Drew Barrymore",
+      "Matthew Lillard",
+      "Richard Chaim",
+      "Robert Nadir"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "舞台改编",
     "accent": "#c487b8",
@@ -12362,6 +20063,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5NjU4NDUzMl5BMl5BanBnXkFtZTgwMjc4NDgzMTE@..jpg",
     "imdbId": "tt0114924",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 127217,
+      "douban": null
+    },
+    "director": [
+      "Jon Turteltaub"
+    ],
+    "cast": [
+      "Sandra Bullock",
+      "Bill Pullman",
+      "Peter Gallagher",
+      "Peter Boyle",
+      "Jack Warden"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "舞台改编",
     "accent": "#c487b8",
@@ -12380,6 +20096,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjQ5ZjQ0YzQtOGY3My00MWVhLTgzNWItOTYwMTE5N2ZiMDUyXkEyXkFqcGdeQXVyNjUwMzI2NzU@..jpg",
     "imdbId": "tt0114319",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 47501,
+      "douban": null
+    },
+    "director": [
+      "Sydney Pollack"
+    ],
+    "cast": [
+      "Harrison Ford",
+      "Julia Ormond",
+      "Greg Kinnear",
+      "Nancy Marchand",
+      "John Wood"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "舞台改编",
     "accent": "#c487b8",
@@ -12415,6 +20146,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWU2YjdlN2ItNTk2OS00MzMwLTlhYjctNDI0MDI0NTQ3OWY0XkEyXkFqcGdeQXVyNzI1NzMxNzM@..jpg",
     "imdbId": "tt0113537",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 16082,
+      "douban": null
+    },
+    "director": [
+      "Noah Baumbach"
+    ],
+    "cast": [
+      "Josh Hamilton",
+      "Eric Stoltz",
+      "Samuel Gould",
+      "Catherine Kellner",
+      "Jonathan Baumbach"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "舞台改编",
     "accent": "#c487b8",
@@ -12433,6 +20179,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWU3NmFlNzAtMDM0Zi00OGM0LTgxN2EtZDVlNTBmYWYzNWUzXkEyXkFqcGdeQXVyNTM5NzI0NDY@..jpg",
     "imdbId": "tt0113321",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 16242,
+      "douban": null
+    },
+    "director": [
+      "Jodie Foster"
+    ],
+    "cast": [
+      "Holly Hunter",
+      "Anne Bancroft",
+      "Robert Downey Jr.",
+      "Charles Durning",
+      "Dylan McDermott"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "舞台改编",
     "accent": "#c487b8",
@@ -12451,6 +20212,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDhmOTczMjItMzg5NS00OTFiLWEzYTctMjAxMTZmMWVmMmQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114496",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 15238,
+      "douban": null
+    },
+    "director": [
+      "Lasse Hallström"
+    ],
+    "cast": [
+      "Julia Roberts",
+      "Dennis Quaid",
+      "Robert Duvall",
+      "Gena Rowlands",
+      "Kyra Sedgwick"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐人生",
     "accent": "#c487b8",
@@ -12486,6 +20262,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzMjg5MDQ3M15BMl5BanBnXkFtZTgwOTM5NTE0MDE@..jpg",
     "imdbId": "tt0113117",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 56755,
+      "douban": null
+    },
+    "director": [
+      "Lawrence Kasdan"
+    ],
+    "cast": [
+      "Meg Ryan",
+      "Kevin Kline",
+      "Timothy Hutton",
+      "Jean Reno",
+      "François Cluzet"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐人生",
     "accent": "#c487b8",
@@ -12504,6 +20295,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGYwZmZkYWItNjdmMi00MjI2LThmOGYtMmI1NTQ0OWQ1YWIxXkEyXkFqcGdeQXVyNzA5NjUyNjM@..jpg",
     "imdbId": "tt0113347",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 13137,
+      "douban": null
+    },
+    "director": [
+      "Jocelyn Moorhouse"
+    ],
+    "cast": [
+      "Winona Ryder",
+      "Ellen Burstyn",
+      "Anne Bancroft",
+      "Kaelynn Craddick",
+      "Sara Craddick"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐人生",
     "accent": "#c487b8",
@@ -12522,6 +20328,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0112471",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 379208,
+      "douban": null
+    },
+    "director": [
+      "Richard Linklater"
+    ],
+    "cast": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Andrea Eckert",
+      "Hanno Pöschl",
+      "Karl Bruckschwaiger"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐人生",
     "accent": "#c487b8",
@@ -12540,6 +20361,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MDQ1YjUtMGM0NC00NmFlLTljMDktZjJiNWRhMWYxOWYyXkEyXkFqcGdeQXVyNjgzMjI4ODE@..jpg",
     "imdbId": "tt0114011",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 34939,
+      "douban": null
+    },
+    "director": [
+      "Lesli Linka Glatter"
+    ],
+    "cast": [
+      "Christina Ricci",
+      "Demi Moore",
+      "Rosie O'Donnell",
+      "Thora Birch",
+      "Melanie Griffith"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐人生",
     "accent": "#c487b8",
@@ -12558,6 +20394,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0MTE0NTQxMV5BMl5BanBnXkFtZTcwMDQ2NjkyMQ@@..jpg",
     "imdbId": "tt0114095",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 8840,
+      "douban": null
+    },
+    "director": [
+      "Daisy von Scherler Mayer"
+    ],
+    "cast": [
+      "Parker Posey",
+      "Omar Townsend",
+      "The Lady Bunny",
+      "Lum Chang Pang",
+      "Anthony DeSando"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐人生",
     "accent": "#c487b8",
@@ -12576,6 +20427,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMTMyMTgyM15BMl5BanBnXkFtZTcwOTc4OTQyMQ@@..jpg",
     "imdbId": "tt0114885",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 14014,
+      "douban": null
+    },
+    "director": [
+      "Forest Whitaker"
+    ],
+    "cast": [
+      "Whitney Houston",
+      "Angela Bassett",
+      "Loretta Devine",
+      "Lela Rochon",
+      "Gregory Hines"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "乐队现场",
     "accent": "#c487b8",
@@ -12594,6 +20460,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMDk3NDU3N15BMl5BanBnXkFtZTcwNzc3OTIyMQ@@..jpg",
     "imdbId": "tt0114550",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 1866,
+      "douban": null
+    },
+    "director": [
+      "Nigel Finch"
+    ],
+    "cast": [
+      "Guillermo Diaz",
+      "Frederick Weller",
+      "Brendan Corbalis",
+      "Duane Boutte",
+      "Bruce MacVittie"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "乐队现场",
     "accent": "#c487b8",
@@ -12612,6 +20493,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjBhZDFhYWMtYTA0MS00NTZkLWI2YTAtMGJmZmVlNmE3YmE1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@..jpg",
     "imdbId": "tt0113851",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 4442,
+      "douban": null
+    },
+    "director": [
+      "David Anspaugh"
+    ],
+    "cast": [
+      "Elizabeth Perkins",
+      "Whoopi Goldberg",
+      "Kathleen Turner",
+      "Gwyneth Paltrow",
+      "Jon Bon Jovi"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "乐队现场",
     "accent": "#c487b8",
@@ -12630,6 +20526,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIyMzAzMDgyN15BMl5BanBnXkFtZTcwMjY3ODkxMQ@@..jpg",
     "imdbId": "tt0112604",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 2250,
+      "douban": null
+    },
+    "director": [
+      "Michael Winterbottom"
+    ],
+    "cast": [
+      "Amanda Plummer",
+      "Kathy Jamieson",
+      "Saskia Reeves",
+      "Des McAleer",
+      "Lisa Riley"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "乐队现场",
     "accent": "#c487b8",
@@ -12648,6 +20559,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTM0ZWNmZTUtOTVkZS00MTZiLTg3M2QtZjA0Y2RmOWM1NWEyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0116695",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 312645,
+      "douban": null
+    },
+    "director": [
+      "Cameron Crowe"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Cuba Gooding Jr.",
+      "Renée Zellweger",
+      "Kelly Preston",
+      "Jerry O'Connell"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "乐队现场",
     "accent": "#c487b8",
@@ -12666,6 +20592,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNTAyMTE1Nl5BMl5BanBnXkFtZTcwMzk4NTgxMQ@@..jpg",
     "imdbId": "tt0116790",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 17008,
+      "douban": null
+    },
+    "director": [
+      "Jan Svěrák"
+    ],
+    "cast": [
+      "Zdeněk Svěrák",
+      "Andrey Khalimon",
+      "Libuše Šafránková",
+      "Ondřej Vetchý",
+      "Stella Zázvorková"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "乐队现场",
     "accent": "#c487b8",
@@ -12684,6 +20625,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2Nzk4MTcyMF5BMl5BanBnXkFtZTcwMDI0NDMzMQ@@..jpg",
     "imdbId": "tt0117615",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 12539,
+      "douban": null
+    },
+    "director": [
+      "Masayuki Suō"
+    ],
+    "cast": [
+      "Kōji Yakusho",
+      "Tamiyo Kusakari",
+      "Naoto Takenaka",
+      "Eri Watanabe",
+      "Yū Tokui"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "乐队现场",
     "accent": "#c487b8",
@@ -12702,6 +20658,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmRiODUwODgtYzQ4Yi00ZDc4LWFkNWItZTNhMzUyNjQwMzJmXkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0116191",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 44140,
+      "douban": null
+    },
+    "director": [
+      "Douglas McGrath"
+    ],
+    "cast": [
+      "Gwyneth Paltrow",
+      "James Cosmo",
+      "Greta Scacchi",
+      "Alan Cumming",
+      "Denys Hawthorne"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "爵士蓝调",
     "accent": "#c487b8",
@@ -12720,6 +20691,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDQxNzY1MzItZmU1Mi00MWI3LTk4ZjYtOTBlM2RmYTk1MTJjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0117918",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 56260,
+      "douban": null
+    },
+    "director": [
+      "Ron Shelton"
+    ],
+    "cast": [
+      "Kevin Costner",
+      "Rene Russo",
+      "Don Johnson",
+      "Cheech Marin",
+      "Linda Hart"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "爵士蓝调",
     "accent": "#c487b8",
@@ -12738,6 +20724,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2UwYzY1YjUtNmQxNS00MDIzLTkxMzktNTU5YTBiY2M5MWIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDQzMDg4Nzk@..jpg",
     "imdbId": "tt0116242",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 41339,
+      "douban": null
+    },
+    "director": [
+      "Woody Allen"
+    ],
+    "cast": [
+      "Woody Allen",
+      "Goldie Hawn",
+      "Julia Roberts",
+      "Edward Norton",
+      "Drew Barrymore"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "爵士蓝调",
     "accent": "#c487b8",
@@ -12756,6 +20757,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ4OTU0ODktY2E5YS00MGFhLTgwZTEtZWFkOGMxMmFmOTg0XkEyXkFqcGdeQXVyNzc5MjA3OA@@..jpg",
     "imdbId": "tt0115639",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 36373,
+      "douban": null
+    },
+    "director": [
+      "Ted Demme"
+    ],
+    "cast": [
+      "Matt Dillon",
+      "Timothy Hutton",
+      "Noah Emmerich",
+      "Annabeth Gish",
+      "Lauren Holly"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "爵士蓝调",
     "accent": "#c487b8",
@@ -12774,6 +20790,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmFjYWU4YTgtZGQ1OC00ZjhlLWI3ZjMtMzZhN2I1Y2I1MWJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0116606",
+    "ratings": {
+      "imdb": 4.9,
+      "imdbVotes": 4333,
+      "douban": null
+    },
+    "director": [
+      "Eric Schaeffer"
+    ],
+    "cast": [
+      "Sarah Jessica Parker",
+      "Eric Schaeffer",
+      "Ben Stiller",
+      "Elle Macpherson",
+      "James Rebhorn"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "爵士蓝调",
     "accent": "#c487b8",
@@ -12792,6 +20823,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDdhMjgxODQtZjNhNS00YjZiLWFmYTAtODZmM2RhM2M3YmIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0117247",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 50764,
+      "douban": null
+    },
+    "director": [
+      "Michael Hoffman"
+    ],
+    "cast": [
+      "Michelle Pfeiffer",
+      "George Clooney",
+      "Mae Whitman",
+      "Alex D. Linz",
+      "Charles Durning"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "爵士蓝调",
     "accent": "#c487b8",
@@ -12810,6 +20856,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1NzQ5MjIxNl5BMl5BanBnXkFtZTcwNTQ1MzIyMQ@@..jpg",
     "imdbId": "tt0117104",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 9320,
+      "douban": null
+    },
+    "director": [
+      "Richard Benjamin"
+    ],
+    "cast": [
+      "Shirley MacLaine",
+      "Ricki Lake",
+      "Brendan Fraser",
+      "Miguel Sandoval",
+      "Loren Dean"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "爵士蓝调",
     "accent": "#c487b8",
@@ -12828,6 +20889,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWVmN2ZhZjgtZGEzMy00NDkxLWI5YWQtYTE2ZTk0YzIyMzc0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0117887",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 78427,
+      "douban": null
+    },
+    "director": [
+      "Tom Hanks"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Liv Tyler",
+      "Charlize Theron",
+      "Tom Everett Scott",
+      "Johnathon Schaech"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "青春歌舞",
     "accent": "#c487b8",
@@ -12846,6 +20922,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyMzg2NTk1OV5BMl5BanBnXkFtZTcwMzYxMDMyMQ@@..jpg",
     "imdbId": "tt0115744",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 22344,
+      "douban": null
+    },
+    "director": [
+      "Mark Herman"
+    ],
+    "cast": [
+      "Pete Postlethwaite",
+      "Tara Fitzgerald",
+      "Ewan McGregor",
+      "Stephen Tompkinson",
+      "Jim Carter"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "青春歌舞",
     "accent": "#c487b8",
@@ -12864,6 +20955,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1MDA1MjM0OV5BMl5BanBnXkFtZTcwMjE0MDYxMQ@@..jpg",
     "imdbId": "tt0117628",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 19406,
+      "douban": null
+    },
+    "director": [
+      "Edward Burns"
+    ],
+    "cast": [
+      "Edward Burns",
+      "Jennifer Aniston",
+      "John Mahoney",
+      "Michael McGlone",
+      "Maxine Bahns"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "青春歌舞",
     "accent": "#c487b8",
@@ -12882,6 +20988,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTM4OTllMzYtZmQ0YS00MDU3LTliZDktNjMzYmQ4ZjRjMmFjXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0115640",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 27367,
+      "douban": null
+    },
+    "director": [
+      "Hettie Macdonald"
+    ],
+    "cast": [
+      "Glen Berry",
+      "Linda Henry",
+      "Meera Syal",
+      "Martin Walsh",
+      "Steven M. Martin"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "青春歌舞",
     "accent": "#c487b8",
@@ -12900,6 +21021,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI4M2M2MjEtMzQ1Ni00MjA4LWI1ZDQtMDhlODBlNDVhMzhkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0118113",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 4278,
+      "douban": null
+    },
+    "director": [
+      "Nicole Holofcener"
+    ],
+    "cast": [
+      "Catherine Keener",
+      "Anne Heche",
+      "Amy Braverman",
+      "Miranda Rhyne",
+      "Randall Batinkoff"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "青春歌舞",
     "accent": "#c487b8",
@@ -12918,6 +21054,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzMDMxNTE2NV5BMl5BanBnXkFtZTYwNzk4OTE5..jpg",
     "imdbId": "tt0116631",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 901,
+      "douban": null
+    },
+    "director": [
+      "Nancy Meckler"
+    ],
+    "cast": [
+      "Jason Flemyng",
+      "Antony Sher",
+      "Dorothy Tutin",
+      "Anthony Higgins",
+      "Bill Nighy"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "青春歌舞",
     "accent": "#c487b8",
@@ -12936,6 +21087,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5NjI1NzY3NV5BMl5BanBnXkFtZTgwOTQ5MjgwMzE@..jpg",
     "imdbId": "tt0116834",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 657,
+      "douban": null
+    },
+    "director": [
+      "Julia Dyer"
+    ],
+    "cast": [
+      "Connie Nelson",
+      "Dee Hennigan",
+      "Gary Mitchell Carter",
+      "Jonah Lisa Dyer",
+      "Esteban Powell"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "青春歌舞",
     "accent": "#c487b8",
@@ -12954,6 +21120,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5MDM3Njg3M15BMl5BanBnXkFtZTcwNTMzNDQzMQ@@..jpg",
     "imdbId": "tt0115591",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 917,
+      "douban": null
+    },
+    "director": [
+      "Anthony Hopkins"
+    ],
+    "cast": [
+      "Anthony Hopkins",
+      "Leslie Phillips",
+      "Kate Burton",
+      "Gawn Grainger",
+      "Rhian Morgan"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "浪漫歌舞",
     "accent": "#c487b8",
@@ -12972,6 +21153,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2OTA0MzE0NF5BMl5BanBnXkFtZTcwMjA2NjEyMQ@@..jpg",
     "imdbId": "tt0116565",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 745,
+      "douban": null
+    },
+    "director": [
+      "Craig Rosenberg"
+    ],
+    "cast": [
+      "Aden Young",
+      "Saffron Burrows",
+      "Simon Bossell",
+      "Pippa Grandison",
+      "Ray Barrett"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "浪漫歌舞",
     "accent": "#c487b8",
@@ -12990,6 +21186,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMzMxNzM2NF5BMl5BanBnXkFtZTYwMTY3NzU5..jpg",
     "imdbId": "tt0116442",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 4212,
+      "douban": null
+    },
+    "director": [
+      "Allison Anders"
+    ],
+    "cast": [
+      "Illeana Douglas",
+      "John Turturro",
+      "Sissy Boyd",
+      "Christina Pickles",
+      "Jill Sobule"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "浪漫歌舞",
     "accent": "#c487b8",
@@ -13008,6 +21219,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODI2MDU5Nl5BMl5BanBnXkFtZTcwMzUyNTQyMQ@@..jpg",
     "imdbId": "tt0115886",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 2452,
+      "douban": null
+    },
+    "director": [
+      "Peter Duncan"
+    ],
+    "cast": [
+      "Judy Davis",
+      "Sam Neill",
+      "F. Murray Abraham",
+      "Richard Roxburgh",
+      "Rachel Griffiths"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "浪漫歌舞",
     "accent": "#c487b8",
@@ -13026,6 +21252,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzMjY0MzQ5NF5BMl5BanBnXkFtZTcwNzQ1MjAyMQ@@..jpg",
     "imdbId": "tt0115951",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 2411,
+      "douban": null
+    },
+    "director": [
+      "Mark Joffe"
+    ],
+    "cast": [
+      "Ben Mendelsohn",
+      "Barry Otto",
+      "Toni Collette",
+      "Rachel Griffiths",
+      "Aden Young"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "浪漫歌舞",
     "accent": "#c487b8",
@@ -13044,6 +21285,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjY4ZTNlMmUtNTQwZS00Mzc0LTgyOTAtODQ0MjIyOTJlNjdkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@..jpg",
     "imdbId": "tt0119738",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 167319,
+      "douban": null
+    },
+    "director": [
+      "P.J. Hogan"
+    ],
+    "cast": [
+      "Julia Roberts",
+      "Dermot Mulroney",
+      "Cameron Diaz",
+      "Rupert Everett",
+      "Philip Bosco"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "浪漫歌舞",
     "accent": "#c487b8",
@@ -13062,6 +21318,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDM3MTg2MGUtZDM0MC00NzMwLWE5NjItOWFjNjA2M2I4YzgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0118842",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 148561,
+      "douban": null
+    },
+    "director": [
+      "Kevin Smith"
+    ],
+    "cast": [
+      "Ben Affleck",
+      "Joey Lauren Adams",
+      "Ethan Suplee",
+      "Scott Mosier",
+      "Jason Lee"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "浪漫歌舞",
     "accent": "#c487b8",
@@ -13080,6 +21351,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWMxZTgzMWEtMTU0Zi00NDc5LWFkZjctMzUxNDIyNzZiMmNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0119822",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 338207,
+      "douban": null
+    },
+    "director": [
+      "James L. Brooks"
+    ],
+    "cast": [
+      "Jack Nicholson",
+      "Helen Hunt",
+      "Greg Kinnear",
+      "Cuba Gooding Jr.",
+      "Skeet Ulrich"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "家庭音乐",
     "accent": "#c487b8",
@@ -13098,6 +21384,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0NDQyODM3MF5BMl5BanBnXkFtZTcwMjc1NTkxMQ@@..jpg",
     "imdbId": "tt0119141",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 41897,
+      "douban": null
+    },
+    "director": [
+      "Andy Tennant"
+    ],
+    "cast": [
+      "Matthew Perry",
+      "Salma Hayek",
+      "Jon Tenney",
+      "Carlos Gómez",
+      "Tomas Milian"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "家庭音乐",
     "accent": "#c487b8",
@@ -13116,6 +21417,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMzE0OTU3Nl5BMl5BanBnXkFtZTcwNTI1OTEyMQ@@..jpg",
     "imdbId": "tt0120357",
+    "ratings": {
+      "imdb": 5.6,
+      "imdbVotes": 3103,
+      "douban": null
+    },
+    "director": [
+      "Paul Schrader"
+    ],
+    "cast": [
+      "Bridget Fonda",
+      "Christopher Walken",
+      "Skeet Ulrich",
+      "LL Cool J",
+      "Gina Gershon"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "家庭音乐",
     "accent": "#c487b8",
@@ -13134,6 +21450,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2NjYxMDczNV5BMl5BanBnXkFtZTcwODAwODAyMQ@@..jpg",
     "imdbId": "tt0119572",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 6403,
+      "douban": null
+    },
+    "director": [
+      "Theodore Witcher"
+    ],
+    "cast": [
+      "Larenz Tate",
+      "Nia Long",
+      "Isaiah Washington",
+      "Lisa Nicole Carson",
+      "Bill Bellamy"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "家庭音乐",
     "accent": "#c487b8",
@@ -13152,6 +21483,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2UwN2E0ZGItYmM3NC00ODVkLTkxOGItNGQ1NDMxMDdiMjQ0XkEyXkFqcGdeQXVyNTIzOTk5ODM@..jpg",
     "imdbId": "tt0119896",
+    "ratings": {
+      "imdb": 5.6,
+      "imdbVotes": 22414,
+      "douban": null
+    },
+    "director": [
+      "Glenn Gordon Caron"
+    ],
+    "cast": [
+      "Jennifer Aniston",
+      "Jay Mohr",
+      "Kevin Bacon",
+      "Olympia Dukakis",
+      "Illeana Douglas"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "家庭音乐",
     "accent": "#c487b8",
@@ -13170,6 +21516,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjVlYjYzNzktYjA4Ny00ZTk2LTlmNTUtYTI5OTZkOTE2YzU4XkEyXkFqcGdeQXVyMTAwMzUyOTc@..jpg",
     "imdbId": "tt0118566",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 4086,
+      "douban": null
+    },
+    "director": [
+      "Alan Rudolph"
+    ],
+    "cast": [
+      "Nick Nolte",
+      "Julie Christie",
+      "Lara Flynn Boyle",
+      "Jonny Lee Miller",
+      "Jay Underwood"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "家庭音乐",
     "accent": "#c487b8",
@@ -13188,6 +21549,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NDc1MjE1N15BMl5BanBnXkFtZTcwMjcwMjcyMQ@@..jpg",
     "imdbId": "tt0115927",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 1754,
+      "douban": null
+    },
+    "director": [
+      "Daniel Taplitz"
+    ],
+    "cast": [
+      "Aidan Quinn",
+      "Courteney Cox",
+      "Anthony LaPaglia",
+      "Shirl Bernheim",
+      "Peter Jacobson"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "家庭音乐",
     "accent": "#c487b8",
@@ -13206,6 +21582,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWY4MzE2NWUtNTU1Yi00ODI1LWI2ZTMtNmVhNmZmNDQxMzMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0119578",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 3801,
+      "douban": null
+    },
+    "director": [
+      "Joe Mantello"
+    ],
+    "cast": [
+      "Jason Alexander",
+      "Stephen Spinella",
+      "Stephen Bogardus",
+      "Randy Becker",
+      "John Benjamin Hickey"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐喜剧",
     "accent": "#c487b8",
@@ -13239,6 +21630,14 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0NTI4Mjc1MF5BMl5BanBnXkFtZTcwMDMwOTAwMQ@@..jpg",
     "imdbId": "tt0102370",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 10516,
+      "douban": null
+    },
+    "director": [
+      "Alek Keshishian"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐喜剧",
     "accent": "#c487b8",
@@ -13257,6 +21656,23 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3ODg2NzYxOF5BMl5BanBnXkFtZTYwOTA3NzA5..jpg",
     "imdbId": "tt0103905",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 45058,
+      "douban": null
+    },
+    "director": [
+      "Rémy Belvaux",
+      "André Bonzel",
+      "Benoît Poelvoorde"
+    ],
+    "cast": [
+      "Benoît Poelvoorde",
+      "Jacqueline Poelvoorde-Pappaert",
+      "Nelly Pappaert",
+      "Hector Pappaert",
+      "Jenny Drye"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐喜剧",
     "accent": "#c487b8",
@@ -13274,6 +21690,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWFjNWFiMGItN2I1ZS00NWRiLTlkODMtOWZhYjFkNjdlZmM4XkEyXkFqcGdeQXVyMzU0NzkwMDg@..jpg",
     "imdbId": "tt0105201",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 111,
+      "douban": null
+    },
+    "director": [
+      "Jean-Pierre Bekolo"
+    ],
+    "cast": [
+      "Serge Amougou",
+      "Saïdou Abatcha",
+      "Timoléon Boyoguenou",
+      "Atebass",
+      "Geneviève Ngo Ntamack"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐喜剧",
     "accent": "#c487b8",
@@ -13292,6 +21723,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGJhNDdmMWMtNzZiYy00MmFiLThjNmUtYTE1ZjRkNjdjYmQ5XkEyXkFqcGdeQXVyMTMxODk2OTU@..jpg",
     "imdbId": "tt0108394",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 118171,
+      "douban": null
+    },
+    "director": [
+      "Krzysztof Kieślowski"
+    ],
+    "cast": [
+      "Juliette Binoche",
+      "Zbigniew Zamachowski",
+      "Julie Delpy",
+      "Benoît Régent",
+      "Florence Pernel"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐喜剧",
     "accent": "#c487b8",
@@ -13309,6 +21755,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxOTE5Mzk1M15BMl5BanBnXkFtZTcwNTAzMTAwMQ@@..jpg",
     "imdbId": "tt0106880",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 4887,
+      "douban": null
+    },
+    "director": [
+      "Rusty Cundieff"
+    ],
+    "cast": [
+      "Larry B. Scott",
+      "Mark Christopher Lawrence",
+      "Rusty Cundieff",
+      "Kasi Lemmons",
+      "Howie Gold"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "音乐喜剧",
     "accent": "#c487b8",
@@ -13327,6 +21788,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzkzODA3ODY4Ml5BMl5BanBnXkFtZTgwMzA1NjUwMjI@..jpg",
     "imdbId": "tt0107977",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 146172,
+      "douban": null
+    },
+    "director": [
+      "Mel Brooks"
+    ],
+    "cast": [
+      "Cary Elwes",
+      "Richard Lewis",
+      "Roger Rees",
+      "Amy Yasbeck",
+      "Mark Blankfield"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "艺术追梦",
     "accent": "#c487b8",
@@ -13344,6 +21820,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWY0ODc2NDktYmYxNS00MGZiLTk5YjktZjgwZWFhNDQ0MzNhXkEyXkFqcGdeQXVyNTI4MjkwNjA@..jpg",
     "imdbId": "tt0108122",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 50024,
+      "douban": null
+    },
+    "director": [
+      "Robert Altman"
+    ],
+    "cast": [
+      "Andie MacDowell",
+      "Julianne Moore",
+      "Tim Robbins",
+      "Bruce Davison",
+      "Jack Lemmon"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "艺术追梦",
     "accent": "#c487b8",
@@ -13362,6 +21853,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmQ1Yjk3N2UtODMwMy00MDVhLTkzNDctM2ZkODZmYzdhNjk3XkEyXkFqcGdeQXVyNjE5MjUyOTM@..jpg",
     "imdbId": "tt0108551",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 25667,
+      "douban": null
+    },
+    "director": [
+      "Brian Gibson"
+    ],
+    "cast": [
+      "Angela Bassett",
+      "Laurence Fishburne",
+      "RaéVen Kelly",
+      "Virginia Capers",
+      "Dororthy Thorton"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "艺术追梦",
     "accent": "#c487b8",
@@ -13379,6 +21885,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3Y2I4NjAtMDQyZS00ZGJhLWEwMzgtODBiNzE5Zjc1Nzk1L2ltYWdlXkEyXkFqcGdeQXVyNTc2MDU0NDE@..jpg",
     "imdbId": "tt0107653",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 48894,
+      "douban": null
+    },
+    "director": [
+      "Mike Leigh"
+    ],
+    "cast": [
+      "David Thewlis",
+      "Lesley Sharp",
+      "Katrin Cartlidge",
+      "Greg Cruttwell",
+      "Claire Skinner"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "艺术追梦",
     "accent": "#c487b8",
@@ -13397,6 +21918,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5ODk1NTI4NV5BMl5BanBnXkFtZTcwNDYzMjI3NA@@..jpg",
     "imdbId": "tt0108149",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 24247,
+      "douban": null
+    },
+    "director": [
+      "Fred Schepisi"
+    ],
+    "cast": [
+      "Will Smith",
+      "Stockard Channing",
+      "Donald Sutherland",
+      "Ian McKellen",
+      "Mary Beth Hurt"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "艺术追梦",
     "accent": "#c487b8",
@@ -13414,6 +21950,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWJmYWExN2MtMmI3Ni00ZDIzLThkN2ItYzlhNmUyOGExYzM2XkEyXkFqcGdeQXVyNzc5MjA3OA@@..jpg",
     "imdbId": "tt0106505",
+    "ratings": {
+      "imdb": 5.2,
+      "imdbVotes": 2635,
+      "douban": null
+    },
+    "director": [
+      "John Whitesell"
+    ],
+    "cast": [
+      "Jason Priestley",
+      "Gabriel Olds",
+      "Jerry O'Connell",
+      "Joe Pantoliano",
+      "Steve Railsback"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "艺术追梦",
     "accent": "#c487b8",
@@ -13431,6 +21982,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1OTkyOTE5N15BMl5BanBnXkFtZTcwNTgyNDQzMQ@@..jpg",
     "imdbId": "tt0108220",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 177,
+      "douban": null
+    },
+    "director": [
+      "Maurizio Nichetti"
+    ],
+    "cast": [
+      "Maurizio Nichetti",
+      "Elena Sofia Ricci",
+      "Amanda Sandrelli",
+      "Caterina Sylos Labini",
+      "James Thierrée"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "艺术追梦",
     "accent": "#c487b8",
@@ -13465,6 +22031,14 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNThmZGJiYzctOTdhNS00ODhiLTg4NzctNDc1ZDRmOGU1MTJmXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@..jpg",
     "imdbId": "tt0109508",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 23049,
+      "douban": null
+    },
+    "director": [
+      "Terry Zwigoff"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞经典",
     "accent": "#c487b8",
@@ -13483,6 +22057,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTA5ZjdjNWUtZGUwNy00N2RhLWJiZmItYzFhYjU1NmYxNjY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0109707",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 190307,
+      "douban": null
+    },
+    "director": [
+      "Tim Burton"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Martin Landau",
+      "Sarah Jessica Parker",
+      "Patricia Arquette",
+      "Jeffrey Jones"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞经典",
     "accent": "#c487b8",
@@ -13501,6 +22090,14 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ1MDA0YWMtMDliZC00N2ZhLWIwZDItNjhjNTMzYTMwMWU4L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0110057",
+    "ratings": {
+      "imdb": 8.3,
+      "imdbVotes": 29588,
+      "douban": null
+    },
+    "director": [
+      "Steve James"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞经典",
     "accent": "#c487b8",
@@ -13518,6 +22115,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTU2M2Q0YzktZGE4MC00YTQ1LWJmZGUtYzdjZTdiODBkY2ZmXkEyXkFqcGdeQXVyMjgyNjk3MzE@..jpg",
     "imdbId": "tt0110598",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 45441,
+      "douban": null
+    },
+    "director": [
+      "P.J. Hogan"
+    ],
+    "cast": [
+      "Toni Collette",
+      "Rachel Griffiths",
+      "Bill Hunter",
+      "Sophie Lee",
+      "Roz Hammond"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞经典",
     "accent": "#c487b8",
@@ -13552,6 +22164,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWRkYzc3YjYtNWY3Yy00Y2FmLTgyOTYtM2U2ZDg0MDA0MTIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0110939",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 4141,
+      "douban": null
+    },
+    "director": [
+      "Mel Smith"
+    ],
+    "cast": [
+      "Brian Benben",
+      "Mary Stuart Masterson",
+      "Ned Beatty",
+      "George Burns",
+      "Scott Michael Campbell"
+    ],
     "category": "音乐歌舞与舞台",
     "subcategory": "歌舞经典",
     "accent": "#c487b8",
@@ -13570,6 +22197,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNTgzOTE1OV5BMl5BanBnXkFtZTcwNDI3MzIyMQ@@..jpg",
     "imdbId": "tt0104046",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 4645,
+      "douban": null
+    },
+    "director": [
+      "Stijn Coninx"
+    ],
+    "cast": [
+      "Jan Decleir",
+      "Gérard Desarthe",
+      "Antje de Boeck",
+      "Michael Pas",
+      "Karel Baetens"
+    ],
     "category": "纪录与现实",
     "subcategory": "人物纪录",
     "accent": "#6fa0a4",
@@ -13588,6 +22230,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjhhYTk3ZjEtZmFmNS00OTEwLWE3YWEtODJjYTg5YTA3Mzc5XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@..jpg",
     "imdbId": "tt0107207",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 203187,
+      "douban": null
+    },
+    "director": [
+      "Jim Sheridan"
+    ],
+    "cast": [
+      "Daniel Day-Lewis",
+      "Pete Postlethwaite",
+      "Anthony Brophy",
+      "Emma Thompson",
+      "Frankie McCafferty"
+    ],
     "category": "纪录与现实",
     "subcategory": "人物纪录",
     "accent": "#6fa0a4",
@@ -13606,6 +22263,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0108052",
+    "ratings": {
+      "imdb": 9,
+      "imdbVotes": 1587880,
+      "douban": null
+    },
+    "director": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley",
+      "Caroline Goodall",
+      "Jonathan Sagall"
+    ],
     "category": "纪录与现实",
     "subcategory": "人物纪录",
     "accent": "#6fa0a4",
@@ -13624,6 +22296,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NzYwMjAyNV5BMl5BanBnXkFtZTgwMjk0NzQxMTE@..jpg",
     "imdbId": "tt0108358",
+    "ratings": {
+      "imdb": 7.8,
+      "imdbVotes": 192739,
+      "douban": null
+    },
+    "director": [
+      "George P. Cosmatos"
+    ],
+    "cast": [
+      "Kurt Russell",
+      "Val Kilmer",
+      "Sam Elliott",
+      "Bill Paxton",
+      "Powers Boothe"
+    ],
     "category": "纪录与现实",
     "subcategory": "人物纪录",
     "accent": "#6fa0a4",
@@ -13642,6 +22329,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTYxNjdjMzUtYzAyNC00NWJhLWFlM2EtNWM4NDBhZmQ1YjJiXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0110932",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 77915,
+      "douban": null
+    },
+    "director": [
+      "Robert Redford"
+    ],
+    "cast": [
+      "Ralph Fiennes",
+      "John Turturro",
+      "Rob Morrow",
+      "Paul Scofield",
+      "David Paymer"
+    ],
     "category": "纪录与现实",
     "subcategory": "人物纪录",
     "accent": "#6fa0a4",
@@ -13660,6 +22362,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjUwNGIwNDctZmQ1ZC00YTEzLWI3MzQtZGMyODlmZGU4ZDdhXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0110005",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 69910,
+      "douban": null
+    },
+    "director": [
+      "Peter Jackson"
+    ],
+    "cast": [
+      "Melanie Lynskey",
+      "Kate Winslet",
+      "Sarah Peirse",
+      "Diana Kent",
+      "Clive Merrison"
+    ],
     "category": "纪录与现实",
     "subcategory": "人物纪录",
     "accent": "#6fa0a4",
@@ -13678,6 +22395,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxODZiZTUtNTlhNy00Y2Q3LWFjMjctOTYyZGY2ZmIxZGRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114272",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 10406,
+      "douban": null
+    },
+    "director": [
+      "Michael Hoffman"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Sam Neill",
+      "David Thewlis",
+      "Polly Walker",
+      "Meg Ryan"
+    ],
     "category": "纪录与现实",
     "subcategory": "人物纪录",
     "accent": "#6fa0a4",
@@ -13696,6 +22428,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzBlOWY0ZmEtZjdkYS00ZGU0LWEwN2YtYzBkNDM5ZDBjMmI1XkEyXkFqcGdeQXVyMTAwMzUyOTc@..jpg",
     "imdbId": "tt0113987",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 34680,
+      "douban": null
+    },
+    "director": [
+      "Oliver Stone"
+    ],
+    "cast": [
+      "Anthony Hopkins",
+      "Joan Allen",
+      "Powers Boothe",
+      "Ed Harris",
+      "Bob Hoskins"
+    ],
     "category": "纪录与现实",
     "subcategory": "社会观察",
     "accent": "#6fa0a4",
@@ -13714,6 +22461,18 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTMyOTkxMzA5N15BMl5BanBnXkFtZTcwNjU3MTUyMQ@@..jpg",
     "imdbId": "tt0112373",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 1473,
+      "douban": null
+    },
+    "director": [
+      "Jon Blair"
+    ],
+    "cast": [
+      "Kenneth Branagh",
+      "Glenn Close"
+    ],
     "category": "纪录与现实",
     "subcategory": "社会观察",
     "accent": "#6fa0a4",
@@ -13732,6 +22491,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1OTcxMTYzN15BMl5BanBnXkFtZTcwMjYwNDAyMQ@@..jpg",
     "imdbId": "tt0113542",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 2498,
+      "douban": null
+    },
+    "director": [
+      "Tim Metcalfe"
+    ],
+    "cast": [
+      "James Woods",
+      "Robert Sean Leonard",
+      "Ellen Greene",
+      "Cara Buono",
+      "Robert John Burke"
+    ],
     "category": "纪录与现实",
     "subcategory": "社会观察",
     "accent": "#6fa0a4",
@@ -13750,6 +22524,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjQzOTI3ZjgtNjU1OS00YTNjLTg0OGYtNTgwYjAzZWI3OWYzXkEyXkFqcGdeQXVyMTMxMTY0OTQ@..jpg",
     "imdbId": "tt0113463",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 3304,
+      "douban": null
+    },
+    "director": [
+      "James Ivory"
+    ],
+    "cast": [
+      "Nick Nolte",
+      "Greta Scacchi",
+      "Gwyneth Paltrow",
+      "Estelle Eonnet",
+      "Thandiwe Newton"
+    ],
     "category": "纪录与现实",
     "subcategory": "社会观察",
     "accent": "#6fa0a4",
@@ -13768,6 +22557,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDNhZGZiMzYtNzkxNy00MGE0LWE4Y2QtOGIwOTM3ZmY5M2QwXkEyXkFqcGdeQXVyNzc5MjA3OA@@..jpg",
     "imdbId": "tt0116250",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 39566,
+      "douban": null
+    },
+    "director": [
+      "Alan Parker"
+    ],
+    "cast": [
+      "Madonna",
+      "Jonathan Pryce",
+      "Antonio Banderas",
+      "Jimmy Nail",
+      "Victoria Sus"
+    ],
     "category": "纪录与现实",
     "subcategory": "社会观察",
     "accent": "#6fa0a4",
@@ -13786,6 +22590,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDY5Njc3OWMtYjQwNS00YzM0LTgxZTItNjVjZDk3MWQxYjEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@..jpg",
     "imdbId": "tt0116743",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 12015,
+      "douban": null
+    },
+    "director": [
+      "Mira Nair"
+    ],
+    "cast": [
+      "Naveen Andrews",
+      "Sarita Choudhury",
+      "Indira Varma",
+      "Ramon Tikaram",
+      "Rekha"
+    ],
     "category": "纪录与现实",
     "subcategory": "社会观察",
     "accent": "#6fa0a4",
@@ -13804,6 +22623,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzRlYjBlZDQtMDczMS00MzI2LWE0ZmItZWMwMTBiYWE0YmUzXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0117039",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 36200,
+      "douban": null
+    },
+    "director": [
+      "Neil Jordan"
+    ],
+    "cast": [
+      "Liam Neeson",
+      "Aidan Quinn",
+      "Julia Roberts",
+      "Ian Hart",
+      "Richard Ingram"
+    ],
     "category": "纪录与现实",
     "subcategory": "社会观察",
     "accent": "#6fa0a4",
@@ -13822,6 +22656,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWQxOGQwY2QtMjcwMS00MDVhLTk3NDQtZjY0YzQ2OGRkNjlkXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0119008",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 357421,
+      "douban": null
+    },
+    "director": [
+      "Mike Newell"
+    ],
+    "cast": [
+      "Al Pacino",
+      "Johnny Depp",
+      "Michael Madsen",
+      "Bruno Kirby",
+      "James Russo"
+    ],
     "category": "纪录与现实",
     "subcategory": "真实事件",
     "accent": "#6fa0a4",
@@ -13840,6 +22689,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODFmYjRmMmItMzA1OS00YTJmLTlmZTItYzI4NjAzNzMzYjc5XkEyXkFqcGdeQXVyNTUyMzE4Mzg@..jpg",
     "imdbId": "tt0118607",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 88018,
+      "douban": null
+    },
+    "director": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      "Djimon Hounsou",
+      "Matthew McConaughey",
+      "Anthony Hopkins",
+      "Morgan Freeman",
+      "Nigel Hawthorne"
+    ],
     "category": "纪录与现实",
     "subcategory": "真实事件",
     "accent": "#6fa0a4",
@@ -13858,6 +22722,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NjM1MTI2Nl5BMl5BanBnXkFtZTgwMjA2MjgxMTE@..jpg",
     "imdbId": "tt0119485",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 32280,
+      "douban": null
+    },
+    "director": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      "Tenzin Thuthob Tsarong",
+      "Gyurme Tethong",
+      "Tulku Jamyang Kunga Tenzin",
+      "Tenzin Yeshi Paichang",
+      "Tencho Gyalpo"
+    ],
     "category": "纪录与现实",
     "subcategory": "真实事件",
     "accent": "#6fa0a4",
@@ -13876,6 +22755,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWJhODI4NWQtOWFkMy00YTA4LWIyNTktZjMzYjA4OTlhMjk5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@..jpg",
     "imdbId": "tt0119859",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 6271,
+      "douban": null
+    },
+    "director": [
+      "Bruce Beresford"
+    ],
+    "cast": [
+      "Glenn Close",
+      "Frances McDormand",
+      "Pauline Collins",
+      "Cate Blanchett",
+      "Jennifer Ehle"
+    ],
     "category": "纪录与现实",
     "subcategory": "真实事件",
     "accent": "#6fa0a4",
@@ -13910,6 +22804,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTNlYjBjMGEtOTFkZS00MjM5LTk2ZTktYWVmZTc4NzE3NzAxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0108065",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 44766,
+      "douban": null
+    },
+    "director": [
+      "Steven Zaillian"
+    ],
+    "cast": [
+      "Joe Mantegna",
+      "Ben Kingsley",
+      "Max Pomeranc",
+      "Joan Allen",
+      "Laurence Fishburne"
+    ],
     "category": "纪录与现实",
     "subcategory": "真实事件",
     "accent": "#6fa0a4",
@@ -13928,6 +22837,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGUzMDU1YmQtMzBkOS00MTNmLTg5ZDQtZjY5Njk4Njk2MmRlXkEyXkFqcGdeQXVyNjc1NTYyMjg@..jpg",
     "imdbId": "tt0108002",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 74741,
+      "douban": null
+    },
+    "director": [
+      "David Anspaugh"
+    ],
+    "cast": [
+      "Sean Astin",
+      "Jon Favreau",
+      "Ned Beatty",
+      "Greta Lind",
+      "Scott Benjaminson"
+    ],
     "category": "纪录与现实",
     "subcategory": "真实事件",
     "accent": "#6fa0a4",
@@ -13945,6 +22869,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTIzOWU5NjItN2UwMi00Mzg5LWEzZTctNmU5NzgwZDY5YzRjXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0107322",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 9409,
+      "douban": null
+    },
+    "director": [
+      "Steven Soderbergh"
+    ],
+    "cast": [
+      "Jesse Bradford",
+      "Jeroen Krabbé",
+      "Lisa Eichhorn",
+      "Karen Allen",
+      "Spalding Gray"
+    ],
     "category": "纪录与现实",
     "subcategory": "历史档案",
     "accent": "#6fa0a4",
@@ -13963,6 +22902,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMDU3NTcxNF5BMl5BanBnXkFtZTYwMDY0Nzg4..jpg",
     "imdbId": "tt0110246",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 525,
+      "douban": null
+    },
+    "director": [
+      "Peter Sehr"
+    ],
+    "cast": [
+      "André Eisermann",
+      "Udo Samel",
+      "Jeremy Clyde",
+      "Katharina Thalbach",
+      "Cécile Paoli"
+    ],
     "category": "纪录与现实",
     "subcategory": "历史档案",
     "accent": "#6fa0a4",
@@ -13980,6 +22934,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@..jpg",
     "imdbId": "tt0110912",
+    "ratings": {
+      "imdb": 8.8,
+      "imdbVotes": 2440981,
+      "douban": null
+    },
+    "director": [
+      "Quentin Tarantino"
+    ],
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson",
+      "Bruce Willis",
+      "Tim Roth"
+    ],
     "category": "纪录与现实",
     "subcategory": "历史档案",
     "accent": "#6fa0a4",
@@ -13997,6 +22966,14 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzMTUxMjE1Nl5BMl5BanBnXkFtZTcwOTcxNzkxMQ@@..jpg",
     "imdbId": "tt0110480",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 586,
+      "douban": null
+    },
+    "director": [
+      "Freida Lee Mock"
+    ],
     "category": "纪录与现实",
     "subcategory": "历史档案",
     "accent": "#6fa0a4",
@@ -14015,6 +22992,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGJjYjA0MzQtZjFkZS00OTZiLThhNTYtNTZhM2MwOTAyMTQ2XkEyXkFqcGdeQXVyMzU0NzkwMDg@..jpg",
     "imdbId": "tt0110139",
+    "ratings": {
+      "imdb": 5.6,
+      "imdbVotes": 199,
+      "douban": null
+    },
+    "director": [
+      "Mimi Leder"
+    ],
+    "cast": [
+      "Kelsey Grammer",
+      "Polly Draper",
+      "Jeff Kober",
+      "Gary Werntz",
+      "Carlos Gómez"
+    ],
     "category": "纪录与现实",
     "subcategory": "历史档案",
     "accent": "#6fa0a4",
@@ -14033,6 +23025,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwOTA3Nzg4NF5BMl5BanBnXkFtZTcwOTUwMjgyMQ@@..jpg",
     "imdbId": "tt0111712",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 2073,
+      "douban": null
+    },
+    "director": [
+      "John Irvin"
+    ],
+    "cast": [
+      "Joan Plowright",
+      "Mia Farrow",
+      "Natasha Richardson",
+      "Adrian Dunbar",
+      "Jim Broadbent"
+    ],
     "category": "纪录与现实",
     "subcategory": "历史档案",
     "accent": "#6fa0a4",
@@ -14051,6 +23058,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzE3NjQ4MTQyNV5BMl5BanBnXkFtZTYwOTU1MDg4..jpg",
     "imdbId": "tt0110116",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 27621,
+      "douban": null
+    },
+    "director": [
+      "Bernard Rose"
+    ],
+    "cast": [
+      "Gary Oldman",
+      "Jeroen Krabbé",
+      "Isabella Rossellini",
+      "Johanna ter Steege",
+      "Marco Hofschneider"
+    ],
     "category": "纪录与现实",
     "subcategory": "历史档案",
     "accent": "#6fa0a4",
@@ -14068,6 +23090,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2MzUyNzc5OV5BMl5BanBnXkFtZTcwODc4OTUyMQ@@..jpg",
     "imdbId": "tt0110365",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 9987,
+      "douban": null
+    },
+    "director": [
+      "James Gray"
+    ],
+    "cast": [
+      "Tim Roth",
+      "Edward Furlong",
+      "Moira Kelly",
+      "Vanessa Redgrave",
+      "Paul Guilfoyle"
+    ],
     "category": "纪录与现实",
     "subcategory": "音乐纪录",
     "accent": "#6fa0a4",
@@ -14086,6 +23123,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzMwNzNjZjctNWQwZS00YmM1LTgyMmMtZjI1YzFhNzBhMzY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0110197",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 3822,
+      "douban": null
+    },
+    "director": [
+      "Barry Levinson"
+    ],
+    "cast": [
+      "Joe Pesci",
+      "Christian Slater",
+      "Victoria Abril",
+      "Jason Beghe",
+      "John Cothran"
+    ],
     "category": "纪录与现实",
     "subcategory": "音乐纪录",
     "accent": "#6fa0a4",
@@ -14104,6 +23156,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwNzE5OTkxMV5BMl5BanBnXkFtZTcwMzIxMjAwMQ@@..jpg",
     "imdbId": "tt0109093",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 7446,
+      "douban": null
+    },
+    "director": [
+      "Hal Hartley"
+    ],
+    "cast": [
+      "Isabelle Huppert",
+      "Martin Donovan",
+      "Elina Löwensohn",
+      "Damian Young",
+      "Chuck Montgomery"
+    ],
     "category": "纪录与现实",
     "subcategory": "音乐纪录",
     "accent": "#6fa0a4",
@@ -14122,6 +23189,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmVmOWVlODYtOTQ0Yy00ODY1LTgwZjMtYWFhOWQ3ODhmYjliL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0111149",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 71003,
+      "douban": null
+    },
+    "director": [
+      "Danny Boyle"
+    ],
+    "cast": [
+      "Kerry Fox",
+      "Christopher Eccleston",
+      "Ewan McGregor",
+      "Ken Stott",
+      "Keith Allen"
+    ],
     "category": "纪录与现实",
     "subcategory": "音乐纪录",
     "accent": "#6fa0a4",
@@ -14140,6 +23222,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzg5YzgwMjgtOWFiYy00YmEyLWJlY2EtZjg5YWQwOTlkMTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0109450",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 8545,
+      "douban": null
+    },
+    "director": [
+      "Ron Shelton"
+    ],
+    "cast": [
+      "Tommy Lee Jones",
+      "Robert Wuhl",
+      "Lolita Davidovich",
+      "Ned Bellamy",
+      "Scott Burkholder"
+    ],
     "category": "纪录与现实",
     "subcategory": "音乐纪录",
     "accent": "#6fa0a4",
@@ -14157,6 +23254,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1NzUxMzQ1MDheQTJeQWpwZ15BbWU3MDY3NzA0MzE@..jpg",
     "imdbId": "tt0110588",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 5080,
+      "douban": null
+    },
+    "director": [
+      "Alan Rudolph"
+    ],
+    "cast": [
+      "Jennifer Jason Leigh",
+      "Campbell Scott",
+      "Matthew Broderick",
+      "Peter Gallagher",
+      "Jennifer Beals"
+    ],
     "category": "纪录与现实",
     "subcategory": "音乐纪录",
     "accent": "#6fa0a4",
@@ -14175,6 +23287,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGQ5MzljNzYtMDM1My00NmI0LThlYzQtMTg0ZmQ0MTk1YjkxXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0109424",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 111819,
+      "douban": null
+    },
+    "director": [
+      "Wong Kar-Wai"
+    ],
+    "cast": [
+      "Brigitte Lin",
+      "Takeshi Kaneshiro",
+      "Tony Leung Chiu-wai",
+      "Faye Wong",
+      "Valerie Chow"
+    ],
     "category": "纪录与现实",
     "subcategory": "音乐纪录",
     "accent": "#6fa0a4",
@@ -14193,6 +23320,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMDg2NjAwM15BMl5BanBnXkFtZTcwOTU1OTIyMQ@@..jpg",
     "imdbId": "tt0111454",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 1988,
+      "douban": null
+    },
+    "director": [
+      "Brian Gilbert"
+    ],
+    "cast": [
+      "Willem Dafoe",
+      "Miranda Richardson",
+      "Rosemary Harris",
+      "Tim Dutton",
+      "Nickolas Grace"
+    ],
     "category": "纪录与现实",
     "subcategory": "政治现场",
     "accent": "#6fa0a4",
@@ -14211,6 +23353,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzZjYjE3OTAtYjUzNi00NjA5LThkYzctYWJhZmM5MmNiYjQ3XkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0109842",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 16249,
+      "douban": null
+    },
+    "director": [
+      "Boaz Yakin"
+    ],
+    "cast": [
+      "Sean Nelson",
+      "Giancarlo Esposito",
+      "Samuel L. Jackson",
+      "N'Bushe Wright",
+      "Ron Brice"
+    ],
     "category": "纪录与现实",
     "subcategory": "政治现场",
     "accent": "#6fa0a4",
@@ -14228,6 +23385,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzODA3MzE4NF5BMl5BanBnXkFtZTcwMjIwMzAwMQ@@..jpg",
     "imdbId": "tt0110729",
+    "ratings": {
+      "imdb": 7.9,
+      "imdbVotes": 39442,
+      "douban": null
+    },
+    "director": [
+      "Lee Tamahori"
+    ],
+    "cast": [
+      "Rena Owen",
+      "Temuera Morrison",
+      "Mamaengaroa Kerr-Bell",
+      "Julian Arahanga",
+      "Taungaroa Emile"
+    ],
     "category": "纪录与现实",
     "subcategory": "政治现场",
     "accent": "#6fa0a4",
@@ -14246,6 +23418,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2MDg5ODgzN15BMl5BanBnXkFtZTcwNzQ1ODEzMQ@@..jpg",
     "imdbId": "tt0110892",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 3229,
+      "douban": null
+    },
+    "director": [
+      "Michael Austin"
+    ],
+    "cast": [
+      "Phoebe Cates",
+      "Jim Broadbent",
+      "Wendy Hughes",
+      "Kevin Kline",
+      "John Lithgow"
+    ],
     "category": "纪录与现实",
     "subcategory": "政治现场",
     "accent": "#6fa0a4",
@@ -14264,6 +23451,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MTQ1MTU1Ml5BMl5BanBnXkFtZTYwMjAyMjk5..jpg",
     "imdbId": "tt0109374",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 2656,
+      "douban": null
+    },
+    "director": [
+      "Angela Pope"
+    ],
+    "cast": [
+      "Julia Ormond",
+      "Tim Roth",
+      "Keith Allen",
+      "Siobhan Redmond",
+      "Peter Capaldi"
+    ],
     "category": "纪录与现实",
     "subcategory": "政治现场",
     "accent": "#6fa0a4",
@@ -14281,6 +23483,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjU4MTQ5MDMwOV5BMl5BanBnXkFtZTcwNjI3MDQyMQ@@..jpg",
     "imdbId": "tt0110173",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 854,
+      "douban": null
+    },
+    "director": [
+      "Jean-Luc Godard"
+    ],
+    "cast": [
+      "Brigitte Bastien",
+      "Bernard Eisenschitz",
+      "Elisabeth Kaza",
+      "André S. Labarthe",
+      "Geneviève Pasquier"
+    ],
     "category": "纪录与现实",
     "subcategory": "政治现场",
     "accent": "#6fa0a4",
@@ -14299,6 +23516,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzMjQ1MjIwM15BMl5BanBnXkFtZTcwODIzOTkyMQ@@..jpg",
     "imdbId": "tt0110186",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 5138,
+      "douban": null
+    },
+    "director": [
+      "Doug McHenry"
+    ],
+    "cast": [
+      "Allen Payne",
+      "Jada Pinkett Smith",
+      "Bokeem Woodbine",
+      "Anthony 'Treach' Criss",
+      "Eddie Griffin"
+    ],
     "category": "纪录与现实",
     "subcategory": "政治现场",
     "accent": "#6fa0a4",
@@ -14317,6 +23549,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE5M2I4OWEtZDUyMS00ODYwLTkxNWYtZmNlNjEzOWRlYjc0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0109035",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 18285,
+      "douban": null
+    },
+    "director": [
+      "Jeff Pollack"
+    ],
+    "cast": [
+      "Duane Martin",
+      "Tupac Shakur",
+      "Leon",
+      "David Bailey",
+      "Tonya Pinkins"
+    ],
     "category": "纪录与现实",
     "subcategory": "司法现实",
     "accent": "#6fa0a4",
@@ -14335,6 +23582,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzE4MjczOTc2MF5BMl5BanBnXkFtZTcwNDMxNTYyMQ@@..jpg",
     "imdbId": "tt0109021",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 6396,
+      "douban": null
+    },
+    "director": [
+      "John G. Avildsen"
+    ],
+    "cast": [
+      "Luke Perry",
+      "Stephen Baldwin",
+      "James Rebhorn",
+      "Cameron Finley",
+      "Carrie Snodgress"
+    ],
     "category": "纪录与现实",
     "subcategory": "司法现实",
     "accent": "#6fa0a4",
@@ -14353,6 +23615,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMzAzNzk0Ml5BMl5BanBnXkFtZTYwMjk1NzE5..jpg",
     "imdbId": "tt0111488",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 2179,
+      "douban": null
+    },
+    "director": [
+      "Heywood Gould"
+    ],
+    "cast": [
+      "Joanne Whalley",
+      "Armand Assante",
+      "Gabriel Byrne",
+      "William Hurt",
+      "Kathleen Quinlan"
+    ],
     "category": "纪录与现实",
     "subcategory": "司法现实",
     "accent": "#6fa0a4",
@@ -14370,6 +23647,14 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0ODE4MDc0MV5BMl5BanBnXkFtZTcwMzkzNDUyMQ@@..jpg",
     "imdbId": "tt0111430",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 467,
+      "douban": null
+    },
+    "director": [
+      "Mika Kaurismäki"
+    ],
     "category": "纪录与现实",
     "subcategory": "司法现实",
     "accent": "#6fa0a4",
@@ -14387,6 +23672,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3NzA1MjM2N15BMl5BanBnXkFtZTcwMzY3MTMzNA@@..jpg",
     "imdbId": "tt0112818",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 108482,
+      "douban": null
+    },
+    "director": [
+      "Tim Robbins"
+    ],
+    "cast": [
+      "Susan Sarandon",
+      "Sean Penn",
+      "Robert Prosky",
+      "Raymond J. Barry",
+      "R. Lee Ermey"
+    ],
     "category": "纪录与现实",
     "subcategory": "司法现实",
     "accent": "#6fa0a4",
@@ -14404,6 +23704,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjk2YjNkYTYtOTZkNy00ZmRkLWI5ODEtYzA4MTM3MzMyZjhlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0112792",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 61348,
+      "douban": null
+    },
+    "director": [
+      "John N. Smith"
+    ],
+    "cast": [
+      "Michelle Pfeiffer",
+      "George Dzundza",
+      "Courtney B. Vance",
+      "Robin Bartlett",
+      "Beatrice Winde"
+    ],
     "category": "纪录与现实",
     "subcategory": "司法现实",
     "accent": "#6fa0a4",
@@ -14422,6 +23737,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzI0OWEzZmItOGUyOC00M2Y2LWIzNDEtY2EzYzAwNWI0ZDkyXkEyXkFqcGdeQXVyNTc1NTQxODI@..jpg",
     "imdbId": "tt0114660",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 31919,
+      "douban": null
+    },
+    "director": [
+      "Gary Fleder"
+    ],
+    "cast": [
+      "Andy Garcia",
+      "Christopher Walken",
+      "Christopher Lloyd",
+      "William Forsythe",
+      "Bill Nunn"
+    ],
     "category": "纪录与现实",
     "subcategory": "司法现实",
     "accent": "#6fa0a4",
@@ -14440,6 +23770,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDZjYTMzZDEtYjJkNS00MTI1LTgyZDctM2FlYjk2NDMyNTQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114609",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 11197,
+      "douban": null
+    },
+    "director": [
+      "Rusty Cundieff"
+    ],
+    "cast": [
+      "Clarence Williams III",
+      "Corbin Bernsen",
+      "Joe Torry",
+      "De'aundre Bonds",
+      "Samuel Monroe Jr."
+    ],
     "category": "纪录与现实",
     "subcategory": "家庭现实",
     "accent": "#6fa0a4",
@@ -14457,6 +23802,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@..jpg",
     "imdbId": "tt0112641",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 621497,
+      "douban": null
+    },
+    "director": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "Sharon Stone",
+      "Joe Pesci",
+      "James Woods",
+      "Don Rickles"
+    ],
     "category": "纪录与现实",
     "subcategory": "家庭现实",
     "accent": "#6fa0a4",
@@ -14475,6 +23835,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjQ3MTBkNDEtMGRlZS00OTY0LTkzYjktOWU2MzI3ZDRiMjY5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@..jpg",
     "imdbId": "tt0112637",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 6186,
+      "douban": null
+    },
+    "director": [
+      "Christopher Hampton"
+    ],
+    "cast": [
+      "Emma Thompson",
+      "Jonathan Pryce",
+      "Steven Waddington",
+      "Samuel West",
+      "Rufus Sewell"
+    ],
     "category": "纪录与现实",
     "subcategory": "家庭现实",
     "accent": "#6fa0a4",
@@ -14493,6 +23868,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGZhYzgwNzItNDljNC00MDM4LThiYjEtNDRhNmE5NDk2MTQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114681",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 60115,
+      "douban": null
+    },
+    "director": [
+      "Gus Van Sant"
+    ],
+    "cast": [
+      "Nicole Kidman",
+      "Matt Dillon",
+      "Joaquin Phoenix",
+      "Casey Affleck",
+      "Illeana Douglas"
+    ],
     "category": "纪录与现实",
     "subcategory": "家庭现实",
     "accent": "#6fa0a4",
@@ -14511,6 +23901,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3MjIyODk5N15BMl5BanBnXkFtZTcwMjQyNTQyMQ@@..jpg",
     "imdbId": "tt0112443",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 3558,
+      "douban": null
+    },
+    "director": [
+      "Damian Harris"
+    ],
+    "cast": [
+      "Ellen Barkin",
+      "Laurence Fishburne",
+      "Frank Langella",
+      "Michael Beach",
+      "Gia Carides"
+    ],
     "category": "纪录与现实",
     "subcategory": "家庭现实",
     "accent": "#6fa0a4",
@@ -14528,6 +23933,19 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4NDc5NzQzNF5BMl5BanBnXkFtZTcwMDUyODkxMQ@@..jpg",
     "imdbId": "tt0113283",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 791,
+      "douban": null
+    },
+    "director": [
+      "Nick Broomfield"
+    ],
+    "cast": [
+      "Nick Broomfield",
+      "Nina Xining Zuo",
+      "Corinne Bohrer"
+    ],
     "category": "纪录与现实",
     "subcategory": "家庭现实",
     "accent": "#6fa0a4",
@@ -14546,6 +23964,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODg0NjQ5ODQ3OF5BMl5BanBnXkFtZTcwNjU4MjkzNA@@..jpg",
     "imdbId": "tt0113243",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 82101,
+      "douban": null
+    },
+    "director": [
+      "Iain Softley"
+    ],
+    "cast": [
+      "Jonny Lee Miller",
+      "Angelina Jolie",
+      "Jesse Bradford",
+      "Matthew Lillard",
+      "Laurence Mason"
+    ],
     "category": "纪录与现实",
     "subcategory": "家庭现实",
     "accent": "#6fa0a4",
@@ -14563,6 +23996,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2ODY3OTA2OF5BMl5BanBnXkFtZTcwNjgxMjAwMQ@@..jpg",
     "imdbId": "tt0112767",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 5945,
+      "douban": null
+    },
+    "director": [
+      "Tran Anh Hung"
+    ],
+    "cast": [
+      "Le Van Loc",
+      "Tony Leung Chiu-wai",
+      "Nu Yên-Khê Tran",
+      "Quynh Nhu",
+      "Hoang Phuc Nguyen"
+    ],
     "category": "纪录与现实",
     "subcategory": "城市现实",
     "accent": "#6fa0a4",
@@ -14581,6 +24029,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTcwZDIyMDEtN2Q4MS00ZTIxLWEwMjMtM2I5NWViOTNjMGRhXkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0113451",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 15599,
+      "douban": null
+    },
+    "director": [
+      "William Friedkin"
+    ],
+    "cast": [
+      "David Caruso",
+      "Linda Fiorentino",
+      "Chazz Palminteri",
+      "Richard Crenna",
+      "Michael Biehn"
+    ],
     "category": "纪录与现实",
     "subcategory": "城市现实",
     "accent": "#6fa0a4",
@@ -14599,6 +24062,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTlhZWU3ZjAtNjFkZS00NWQ3LTliOGYtOGZlN2VhOGUxZDRmXkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0113552",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 20074,
+      "douban": null
+    },
+    "director": [
+      "Barbet Schroeder"
+    ],
+    "cast": [
+      "David Caruso",
+      "Samuel L. Jackson",
+      "Nicolas Cage",
+      "Helen Hunt",
+      "Kathryn Erbe"
+    ],
     "category": "纪录与现实",
     "subcategory": "城市现实",
     "accent": "#6fa0a4",
@@ -14617,6 +24095,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWFlM2FkM2YtZWFmMC00YjRlLThhNjAtYTY5MDQ3MDFkMDM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113305",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 23022,
+      "douban": null
+    },
+    "director": [
+      "John Singleton"
+    ],
+    "cast": [
+      "Omar Epps",
+      "Kristy Swanson",
+      "Michael Rapaport",
+      "Jennifer Connelly",
+      "Ice Cube"
+    ],
     "category": "纪录与现实",
     "subcategory": "城市现实",
     "accent": "#6fa0a4",
@@ -14635,6 +24128,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyMTY0NDM2N15BMl5BanBnXkFtZTcwMjMzNDYxMQ@@..jpg",
     "imdbId": "tt0114702",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 16578,
+      "douban": null
+    },
+    "director": [
+      "Agnieszka Holland"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "David Thewlis",
+      "Romane Bohringer",
+      "Dominique Blanc",
+      "Félicie Pasotti"
+    ],
     "category": "纪录与现实",
     "subcategory": "城市现实",
     "accent": "#6fa0a4",
@@ -14652,6 +24160,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NzA1MTA3Ml5BMl5BanBnXkFtZTcwMTc3NTcyMQ@@..jpg",
     "imdbId": "tt0113967",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 3720,
+      "douban": null
+    },
+    "director": [
+      "Nick Gomez"
+    ],
+    "cast": [
+      "Shar-Ron Corley",
+      "Gabriel Casseus",
+      "Saul Stein",
+      "Gwen McGee",
+      "Andre Moore"
+    ],
     "category": "纪录与现实",
     "subcategory": "城市现实",
     "accent": "#6fa0a4",
@@ -14670,6 +24193,14 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTY2MDM2NzcyM15BMl5BanBnXkFtZTcwMjk3MzcyMQ@@..jpg",
     "imdbId": "tt0113973",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 782,
+      "douban": null
+    },
+    "director": [
+      "Susanne Ofteringer"
+    ],
     "category": "纪录与现实",
     "subcategory": "城市现实",
     "accent": "#6fa0a4",
@@ -14688,6 +24219,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxNzY3MzUxOV5BMl5BanBnXkFtZTcwMDA0NjMyNA@@..jpg",
     "imdbId": "tt0116282",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 788429,
+      "douban": null
+    },
+    "director": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "cast": [
+      "William H. Macy",
+      "Frances McDormand",
+      "Steve Buscemi",
+      "Peter Stormare",
+      "Kristin Rudrüd"
+    ],
     "category": "纪录与现实",
     "subcategory": "影像论文",
     "accent": "#6fa0a4",
@@ -14706,6 +24253,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzM1OTQwZGItMTJlYy00NjJmLWEwOTMtMDQzNmU3ZGNiODJiL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@..jpg",
     "imdbId": "tt0117765",
+    "ratings": {
+      "imdb": 4.6,
+      "imdbVotes": 51667,
+      "douban": null
+    },
+    "director": [
+      "Andrew Bergman"
+    ],
+    "cast": [
+      "Demi Moore",
+      "Burt Reynolds",
+      "Armand Assante",
+      "Ving Rhames",
+      "Robert Patrick"
+    ],
     "category": "纪录与现实",
     "subcategory": "影像论文",
     "accent": "#6fa0a4",
@@ -14724,6 +24286,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODE1ZjIwMjYtMmFhMC00NGZiLTgxNmUtYTVmYTg1MDg2NDBkXkEyXkFqcGdeQXVyMTQ4NDY5OTc@..jpg",
     "imdbId": "tt0116745",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 5917,
+      "douban": null
+    },
+    "director": [
+      "Robert Altman"
+    ],
+    "cast": [
+      "Jennifer Jason Leigh",
+      "Miranda Richardson",
+      "Harry Belafonte",
+      "Michael Murphy",
+      "Dermot Mulroney"
+    ],
     "category": "纪录与现实",
     "subcategory": "影像论文",
     "accent": "#6fa0a4",
@@ -14742,6 +24319,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzJiMThkOWYtYTI0ZS00OWU4LTk5NWYtNDgzMzIwNjk0ZTk5XkEyXkFqcGdeQXVyMjc4MjcxNzI@..jpg",
     "imdbId": "tt0117477",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 8553,
+      "douban": null
+    },
+    "director": [
+      "Patrice Leconte"
+    ],
+    "cast": [
+      "Charles Berling",
+      "Jean Rochefort",
+      "Fanny Ardant",
+      "Judith Godrèche",
+      "Bernard Giraudeau"
+    ],
     "category": "纪录与现实",
     "subcategory": "影像论文",
     "accent": "#6fa0a4",
@@ -14759,6 +24351,15 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2EzNWNlZGYtMjQ1YS00YTI4LThkYTctNjRjYzI1NDdmNjEyXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0117293",
+    "ratings": {
+      "imdb": 8.2,
+      "imdbVotes": 19576,
+      "douban": null
+    },
+    "director": [
+      "Joe Berlinger",
+      "Bruce Sinofsky"
+    ],
     "category": "纪录与现实",
     "subcategory": "影像论文",
     "accent": "#6fa0a4",
@@ -14776,6 +24377,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@..jpg",
     "imdbId": "tt0117951",
+    "ratings": {
+      "imdb": 8.1,
+      "imdbVotes": 769288,
+      "douban": null
+    },
+    "director": [
+      "Danny Boyle"
+    ],
+    "cast": [
+      "Ewan McGregor",
+      "Ewen Bremner",
+      "Jonny Lee Miller",
+      "Kevin McKidd",
+      "Robert Carlyle"
+    ],
     "category": "纪录与现实",
     "subcategory": "影像论文",
     "accent": "#6fa0a4",
@@ -14794,6 +24410,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMzcxMzUyMl5BMl5BanBnXkFtZTgwNDI1MjgxMTE@..jpg",
     "imdbId": "tt0117631",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 59084,
+      "douban": null
+    },
+    "director": [
+      "Scott Hicks"
+    ],
+    "cast": [
+      "Geoffrey Rush",
+      "Armin Mueller-Stahl",
+      "Justin Braine",
+      "Sonia Todd",
+      "Chris Haywood"
+    ],
     "category": "纪录与现实",
     "subcategory": "影像论文",
     "accent": "#6fa0a4",
@@ -14812,6 +24443,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4OTUzNzc0MV5BMl5BanBnXkFtZTgwMjE4ODYxMTE@..jpg",
     "imdbId": "tt0117665",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 253534,
+      "douban": null
+    },
+    "director": [
+      "Barry Levinson"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "Kevin Bacon",
+      "Brad Pitt",
+      "Jason Patric",
+      "Billy Crudup"
+    ],
     "category": "纪录与现实",
     "subcategory": "现实经典",
     "accent": "#6fa0a4",
@@ -14830,6 +24476,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODMzMzNiZTgtZDg1Ni00NDEwLWI0MzMtYjhmYTY5NGYyNDAyXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0116361",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 34317,
+      "douban": null
+    },
+    "director": [
+      "Matthew Bright"
+    ],
+    "cast": [
+      "Reese Witherspoon",
+      "Kiefer Sutherland",
+      "Bokeem Woodbine",
+      "Paul Perri",
+      "Robert Peters"
+    ],
     "category": "纪录与现实",
     "subcategory": "现实经典",
     "accent": "#6fa0a4",
@@ -14847,6 +24508,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTdkZTUzMGUtYzNhOC00ODEyLWI2MjktNTY1ZjRhM2Y2ZDYxXkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0116913",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 8845,
+      "douban": null
+    },
+    "director": [
+      "Al Pacino"
+    ],
+    "cast": [
+      "Al Pacino",
+      "Alec Baldwin",
+      "Kevin Spacey",
+      "Frederic Kimball",
+      "Penelope Allen"
+    ],
     "category": "纪录与现实",
     "subcategory": "现实经典",
     "accent": "#6fa0a4",
@@ -14865,6 +24541,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMzc5NTk0NF5BMl5BanBnXkFtZTYwOTYyMzU5..jpg",
     "imdbId": "tt0116260",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 21882,
+      "douban": null
+    },
+    "director": [
+      "John Schlesinger"
+    ],
+    "cast": [
+      "Sally Field",
+      "Kiefer Sutherland",
+      "Ed Harris",
+      "Olivia Burnette",
+      "Alexandra Kyle"
+    ],
     "category": "纪录与现实",
     "subcategory": "现实经典",
     "accent": "#6fa0a4",
@@ -14882,6 +24573,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWJkZTI3ZGUtOWQ3Ni00Y2Y5LTgxYWEtODQ4Yjg4M2ZmMWQ3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@..jpg",
     "imdbId": "tt0116594",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 7445,
+      "douban": null
+    },
+    "director": [
+      "Mary Harron"
+    ],
+    "cast": [
+      "Lili Taylor",
+      "Jared Harris",
+      "Martha Plimpton",
+      "Lothaire Bluteau",
+      "Anna Thomson"
+    ],
     "category": "纪录与现实",
     "subcategory": "现实经典",
     "accent": "#6fa0a4",
@@ -14899,6 +24605,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NTk3MzU5N15BMl5BanBnXkFtZTgwNjIwMDcyMTI@..jpg",
     "imdbId": "tt0115632",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 23864,
+      "douban": null
+    },
+    "director": [
+      "Julian Schnabel"
+    ],
+    "cast": [
+      "Jeffrey Wright",
+      "Michael Wincott",
+      "Benicio Del Toro",
+      "Claire Forlani",
+      "David Bowie"
+    ],
     "category": "纪录与现实",
     "subcategory": "现实经典",
     "accent": "#6fa0a4",
@@ -14917,6 +24638,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDA3NGEwZGYtN2I0Yy00M2E3LWEzNmItNzUwOWUyYmUzYWZmXkEyXkFqcGdeQXVyNTgzMzU5MDI@..jpg",
     "imdbId": "tt0115734",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 88509,
+      "douban": null
+    },
+    "director": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "Luke Wilson",
+      "Owen Wilson",
+      "Ned Dowd",
+      "Shea Fowler",
+      "Haley Miller"
+    ],
     "category": "纪录与现实",
     "subcategory": "现实经典",
     "accent": "#6fa0a4",
@@ -14935,6 +24671,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzg5YmUyNGMtMThiNS00MjA2LTgwZDctNDlhM2RkZDNmZmRkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0111503",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 301188,
+      "douban": null
+    },
+    "director": [
+      "James Cameron"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Jamie Lee Curtis",
+      "Tom Arnold",
+      "Bill Paxton",
+      "Tia Carrere"
+    ],
     "category": "年代经典",
     "subcategory": "九十年代",
     "accent": "#c78b59",
@@ -14953,6 +24704,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWFhMTc1OWEtYmI1MS00YTcwLWI1ZmQtNjg0YWEyMDY1YjMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0110093",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 13283,
+      "douban": null
+    },
+    "director": [
+      "Charles Shyer"
+    ],
+    "cast": [
+      "Nick Nolte",
+      "Julia Roberts",
+      "Saul Rubinek",
+      "James Rebhorn",
+      "Robert Loggia"
+    ],
     "category": "年代经典",
     "subcategory": "九十年代",
     "accent": "#c78b59",
@@ -14971,6 +24737,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwOTMxMjk4OV5BMl5BanBnXkFtZTcwMzUzODkyMQ@@..jpg",
     "imdbId": "tt0110712",
+    "ratings": {
+      "imdb": 4.9,
+      "imdbVotes": 2635,
+      "douban": null
+    },
+    "director": [
+      "Betty Kaplan"
+    ],
+    "cast": [
+      "Antonio Banderas",
+      "Jennifer Connelly",
+      "Stefania Sandrelli",
+      "Diego Wallraff",
+      "Camilo Gallardo"
+    ],
     "category": "年代经典",
     "subcategory": "九十年代",
     "accent": "#c78b59",
@@ -14989,6 +24770,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTE4M2Q2ZjctMGViNS00NzhiLWFkMjMtMjY2NWMzOWUzM2Y3XkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0113010",
+    "ratings": {
+      "imdb": 4.4,
+      "imdbVotes": 14733,
+      "douban": null
+    },
+    "director": [
+      "Andrew Sipes"
+    ],
+    "cast": [
+      "William Baldwin",
+      "Cindy Crawford",
+      "Steven Berkoff",
+      "Christopher McDonald",
+      "Miguel Sandoval"
+    ],
     "category": "年代经典",
     "subcategory": "九十年代",
     "accent": "#c78b59",
@@ -15007,6 +24803,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5NDM3OTE0OV5BMl5BanBnXkFtZTYwNTkwMjQ5..jpg",
     "imdbId": "tt0112702",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 4298,
+      "douban": null
+    },
+    "director": [
+      "Wallace Wolodarsky"
+    ],
+    "cast": [
+      "Jason Priestley",
+      "Kimberly Williams-Paisley",
+      "Peter Riegert",
+      "Robert Loggia",
+      "Jay Kogen"
+    ],
     "category": "年代经典",
     "subcategory": "九十年代",
     "accent": "#c78b59",
@@ -15076,6 +24887,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDYwYWVhOTEtOTQ2ZC00ZTU4LWJjZmQtY2QzNThjZGIyNjQ3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@..jpg",
     "imdbId": "tt0119123",
+    "ratings": {
+      "imdb": 5.2,
+      "imdbVotes": 20318,
+      "douban": null
+    },
+    "director": [
+      "Félix Enríquez Alcalá"
+    ],
+    "cast": [
+      "Steven Seagal",
+      "Kris Kristofferson",
+      "Marg Helgenberger",
+      "Stephen Lang",
+      "Brad Hunt"
+    ],
     "category": "年代经典",
     "subcategory": "八十年代",
     "accent": "#c78b59",
@@ -15094,6 +24920,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGFlNDMxYzctOTEyZS00NmE4LWIwMGYtMTBjMTI2ZjQ5OGU5XkEyXkFqcGdeQXVyMDAyMTY3Nw@@..jpg",
     "imdbId": "tt0120192",
+    "ratings": {
+      "imdb": 5.6,
+      "imdbVotes": 1129,
+      "douban": null
+    },
+    "director": [
+      "Gavin Wilding"
+    ],
+    "cast": [
+      "John Stockwell",
+      "Mario Van Peebles",
+      "Jerry Stiller",
+      "Gerald Anthony",
+      "Mark Blum"
+    ],
     "category": "年代经典",
     "subcategory": "八十年代",
     "accent": "#c78b59",
@@ -15128,6 +24969,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjU2ODlmZWMtODEwZS00NTQ0LTk1ZDYtYzk0ZjE3ZGZhMGM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0107144",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 104033,
+      "douban": null
+    },
+    "director": [
+      "Jim Abrahams"
+    ],
+    "cast": [
+      "Charlie Sheen",
+      "Lloyd Bridges",
+      "Valeria Golino",
+      "Richard Crenna",
+      "Brenda Bakke"
+    ],
     "category": "年代经典",
     "subcategory": "八十年代",
     "accent": "#c78b59",
@@ -15179,6 +25035,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTdhMTU4MzMtYTVjMi00MTYzLTkxZDYtOWUwYjI0NDFjZTY1XkEyXkFqcGdeQXVyMDEwMjgxNg@@..jpg",
     "imdbId": "tt0109254",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 100682,
+      "douban": null
+    },
+    "director": [
+      "John Landis"
+    ],
+    "cast": [
+      "Eddie Murphy",
+      "Jon Tenney",
+      "Joey Travolta",
+      "Eugene Collier",
+      "Jimmy Ortega"
+    ],
     "category": "年代经典",
     "subcategory": "七十年代",
     "accent": "#c78b59",
@@ -15197,6 +25068,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjM0N2ViMzUtMTc1OS00YmEzLWE2NWYtNjU5NTY4NjRlOTI0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0111127",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 38113,
+      "douban": null
+    },
+    "director": [
+      "John Waters"
+    ],
+    "cast": [
+      "Kathleen Turner",
+      "Sam Waterston",
+      "Ricki Lake",
+      "Matthew Lillard",
+      "Scott Morgan"
+    ],
     "category": "年代经典",
     "subcategory": "七十年代",
     "accent": "#c78b59",
@@ -15214,6 +25100,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWEyM2Q3NDktM2E2Ni00OWIyLWIyYmItMWEyOGRmN2FkZjQ3XkEyXkFqcGdeQXVyMTMxODk2OTU@..jpg",
     "imdbId": "tt0109504",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 12339,
+      "douban": null
+    },
+    "director": [
+      "Spike Lee"
+    ],
+    "cast": [
+      "Alfre Woodard",
+      "Delroy Lindo",
+      "David Patrick Kelly",
+      "Zelda Harris",
+      "Carlton Williams"
+    ],
     "category": "年代经典",
     "subcategory": "七十年代",
     "accent": "#c78b59",
@@ -15231,6 +25132,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmMyMWY0MmMtYTQyZS00NDI4LTk4OTQtY2MxOGMwNzNjMWVmXkEyXkFqcGdeQXVyNDc2NjEyMw@@..jpg",
     "imdbId": "tt0111256",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 5633,
+      "douban": null
+    },
+    "director": [
+      "Ron Underwood"
+    ],
+    "cast": [
+      "Michael Keaton",
+      "Geena Davis",
+      "Christopher Reeve",
+      "Bonnie Bedelia",
+      "Ernie Hudson"
+    ],
     "category": "年代经典",
     "subcategory": "七十年代",
     "accent": "#c78b59",
@@ -15248,6 +25164,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmY3NjE0N2EtZWJiMS00ZTM4LWFkOTMtZTJmMTIyZjc2YmU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0111732",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 18218,
+      "douban": null
+    },
+    "director": [
+      "Alek Keshishian"
+    ],
+    "cast": [
+      "Joe Pesci",
+      "Brendan Fraser",
+      "Moira Kelly",
+      "Patrick Dempsey",
+      "Josh Hamilton"
+    ],
     "category": "年代经典",
     "subcategory": "七十年代",
     "accent": "#c78b59",
@@ -15265,6 +25196,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI5MDI4MzM4M15BMl5BanBnXkFtZTcwMTE2MTIyMQ@@..jpg",
     "imdbId": "tt0110971",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 20199,
+      "douban": null
+    },
+    "director": [
+      "Penny Marshall"
+    ],
+    "cast": [
+      "Danny DeVito",
+      "Gregory Hines",
+      "James Remar",
+      "Ed Begley Jr.",
+      "Lillo Brancato"
+    ],
     "category": "年代经典",
     "subcategory": "七十年代",
     "accent": "#c78b59",
@@ -15282,6 +25228,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjg0YzYzYzktNTY3NC00MDE0LThjMzYtMmY0MWZlNDdiYWY2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0110684",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 24717,
+      "douban": null
+    },
+    "director": [
+      "Robert Benton"
+    ],
+    "cast": [
+      "Paul Newman",
+      "Bruce Willis",
+      "Jessica Tandy",
+      "Melanie Griffith",
+      "Dylan Walsh"
+    ],
     "category": "年代经典",
     "subcategory": "七十年代",
     "accent": "#c78b59",
@@ -15300,6 +25261,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMjk3OTczNF5BMl5BanBnXkFtZTYwNjM4Mjg5..jpg",
     "imdbId": "tt0109361",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 9685,
+      "douban": null
+    },
+    "director": [
+      "Adam Resnick"
+    ],
+    "cast": [
+      "Chris Elliott",
+      "Ritch Brinkley",
+      "James Gammon",
+      "Brian Doyle-Murray",
+      "Brion James"
+    ],
     "category": "年代经典",
     "subcategory": "六十年代",
     "accent": "#c78b59",
@@ -15334,6 +25310,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzI2MzUxOTcxM15BMl5BanBnXkFtZTcwMjQ2MDA4Mg@@..jpg",
     "imdbId": "tt0110395",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 5144,
+      "douban": null
+    },
+    "director": [
+      "C.M. Talkington"
+    ],
+    "cast": [
+      "Gil Bellows",
+      "Renée Zellweger",
+      "Rory Cochrane",
+      "Jeffrey Combs",
+      "Jace Alexander"
+    ],
     "category": "年代经典",
     "subcategory": "六十年代",
     "accent": "#c78b59",
@@ -15351,6 +25342,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5NTU3NDgxNV5BMl5BanBnXkFtZTcwMTI4NzEzMQ@@..jpg",
     "imdbId": "tt0110769",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 526,
+      "douban": null
+    },
+    "director": [
+      "Ping He"
+    ],
+    "cast": [
+      "Jing Ning",
+      "Gang Wu",
+      "Xiaorui Zhao",
+      "Yang Gao",
+      "Zhengyun Xu"
+    ],
     "category": "年代经典",
     "subcategory": "六十年代",
     "accent": "#c78b59",
@@ -15369,6 +25375,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyODAxOTUzN15BMl5BanBnXkFtZTcwNDE0ODMyMQ@@..jpg",
     "imdbId": "tt0109579",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 29078,
+      "douban": null
+    },
+    "director": [
+      "Roman Polanski"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "Ben Kingsley",
+      "Stuart Wilson",
+      "Krystia Mova",
+      "Jonathan Vega"
+    ],
     "category": "年代经典",
     "subcategory": "六十年代",
     "accent": "#c78b59",
@@ -15386,6 +25407,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MjI3NjQzNV5BMl5BanBnXkFtZTcwNzMzOTE0MQ@@..jpg",
     "imdbId": "tt0109655",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 1343,
+      "douban": null
+    },
+    "director": [
+      "Mina Shum"
+    ],
+    "cast": [
+      "Sandra Oh",
+      "Stephen Chang",
+      "Claudette Carracedo",
+      "Greg Chan",
+      "Estelle Coppens"
+    ],
     "category": "年代经典",
     "subcategory": "六十年代",
     "accent": "#c78b59",
@@ -15403,6 +25439,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NTA0MDc0Ml5BMl5BanBnXkFtZTcwMTQ4MjYzMQ@@..jpg",
     "imdbId": "tt0111252",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 7081,
+      "douban": null
+    },
+    "director": [
+      "David O. Russell"
+    ],
+    "cast": [
+      "Jeremy Davies",
+      "Alberta Watson",
+      "Benjamin Hendrickson",
+      "Elizabeth Newett",
+      "Carla Gallo"
+    ],
     "category": "年代经典",
     "subcategory": "六十年代",
     "accent": "#c78b59",
@@ -15420,6 +25471,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjM5NmE1ZDEtNTFmNi00M2I4LWFiODUtZGJlMzIzZmZiMzM1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@..jpg",
     "imdbId": "tt0111019",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 7265,
+      "douban": null
+    },
+    "director": [
+      "André Téchiné"
+    ],
+    "cast": [
+      "Élodie Bouchez",
+      "Gaël Morel",
+      "Stéphane Rideau",
+      "Frédéric Gorny",
+      "Michèle Moretti"
+    ],
     "category": "年代经典",
     "subcategory": "黑白名作",
     "accent": "#c78b59",
@@ -15454,6 +25520,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjcxM2VkZDEtYmExZi00ODRhLWI3NGItNjZiM2IxOGQxODM5XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0109480",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 7953,
+      "douban": null
+    },
+    "director": [
+      "Michael Ritchie"
+    ],
+    "cast": [
+      "Chevy Chase",
+      "Jack Palance",
+      "Dianne Wiest",
+      "Robert Davi",
+      "David Barry Gray"
+    ],
     "category": "年代经典",
     "subcategory": "黑白名作",
     "accent": "#c78b59",
@@ -15503,6 +25584,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTBlMWUyYjAtMzY5My00ZThlLWE0NGQtYmZkZDE1Y2RmMGY3XkEyXkFqcGdeQXVyMTQ4NDY5OTc@..jpg",
     "imdbId": "tt0110538",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 14800,
+      "douban": null
+    },
+    "director": [
+      "Nora Ephron"
+    ],
+    "cast": [
+      "Steve Martin",
+      "Madeline Kahn",
+      "Robert Klein",
+      "Anthony LaPaglia",
+      "Juliette Lewis"
+    ],
     "category": "年代经典",
     "subcategory": "黑白名作",
     "accent": "#c78b59",
@@ -15520,6 +25616,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTQ1NTA3MTU5Ml5BMl5BanBnXkFtZTcwMzc3NDcyNA@@..jpg",
     "imdbId": "tt0109306",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 8985,
+      "douban": null
+    },
+    "director": [
+      "Tony Richardson"
+    ],
+    "cast": [
+      "Jessica Lange",
+      "Tommy Lee Jones",
+      "Powers Boothe",
+      "Carrie Snodgress",
+      "Amy Locane"
+    ],
     "category": "年代经典",
     "subcategory": "黑白名作",
     "accent": "#c78b59",
@@ -15537,6 +25648,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODBhYzRiN2ItYjgxMS00MGUwLTg2ODEtY2UzYWM1NzdlYjQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0111693",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 25035,
+      "douban": null
+    },
+    "director": [
+      "Luis Mandoki"
+    ],
+    "cast": [
+      "Meg Ryan",
+      "Andy Garcia",
+      "Ellen Burstyn",
+      "Tina Majorino",
+      "Mae Whitman"
+    ],
     "category": "年代经典",
     "subcategory": "学院必看",
     "accent": "#c78b59",
@@ -15555,6 +25681,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTk3N2MyZjQtODRlMS00ZTc0LTllMzUtY2I2ODU5N2Q4OGZlXkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0109456",
+    "ratings": {
+      "imdb": 5.2,
+      "imdbVotes": 27557,
+      "douban": null
+    },
+    "director": [
+      "Richard Rush"
+    ],
+    "cast": [
+      "Bruce Willis",
+      "Jane March",
+      "Rubén Blades",
+      "Lesley Ann Warren",
+      "Scott Bakula"
+    ],
     "category": "年代经典",
     "subcategory": "学院必看",
     "accent": "#c78b59",
@@ -15572,6 +25713,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNzM5MDM1Ml5BMl5BanBnXkFtZTcwMDMwMTYyMQ@@..jpg",
     "imdbId": "tt0109491",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 885,
+      "douban": null
+    },
+    "director": [
+      "Michael Blakemore"
+    ],
+    "cast": [
+      "Sam Neill",
+      "Greta Scacchi",
+      "John Hargreaves",
+      "Kerry Fox",
+      "Michael Blakemore"
+    ],
     "category": "年代经典",
     "subcategory": "学院必看",
     "accent": "#c78b59",
@@ -15590,6 +25746,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyNzA2MzY2NF5BMl5BanBnXkFtZTcwNDY5NTUyMQ@@..jpg",
     "imdbId": "tt0110374",
+    "ratings": {
+      "imdb": 4.5,
+      "imdbVotes": 602,
+      "douban": null
+    },
+    "director": [
+      "Anna Campion"
+    ],
+    "cast": [
+      "Oliver Milburn",
+      "Dearbhla Molloy",
+      "Danny Cunningham",
+      "Catherine McCormack",
+      "Thandiwe Newton"
+    ],
     "category": "年代经典",
     "subcategory": "学院必看",
     "accent": "#c78b59",
@@ -15623,6 +25794,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5MzMwMjE0Nl5BMl5BanBnXkFtZTgwNzA4ODk1MDE@..jpg",
     "imdbId": "tt0111237",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 830,
+      "douban": null
+    },
+    "director": [
+      "Alexandre Rockwell"
+    ],
+    "cast": [
+      "Rosie Perez",
+      "Harvey Keitel",
+      "Anthony Quinn",
+      "Michael DeLorenzo",
+      "Steve Buscemi"
+    ],
     "category": "年代经典",
     "subcategory": "学院必看",
     "accent": "#c78b59",
@@ -15640,6 +25826,18 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0Mzk2OTM1MV5BMl5BanBnXkFtZTcwOTU4MDEzMQ@@..jpg",
     "imdbId": "tt0109001",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 680,
+      "douban": null
+    },
+    "director": [
+      "Theo van Gogh"
+    ],
+    "cast": [
+      "Ariane Schluter",
+      "Ad van Kempen"
+    ],
     "category": "年代经典",
     "subcategory": "学院必看",
     "accent": "#c78b59",
@@ -15673,6 +25871,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1Njk4NDYxMl5BMl5BanBnXkFtZTcwNTk4NTMyMQ@@..jpg",
     "imdbId": "tt0110097",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 2999,
+      "douban": null
+    },
+    "director": [
+      "James L. Brooks"
+    ],
+    "cast": [
+      "Nick Nolte",
+      "Albert Brooks",
+      "Whittni Wright",
+      "Julie Kavner",
+      "Joely Richardson"
+    ],
     "category": "年代经典",
     "subcategory": "类型混合",
     "accent": "#c78b59",
@@ -15690,6 +25903,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4MTk0NjU3N15BMl5BanBnXkFtZTcwMzQxMTE3NA@@..jpg",
     "imdbId": "tt0111048",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 5658,
+      "douban": null
+    },
+    "director": [
+      "Jefery Levy"
+    ],
+    "cast": [
+      "Stephen Dorff",
+      "Reese Witherspoon",
+      "Jake Busey",
+      "Joey Lauren Adams",
+      "Pamela Gidley"
+    ],
     "category": "年代经典",
     "subcategory": "类型混合",
     "accent": "#c78b59",
@@ -15755,6 +25983,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MTI5MjU3MF5BMl5BanBnXkFtZTcwMjMzODUyMQ@@..jpg",
     "imdbId": "tt0110299",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 2513,
+      "douban": null
+    },
+    "director": [
+      "Gianni Amelio"
+    ],
+    "cast": [
+      "Enrico Lo Verso",
+      "Michele Placido",
+      "Piro Milkani",
+      "Carmelo Di Mazzarelli",
+      "Elida Janushi"
+    ],
     "category": "年代经典",
     "subcategory": "类型混合",
     "accent": "#c78b59",
@@ -15789,6 +26032,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwODYzNDY4Ml5BMl5BanBnXkFtZTcwODkwNTgzNA@@..jpg",
     "imdbId": "tt0113161",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 96388,
+      "douban": null
+    },
+    "director": [
+      "Barry Sonnenfeld"
+    ],
+    "cast": [
+      "Gene Hackman",
+      "Rene Russo",
+      "Danny DeVito",
+      "John Travolta",
+      "Dennis Farina"
+    ],
     "category": "年代经典",
     "subcategory": "明星时代",
     "accent": "#c78b59",
@@ -15807,6 +26065,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWUwNDk2ZDYtNmFkMi00NjE5LWE1M2ItYTRkNTFjZDU3ZDU4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTYxNjkxOQ@@..jpg",
     "imdbId": "tt0112722",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 87083,
+      "douban": null
+    },
+    "director": [
+      "Jon Amiel"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "Holly Hunter",
+      "Dermot Mulroney",
+      "William McNamara",
+      "Harry Connick Jr."
+    ],
     "category": "年代经典",
     "subcategory": "明星时代",
     "accent": "#c78b59",
@@ -15840,6 +26113,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNjkwOTQ5NV5BMl5BanBnXkFtZTcwNjc3ODAyMQ@@..jpg",
     "imdbId": "tt0112379",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 10051,
+      "douban": null
+    },
+    "director": [
+      "Marleen Gorris"
+    ],
+    "cast": [
+      "Willeke van Ammelrooy",
+      "Jan Decleir",
+      "Veerle van Overloop",
+      "Els Dottermans",
+      "Dora van der Groen"
+    ],
     "category": "年代经典",
     "subcategory": "明星时代",
     "accent": "#c78b59",
@@ -15857,6 +26145,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTgwMTExNjk2M15BMl5BanBnXkFtZTcwNzQxNTEzMQ@@..jpg",
     "imdbId": "tt0112365",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 5091,
+      "douban": null
+    },
+    "director": [
+      "Philip Haas"
+    ],
+    "cast": [
+      "Mark Rylance",
+      "Kristin Scott Thomas",
+      "Patsy Kensit",
+      "Jeremy Kemp",
+      "Douglas Henshall"
+    ],
     "category": "年代经典",
     "subcategory": "明星时代",
     "accent": "#c78b59",
@@ -15875,6 +26178,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTUxMzY1N2YtZjM5NC00MmUzLThkNzEtYjNiYzg0MzI4MDc5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0113326",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 49724,
+      "douban": null
+    },
+    "director": [
+      "Stanley Tong"
+    ],
+    "cast": [
+      "Jackie Chan",
+      "Anita Mui",
+      "Françoise Yip",
+      "Bill Tung",
+      "Marc Akerstream"
+    ],
     "category": "年代经典",
     "subcategory": "明星时代",
     "accent": "#c78b59",
@@ -15893,6 +26211,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGE1ZTQ0ZTEtZTEwZS00NWE0LTlmMDUtMTE1ZWJiZTYzZTQ2XkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0112442",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 316282,
+      "douban": null
+    },
+    "director": [
+      "Michael Bay"
+    ],
+    "cast": [
+      "Will Smith",
+      "Martin Lawrence",
+      "Lisa Boyle",
+      "Michael Taliferro",
+      "Emmanuel Xuereb"
+    ],
     "category": "年代经典",
     "subcategory": "作者电影",
     "accent": "#c78b59",
@@ -15926,6 +26259,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNzgxNTk0OF5BMl5BanBnXkFtZTcwOTAzNjgyMQ@@..jpg",
     "imdbId": "tt0114682",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 41629,
+      "douban": null
+    },
+    "director": [
+      "Beeban Kidron"
+    ],
+    "cast": [
+      "Wesley Snipes",
+      "Patrick Swayze",
+      "John Leguizamo",
+      "Stockard Channing",
+      "Blythe Danner"
+    ],
     "category": "年代经典",
     "subcategory": "作者电影",
     "accent": "#c78b59",
@@ -15943,6 +26291,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGE0N2U2YzItM2NmNy00YTE1LWE1ZjktNWRlMWFhYTQzNzgzXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114906",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 40564,
+      "douban": null
+    },
+    "director": [
+      "Todd Solondz"
+    ],
+    "cast": [
+      "Heather Matarazzo",
+      "Christina Brucato",
+      "Victoria Davis",
+      "Christina Vidal",
+      "Siri Howard"
+    ],
     "category": "年代经典",
     "subcategory": "作者电影",
     "accent": "#c78b59",
@@ -15960,6 +26323,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWI3MTA3NGEtYTg4ZC00MzgwLTliMGQtMjU2MWM5MmVmYThhXkEyXkFqcGdeQXVyNzc5MjA3OA@@..jpg",
     "imdbId": "tt0112701",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 8088,
+      "douban": null
+    },
+    "director": [
+      "John Schlesinger"
+    ],
+    "cast": [
+      "Eileen Atkins",
+      "Kate Beckinsale",
+      "Sheila Burrell",
+      "Stephen Fry",
+      "Freddie Jones"
+    ],
     "category": "年代经典",
     "subcategory": "作者电影",
     "accent": "#c78b59",
@@ -15993,6 +26371,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzk1MjU3MDQyMl5BMl5BanBnXkFtZTcwNjc1OTM2MQ@@..jpg",
     "imdbId": "tt0114388",
+    "ratings": {
+      "imdb": 7.7,
+      "imdbVotes": 136632,
+      "douban": null
+    },
+    "director": [
+      "Ang Lee"
+    ],
+    "cast": [
+      "Emma Thompson",
+      "Kate Winslet",
+      "James Fleet",
+      "Tom Wilkinson",
+      "Harriet Walter"
+    ],
     "category": "年代经典",
     "subcategory": "作者电影",
     "accent": "#c78b59",
@@ -16010,6 +26403,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@..jpg",
     "imdbId": "tt0113627",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 145688,
+      "douban": null
+    },
+    "director": [
+      "Mike Figgis"
+    ],
+    "cast": [
+      "Nicolas Cage",
+      "Elisabeth Shue",
+      "Julian Sands",
+      "Richard Lewis",
+      "Steven Weber"
+    ],
     "category": "年代经典",
     "subcategory": "影史坐标",
     "accent": "#c78b59",
@@ -16027,6 +26435,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI4NDk2MDcyNV5BMl5BanBnXkFtZTcwMTQxNTMyMQ@@..jpg",
     "imdbId": "tt0114039",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 607,
+      "douban": null
+    },
+    "director": [
+      "Tim Reid"
+    ],
+    "cast": [
+      "Al Freeman Jr.",
+      "Phylicia Rashad",
+      "Leon",
+      "Paula Kelly",
+      "Salli Richardson-Whitfield"
+    ],
     "category": "年代经典",
     "subcategory": "影史坐标",
     "accent": "#c78b59",
@@ -16045,6 +26468,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2NjYWE5NjMtODlmZC00MjJhLWFkZTktYTJlZTI4YjVkMGNmXkEyXkFqcGdeQXVyNDc2NjEyMw@@..jpg",
     "imdbId": "tt0114576",
+    "ratings": {
+      "imdb": 5.9,
+      "imdbVotes": 39673,
+      "douban": null
+    },
+    "director": [
+      "Peter Hyams"
+    ],
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Powers Boothe",
+      "Raymond J. Barry",
+      "Whittni Wright",
+      "Ross Malinger"
+    ],
     "category": "年代经典",
     "subcategory": "影史坐标",
     "accent": "#c78b59",
@@ -16062,6 +26500,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxODIxODE2MF5BMl5BanBnXkFtZTgwOTA4NjQxMTE@..jpg",
     "imdbId": "tt0112697",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 278869,
+      "douban": null
+    },
+    "director": [
+      "Amy Heckerling"
+    ],
+    "cast": [
+      "Alicia Silverstone",
+      "Stacey Dash",
+      "Brittany Murphy",
+      "Paul Rudd",
+      "Donald Faison"
+    ],
     "category": "年代经典",
     "subcategory": "影史坐标",
     "accent": "#c78b59",
@@ -16095,6 +26548,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4MjM1Njc3NF5BMl5BanBnXkFtZTcwNzI0OTgyMQ@@..jpg",
     "imdbId": "tt0113464",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 7171,
+      "douban": null
+    },
+    "director": [
+      "Christopher Ashley"
+    ],
+    "cast": [
+      "Steven Weber",
+      "Michael T. Weiss",
+      "Peter Jacobson",
+      "Tom Cayler",
+      "David Thornton"
+    ],
     "category": "年代经典",
     "subcategory": "影史坐标",
     "accent": "#c78b59",
@@ -16129,6 +26597,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwMDU1OTEwOF5BMl5BanBnXkFtZTcwMTg5NjEyMQ@@..jpg",
     "imdbId": "tt0112749",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 2184,
+      "douban": null
+    },
+    "director": [
+      "Darrell Roodt"
+    ],
+    "cast": [
+      "Richard Harris",
+      "James Earl Jones",
+      "Vusi Kunene",
+      "Charles S. Dutton",
+      "Tsholofelo Wechoemang"
+    ],
     "category": "年代经典",
     "subcategory": "经典回望",
     "accent": "#c78b59",
@@ -16146,6 +26629,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjUwYTdiYjItNTgzNS00MmQ3LWJlMDctODMyNTkxMjIxMDgwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@..jpg",
     "imdbId": "tt0114478",
+    "ratings": {
+      "imdb": 7.4,
+      "imdbVotes": 38798,
+      "douban": null
+    },
+    "director": [
+      "Wayne Wang"
+    ],
+    "cast": [
+      "Harvey Keitel",
+      "William Hurt",
+      "Giancarlo Esposito",
+      "José Zúñiga",
+      "Stephen Gevedon"
+    ],
     "category": "年代经典",
     "subcategory": "经典回望",
     "accent": "#c78b59",
@@ -16164,6 +26662,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWZlMzIwYzYtOWZiMi00ZGEzLWFhYmQtNmEzYzJlNDg1NjhjXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0113845",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 45440,
+      "douban": null
+    },
+    "director": [
+      "Joseph Ruben"
+    ],
+    "cast": [
+      "Wesley Snipes",
+      "Woody Harrelson",
+      "Jennifer Lopez",
+      "Robert Blake",
+      "Chris Cooper"
+    ],
     "category": "年代经典",
     "subcategory": "经典回望",
     "accent": "#c78b59",
@@ -16197,6 +26710,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTY1ZjgzZTEtMmQwOS00NzA4LWJlOTYtNzhjNzMzMWY5NmQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0114928",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 5357,
+      "douban": null
+    },
+    "director": [
+      "Desmond Nakano"
+    ],
+    "cast": [
+      "John Travolta",
+      "Harry Belafonte",
+      "Kelly Lynch",
+      "Margaret Avery",
+      "Tom Bower"
+    ],
     "category": "年代经典",
     "subcategory": "经典回望",
     "accent": "#c78b59",
@@ -16230,6 +26758,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTIyMDBhZTQtNDNkYS00YTE0LThmNjItYTQ2ZThmZGI3NTNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113280",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 6325,
+      "douban": null
+    },
+    "director": [
+      "James Mangold"
+    ],
+    "cast": [
+      "Pruitt Taylor Vince",
+      "Liv Tyler",
+      "Shelley Winters",
+      "Debbie Harry",
+      "Joe Grifasi"
+    ],
     "category": "年代经典",
     "subcategory": "经典回望",
     "accent": "#c78b59",
@@ -16248,6 +26791,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NzE5NzAwN15BMl5BanBnXkFtZTcwNTE1NjAyMQ@@..jpg",
     "imdbId": "tt0118787",
+    "ratings": {
+      "imdb": 4.8,
+      "imdbVotes": 2965,
+      "douban": null
+    },
+    "director": [
+      "Caroline Thompson"
+    ],
+    "cast": [
+      "Rene Russo",
+      "Robbie Coltrane",
+      "Alan Cumming",
+      "Irma P. Hall",
+      "Peter Elliott"
+    ],
     "category": "世界经典",
     "subcategory": "早期经典",
     "accent": "#9a8bd0",
@@ -16266,6 +26824,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGFiYTgxZDctNGI4OS00MWU1LWIwOGUtZmMyNGQxYjVkZjQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0112281",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 249807,
+      "douban": null
+    },
+    "director": [
+      "Steve Oedekerk"
+    ],
+    "cast": [
+      "Jim Carrey",
+      "Ian McNeice",
+      "Simon Callow",
+      "Maynard Eziashi",
+      "Bob Gunton"
+    ],
     "category": "世界经典",
     "subcategory": "早期经典",
     "accent": "#9a8bd0",
@@ -16283,6 +26856,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5NzAwNDAyN15BMl5BanBnXkFtZTYwMjYzMDc5..jpg",
     "imdbId": "tt0114117",
+    "ratings": {
+      "imdb": 7.6,
+      "imdbVotes": 12724,
+      "douban": null
+    },
+    "director": [
+      "Roger Michell"
+    ],
+    "cast": [
+      "Amanda Root",
+      "Ciarán Hinds",
+      "Susan Fleetwood",
+      "Corin Redgrave",
+      "Fiona Shaw"
+    ],
     "category": "世界经典",
     "subcategory": "早期经典",
     "accent": "#9a8bd0",
@@ -16300,6 +26888,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNjU3MTk2NV5BMl5BanBnXkFtZTcwMzU0MzQyMQ@@..jpg",
     "imdbId": "tt0113808",
+    "ratings": {
+      "imdb": 5.4,
+      "imdbVotes": 3708,
+      "douban": null
+    },
+    "director": [
+      "David Frankel"
+    ],
+    "cast": [
+      "Sarah Jessica Parker",
+      "Mia Farrow",
+      "Antonio Banderas",
+      "Gil Bellows",
+      "Paul Mazursky"
+    ],
     "category": "世界经典",
     "subcategory": "早期经典",
     "accent": "#9a8bd0",
@@ -16317,6 +26920,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxMzA2ODk2NV5BMl5BanBnXkFtZTcwMzQ4ODIyMQ@@..jpg",
     "imdbId": "tt0114057",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 10640,
+      "douban": null
+    },
+    "director": [
+      "Oliver Parker"
+    ],
+    "cast": [
+      "Laurence Fishburne",
+      "Kenneth Branagh",
+      "Irène Jacob",
+      "Nathaniel Parker",
+      "Michael Maloney"
+    ],
     "category": "世界经典",
     "subcategory": "早期经典",
     "accent": "#9a8bd0",
@@ -16334,6 +26952,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTNjYTA4OGItZGZmMy00ODkzLTk3ZDgtNDdhODk1YjBiMWI4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113749",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 134443,
+      "douban": null
+    },
+    "director": [
+      "Kevin Smith"
+    ],
+    "cast": [
+      "Shannen Doherty",
+      "Jeremy London",
+      "Jason Lee",
+      "Claire Forlani",
+      "Ben Affleck"
+    ],
     "category": "世界经典",
     "subcategory": "早期经典",
     "accent": "#9a8bd0",
@@ -16351,6 +26984,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2U3YTQzYWYtZTBlYi00ZmJjLTkzMjAtOTljYmE5MThhNzk5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113986",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 40235,
+      "douban": null
+    },
+    "director": [
+      "Chris Columbus"
+    ],
+    "cast": [
+      "Hugh Grant",
+      "Julianne Moore",
+      "Tom Arnold",
+      "Joan Cusack",
+      "Jeff Goldblum"
+    ],
     "category": "世界经典",
     "subcategory": "早期经典",
     "accent": "#9a8bd0",
@@ -16368,6 +27016,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzNzg4NDk3OF5BMl5BanBnXkFtZTcwMjcwNTgxMQ@@..jpg",
     "imdbId": "tt0112571",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 16304,
+      "douban": null
+    },
+    "director": [
+      "Herbert Ross"
+    ],
+    "cast": [
+      "Whoopi Goldberg",
+      "Mary-Louise Parker",
+      "Drew Barrymore",
+      "Matthew McConaughey",
+      "James Remar"
+    ],
     "category": "世界经典",
     "subcategory": "黑白名作",
     "accent": "#9a8bd0",
@@ -16385,6 +27048,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTAwOTIwMjgxMV5BMl5BanBnXkFtZTcwNjQ0MDYyMQ@@..jpg",
     "imdbId": "tt0112679",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 9776,
+      "douban": null
+    },
+    "director": [
+      "Pat O'Connor"
+    ],
+    "cast": [
+      "Chris O'Donnell",
+      "Minnie Driver",
+      "Geraldine O'Rawe",
+      "Saffron Burrows",
+      "Alan Cumming"
+    ],
     "category": "世界经典",
     "subcategory": "黑白名作",
     "accent": "#9a8bd0",
@@ -16403,6 +27081,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTk2ZmUwYmEtNTcwZS00YmMyLWFkYjMtNTRmZDA3YWExMjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113497",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 414701,
+      "douban": null
+    },
+    "director": [
+      "Joe Johnston"
+    ],
+    "cast": [
+      "Robin Williams",
+      "Kirsten Dunst",
+      "Bonnie Hunt",
+      "Jonathan Hyde",
+      "Bradley Pierce"
+    ],
     "category": "世界经典",
     "subcategory": "黑白名作",
     "accent": "#9a8bd0",
@@ -16421,6 +27114,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTEyNzg5NjYtNDU4OS00MWYxLWJhMTItYWU4NTkyNDBmM2Y0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113041",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 45363,
+      "douban": null
+    },
+    "director": [
+      "Charles Shyer"
+    ],
+    "cast": [
+      "Steve Martin",
+      "Diane Keaton",
+      "Martin Short",
+      "Kimberly Williams-Paisley",
+      "George Newbern"
+    ],
     "category": "世界经典",
     "subcategory": "黑白名作",
     "accent": "#9a8bd0",
@@ -16438,6 +27146,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjY3MjczMjQwMV5BMl5BanBnXkFtZTcwNDM3OTEzMQ@@..jpg",
     "imdbId": "tt0113756",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 368,
+      "douban": null
+    },
+    "director": [
+      "Dirk Shafer"
+    ],
+    "cast": [
+      "Claudette Sutherland",
+      "Michael Ornstein",
+      "Cal Bartlett",
+      "Mary Stein",
+      "Beth Broderick"
+    ],
     "category": "世界经典",
     "subcategory": "黑白名作",
     "accent": "#9a8bd0",
@@ -16471,6 +27194,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyNjMzMTkzN15BMl5BanBnXkFtZTcwOTY4NzkyMQ@@..jpg",
     "imdbId": "tt0114296",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 2158,
+      "douban": null
+    },
+    "director": [
+      "Peter Yates"
+    ],
+    "cast": [
+      "Peter Falk",
+      "D.B. Sweeney",
+      "Julianne Moore",
+      "Ellen Burstyn",
+      "Jan Rubes"
+    ],
     "category": "世界经典",
     "subcategory": "黑白名作",
     "accent": "#9a8bd0",
@@ -16504,6 +27242,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTMwZGU3MGUtZWE0Ni00YzExLWIyY2MtMmNmMDlmYTdmNzFkXkEyXkFqcGdeQXVyNjExODE1MDc@..jpg",
     "imdbId": "tt0114694",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 105051,
+      "douban": null
+    },
+    "director": [
+      "Peter Segal"
+    ],
+    "cast": [
+      "Chris Farley",
+      "David Spade",
+      "Brian Dennehy",
+      "Bo Derek",
+      "Dan Aykroyd"
+    ],
     "category": "世界经典",
     "subcategory": "影史坐标",
     "accent": "#9a8bd0",
@@ -16521,6 +27274,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMjQzMzMxN15BMl5BanBnXkFtZTcwODc0OTgyMQ@@..jpg",
     "imdbId": "tt0113122",
+    "ratings": {
+      "imdb": 4.9,
+      "imdbVotes": 819,
+      "douban": null
+    },
+    "director": [
+      "Todd Verow"
+    ],
+    "cast": [
+      "Michael Gunther",
+      "Craig Chester",
+      "Michael Stock",
+      "Raoul O'Connell",
+      "Jaie Laplante"
+    ],
     "category": "世界经典",
     "subcategory": "影史坐标",
     "accent": "#9a8bd0",
@@ -16538,6 +27306,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGE1NmM0MjYtZmJjYS00ODI5LWI0MjgtOGM2MTY3ZmIyNDZkXkEyXkFqcGdeQXVyNjUwNzk3NDc@..jpg",
     "imdbId": "tt0114753",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 3823,
+      "douban": null
+    },
+    "director": [
+      "James Foley"
+    ],
+    "cast": [
+      "Al Pacino",
+      "Mary Elizabeth Mastrantonio",
+      "Jerry Barone",
+      "Patrick Borriello",
+      "Andy Romano"
+    ],
     "category": "世界经典",
     "subcategory": "影史坐标",
     "accent": "#9a8bd0",
@@ -16555,6 +27338,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjQyZGI3MWUtZGY5Ny00ZDFjLThjNzItYTI3ZTNhODJhNGVkL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0113870",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 32987,
+      "douban": null
+    },
+    "director": [
+      "Marc Rocco"
+    ],
+    "cast": [
+      "Christian Slater",
+      "Kevin Bacon",
+      "Gary Oldman",
+      "Embeth Davidtz",
+      "William H. Macy"
+    ],
     "category": "世界经典",
     "subcategory": "影史坐标",
     "accent": "#9a8bd0",
@@ -16572,6 +27370,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1ODY5NDUzMl5BMl5BanBnXkFtZTcwNDgwNjUyMQ@@..jpg",
     "imdbId": "tt0114798",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 3400,
+      "douban": null
+    },
+    "director": [
+      "Diane Keaton"
+    ],
+    "cast": [
+      "Andie MacDowell",
+      "John Turturro",
+      "Michael Richards",
+      "Maury Chaykin",
+      "Nathan Watt"
+    ],
     "category": "世界经典",
     "subcategory": "影史坐标",
     "accent": "#9a8bd0",
@@ -16605,6 +27418,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwODE1MDkxOF5BMl5BanBnXkFtZTcwNTEyNzIyMQ@@..jpg",
     "imdbId": "tt0114571",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 3123,
+      "douban": null
+    },
+    "director": [
+      "Harold Ramis"
+    ],
+    "cast": [
+      "Al Franken",
+      "Laura San Giacomo",
+      "Vincent D'Onofrio",
+      "Shirley Knight",
+      "Harris Yulin"
+    ],
     "category": "世界经典",
     "subcategory": "学院必看",
     "accent": "#9a8bd0",
@@ -16622,6 +27450,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxM2YyNjMtZjUxYy00OGYyLTg0MmQtNGE2YzNjYmUyZTY1XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113228",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 31723,
+      "douban": null
+    },
+    "director": [
+      "Howard Deutch"
+    ],
+    "cast": [
+      "Walter Matthau",
+      "Jack Lemmon",
+      "Ann-Margret",
+      "Sophia Loren",
+      "Burgess Meredith"
+    ],
     "category": "世界经典",
     "subcategory": "学院必看",
     "accent": "#9a8bd0",
@@ -16639,6 +27482,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2ZkYTUxZjQtODhkMy00NWI3LWFlMDMtMzYzZTQ3YmFjMjg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0113097",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 13849,
+      "douban": null
+    },
+    "director": [
+      "Billy Crystal"
+    ],
+    "cast": [
+      "Billy Crystal",
+      "Debra Winger",
+      "Joe Mantegna",
+      "Cynthia Stevenson",
+      "Richard Masur"
+    ],
     "category": "世界经典",
     "subcategory": "学院必看",
     "accent": "#9a8bd0",
@@ -16657,6 +27515,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjYwMzA3Njg2MF5BMl5BanBnXkFtZTcwOTI1NDMzMQ@@..jpg",
     "imdbId": "tt0114268",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 2347,
+      "douban": null
+    },
+    "director": [
+      "Fred Gerber"
+    ],
+    "cast": [
+      "Leslie Nielsen",
+      "Christopher Lloyd",
+      "Matt McCoy",
+      "Sherry Miller",
+      "Amos Crawley"
+    ],
     "category": "世界经典",
     "subcategory": "学院必看",
     "accent": "#9a8bd0",
@@ -16674,6 +27547,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2U2MDdjZjUtMGU1Ni00MzlkLTllZWQtZmJjNzJmYjE5YjAxXkEyXkFqcGdeQXVyMTA0MjU0Ng@@..jpg",
     "imdbId": "tt0113677",
+    "ratings": {
+      "imdb": 7.5,
+      "imdbVotes": 21766,
+      "douban": null
+    },
+    "director": [
+      "Tom DiCillo"
+    ],
+    "cast": [
+      "Steve Buscemi",
+      "Catherine Keener",
+      "Dermot Mulroney",
+      "Danielle von Zerneck",
+      "James Le Gros"
+    ],
     "category": "世界经典",
     "subcategory": "学院必看",
     "accent": "#9a8bd0",
@@ -16724,6 +27612,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGY2OWI5ZjQtYjY0Zi00Y2M4LWEwMmMtOTJhODYxYTExNWZlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@..jpg",
     "imdbId": "tt0112401",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 92567,
+      "douban": null
+    },
+    "director": [
+      "Richard Donner"
+    ],
+    "cast": [
+      "Sylvester Stallone",
+      "Antonio Banderas",
+      "Julianne Moore",
+      "Anatoli Davydov",
+      "Muse Watson"
+    ],
     "category": "世界经典",
     "subcategory": "作者电影",
     "accent": "#9a8bd0",
@@ -16741,6 +27644,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmEwNjNlZTUtNzkwMS00ZTlhLTkyY2MtMjM2MzlmODQyZGVhXkEyXkFqcGdeQXVyNTI4MjkwNjA@..jpg",
     "imdbId": "tt0113118",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 137505,
+      "douban": null
+    },
+    "director": [
+      "F. Gary Gray"
+    ],
+    "cast": [
+      "Ice Cube",
+      "Chris Tucker",
+      "Nia Long",
+      "Tom Lister Jr.",
+      "John Witherspoon"
+    ],
     "category": "世界经典",
     "subcategory": "作者电影",
     "accent": "#9a8bd0",
@@ -16758,6 +27676,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5OGIwM2QtY2M1Ni00N2MxLThkYmUtNDgyOGZmNzA4MWE5XkEyXkFqcGdeQXVyNzc5MjA3OA@@..jpg",
     "imdbId": "tt0112368",
+    "ratings": {
+      "imdb": 6.7,
+      "imdbVotes": 7521,
+      "douban": null
+    },
+    "director": [
+      "Patrick Read Johnson"
+    ],
+    "cast": [
+      "Charlie Talbert",
+      "George C. Scott",
+      "Kathy Bates",
+      "Perry Anzilotti",
+      "Robert Curtis Brown"
+    ],
     "category": "世界经典",
     "subcategory": "作者电影",
     "accent": "#9a8bd0",
@@ -16792,6 +27725,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2NlODBjNWQtMDUwNC00MjAzLWFhMWYtNGFiMDliNWY5Y2M5XkEyXkFqcGdeQXVyMDEwMjgxNg@@..jpg",
     "imdbId": "tt0112602",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 7381,
+      "douban": null
+    },
+    "director": [
+      "Greg Beeman"
+    ],
+    "cast": [
+      "Daniel Stern",
+      "Jon Polito",
+      "Brad Sullivan",
+      "Ann Dowd",
+      "Anthony Heald"
+    ],
     "category": "世界经典",
     "subcategory": "作者电影",
     "accent": "#9a8bd0",
@@ -16809,6 +27757,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzMDcxNzY3Nl5BMl5BanBnXkFtZTcwNjI5NzMyNA@@..jpg",
     "imdbId": "tt0114131",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 940,
+      "douban": null
+    },
+    "director": [
+      "Bryan Gordon"
+    ],
+    "cast": [
+      "Josh Charles",
+      "Anne Heche",
+      "John Goodman",
+      "Christine Lahti",
+      "Christine Ebersole"
+    ],
     "category": "世界经典",
     "subcategory": "作者电影",
     "accent": "#9a8bd0",
@@ -16826,6 +27789,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjcxNDAxNDEzN15BMl5BanBnXkFtZTcwOTA0MjAwMQ@@..jpg",
     "imdbId": "tt0113936",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 6732,
+      "douban": null
+    },
+    "director": [
+      "Kelly Makin"
+    ],
+    "cast": [
+      "Matt Frewer",
+      "Valerie Mahaffey",
+      "Lawrence Dane",
+      "Tommy Chong",
+      "Jeremy Renner"
+    ],
     "category": "世界经典",
     "subcategory": "作者电影",
     "accent": "#9a8bd0",
@@ -16859,6 +27837,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmZmNzc3ZWYtNTI2ZS00NWFlLWFkMWMtMGUxN2UxZjljZTY5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@..jpg",
     "imdbId": "tt0114916",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 7942,
+      "douban": null
+    },
+    "director": [
+      "Patricia Rozema"
+    ],
+    "cast": [
+      "Pascale Bussières",
+      "Rachael Crawford",
+      "Henry Czerny",
+      "David Fox",
+      "Don McKellar"
+    ],
     "category": "世界经典",
     "subcategory": "类型混合",
     "accent": "#9a8bd0",
@@ -16876,6 +27869,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2OTM4MDI2OV5BMl5BanBnXkFtZTcwNTQxMTYxMQ@@..jpg",
     "imdbId": "tt0113612",
+    "ratings": {
+      "imdb": 5.7,
+      "imdbVotes": 474,
+      "douban": null
+    },
+    "director": [
+      "Henry Jaglom"
+    ],
+    "cast": [
+      "Victoria Foyt",
+      "Viveca Lindfors",
+      "Jon Robin Baitz",
+      "Savannah Smith Boucher",
+      "Roscoe Lee Browne"
+    ],
     "category": "世界经典",
     "subcategory": "类型混合",
     "accent": "#9a8bd0",
@@ -16894,6 +27902,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjU0ODM1MjExOF5BMl5BanBnXkFtZTcwNDY0ODcyMg@@..jpg",
     "imdbId": "tt0113234",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 1169,
+      "douban": null
+    },
+    "director": [
+      "Art Clokey"
+    ],
+    "cast": [
+      "Dal McKennon",
+      "Art Clokey",
+      "Gloria Clokey",
+      "Manny La Carruba",
+      "Alice Young"
+    ],
     "category": "世界经典",
     "subcategory": "类型混合",
     "accent": "#9a8bd0",
@@ -16911,6 +27934,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTdiYjAyZWUtNWRkYy00Y2QxLWIxODQtNmU4ZTZkZTgzYzExXkEyXkFqcGdeQXVyNDkzNTM2ODg@..jpg",
     "imdbId": "tt0113080",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 2383,
+      "douban": null
+    },
+    "director": [
+      "Hal Hartley"
+    ],
+    "cast": [
+      "Paul Austin",
+      "Robert John Burke",
+      "Martin Donovan",
+      "Erica Gimpel",
+      "Michael Imperioli"
+    ],
     "category": "世界经典",
     "subcategory": "类型混合",
     "accent": "#9a8bd0",
@@ -16944,6 +27982,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWRjOGEyMWEtYmZjMi00MmVmLWE3ZjQtYmJiZTA0MmExYTU5L2ltYWdlXkEyXkFqcGdeQXVyMjI3ODYyNDU@..jpg",
     "imdbId": "tt0114952",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 831,
+      "douban": null
+    },
+    "director": [
+      "Jean-Jacques Annaud"
+    ],
+    "cast": [
+      "Craig Sheffer",
+      "Elizabeth McGovern",
+      "Tom Hulce",
+      "Val Kilmer",
+      "Ken Pogue"
+    ],
     "category": "世界经典",
     "subcategory": "类型混合",
     "accent": "#9a8bd0",
@@ -16962,6 +28015,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzdhMGU0MzEtZjg1Ny00YzE5LWE0MGQtMTNiN2UwN2I5ZDBjXkEyXkFqcGdeQXVyNTgzMzU5MDI@..jpg",
     "imdbId": "tt0113442",
+    "ratings": {
+      "imdb": 6,
+      "imdbVotes": 28486,
+      "douban": null
+    },
+    "director": [
+      "Andy Tennant"
+    ],
+    "cast": [
+      "Kirstie Alley",
+      "Steve Guttenberg",
+      "Mary-Kate Olsen",
+      "Ashley Olsen",
+      "Philip Bosco"
+    ],
     "category": "世界经典",
     "subcategory": "九十年代",
     "accent": "#9a8bd0",
@@ -16979,6 +28047,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI3M2ZkZjItMzVjYi00MzM2LWJmZDYtYmQ0MWI1YjI5MTdlXkEyXkFqcGdeQXVyMzU0NzkwMDg@..jpg",
     "imdbId": "tt0112727",
+    "ratings": {
+      "imdb": 5.2,
+      "imdbVotes": 392,
+      "douban": null
+    },
+    "director": [
+      "Fred Walton"
+    ],
+    "cast": [
+      "Andrew McCarthy",
+      "Mädchen Amick",
+      "Cheech Marin",
+      "Bonnie Bartlett",
+      "David Packer"
+    ],
     "category": "世界经典",
     "subcategory": "九十年代",
     "accent": "#9a8bd0",
@@ -16996,6 +28079,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWQxNGI4MWYtOThlZi00Y2Q1LTljMTUtYmMwM2NhNzljYzNmXkEyXkFqcGdeQXVyMjM5MTg4MjQ@..jpg",
     "imdbId": "tt0114494",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 788,
+      "douban": null
+    },
+    "director": [
+      "Goran Paskaljevic"
+    ],
+    "cast": [
+      "Tom Conti",
+      "Predrag 'Miki' Manojlovic",
+      "María Casares",
+      "Zorka Manojlovic",
+      "Sergej Trifunovic"
+    ],
     "category": "世界经典",
     "subcategory": "九十年代",
     "accent": "#9a8bd0",
@@ -17029,6 +28127,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0MzM2OTU5OF5BMl5BanBnXkFtZTYwNzIxOTI5..jpg",
     "imdbId": "tt0112586",
+    "ratings": {
+      "imdb": 6.6,
+      "imdbVotes": 180,
+      "douban": null
+    },
+    "director": [
+      "Udayan Prasad"
+    ],
+    "cast": [
+      "Om Puri",
+      "Pawan Malhotra",
+      "Angeline Ball",
+      "Ace Bhatti",
+      "Bhasker Patel"
+    ],
     "category": "世界经典",
     "subcategory": "九十年代",
     "accent": "#9a8bd0",
@@ -17046,6 +28159,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwMDkzNTU5Ml5BMl5BanBnXkFtZTcwMTkzMTMyMQ@@..jpg",
     "imdbId": "tt0112362",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 1672,
+      "douban": null
+    },
+    "director": [
+      "Michael Rymer"
+    ],
+    "cast": [
+      "John Lynch",
+      "Jacqueline McKenzie",
+      "Colin Friels",
+      "Deborra-Lee Furness",
+      "Daniel Daperis"
+    ],
     "category": "世界经典",
     "subcategory": "九十年代",
     "accent": "#9a8bd0",
@@ -17064,6 +28192,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTFiZTc5OTAtOTk0OS00Y2YwLWI4MzUtYWE2MmQ0NTg2NzhmXkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0114303",
+    "ratings": {
+      "imdb": 5.5,
+      "imdbVotes": 2272,
+      "douban": null
+    },
+    "director": [
+      "Clare Peploe"
+    ],
+    "cast": [
+      "Bridget Fonda",
+      "Russell Crowe",
+      "Jim Broadbent",
+      "D.W. Moffett",
+      "Kenneth Mars"
+    ],
     "category": "世界经典",
     "subcategory": "九十年代",
     "accent": "#9a8bd0",
@@ -17081,6 +28224,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3MTc3MzIwNF5BMl5BanBnXkFtZTcwOTQ5NDYxMQ@@..jpg",
     "imdbId": "tt0113827",
+    "ratings": {
+      "imdb": 4.9,
+      "imdbVotes": 241,
+      "douban": null
+    },
+    "director": [
+      "Paul Williams"
+    ],
+    "cast": [
+      "James Andronica",
+      "Cuauhtemoc Rivas",
+      "Edward James Olmos",
+      "Bobalu",
+      "Paul Williams"
+    ],
     "category": "世界经典",
     "subcategory": "八十年代",
     "accent": "#9a8bd0",
@@ -17098,6 +28256,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzNzA0NDU3OV5BMl5BanBnXkFtZTYwMDExODg5..jpg",
     "imdbId": "tt0117071",
+    "ratings": {
+      "imdb": 6.4,
+      "imdbVotes": 4723,
+      "douban": null
+    },
+    "director": [
+      "Pen Densham"
+    ],
+    "cast": [
+      "Robin Wright",
+      "Morgan Freeman",
+      "Stockard Channing",
+      "John Lynch",
+      "Brenda Fricker"
+    ],
     "category": "世界经典",
     "subcategory": "八十年代",
     "accent": "#9a8bd0",
@@ -17116,6 +28289,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzNmN2UzNTAtNmZkMS00MmI3LThhNzEtNjI1YjJlN2JiZjU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0117128",
+    "ratings": {
+      "imdb": 7.1,
+      "imdbVotes": 19304,
+      "douban": null
+    },
+    "director": [
+      "Jim Mallon"
+    ],
+    "cast": [
+      "Trace Beaulieu",
+      "Michael J. Nelson",
+      "Jim Mallon",
+      "Kevin Murphy",
+      "John Brady"
+    ],
     "category": "世界经典",
     "subcategory": "八十年代",
     "accent": "#9a8bd0",
@@ -17150,6 +28338,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwMDA2NzEyMl5BMl5BanBnXkFtZTgwNTA2MjgxMTE@..jpg",
     "imdbId": "tt0117333",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 89587,
+      "douban": null
+    },
+    "director": [
+      "Jon Turteltaub"
+    ],
+    "cast": [
+      "John Travolta",
+      "Kyra Sedgwick",
+      "Forest Whitaker",
+      "Robert Duvall",
+      "Jeffrey DeMunn"
+    ],
     "category": "世界经典",
     "subcategory": "八十年代",
     "accent": "#9a8bd0",
@@ -17167,6 +28370,22 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzMjAzMjMyMl5BMl5BanBnXkFtZTcwNTUzNDIyMQ@@..jpg",
     "imdbId": "tt0115678",
+    "ratings": {
+      "imdb": 7.3,
+      "imdbVotes": 24998,
+      "douban": null
+    },
+    "director": [
+      "Campbell Scott",
+      "Stanley Tucci"
+    ],
+    "cast": [
+      "Tony Shalhoub",
+      "Stanley Tucci",
+      "Marc Anthony",
+      "Larry Block",
+      "Caroline Aaron"
+    ],
     "category": "世界经典",
     "subcategory": "八十年代",
     "accent": "#9a8bd0",
@@ -17184,6 +28403,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NjgxMDQwN15BMl5BanBnXkFtZTcwODk1NTgxMQ@@..jpg",
     "imdbId": "tt0118044",
+    "ratings": {
+      "imdb": 6.5,
+      "imdbVotes": 2502,
+      "douban": null
+    },
+    "director": [
+      "Nick Cassavetes"
+    ],
+    "cast": [
+      "Gena Rowlands",
+      "Marisa Tomei",
+      "Gérard Depardieu",
+      "Jake Lloyd",
+      "Moira Kelly"
+    ],
     "category": "世界经典",
     "subcategory": "八十年代",
     "accent": "#9a8bd0",
@@ -17217,6 +28451,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0MTIyOTc1NF5BMl5BanBnXkFtZTYwMDI5NDg4..jpg",
     "imdbId": "tt0116722",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 11739,
+      "douban": null
+    },
+    "director": [
+      "Michael Winterbottom"
+    ],
+    "cast": [
+      "Christopher Eccleston",
+      "Kate Winslet",
+      "Liam Cunningham",
+      "Rachel Griffiths",
+      "June Whitfield"
+    ],
     "category": "世界经典",
     "subcategory": "七十年代",
     "accent": "#9a8bd0",
@@ -17234,6 +28483,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjg1ZmViMmEtYzIxNi00MzJlLTk4MDktNTE2ZDkwMzEyMjBhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@..jpg",
     "imdbId": "tt0117802",
+    "ratings": {
+      "imdb": 7.2,
+      "imdbVotes": 91366,
+      "douban": null
+    },
+    "director": [
+      "Doug Liman"
+    ],
+    "cast": [
+      "Vince Vaughn",
+      "Heather Graham",
+      "Jon Favreau",
+      "Ron Livingston",
+      "Patrick Van Horn"
+    ],
     "category": "世界经典",
     "subcategory": "七十年代",
     "accent": "#9a8bd0",
@@ -17268,6 +28532,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDY3NDQ5M2EtNDM5ZC00YWI0LWEwMzctYjA1M2EwOWE1MDVmXkEyXkFqcGdeQXVyNTUyMzE4Mzg@..jpg",
     "imdbId": "tt0115433",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 123567,
+      "douban": null
+    },
+    "director": [
+      "Stephen Herek"
+    ],
+    "cast": [
+      "Glenn Close",
+      "Jeff Daniels",
+      "Joely Richardson",
+      "Joan Plowright",
+      "Hugh Laurie"
+    ],
     "category": "世界经典",
     "subcategory": "七十年代",
     "accent": "#9a8bd0",
@@ -17285,6 +28564,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1ZDkxNGEtNWUwZS00MGEwLWEwNDctZjNkNjE3NDcxZGEwXkEyXkFqcGdeQXVyNjU0NTI0Nw@@..jpg",
     "imdbId": "tt0115906",
+    "ratings": {
+      "imdb": 7,
+      "imdbVotes": 9760,
+      "douban": null
+    },
+    "director": [
+      "Alexander Payne"
+    ],
+    "cast": [
+      "Laura Dern",
+      "Swoosie Kurtz",
+      "Mary Kay Place",
+      "Kurtwood Smith",
+      "Kelly Preston"
+    ],
     "category": "世界经典",
     "subcategory": "七十年代",
     "accent": "#9a8bd0",
@@ -17303,6 +28597,23 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWY3NmNlYzYtNzY5Yy00Y2Q1LWE1NWEtYzQ2NDM4YTMyYjVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0115641",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 63002,
+      "douban": null
+    },
+    "director": [
+      "Geoffrey Johnson",
+      "Mike de Seve",
+      "Yvette Kaplan"
+    ],
+    "cast": [
+      "Mike Judge",
+      "Bruce Willis",
+      "Demi Moore",
+      "Cloris Leachman",
+      "Robert Stack"
+    ],
     "category": "世界经典",
     "subcategory": "七十年代",
     "accent": "#9a8bd0",
@@ -17336,6 +28647,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTUwOWM4YmUtMzdkMi00YjEwLWE0MmEtZTBmMGNhYWU4OGI3XkEyXkFqcGdeQXVyNzc5MjA3OA@@..jpg",
     "imdbId": "tt0115644",
+    "ratings": {
+      "imdb": 6.1,
+      "imdbVotes": 9208,
+      "douban": null
+    },
+    "director": [
+      "Michael Goldenberg"
+    ],
+    "cast": [
+      "Christian Slater",
+      "Mary Stuart Masterson",
+      "Pamela Adlon",
+      "Josh Brolin",
+      "Brian Tarantina"
+    ],
     "category": "世界经典",
     "subcategory": "六十年代",
     "accent": "#9a8bd0",
@@ -17353,6 +28679,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2QzMTIxNjItNGQyNy00MjQzLWJiYTItMzIyZjdkYjYyYjRlXkEyXkFqcGdeQXVyMTAwMzUyOTc@..jpg",
     "imdbId": "tt0117589",
+    "ratings": {
+      "imdb": 8,
+      "imdbVotes": 50390,
+      "douban": null
+    },
+    "director": [
+      "Mike Leigh"
+    ],
+    "cast": [
+      "Timothy Spall",
+      "Brenda Blethyn",
+      "Phyllis Logan",
+      "Claire Rushbrook",
+      "Marianne Jean-Baptiste"
+    ],
     "category": "世界经典",
     "subcategory": "六十年代",
     "accent": "#9a8bd0",
@@ -17370,6 +28711,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzc0MTYxNDEyMl5BMl5BanBnXkFtZTcwNDM5ODIzMQ@@..jpg",
     "imdbId": "tt0117091",
+    "ratings": {
+      "imdb": 6.9,
+      "imdbVotes": 7368,
+      "douban": null
+    },
+    "director": [
+      "Albert Brooks"
+    ],
+    "cast": [
+      "Albert Brooks",
+      "Debbie Reynolds",
+      "Paul Collins",
+      "Laura Weekes",
+      "John C. McGinley"
+    ],
     "category": "世界经典",
     "subcategory": "六十年代",
     "accent": "#9a8bd0",
@@ -17388,6 +28744,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWI5MzBiMjgtNDE2ZC00MTA1LWFmNWItZDQyMDA2NGE0MjQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0117002",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 16602,
+      "douban": null
+    },
+    "director": [
+      "Stephen Frears"
+    ],
+    "cast": [
+      "Julia Roberts",
+      "John Malkovich",
+      "George Cole",
+      "Michael Gambon",
+      "Kathy Staff"
+    ],
     "category": "世界经典",
     "subcategory": "六十年代",
     "accent": "#9a8bd0",
@@ -17405,6 +28776,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGFmYWFiZDAtZTc1YS00ZTIxLTkwODctODc0MzUzNGIyNzgwL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0117723",
+    "ratings": {
+      "imdb": 5.3,
+      "imdbVotes": 43059,
+      "douban": null
+    },
+    "director": [
+      "Rick Friedberg"
+    ],
+    "cast": [
+      "Leslie Nielsen",
+      "Nicollette Sheridan",
+      "Charles Durning",
+      "Marcia Gay Harden",
+      "Barry Bostwick"
+    ],
     "category": "世界经典",
     "subcategory": "六十年代",
     "accent": "#9a8bd0",
@@ -17423,6 +28809,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDYyYzAyNjctODM1Mi00ZjE4LWFmNTItZjRmOWUxODA1ODY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@..jpg",
     "imdbId": "tt0116669",
+    "ratings": {
+      "imdb": 5.8,
+      "imdbVotes": 66056,
+      "douban": null
+    },
+    "director": [
+      "Francis Ford Coppola"
+    ],
+    "cast": [
+      "Robin Williams",
+      "Diane Lane",
+      "Brian Kerwin",
+      "Jennifer Lopez",
+      "Bill Cosby"
+    ],
     "category": "世界经典",
     "subcategory": "六十年代",
     "accent": "#9a8bd0",
@@ -17457,6 +28858,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ1M2Y0NTUtNmQ0MC00MWFjLWIyYjUtZDQxYmJlYmZkNThiXkEyXkFqcGdeQXVyNjk1Njg5NTA@..jpg",
     "imdbId": "tt0115491",
+    "ratings": {
+      "imdb": 6.3,
+      "imdbVotes": 40806,
+      "douban": null
+    },
+    "director": [
+      "Tad Stones"
+    ],
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "John Rhys-Davies",
+      "Val Bettin",
+      "Jim Cummings"
+    ],
     "category": "世界经典",
     "subcategory": "百年回望",
     "accent": "#9a8bd0",
@@ -17475,6 +28891,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTczMTNlN2UtMWE2NS00ZTUyLTgzYTQtYTFkNWIzODJkYzIwXkEyXkFqcGdeQXVyNDc2NjEyMw@@..jpg",
     "imdbId": "tt0116213",
+    "ratings": {
+      "imdb": 6.2,
+      "imdbVotes": 124386,
+      "douban": null
+    },
+    "director": [
+      "Chuck Russell"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Vanessa Williams",
+      "James Caan",
+      "James Coburn",
+      "Robert Pastorelli"
+    ],
     "category": "世界经典",
     "subcategory": "百年回望",
     "accent": "#9a8bd0",
@@ -17524,6 +28955,21 @@ window.moviePosterData = [
     ],
     "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjU4NDU2MjUtMGVjMS00NTBmLWI3N2QtZTk3YzY3YjZhNjY4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@..jpg",
     "imdbId": "tt0116684",
+    "ratings": {
+      "imdb": 6.8,
+      "imdbVotes": 10796,
+      "douban": null
+    },
+    "director": [
+      "Franco Zeffirelli"
+    ],
+    "cast": [
+      "William Hurt",
+      "Charlotte Gainsbourg",
+      "Anna Paquin",
+      "Nic Knight",
+      "Nicola Howard"
+    ],
     "category": "世界经典",
     "subcategory": "百年回望",
     "accent": "#9a8bd0",

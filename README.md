@@ -21,6 +21,7 @@ The site is a self-contained HTML/CSS/JavaScript app. It displays 1001 movies wi
 - Release dates from the MovieLens item file
 - IMDb `title.basics` genre enrichment when `data/imdb/title.basics.tsv.gz` is available
 - Detail fields for director, cast, IMDb rating, and Douban rating are supported by the UI when metadata is available
+- IMDb ratings, directors, and cast can be enriched from local IMDb datasets
 - Search by title, category, subcategory, or label
 - Category and subcategory filters
 - Genre, decade, and watch-status filters
@@ -79,4 +80,4 @@ Genre enrichment can use the official IMDb non-commercial datasets:
 
 https://datasets.imdbws.com/
 
-Director, cast, and rating fields require an additional metadata source. The current repository does not include IMDb `title.crew`, `title.principals`, `name.basics`, or any Douban rating export.
+Director, cast, and IMDb rating enrichment can use the official IMDb `title.crew`, `title.principals`, `name.basics`, and `title.ratings` files when they are present under `data/imdb/`. Douban ratings require an additional Douban metadata export, which is not included in this repository.

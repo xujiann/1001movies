@@ -111,6 +111,96 @@ async function loadImdbGenres(sourceMovies) {
   return { matched, available: true };
 }
 
+async function readGzipLines(filePath, onLine) {
+  if (!fs.existsSync(filePath)) return false;
+  const stream = fs.createReadStream(filePath).pipe(zlib.createGunzip());
+  const rl = readline.createInterface({ input: stream, crlfDelay: Infinity });
+  for await (const line of rl) {
+    await onLine(line);
+  }
+  return true;
+}
+
+async function loadImdbRatings(sourceMovies) {
+  const imdbPath = path.join(root, "data", "imdb", "title.ratings.tsv.gz");
+  const targets = new Map(sourceMovies.filter((movie) => movie.imdbId).map((movie) => [movie.imdbId, movie]));
+  let matched = 0;
+  const available = await readGzipLines(imdbPath, (line) => {
+    if (line.startsWith("tconst\t")) return;
+    const [tconst, averageRating, numVotes] = line.split("\t");
+    const movie = targets.get(tconst);
+    if (!movie) return;
+    movie.ratings = {
+      ...(movie.ratings || {}),
+      imdb: Number(averageRating) || null,
+      imdbVotes: Number(numVotes) || null,
+      douban: movie.ratings?.douban || null,
+    };
+    matched += 1;
+  });
+  return { matched, available };
+}
+
+async function loadImdbCrew(sourceMovies) {
+  const crewPath = path.join(root, "data", "imdb", "title.crew.tsv.gz");
+  const namesPath = path.join(root, "data", "imdb", "name.basics.tsv.gz");
+  const targets = new Map(sourceMovies.filter((movie) => movie.imdbId).map((movie) => [movie.imdbId, movie]));
+  const neededNames = new Set();
+  let crewMatched = 0;
+
+  const crewAvailable = await readGzipLines(crewPath, (line) => {
+    if (line.startsWith("tconst\t")) return;
+    const [tconst, directors] = line.split("\t");
+    const movie = targets.get(tconst);
+    if (!movie || !directors || directors === "\\N") return;
+    movie.directorIds = directors.split(",").slice(0, 3);
+    movie.directorIds.forEach((nameId) => neededNames.add(nameId));
+    crewMatched += 1;
+  });
+
+  const principalsPath = path.join(root, "data", "imdb", "title.principals.tsv.gz");
+  let castMatched = 0;
+  const principalsAvailable = await readGzipLines(principalsPath, (line) => {
+    if (line.startsWith("tconst\t")) return;
+    const [tconst, ordering, nconst, category] = line.split("\t");
+    if (!["actor", "actress"].includes(category)) return;
+    const movie = targets.get(tconst);
+    if (!movie) return;
+    movie.castIds = movie.castIds || [];
+    if (movie.castIds.length >= 5 || movie.castIds.includes(nconst)) return;
+    movie.castIds.push(nconst);
+    neededNames.add(nconst);
+    castMatched += 1;
+  });
+
+  const nameMap = new Map();
+  const namesAvailable = neededNames.size > 0 && await readGzipLines(namesPath, (line) => {
+    if (line.startsWith("nconst\t")) return;
+    const [nconst, primaryName] = line.split("\t");
+    if (!neededNames.has(nconst)) return;
+    nameMap.set(nconst, primaryName);
+  });
+
+  sourceMovies.forEach((movie) => {
+    if (movie.directorIds) {
+      movie.director = movie.directorIds.map((nameId) => nameMap.get(nameId)).filter(Boolean);
+      delete movie.directorIds;
+    }
+    if (movie.castIds) {
+      movie.cast = movie.castIds.map((nameId) => nameMap.get(nameId)).filter(Boolean);
+      delete movie.castIds;
+    }
+  });
+
+  return {
+    crewMatched,
+    castMatched,
+    crewAvailable,
+    principalsAvailable,
+    namesAvailable: Boolean(namesAvailable),
+  };
+}
+
 function scoreForCategory(movie, category) {
   if (!category.match.length) return 1;
   const genreScore = category.match.reduce((score, genre) => score + (movie.genres.includes(genre) ? 100 : 0), 0);
@@ -159,6 +249,8 @@ function pickMoviesForCategories(sourceMovies) {
 async function main() {
   const sourceMovies = parseMovieLensRows();
   const imdb = await loadImdbGenres(sourceMovies);
+  const ratings = await loadImdbRatings(sourceMovies);
+  const crew = await loadImdbCrew(sourceMovies);
   const movies = pickMoviesForCategories(sourceMovies);
 
   const byCategory = movies.reduce((counts, movie) => {
@@ -178,6 +270,16 @@ async function main() {
     sourceMovies: sourceMovies.length,
     imdbMatched: imdb.matched,
     imdbAvailable: imdb.available,
+    imdbRatingsMatched: ratings.matched,
+    imdbRatingsAvailable: ratings.available,
+    imdbCrewMatched: crew.crewMatched,
+    imdbCrewAvailable: crew.crewAvailable,
+    imdbCastMatched: crew.castMatched,
+    imdbPrincipalsAvailable: crew.principalsAvailable,
+    imdbNamesAvailable: crew.namesAvailable,
+    outputWithImdbRatings: movies.filter((movie) => movie.ratings?.imdb).length,
+    outputWithDirectors: movies.filter((movie) => Array.isArray(movie.director) && movie.director.length).length,
+    outputWithCast: movies.filter((movie) => Array.isArray(movie.cast) && movie.cast.length).length,
     outputMovies: movies.length,
     categoryCounts: byCategory,
     output: "data/movies.js",
