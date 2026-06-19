@@ -12,12 +12,15 @@ The site is a self-contained HTML/CSS/JavaScript app. It displays 1001 movies wi
 
 ## Features
 
+- Separate Chinese and English entry points: `zh.html`, `en.html`, and `index.html?lang=...`
 - 13 top-level movie categories
 - 11 subcategories in each category
 - 7 movies in each subcategory
 - 1001 total movie cards
 - Real poster images from a public MovieLens poster mapping dataset
+- Release dates from the MovieLens item file
 - IMDb `title.basics` genre enrichment when `data/imdb/title.basics.tsv.gz` is available
+- Detail fields for director, cast, IMDb rating, and Douban rating are supported by the UI when metadata is available
 - Search by title, category, subcategory, or label
 - Category and subcategory filters
 - Genre, decade, and watch-status filters
@@ -75,3 +78,5 @@ https://github.com/babu-thomas/movielens-posters
 Genre enrichment can use the official IMDb non-commercial datasets:
 
 https://datasets.imdbws.com/
+
+Director, cast, and rating fields require an additional metadata source. The current repository does not include IMDb `title.crew`, `title.principals`, `name.basics`, or any Douban rating export.

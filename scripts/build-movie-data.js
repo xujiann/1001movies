@@ -64,6 +64,7 @@ function parseMovieLensRows() {
       id,
       title: normalizeTitle(title),
       year: yearMatch ? Number(yearMatch[1]) : null,
+      releaseDate: parts[2] || "",
       imdbUrl: parts[4] || "",
       genres: genres.filter((genre) => genre !== "Unknown"),
       poster: posters.get(id) || "",

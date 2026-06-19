@@ -135,6 +135,229 @@ function escapeHtml(value) {
   }[char]));
 }
 
+const language = new URLSearchParams(location.search).get("lang") === "en" || location.pathname.endsWith("/en.html") ? "en" : "zh";
+const ALL = "全部";
+const FAVORITE_STATUS = "收藏";
+const WATCHED_STATUS = "已看";
+const UNWATCHED_STATUS = "未看";
+
+const uiText = {
+  zh: {
+    featured: "推荐",
+    categories: "分类",
+    library: "片库",
+    kicker: "精选电影索引",
+    title: "1001 部电影",
+    formulaCategories: "13 大类",
+    formulaSubs: "11 小类",
+    formulaMovies: "7 部电影",
+    browse: "浏览片库",
+    viewCategories: "查看分类",
+    movieItems: "电影条目",
+    categoryCount: "大类",
+    subcategoryCount: "小类（每大类 11 个）",
+    progress: "已看进度",
+    today: "今日推荐",
+    refresh: "换一部",
+    categoryEntry: "13 个入口",
+    libraryTitle: "电影片库",
+    filter: "筛选",
+    grid: "海报",
+    list: "列表",
+    searchPlaceholder: "搜索片名、导演、主演、分类或标签",
+    all: "全部",
+    allTypes: "全部类型",
+    allDecades: "全部年代",
+    allStatus: "全部状态",
+    favorite: "已收藏",
+    watched: "已看",
+    unwatched: "未看",
+    order: "片单顺序",
+    titleSort: "片名 A-Z",
+    yearAsc: "年份从早到晚",
+    yearDesc: "年份从晚到早",
+    random: "随机一部",
+    clear: "清空筛选",
+    noResults: "没有找到匹配的电影。",
+    top: "回到顶部",
+    close: "关闭详情",
+    prev: "上一部",
+    next: "下一部",
+    copy: "复制链接",
+    copied: "已复制",
+    detail: "查看详情",
+    showing: "当前显示",
+    moviesUnit: "部电影",
+    watchedShort: "已看",
+    favoritesShort: "收藏",
+    subUnit: "小类",
+    movieUnit: "部",
+    progressWatched: "已看",
+    search: "搜索",
+    categoryLabel: "大类",
+    subcategoryLabel: "小类",
+    genreLabel: "类型",
+    decadeLabel: "年代",
+    statusLabel: "状态",
+    sortLabel: "排序",
+    viewLabel: "视图",
+    director: "导演",
+    cast: "主演",
+    releaseDate: "上映日期",
+    ratingsPending: "评分待补",
+    pending: "待补充",
+    completePosters: "海报 100% 完整",
+    languageLabel: "English",
+  },
+  en: {
+    featured: "Featured",
+    categories: "Categories",
+    library: "Library",
+    kicker: "Curated Movie Index",
+    title: "1001 Movies",
+    formulaCategories: "13 categories",
+    formulaSubs: "11 sections",
+    formulaMovies: "7 movies",
+    browse: "Browse Library",
+    viewCategories: "View Categories",
+    movieItems: "movie entries",
+    categoryCount: "categories",
+    subcategoryCount: "sections (11 each)",
+    progress: "Watch progress",
+    today: "Today",
+    refresh: "Another Pick",
+    categoryEntry: "13 Entry Points",
+    libraryTitle: "Movie Library",
+    filter: "Filters",
+    grid: "Posters",
+    list: "List",
+    searchPlaceholder: "Search title, director, cast, category, or tag",
+    all: "All",
+    allTypes: "All genres",
+    allDecades: "All decades",
+    allStatus: "All status",
+    favorite: "Favorited",
+    watched: "Watched",
+    unwatched: "Unwatched",
+    order: "List order",
+    titleSort: "Title A-Z",
+    yearAsc: "Year ascending",
+    yearDesc: "Year descending",
+    random: "Random",
+    clear: "Clear",
+    noResults: "No matching movies found.",
+    top: "Back to top",
+    close: "Close details",
+    prev: "Previous",
+    next: "Next",
+    copy: "Copy link",
+    copied: "Copied",
+    detail: "Details",
+    showing: "Showing",
+    moviesUnit: "movies",
+    watchedShort: "watched",
+    favoritesShort: "favorites",
+    subUnit: "sections",
+    movieUnit: "movies",
+    progressWatched: "Watched",
+    search: "Search",
+    categoryLabel: "Category",
+    subcategoryLabel: "Section",
+    genreLabel: "Genre",
+    decadeLabel: "Decade",
+    statusLabel: "Status",
+    sortLabel: "Sort",
+    viewLabel: "View",
+    director: "Director",
+    cast: "Cast",
+    releaseDate: "Release",
+    ratingsPending: "rating pending",
+    pending: "To be added",
+    completePosters: "Posters complete",
+    languageLabel: "中文",
+  },
+};
+
+const categoryEnglishNames = {
+  "动画与家庭": "Animation & Family",
+  "动作冒险": "Action Adventure",
+  "科幻奇幻": "Science Fiction & Fantasy",
+  "犯罪悬疑": "Crime & Mystery",
+  "惊悚恐怖": "Thriller & Horror",
+  "喜剧": "Comedy",
+  "爱情": "Romance",
+  "剧情人生": "Drama & Life",
+  "战争历史与西部": "War, History & Western",
+  "音乐歌舞与舞台": "Music, Musical & Stage",
+  "纪录与现实": "Documentary & Reality",
+  "年代经典": "Classics by Decade",
+  "世界经典": "World Classics",
+};
+
+const genreNames = {
+  Action: "动作",
+  Adventure: "冒险",
+  Animation: "动画",
+  Children: "儿童",
+  Comedy: "喜剧",
+  Crime: "犯罪",
+  Documentary: "纪录片",
+  Drama: "剧情",
+  Family: "家庭",
+  Fantasy: "奇幻",
+  "Film-Noir": "黑色电影",
+  Horror: "恐怖",
+  Musical: "歌舞",
+  Mystery: "悬疑",
+  Romance: "爱情",
+  "Sci-Fi": "科幻",
+  Thriller: "惊悚",
+  War: "战争",
+  Western: "西部",
+};
+
+function t(key) {
+  return uiText[language][key] || uiText.zh[key] || key;
+}
+
+function displayCategory(value) {
+  return language === "en" ? categoryEnglishNames[value] || value : value;
+}
+
+function displayGenre(value) {
+  return language === "zh" ? genreNames[value] || value : value;
+}
+
+function displaySubcategory(movieOrValue) {
+  if (language === "zh") return typeof movieOrValue === "string" ? movieOrValue : movieOrValue.subcategory;
+  const movie = typeof movieOrValue === "string" ? null : movieOrValue;
+  if (!movie) return movieOrValue;
+  const category = categories.find((item) => item.name === movie.category);
+  const index = category ? category.subs.indexOf(movie.subcategory) : -1;
+  return index >= 0 ? `Section ${index + 1}` : movie.subcategory;
+}
+
+function formatReleaseDate(value, year) {
+  if (!value) return year ? String(year) : t("pending");
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value;
+  return new Intl.DateTimeFormat(language === "en" ? "en-US" : "zh-CN", {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  }).format(date);
+}
+
+function formatPersonList(value) {
+  if (Array.isArray(value) && value.length) return value.join(", ");
+  if (typeof value === "string" && value.trim()) return value.trim();
+  return t("pending");
+}
+
+function formatRating(value) {
+  return value ? Number(value).toFixed(1) : t("ratingsPending");
+}
+
 const videoPlatforms = [
   { label: "腾讯视频", host: "v.qq.com", buildUrl: (query) => `https://v.qq.com/x/search/?q=${query}` },
   { label: "爱奇艺", host: "www.iqiyi.com", buildUrl: (query) => `https://so.iqiyi.com/so/q_${query}` },
@@ -143,8 +366,8 @@ const videoPlatforms = [
 ];
 
 const infoPlatforms = [
-  { label: "IMDb", host: "www.imdb.com", buildUrl: (query, movie) => movie.imdbUrl || `https://www.imdb.com/find/?q=${query}` },
-  { label: "豆瓣", host: "movie.douban.com", buildUrl: (query) => `https://search.douban.com/movie/subject_search?search_text=${query}` },
+  { label: "IMDb", ratingKey: "imdb", host: "www.imdb.com", buildUrl: (query, movie) => movie.imdbUrl || `https://www.imdb.com/find/?q=${query}` },
+  { label: "豆瓣", ratingKey: "douban", host: "movie.douban.com", buildUrl: (query) => `https://search.douban.com/movie/subject_search?search_text=${query}` },
 ];
 
 function buildVideoLinks(movie) {
@@ -162,6 +385,7 @@ function buildInfoLinks(movie) {
   const query = encodeURIComponent(queryText);
   return infoPlatforms.map((platform) => ({
     label: platform.label,
+    rating: formatRating(movie.ratings?.[platform.ratingKey]),
     icon: `https://www.google.com/s2/favicons?domain=${platform.host}&sz=32`,
     url: platform.buildUrl(query, movie),
   }));
@@ -170,7 +394,7 @@ function buildInfoLinks(movie) {
 function renderLinkGroup(links, className) {
   return `
     <div class="${className}">
-      ${links.map((link) => `<a href="${escapeHtml(link.url)}" target="_blank" rel="noreferrer"><img src="${escapeHtml(link.icon)}" alt="" loading="lazy">${escapeHtml(link.label)}</a>`).join("")}
+      ${links.map((link) => `<a href="${escapeHtml(link.url)}" target="_blank" rel="noreferrer"><img src="${escapeHtml(link.icon)}" alt="" loading="lazy"><span>${escapeHtml(link.label)}</span>${link.rating ? `<small>${escapeHtml(link.rating)}</small>` : ""}</a>`).join("")}
     </div>
   `;
 }
@@ -196,15 +420,20 @@ function buildMovies() {
         title: movie.title,
         subtitle: Array.isArray(movie.genres) && movie.genres.length ? movie.genres.join(", ") : "IMDb/MovieLens 类型数据",
         year: movie.year,
+        releaseDate: movie.releaseDate || "",
         region: movie.imdbId ? "IMDb" : "MovieLens",
         category: movie.category,
         subcategory: movie.subcategory,
         accent: movie.accent || category.accent,
         genres: movie.genres || [],
+        director: movie.director || movie.directors || [],
+        cast: movie.cast || movie.actors || [],
+        ratings: movie.ratings || { imdb: null, douban: null },
         imdbUrl: movie.imdbUrl || "",
         posterA: color[0],
         posterB: color[1],
         posterUrl: movie.poster || movie.posterUrl || "",
+        posterComplete: Boolean(movie.poster || movie.posterUrl),
         number: movie.number || String(index + 1).padStart(4, "0"),
       };
       output.infoLinks = buildInfoLinks(output);
@@ -233,13 +462,18 @@ function buildMovies() {
           title,
           subtitle: sourceMovie?.poster ? "MovieLens 海报数据" : descriptors[(index + slot) % descriptors.length],
           year,
+          releaseDate: sourceMovie?.releaseDate || "",
           region: regions[(index + subIndex + slot) % regions.length],
           category: category.name,
           subcategory: sub,
           accent: category.accent,
+          director: sourceMovie?.director || sourceMovie?.directors || [],
+          cast: sourceMovie?.cast || sourceMovie?.actors || [],
+          ratings: sourceMovie?.ratings || { imdb: null, douban: null },
           posterA: color[0],
           posterB: color[1],
           posterUrl: sourceMovie?.poster || "",
+          posterComplete: Boolean(sourceMovie?.poster),
           number: String(index).padStart(4, "0"),
         };
         output.infoLinks = buildInfoLinks(output);
@@ -255,11 +489,11 @@ function buildMovies() {
 
 const movies = buildMovies();
 const state = {
-  category: "全部",
-  subcategory: "全部",
-  genre: "全部",
-  decade: "全部",
-  status: "全部",
+  category: ALL,
+  subcategory: ALL,
+  genre: ALL,
+  decade: ALL,
+  status: ALL,
   sort: "number",
   view: localStorage.getItem("movieViewMode") || "grid",
   query: "",
@@ -321,11 +555,11 @@ function fromSlug(value) {
 
 function getLibraryHash() {
   const params = new URLSearchParams();
-  if (state.category !== "全部") params.set("category", state.category);
-  if (state.subcategory !== "全部") params.set("subcategory", state.subcategory);
-  if (state.genre !== "全部") params.set("genre", state.genre);
-  if (state.decade !== "全部") params.set("decade", state.decade);
-  if (state.status !== "全部") params.set("status", state.status);
+  if (state.category !== ALL) params.set("category", state.category);
+  if (state.subcategory !== ALL) params.set("subcategory", state.subcategory);
+  if (state.genre !== ALL) params.set("genre", state.genre);
+  if (state.decade !== ALL) params.set("decade", state.decade);
+  if (state.status !== ALL) params.set("status", state.status);
   if (state.sort !== "number") params.set("sort", state.sort);
   if (state.view !== "grid") params.set("view", state.view);
   if (state.query.trim()) params.set("q", state.query.trim());
@@ -343,11 +577,11 @@ function updateLibraryHash() {
 function applyLibraryParams(hash = location.hash) {
   if (!hash.startsWith("#library?")) return false;
   const params = new URLSearchParams(hash.slice(hash.indexOf("?") + 1));
-  state.category = fromSlug(params.get("category")) || "全部";
-  state.subcategory = fromSlug(params.get("subcategory")) || "全部";
-  state.genre = fromSlug(params.get("genre")) || "全部";
-  state.decade = fromSlug(params.get("decade")) || "全部";
-  state.status = fromSlug(params.get("status")) || "全部";
+  state.category = fromSlug(params.get("category")) || ALL;
+  state.subcategory = fromSlug(params.get("subcategory")) || ALL;
+  state.genre = fromSlug(params.get("genre")) || ALL;
+  state.decade = fromSlug(params.get("decade")) || ALL;
+  state.status = fromSlug(params.get("status")) || ALL;
   state.sort = params.get("sort") || "number";
   state.view = params.get("view") === "list" ? "list" : "grid";
   state.query = fromSlug(params.get("q")) || "";
@@ -366,11 +600,11 @@ function syncControls() {
 }
 
 function resetFilters() {
-  state.category = "全部";
-  state.subcategory = "全部";
-  state.genre = "全部";
-  state.decade = "全部";
-  state.status = "全部";
+  state.category = ALL;
+  state.subcategory = ALL;
+  state.genre = ALL;
+  state.decade = ALL;
+  state.status = ALL;
   state.sort = "number";
   state.query = "";
   renderSubnav();
@@ -409,7 +643,7 @@ function renderStats() {
   document.querySelector("#category-count").textContent = categories.length;
   document.querySelector("#subcategory-count").textContent = categories.reduce((sum, item) => sum + item.subs.length, 0);
   document.querySelector("#watched-count").textContent = `${userState.watched.size}/${movies.length}`;
-  document.querySelector("#progress-label").innerHTML = `已看 ${Math.round((userState.watched.size / movies.length) * 100)}%<progress value="${userState.watched.size}" max="${movies.length}"></progress>`;
+  document.querySelector("#progress-label").innerHTML = `${t("progressWatched")} ${Math.round((userState.watched.size / movies.length) * 100)}%<progress value="${userState.watched.size}" max="${movies.length}"></progress>`;
 }
 
 function getDailyMovie() {
@@ -425,14 +659,14 @@ function renderFeatured() {
       ${movie.posterUrl ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} 海报" loading="eager" onload="this.classList.add('is-loaded')" onerror="this.closest('.poster').classList.add('poster-fallback');this.remove()">` : ""}
       <span>${escapeHtml(movie.number)}</span>
     </div>
-    <div class="featured-body">
-      <h3>${escapeHtml(movie.title)}</h3>
-      <div class="featured-meta">
-        <span>${escapeHtml(movie.year)}</span>
-        <span>${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}</span>
-        <span>${escapeHtml((movie.genres || []).slice(0, 3).join(", ") || movie.region)}</span>
-      </div>
-      <button class="button primary" type="button" data-featured-open="${escapeHtml(movie.number)}">查看详情</button>
+      <div class="featured-body">
+        <h3>${escapeHtml(movie.title)}</h3>
+        <div class="featured-meta">
+          <span>${escapeHtml(formatReleaseDate(movie.releaseDate, movie.year))}</span>
+          <span>${escapeHtml(displayCategory(movie.category))} / ${escapeHtml(displaySubcategory(movie))}</span>
+          <span>${escapeHtml((movie.genres || []).slice(0, 3).map(displayGenre).join(", ") || movie.region)}</span>
+        </div>
+      <button class="button primary" type="button" data-featured-open="${escapeHtml(movie.number)}">${escapeHtml(t("detail"))}</button>
     </div>
   `;
   featuredCard.querySelector("[data-featured-open]").addEventListener("click", () => openMovieDialog(movie.number));
@@ -446,14 +680,14 @@ function renderCategories() {
     const percent = Math.round((watched / count) * 100);
     return `
       <article class="category-card" style="--accent: ${category.accent}" data-category="${category.name}" tabindex="0">
-        <h3>${category.name}</h3>
-        <p>${category.description}</p>
+        <h3>${escapeHtml(displayCategory(category.name))}</h3>
+        <p>${escapeHtml(language === "en" ? `${count} curated movies in this theme.` : category.description)}</p>
         <div class="category-meta">
-          <span>${category.subs.length} 小类</span>
-          <span>${count} 部</span>
-          <span>已看 ${percent}%</span>
+          <span>${category.subs.length} ${escapeHtml(t("subUnit"))}</span>
+          <span>${count} ${escapeHtml(t("movieUnit"))}</span>
+          <span>${escapeHtml(t("watchedShort"))} ${percent}%</span>
         </div>
-        <div class="category-progress" aria-label="${category.name} 已看 ${watched} / ${count}">
+        <div class="category-progress" aria-label="${escapeHtml(displayCategory(category.name))} ${escapeHtml(t("watchedShort"))} ${watched} / ${count}">
           <span style="width: ${percent}%"></span>
         </div>
       </article>
@@ -478,22 +712,34 @@ function renderCategories() {
 }
 
 function renderFilters() {
-  categoryFilter.innerHTML = ["全部", ...categories.map((category) => category.name)]
-    .map((name) => `<option value="${name}">${name}</option>`)
+  categoryFilter.innerHTML = [ALL, ...categories.map((category) => category.name)]
+    .map((name) => `<option value="${name}">${name === ALL ? t("all") : escapeHtml(displayCategory(name))}</option>`)
     .join("");
-  genreFilter.innerHTML = ["全部", ...getAllGenres()]
-    .map((name) => `<option value="${name}">${name === "全部" ? "全部类型" : name}</option>`)
+  genreFilter.innerHTML = [ALL, ...getAllGenres()]
+    .map((name) => `<option value="${name}">${name === ALL ? t("allTypes") : escapeHtml(displayGenre(name))}</option>`)
     .join("");
-  decadeFilter.innerHTML = ["全部", ...getAllDecades()]
-    .map((name) => `<option value="${name}">${name === "全部" ? "全部年代" : name}</option>`)
+  decadeFilter.innerHTML = [ALL, ...getAllDecades()]
+    .map((name) => `<option value="${name}">${name === ALL ? t("allDecades") : name}</option>`)
     .join("");
+  statusFilter.innerHTML = [
+    [ALL, t("allStatus")],
+    [FAVORITE_STATUS, t("favorite")],
+    [WATCHED_STATUS, t("watched")],
+    [UNWATCHED_STATUS, t("unwatched")],
+  ].map(([value, label]) => `<option value="${value}">${escapeHtml(label)}</option>`).join("");
+  sortFilter.innerHTML = [
+    ["number", t("order")],
+    ["title", t("titleSort")],
+    ["year-asc", t("yearAsc")],
+    ["year-desc", t("yearDesc")],
+  ].map(([value, label]) => `<option value="${value}">${escapeHtml(label)}</option>`).join("");
 }
 
 function renderSubnav() {
   const category = categories.find((item) => item.name === state.category);
   const subs = category ? category.subs : [...new Set(movies.map((movie) => movie.subcategory))].slice(0, 24);
-  subnav.innerHTML = ["全部", ...subs].map((name) => (
-    `<button class="chip ${state.subcategory === name ? "active" : ""}" type="button" data-subcategory="${name}">${name}</button>`
+  subnav.innerHTML = [ALL, ...subs].map((name) => (
+    `<button class="chip ${state.subcategory === name ? "active" : ""}" type="button" data-subcategory="${name}">${name === ALL ? escapeHtml(t("all")) : escapeHtml(language === "en" ? displaySubcategory({ category: state.category, subcategory: name }) : name)}</button>`
   )).join("");
 
   subnav.querySelectorAll(".chip").forEach((chip) => {
@@ -507,14 +753,14 @@ function renderSubnav() {
 
 function renderActiveFilters() {
   const filters = [];
-  if (state.query.trim()) filters.push(["query", "搜索", state.query.trim()]);
-  if (state.category !== "全部") filters.push(["category", "大类", state.category]);
-  if (state.subcategory !== "全部") filters.push(["subcategory", "小类", state.subcategory]);
-  if (state.genre !== "全部") filters.push(["genre", "类型", state.genre]);
-  if (state.decade !== "全部") filters.push(["decade", "年代", state.decade]);
-  if (state.status !== "全部") filters.push(["status", "状态", state.status]);
-  if (state.sort !== "number") filters.push(["sort", "排序", sortFilter.selectedOptions[0]?.textContent || state.sort]);
-  if (state.view !== "grid") filters.push(["view", "视图", "列表"]);
+  if (state.query.trim()) filters.push(["query", t("search"), state.query.trim()]);
+  if (state.category !== ALL) filters.push(["category", t("categoryLabel"), displayCategory(state.category)]);
+  if (state.subcategory !== ALL) filters.push(["subcategory", t("subcategoryLabel"), language === "en" ? displaySubcategory({ category: state.category, subcategory: state.subcategory }) : state.subcategory]);
+  if (state.genre !== ALL) filters.push(["genre", t("genreLabel"), displayGenre(state.genre)]);
+  if (state.decade !== ALL) filters.push(["decade", t("decadeLabel"), state.decade]);
+  if (state.status !== ALL) filters.push(["status", t("statusLabel"), statusFilter.selectedOptions[0]?.textContent || state.status]);
+  if (state.sort !== "number") filters.push(["sort", t("sortLabel"), sortFilter.selectedOptions[0]?.textContent || state.sort]);
+  if (state.view !== "grid") filters.push(["view", t("viewLabel"), t("list")]);
 
   activeFilters.innerHTML = filters.map(([key, label, value]) => (
     `<button class="filter-pill" type="button" data-filter-key="${key}"><span>${escapeHtml(label)}</span>${escapeHtml(value)} ×</button>`
@@ -525,17 +771,17 @@ function renderActiveFilters() {
       const key = pill.dataset.filterKey;
       if (key === "query") state.query = "";
       if (key === "category") {
-        state.category = "全部";
-        state.subcategory = "全部";
+        state.category = ALL;
+        state.subcategory = ALL;
         renderSubnav();
       }
       if (key === "subcategory") {
-        state.subcategory = "全部";
+        state.subcategory = ALL;
         renderSubnav();
       }
-      if (key === "genre") state.genre = "全部";
-      if (key === "decade") state.decade = "全部";
-      if (key === "status") state.status = "全部";
+      if (key === "genre") state.genre = ALL;
+      if (key === "decade") state.decade = ALL;
+      if (key === "status") state.status = ALL;
       if (key === "sort") state.sort = "number";
       if (key === "view") {
         state.view = "grid";
@@ -718,6 +964,324 @@ function closeMovieDialog() {
   }
 }
 
+function applyLanguageText() {
+  document.documentElement.lang = language === "en" ? "en" : "zh-CN";
+  document.title = language === "en" ? "1001 Movies" : "1001 部电影";
+  document.querySelector(".brand")?.setAttribute("aria-label", language === "en" ? "1001 Movies home" : "1001 Movies 首页");
+  document.querySelector('.nav a[href="#featured"]').textContent = t("featured");
+  document.querySelector('.nav a[href="#categories"]').textContent = t("categories");
+  document.querySelector('.nav a[href="#library"]').textContent = t("library");
+  document.querySelector(".hero .kicker").textContent = t("kicker");
+  document.querySelector("#hero-title").textContent = t("title");
+  const formulaItems = document.querySelectorAll(".formula span");
+  if (formulaItems.length >= 6) {
+    formulaItems[1].textContent = t("formulaCategories");
+    formulaItems[3].textContent = t("formulaSubs");
+    formulaItems[5].textContent = t("formulaMovies");
+  }
+  document.querySelector(".hero-actions .primary").textContent = t("browse");
+  document.querySelector(".hero-actions .secondary").textContent = t("viewCategories");
+  const statLabels = document.querySelectorAll(".stats-band span");
+  if (statLabels.length >= 4) {
+    statLabels[0].textContent = t("movieItems");
+    statLabels[1].textContent = t("categoryCount");
+    statLabels[2].textContent = t("subcategoryCount");
+  }
+  document.querySelector(".featured-section h2").textContent = t("today");
+  featuredRefresh.textContent = t("refresh");
+  document.querySelector("#categories h2").textContent = t("categoryEntry");
+  document.querySelector(".library-heading h2").textContent = t("libraryTitle");
+  filterToggle.textContent = t("filter");
+  gridViewButton.textContent = t("grid");
+  listViewButton.textContent = t("list");
+  searchInput.placeholder = t("searchPlaceholder");
+  randomButton.textContent = t("random");
+  clearButton.textContent = t("clear");
+  emptyState.querySelector("p").textContent = t("noResults");
+  emptyClearButton.textContent = t("clear");
+  toTopButton.setAttribute("aria-label", t("top"));
+  dialogClose.setAttribute("aria-label", t("close"));
+  dialogPrev.textContent = t("prev");
+  dialogNext.textContent = t("next");
+  dialogShare.textContent = t("copy");
+  const switcher = document.querySelector("#language-switch");
+  if (switcher) {
+    const target = language === "en" ? "zh" : "en";
+    switcher.innerHTML = `<a href="index.html?lang=${target}" aria-label="${escapeHtml(t("languageLabel"))}">${escapeHtml(t("languageLabel"))}</a>`;
+  }
+}
+
+function getSearchText(movie) {
+  return `${movie.title} ${movie.subtitle} ${movie.category} ${displayCategory(movie.category)} ${movie.subcategory} ${displaySubcategory(movie)} ${movie.region} ${formatPersonList(movie.director)} ${formatPersonList(movie.cast)} ${(movie.genres || []).join(" ")} ${(movie.genres || []).map(displayGenre).join(" ")}`.toLowerCase();
+}
+
+function renderFilters() {
+  categoryFilter.innerHTML = [ALL, ...categories.map((category) => category.name)]
+    .map((name) => `<option value="${escapeHtml(name)}">${name === ALL ? escapeHtml(t("all")) : escapeHtml(displayCategory(name))}</option>`)
+    .join("");
+  genreFilter.innerHTML = [ALL, ...getAllGenres()]
+    .map((name) => `<option value="${escapeHtml(name)}">${name === ALL ? escapeHtml(t("allTypes")) : escapeHtml(displayGenre(name))}</option>`)
+    .join("");
+  decadeFilter.innerHTML = [ALL, ...getAllDecades()]
+    .map((name) => `<option value="${escapeHtml(name)}">${name === ALL ? escapeHtml(t("allDecades")) : escapeHtml(name)}</option>`)
+    .join("");
+  statusFilter.innerHTML = [
+    [ALL, t("allStatus")],
+    [FAVORITE_STATUS, t("favorite")],
+    [WATCHED_STATUS, t("watched")],
+    [UNWATCHED_STATUS, t("unwatched")],
+  ].map(([value, label]) => `<option value="${escapeHtml(value)}">${escapeHtml(label)}</option>`).join("");
+  sortFilter.innerHTML = [
+    ["number", t("order")],
+    ["title", t("titleSort")],
+    ["year-asc", t("yearAsc")],
+    ["year-desc", t("yearDesc")],
+  ].map(([value, label]) => `<option value="${escapeHtml(value)}">${escapeHtml(label)}</option>`).join("");
+}
+
+function renderSubnav() {
+  const category = categories.find((item) => item.name === state.category);
+  const subs = category ? category.subs : [...new Set(movies.map((movie) => movie.subcategory))].slice(0, 24);
+  subnav.innerHTML = [ALL, ...subs].map((name) => {
+    const label = name === ALL ? t("all") : (language === "en" ? displaySubcategory({ category: state.category, subcategory: name }) : name);
+    return `<button class="chip ${state.subcategory === name ? "active" : ""}" type="button" data-subcategory="${escapeHtml(name)}">${escapeHtml(label)}</button>`;
+  }).join("");
+
+  subnav.querySelectorAll(".chip").forEach((chip) => {
+    chip.addEventListener("click", () => {
+      state.subcategory = chip.dataset.subcategory;
+      renderSubnav();
+      renderMovies();
+    });
+  });
+}
+
+function renderActiveFilters() {
+  const filters = [];
+  if (state.query.trim()) filters.push(["query", t("search"), state.query.trim()]);
+  if (state.category !== ALL) filters.push(["category", t("categoryLabel"), displayCategory(state.category)]);
+  if (state.subcategory !== ALL) filters.push(["subcategory", t("subcategoryLabel"), language === "en" ? displaySubcategory({ category: state.category, subcategory: state.subcategory }) : state.subcategory]);
+  if (state.genre !== ALL) filters.push(["genre", t("genreLabel"), displayGenre(state.genre)]);
+  if (state.decade !== ALL) filters.push(["decade", t("decadeLabel"), state.decade]);
+  if (state.status !== ALL) filters.push(["status", t("statusLabel"), statusFilter.selectedOptions[0]?.textContent || state.status]);
+  if (state.sort !== "number") filters.push(["sort", t("sortLabel"), sortFilter.selectedOptions[0]?.textContent || state.sort]);
+  if (state.view !== "grid") filters.push(["view", t("viewLabel"), t("list")]);
+
+  activeFilters.innerHTML = filters.map(([key, label, value]) => (
+    `<button class="filter-pill" type="button" data-filter-key="${key}"><span>${escapeHtml(label)}</span>${escapeHtml(value)} x</button>`
+  )).join("");
+
+  activeFilters.querySelectorAll(".filter-pill").forEach((pill) => {
+    pill.addEventListener("click", () => {
+      const key = pill.dataset.filterKey;
+      if (key === "query") state.query = "";
+      if (key === "category") {
+        state.category = ALL;
+        state.subcategory = ALL;
+        renderSubnav();
+      }
+      if (key === "subcategory") {
+        state.subcategory = ALL;
+        renderSubnav();
+      }
+      if (key === "genre") state.genre = ALL;
+      if (key === "decade") state.decade = ALL;
+      if (key === "status") state.status = ALL;
+      if (key === "sort") state.sort = "number";
+      if (key === "view") {
+        state.view = "grid";
+        localStorage.setItem("movieViewMode", state.view);
+      }
+      renderMovies();
+    });
+  });
+}
+
+function renderCategories() {
+  categoryGrid.innerHTML = categories.map((category) => {
+    const categoryMovies = movies.filter((movie) => movie.category === category.name);
+    const count = categoryMovies.length;
+    const watched = categoryMovies.filter(isWatched).length;
+    const percent = Math.round((watched / count) * 100);
+    return `
+      <article class="category-card" style="--accent: ${category.accent}" data-category="${escapeHtml(category.name)}" tabindex="0">
+        <h3>${escapeHtml(displayCategory(category.name))}</h3>
+        <p>${escapeHtml(language === "en" ? `${count} curated movies in this theme.` : category.description)}</p>
+        <div class="category-meta">
+          <span>${category.subs.length} ${escapeHtml(t("subUnit"))}</span>
+          <span>${count} ${escapeHtml(t("movieUnit"))}</span>
+          <span>${escapeHtml(t("watchedShort"))} ${percent}%</span>
+        </div>
+        <div class="category-progress" aria-label="${escapeHtml(displayCategory(category.name))} ${escapeHtml(t("watchedShort"))} ${watched} / ${count}">
+          <span style="width: ${percent}%"></span>
+        </div>
+      </article>
+    `;
+  }).join("");
+
+  categoryGrid.querySelectorAll(".category-card").forEach((card) => {
+    const selectCategory = () => {
+      state.category = card.dataset.category;
+      state.subcategory = ALL;
+      categoryFilter.value = state.category;
+      renderSubnav();
+      renderMovies();
+      updateLibraryHash();
+      document.querySelector("#library").scrollIntoView({ behavior: "smooth" });
+    };
+    card.addEventListener("click", selectCategory);
+    card.addEventListener("keydown", (event) => {
+      if (event.key === "Enter") selectCategory();
+    });
+  });
+}
+
+function getFilteredMovies() {
+  const query = state.query.trim().toLowerCase();
+  const filtered = movies.filter((movie) => {
+    const inCategory = state.category === ALL || movie.category === state.category;
+    const inSubcategory = state.subcategory === ALL || movie.subcategory === state.subcategory;
+    const inGenre = state.genre === ALL || (movie.genres || []).includes(state.genre);
+    const inDecade = state.decade === ALL || getDecade(movie.year) === state.decade;
+    const inStatus =
+      state.status === ALL ||
+      (state.status === FAVORITE_STATUS && isFavorite(movie)) ||
+      (state.status === WATCHED_STATUS && isWatched(movie)) ||
+      (state.status === UNWATCHED_STATUS && !isWatched(movie));
+    const inQuery = !query || getSearchText(movie).includes(query);
+    return inCategory && inSubcategory && inGenre && inDecade && inStatus && inQuery;
+  });
+
+  return sortMovies(filtered);
+}
+
+function renderMovies() {
+  const filtered = getFilteredMovies();
+  emptyState.hidden = filtered.length > 0;
+  resultCount.textContent = `${t("showing")} ${filtered.length} / ${movies.length} ${t("moviesUnit")} · ${t("watchedShort")} ${userState.watched.size} · ${t("favoritesShort")} ${userState.favorites.size}`;
+  movieGrid.classList.toggle("list-view", state.view === "list");
+  movieGrid.innerHTML = filtered.map((movie) => `
+    <article class="movie-card ${isWatched(movie) ? "is-watched" : ""} ${isFavorite(movie) ? "is-favorite" : ""}" data-movie-number="${escapeHtml(movie.number)}" tabindex="0" role="button" aria-label="${escapeHtml(t("detail"))}: ${escapeHtml(movie.title)}">
+      <div class="poster" style="--poster-a: ${movie.posterA}; --poster-b: ${movie.posterB}">
+        ${movie.posterUrl ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} poster" loading="lazy" onload="this.classList.add('is-loaded')" onerror="this.closest('.poster').classList.add('poster-fallback');this.remove()">` : ""}
+        <span>${escapeHtml(movie.number)}</span>
+        <div class="card-badges" aria-label="status">
+          ${isFavorite(movie) ? `<b>${escapeHtml(t("favoritesShort"))}</b>` : ""}
+          ${isWatched(movie) ? `<b>${escapeHtml(t("watchedShort"))}</b>` : ""}
+        </div>
+      </div>
+      <div class="movie-body">
+        <h3 class="movie-title">${escapeHtml(movie.title)}</h3>
+        <div class="movie-info">
+          <span>${escapeHtml(formatReleaseDate(movie.releaseDate, movie.year))} · ${escapeHtml((movie.genres || []).slice(0, 2).map(displayGenre).join(", ") || movie.region)}</span>
+          <span>${escapeHtml(displayCategory(movie.category))} / ${escapeHtml(displaySubcategory(movie))}</span>
+          <span>${escapeHtml(movie.subtitle)}</span>
+        </div>
+        <div class="movie-quick-details">
+          <span>${escapeHtml(t("director"))}: ${escapeHtml(formatPersonList(movie.director))}</span>
+          <span>${escapeHtml(t("cast"))}: ${escapeHtml(formatPersonList(movie.cast))}</span>
+        </div>
+        ${renderInfoLinks(movie, "site-links compact")}
+        ${renderVideoLinks(movie, "video-links compact")}
+      </div>
+    </article>
+  `).join("");
+  syncControls();
+  renderActiveFilters();
+  updateLibraryHash();
+
+  movieGrid.querySelectorAll(".movie-card").forEach((card) => {
+    const open = () => openMovieDialog(card.dataset.movieNumber);
+    card.addEventListener("click", open);
+    card.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        open();
+      }
+    });
+  });
+
+  movieGrid.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", (event) => event.stopPropagation());
+  });
+}
+
+function openMovieDialog(number) {
+  const movie = movies.find((item) => item.number === number);
+  if (!movie) return;
+  activeDialogMovieNumber = movie.number;
+  if (location.hash !== `#movie-${movie.number}`) history.replaceState(null, "", `#movie-${movie.number}`);
+
+  dialogPoster.style.setProperty("--poster-a", movie.posterA);
+  dialogPoster.style.setProperty("--poster-b", movie.posterB);
+  dialogPoster.innerHTML = movie.posterUrl
+    ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} poster" onload="this.classList.add('is-loaded')" onerror="this.remove()">`
+    : `<span>${escapeHtml(movie.number)}</span>`;
+  dialogNumber.textContent = `No. ${movie.number}`;
+  dialogTitle.textContent = movie.title;
+  dialogMeta.innerHTML = `
+    <span>${escapeHtml(formatReleaseDate(movie.releaseDate, movie.year))}</span>
+    <span>${escapeHtml(displayCategory(movie.category))}</span>
+    <span>${escapeHtml(displaySubcategory(movie))}</span>
+    ${(movie.genres || []).map((genre) => `<span>${escapeHtml(displayGenre(genre))}</span>`).join("")}
+  `;
+  dialogNote.innerHTML = `
+    <div class="detail-grid">
+      <div><span>${escapeHtml(t("director"))}</span><strong>${escapeHtml(formatPersonList(movie.director))}</strong></div>
+      <div><span>${escapeHtml(t("cast"))}</span><strong>${escapeHtml(formatPersonList(movie.cast))}</strong></div>
+      <div><span>${escapeHtml(t("releaseDate"))}</span><strong>${escapeHtml(formatReleaseDate(movie.releaseDate, movie.year))}</strong></div>
+      <div><span>${escapeHtml(t("completePosters"))}</span><strong>${movie.posterComplete ? "100%" : escapeHtml(t("pending"))}</strong></div>
+    </div>
+    ${renderInfoLinks(movie, "site-links dialog-site-links")}
+    ${renderVideoLinks(movie, "video-links dialog-video-links")}
+  `;
+  renderDialogActions(movie);
+  renderDialogNavigation(movie);
+  dialogShare.textContent = t("copy");
+
+  if (movieDialog.open) {
+    return;
+  }
+  if (typeof movieDialog.showModal === "function") {
+    movieDialog.showModal();
+  } else {
+    movieDialog.setAttribute("open", "");
+  }
+}
+
+function renderDialogActions(movie) {
+  dialogFavorite.textContent = isFavorite(movie) ? `${t("clear")} ${t("favoritesShort")}` : t("favoritesShort");
+  dialogWatched.textContent = isWatched(movie) ? `${t("clear")} ${t("watchedShort")}` : t("watched");
+  dialogFavorite.classList.toggle("active", isFavorite(movie));
+  dialogWatched.classList.toggle("active", isWatched(movie));
+}
+
+async function copyActiveMovieLink() {
+  if (!activeDialogMovieNumber) return;
+  const url = new URL(location.href);
+  url.hash = `movie-${activeDialogMovieNumber}`;
+  const text = url.toString();
+
+  try {
+    if (navigator.clipboard?.writeText) {
+      await navigator.clipboard.writeText(text);
+    } else {
+      const textarea = document.createElement("textarea");
+      textarea.value = text;
+      textarea.setAttribute("readonly", "");
+      textarea.style.position = "fixed";
+      textarea.style.opacity = "0";
+      document.body.append(textarea);
+      textarea.select();
+      document.execCommand("copy");
+      textarea.remove();
+    }
+    dialogShare.textContent = t("copied");
+  } catch (error) {
+    dialogShare.textContent = "Copy failed";
+  }
+}
+
 searchInput.addEventListener("input", (event) => {
   state.query = event.target.value;
   renderMovies();
@@ -748,7 +1312,7 @@ featuredRefresh.addEventListener("click", () => {
 
 categoryFilter.addEventListener("change", (event) => {
   state.category = event.target.value;
-  state.subcategory = "全部";
+  state.subcategory = ALL;
   renderSubnav();
   renderMovies();
 });
@@ -847,6 +1411,7 @@ window.addEventListener("hashchange", () => {
   else if (movieDialog.open) closeMovieDialog();
 });
 
+applyLanguageText();
 applyLibraryParams();
 renderStats();
 renderFeatured();

@@ -239,6 +239,7 @@ window.moviePosterData = [
     "id": 99,
     "title": "Snow White and the Seven Dwarfs",
     "year": 1937,
+    "releaseDate": "01-Jan-1937",
     "imdbUrl": "https://www.imdb.com/title/tt0029583/",
     "genres": [
       "Adventure",
@@ -256,6 +257,7 @@ window.moviePosterData = [
     "id": 432,
     "title": "Fantasia",
     "year": 1940,
+    "releaseDate": "01-Jan-1940",
     "imdbUrl": "https://www.imdb.com/title/tt0032455/",
     "genres": [
       "Animation",
@@ -273,6 +275,7 @@ window.moviePosterData = [
     "id": 418,
     "title": "Cinderella",
     "year": 1950,
+    "releaseDate": "01-Jan-1950",
     "imdbUrl": "https://www.imdb.com/title/tt0042332/",
     "genres": [
       "Animation",
@@ -290,6 +293,7 @@ window.moviePosterData = [
     "id": 625,
     "title": "Sword in the Stone",
     "year": 1963,
+    "releaseDate": "01-Jan-1963",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Sword%20in%20the%20Stone,%20The%20(1963)",
     "genres": [
       "Animation",
@@ -305,6 +309,7 @@ window.moviePosterData = [
     "id": 969,
     "title": "Winnie the Pooh and the Blustery Day",
     "year": 1968,
+    "releaseDate": "01-Jan-1968",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Winnie%20the%20Pooh%20and%20the%20Blustery%20Day%20%281968%29",
     "genres": [
       "Animation",
@@ -320,6 +325,7 @@ window.moviePosterData = [
     "id": 102,
     "title": "Aristocats",
     "year": 1970,
+    "releaseDate": "01-Jan-1970",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Aristocats,%20The%20(1970)",
     "genres": [
       "Animation",
@@ -335,6 +341,7 @@ window.moviePosterData = [
     "id": 946,
     "title": "Fox and the Hound",
     "year": 1981,
+    "releaseDate": "01-Jan-1981",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Fox%20and%20the%20Hound,%20The%20(1981)",
     "genres": [
       "Animation",
@@ -350,6 +357,7 @@ window.moviePosterData = [
     "id": 426,
     "title": "Transformers: The Movie",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Transformers:%20The%20Movie,%20The%20(1986)",
     "genres": [
       "Action",
@@ -369,6 +377,7 @@ window.moviePosterData = [
     "id": 588,
     "title": "Beauty and the Beast",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0101414/",
     "genres": [
       "Animation",
@@ -386,6 +395,7 @@ window.moviePosterData = [
     "id": 71,
     "title": "Lion King",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Lion%20King,%20The%20(1994)",
     "genres": [
       "Animation",
@@ -402,6 +412,7 @@ window.moviePosterData = [
     "id": 1076,
     "title": "Pagemaster",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Pagemaster,%20The%20(1994)",
     "genres": [
       "Action",
@@ -420,6 +431,7 @@ window.moviePosterData = [
     "id": 1409,
     "title": "Swan Princess",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Swan%20Princess,%20The%20(1994)",
     "genres": [
       "Animation",
@@ -435,6 +447,7 @@ window.moviePosterData = [
     "id": 1219,
     "title": "Goofy Movie",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Goofy%20Movie,%20A%20(1995)",
     "genres": [
       "Animation",
@@ -452,6 +465,7 @@ window.moviePosterData = [
     "id": 103,
     "title": "All Dogs Go to Heaven 2",
     "year": 1996,
+    "releaseDate": "29-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115509/",
     "genres": [
       "Adventure",
@@ -469,6 +483,7 @@ window.moviePosterData = [
     "id": 473,
     "title": "James and the Giant Peach",
     "year": 1996,
+    "releaseDate": "12-Apr-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116683/",
     "genres": [
       "Adventure",
@@ -486,6 +501,7 @@ window.moviePosterData = [
     "id": 596,
     "title": "Hunchback of Notre Dame",
     "year": 1996,
+    "releaseDate": "21-Jun-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Hunchback%20of%20Notre%20Dame,%20The%20(1996)",
     "genres": [
       "Animation",
@@ -502,6 +518,7 @@ window.moviePosterData = [
     "id": 989,
     "title": "Cats Don't Dance",
     "year": 1997,
+    "releaseDate": "26-Mar-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118829/",
     "genres": [
       "Animation",
@@ -519,6 +536,7 @@ window.moviePosterData = [
     "id": 1412,
     "title": "Land Before Time III: The Time of the Great Giving (1995) (V)",
     "year": null,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Land%20Before%20Time%20III%3A%20The%20Time%20of%20the%20Great%20Giving%20%281995%29%20%28V%29",
     "genres": [
       "Animation",
@@ -534,6 +552,7 @@ window.moviePosterData = [
     "id": 967,
     "title": "Little Lord Fauntleroy",
     "year": 1936,
+    "releaseDate": "01-Jan-1936",
     "imdbUrl": "https://www.imdb.com/title/tt0027893/",
     "genres": [
       "Drama",
@@ -550,6 +569,7 @@ window.moviePosterData = [
     "id": 132,
     "title": "Wizard of Oz",
     "year": 1939,
+    "releaseDate": "01-Jan-1939",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Wizard%20of%20Oz,%20The%20(1939)",
     "genres": [
       "Adventure",
@@ -567,6 +587,7 @@ window.moviePosterData = [
     "id": 404,
     "title": "Pinocchio",
     "year": 1940,
+    "releaseDate": "01-Jan-1940",
     "imdbUrl": "https://www.imdb.com/title/tt0032910/",
     "genres": [
       "Adventure",
@@ -584,6 +605,7 @@ window.moviePosterData = [
     "id": 501,
     "title": "Dumbo",
     "year": 1941,
+    "releaseDate": "01-Jan-1941",
     "imdbUrl": "https://www.imdb.com/title/tt0033563/",
     "genres": [
       "Adventure",
@@ -601,6 +623,7 @@ window.moviePosterData = [
     "id": 605,
     "title": "Meet Me in St. Louis",
     "year": 1944,
+    "releaseDate": "01-Jan-1944",
     "imdbUrl": "https://www.imdb.com/title/tt0037059/",
     "genres": [
       "Comedy",
@@ -618,6 +641,7 @@ window.moviePosterData = [
     "id": 496,
     "title": "It's a Wonderful Life",
     "year": 1946,
+    "releaseDate": "01-Jan-1946",
     "imdbUrl": "https://www.imdb.com/title/tt0038650/",
     "genres": [
       "Drama",
@@ -635,6 +659,7 @@ window.moviePosterData = [
     "id": 626,
     "title": "So Dear to My Heart",
     "year": 1949,
+    "releaseDate": "01-Jan-1949",
     "imdbUrl": "http://us.imdb.com/Title?So+Dear+to+My+Heart+(1949)",
     "genres": [
       "Children",
@@ -650,6 +675,7 @@ window.moviePosterData = [
     "id": 1200,
     "title": "Kim",
     "year": 1950,
+    "releaseDate": "01-Jan-1950",
     "imdbUrl": "https://www.imdb.com/title/tt0042644/",
     "genres": [
       "Adventure",
@@ -667,6 +693,7 @@ window.moviePosterData = [
     "id": 420,
     "title": "Alice in Wonderland",
     "year": 1951,
+    "releaseDate": "01-Jan-1951",
     "imdbUrl": "https://www.imdb.com/title/tt0043274/",
     "genres": [
       "Adventure",
@@ -684,6 +711,7 @@ window.moviePosterData = [
     "id": 141,
     "title": "20,000 Leagues Under the Sea",
     "year": 1954,
+    "releaseDate": "01-Jan-1954",
     "imdbUrl": "https://www.imdb.com/title/tt0046672/",
     "genres": [
       "Adventure",
@@ -701,6 +729,7 @@ window.moviePosterData = [
     "id": 495,
     "title": "Around the World in 80 Days",
     "year": 1956,
+    "releaseDate": "01-Jan-1956",
     "imdbUrl": "https://www.imdb.com/title/tt0048960/",
     "genres": [
       "Adventure",
@@ -718,6 +747,7 @@ window.moviePosterData = [
     "id": 416,
     "title": "Old Yeller",
     "year": 1957,
+    "releaseDate": "01-Jan-1957",
     "imdbUrl": "https://www.imdb.com/title/tt0050798/",
     "genres": [
       "Adventure",
@@ -735,6 +765,7 @@ window.moviePosterData = [
     "id": 843,
     "title": "Shaggy Dog",
     "year": 1959,
+    "releaseDate": "01-Jan-1959",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Shaggy%20Dog,%20The%20(1959)",
     "genres": [
       "Children",
@@ -750,6 +781,7 @@ window.moviePosterData = [
     "id": 622,
     "title": "Swiss Family Robinson",
     "year": 1960,
+    "releaseDate": "01-Jan-1960",
     "imdbUrl": "https://www.imdb.com/title/tt0054357/",
     "genres": [
       "Adventure",
@@ -766,6 +798,7 @@ window.moviePosterData = [
     "id": 842,
     "title": "Pollyanna",
     "year": 1960,
+    "releaseDate": "01-Jan-1960",
     "imdbUrl": "https://www.imdb.com/title/tt0054195/",
     "genres": [
       "Comedy",
@@ -783,6 +816,7 @@ window.moviePosterData = [
     "id": 417,
     "title": "Parent Trap",
     "year": 1961,
+    "releaseDate": "01-Jan-1961",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Parent%20Trap,%20The%20(1961)",
     "genres": [
       "Children",
@@ -798,6 +832,7 @@ window.moviePosterData = [
     "id": 419,
     "title": "Mary Poppins",
     "year": 1964,
+    "releaseDate": "01-Jan-1964",
     "imdbUrl": "https://www.imdb.com/title/tt0058331/",
     "genres": [
       "Comedy",
@@ -815,6 +850,7 @@ window.moviePosterData = [
     "id": 1444,
     "title": "That Darn Cat!",
     "year": 1965,
+    "releaseDate": "01-Jan-1965",
     "imdbUrl": "https://www.imdb.com/title/tt0059793/",
     "genres": [
       "Comedy",
@@ -832,6 +868,7 @@ window.moviePosterData = [
     "id": 142,
     "title": "Bedknobs and Broomsticks",
     "year": 1971,
+    "releaseDate": "01-Jan-1971",
     "imdbUrl": "https://www.imdb.com/title/tt0066817/",
     "genres": [
       "Adventure",
@@ -849,6 +886,7 @@ window.moviePosterData = [
     "id": 151,
     "title": "Willy Wonka and the Chocolate Factory",
     "year": 1971,
+    "releaseDate": "01-Jan-1971",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Willy%20Wonka%20and%20the%20Chocolate%20Factory%20(1971)",
     "genres": [
       "Adventure",
@@ -865,6 +903,7 @@ window.moviePosterData = [
     "id": 1480,
     "title": "Herbie Rides Again",
     "year": 1974,
+    "releaseDate": "01-Jan-1974",
     "imdbUrl": "https://www.imdb.com/title/tt0071607/",
     "genres": [
       "Comedy",
@@ -882,6 +921,7 @@ window.moviePosterData = [
     "id": 415,
     "title": "Apple Dumpling Gang",
     "year": 1975,
+    "releaseDate": "01-Jan-1975",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Apple%20Dumpling%20Gang,%20The%20(1975)",
     "genres": [
       "Children",
@@ -898,6 +938,7 @@ window.moviePosterData = [
     "id": 1133,
     "title": "Escape to Witch Mountain",
     "year": 1975,
+    "releaseDate": "01-Jan-1975",
     "imdbUrl": "https://www.imdb.com/title/tt0072951/",
     "genres": [
       "Adventure",
@@ -915,6 +956,7 @@ window.moviePosterData = [
     "id": 1091,
     "title": "Pete's Dragon",
     "year": 1977,
+    "releaseDate": "01-Jan-1977",
     "imdbUrl": "https://www.imdb.com/title/tt0076538/",
     "genres": [
       "Adventure",
@@ -932,6 +974,7 @@ window.moviePosterData = [
     "id": 101,
     "title": "Heavy Metal",
     "year": 1981,
+    "releaseDate": "08-Mar-1981",
     "imdbUrl": "https://www.imdb.com/title/tt0082509/",
     "genres": [
       "Adventure",
@@ -949,6 +992,7 @@ window.moviePosterData = [
     "id": 423,
     "title": "E.T. the Extra-Terrestrial",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "https://www.imdb.com/title/tt0083866/",
     "genres": [
       "Adventure",
@@ -966,6 +1010,7 @@ window.moviePosterData = [
     "id": 206,
     "title": "Akira",
     "year": 1988,
+    "releaseDate": "01-Jan-1988",
     "imdbUrl": "https://www.imdb.com/title/tt0094625/",
     "genres": [
       "Action",
@@ -983,6 +1028,7 @@ window.moviePosterData = [
     "id": 1078,
     "title": "Oliver & Company",
     "year": 1988,
+    "releaseDate": "29-Mar-1988",
     "imdbUrl": "https://www.imdb.com/title/tt0095776/",
     "genres": [
       "Adventure",
@@ -1000,6 +1046,7 @@ window.moviePosterData = [
     "id": 215,
     "title": "Field of Dreams",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "https://www.imdb.com/title/tt0097351/",
     "genres": [
       "Drama",
@@ -1017,6 +1064,7 @@ window.moviePosterData = [
     "id": 94,
     "title": "Home Alone",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0099785/",
     "genres": [
       "Comedy",
@@ -1033,6 +1081,7 @@ window.moviePosterData = [
     "id": 95,
     "title": "Aladdin",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0103639/",
     "genres": [
       "Adventure",
@@ -1050,6 +1099,7 @@ window.moviePosterData = [
     "id": 78,
     "title": "Free Willy",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106965/",
     "genres": [
       "Adventure",
@@ -1067,6 +1117,7 @@ window.moviePosterData = [
     "id": 91,
     "title": "Nightmare Before Christmas",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Nightmare%20Before%20Christmas,%20The%20(1993)",
     "genres": [
       "Children",
@@ -1083,6 +1134,7 @@ window.moviePosterData = [
     "id": 169,
     "title": "Wrong Trousers",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)",
     "genres": [
       "Animation",
@@ -1098,6 +1150,7 @@ window.moviePosterData = [
     "id": 393,
     "title": "Mrs. Doubtfire",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107614/",
     "genres": [
       "Comedy",
@@ -1115,6 +1168,7 @@ window.moviePosterData = [
     "id": 398,
     "title": "Super Mario Bros.",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108255/",
     "genres": [
       "Adventure",
@@ -1132,6 +1186,7 @@ window.moviePosterData = [
     "id": 1035,
     "title": "Cool Runnings",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106611/",
     "genres": [
       "Adventure",
@@ -1149,6 +1204,7 @@ window.moviePosterData = [
     "id": 1270,
     "title": "Life with Mikey",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107413/",
     "genres": [
       "Comedy",
@@ -1165,6 +1221,7 @@ window.moviePosterData = [
     "id": 1555,
     "title": "Secret Adventures of Tom Thumb",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Secret%20Adventures%20of%20Tom%20Thumb,%20The%20(1993)",
     "genres": [
       "Adventure",
@@ -1180,6 +1237,7 @@ window.moviePosterData = [
     "id": 63,
     "title": "Santa Clause",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Santa%20Clause,%20The%20(1994)",
     "genres": [
       "Children",
@@ -1195,6 +1253,7 @@ window.moviePosterData = [
     "id": 377,
     "title": "Heavyweights",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Heavyweights%20(1994)",
     "genres": [
       "Children",
@@ -1210,6 +1269,7 @@ window.moviePosterData = [
     "id": 378,
     "title": "Miracle on 34th Street",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110527/",
     "genres": [
       "Drama",
@@ -1227,6 +1287,7 @@ window.moviePosterData = [
     "id": 389,
     "title": "Black Beauty",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109279/",
     "genres": [
       "Adventure",
@@ -1244,6 +1305,7 @@ window.moviePosterData = [
     "id": 465,
     "title": "Jungle Book",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Jungle%20Book,%20The%20(1994)",
     "genres": [
       "Adventure",
@@ -1260,6 +1322,7 @@ window.moviePosterData = [
     "id": 548,
     "title": "NeverEnding Story III",
     "year": 1994,
+    "releaseDate": "02-Feb-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?NeverEnding%20Story%20III,%20The%20(1994)",
     "genres": [
       "Children",
@@ -1275,6 +1338,7 @@ window.moviePosterData = [
     "id": 623,
     "title": "Angels in the Outfield",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109127/",
     "genres": [
       "Comedy",
@@ -1292,6 +1356,7 @@ window.moviePosterData = [
     "id": 699,
     "title": "Little Women",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110367/",
     "genres": [
       "Drama",
@@ -1309,6 +1374,7 @@ window.moviePosterData = [
     "id": 795,
     "title": "Richie Rich",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110989/",
     "genres": [
       "Comedy",
@@ -1325,6 +1391,7 @@ window.moviePosterData = [
     "id": 812,
     "title": "Andre",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109120/",
     "genres": [
       "Adventure",
@@ -1342,6 +1409,7 @@ window.moviePosterData = [
     "id": 1031,
     "title": "Lassie",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110305/",
     "genres": [
       "Adventure",
@@ -1358,6 +1426,7 @@ window.moviePosterData = [
     "id": 1032,
     "title": "Little Big League",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110363/",
     "genres": [
       "Comedy",
@@ -1375,6 +1444,7 @@ window.moviePosterData = [
     "id": 1367,
     "title": "Faust",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109781/",
     "genres": [
       "Animation",
@@ -1392,6 +1462,7 @@ window.moviePosterData = [
     "id": 1415,
     "title": "Next Karate Kid",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Next%20Karate%20Kid,%20The%20(1994)",
     "genres": [
       "Action",
@@ -1407,6 +1478,7 @@ window.moviePosterData = [
     "id": 1509,
     "title": "Getting Even with Dad",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109891/",
     "genres": [
       "Comedy",
@@ -1424,6 +1496,7 @@ window.moviePosterData = [
     "id": 1,
     "title": "Toy Story",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114709/",
     "genres": [
       "Adventure",
@@ -1441,6 +1514,7 @@ window.moviePosterData = [
     "id": 8,
     "title": "Babe",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112431/",
     "genres": [
       "Comedy",
@@ -1458,6 +1532,7 @@ window.moviePosterData = [
     "id": 35,
     "title": "Free Willy 2: The Adventure Home",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113114/",
     "genres": [
       "Adventure",
@@ -1475,6 +1550,7 @@ window.moviePosterData = [
     "id": 104,
     "title": "Theodore Rex",
     "year": 1995,
+    "releaseDate": "29-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0114658/",
     "genres": [
       "Action",
@@ -1492,6 +1568,7 @@ window.moviePosterData = [
     "id": 374,
     "title": "Mighty Morphin Power Rangers: The Movie",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113820/",
     "genres": [
       "Action",
@@ -1509,6 +1586,7 @@ window.moviePosterData = [
     "id": 491,
     "title": "Adventures of Robin Hood",
     "year": 1938,
+    "releaseDate": "01-Jan-1938",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Adventures%20of%20Robin%20Hood,%20The%20(1938)",
     "genres": [
       "Action",
@@ -1524,6 +1602,7 @@ window.moviePosterData = [
     "id": 1411,
     "title": "Barbarella",
     "year": 1968,
+    "releaseDate": "01-Jan-1968",
     "imdbUrl": "https://www.imdb.com/title/tt0062711/",
     "genres": [
       "Action",
@@ -1541,6 +1620,7 @@ window.moviePosterData = [
     "id": 636,
     "title": "Escape from New York",
     "year": 1981,
+    "releaseDate": "01-Jan-1981",
     "imdbUrl": "https://www.imdb.com/title/tt0082340/",
     "genres": [
       "Action",
@@ -1558,6 +1638,7 @@ window.moviePosterData = [
     "id": 679,
     "title": "Conan the Barbarian",
     "year": 1981,
+    "releaseDate": "01-Jan-1981",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Conan+the+Barbarian+(1981)",
     "genres": [
       "Action",
@@ -1573,6 +1654,7 @@ window.moviePosterData = [
     "id": 228,
     "title": "Star Trek: The Wrath of Khan",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)",
     "genres": [
       "Action",
@@ -1589,6 +1671,7 @@ window.moviePosterData = [
     "id": 181,
     "title": "Return of the Jedi",
     "year": 1983,
+    "releaseDate": "14-Mar-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)",
     "genres": [
       "Action",
@@ -1607,6 +1690,7 @@ window.moviePosterData = [
     "id": 229,
     "title": "Star Trek III: The Search for Spock",
     "year": 1984,
+    "releaseDate": "01-Jan-1984",
     "imdbUrl": "https://www.imdb.com/title/tt0088170/",
     "genres": [
       "Action",
@@ -1624,6 +1708,7 @@ window.moviePosterData = [
     "id": 176,
     "title": "Aliens",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "https://www.imdb.com/title/tt0090605/",
     "genres": [
       "Action",
@@ -1641,6 +1726,7 @@ window.moviePosterData = [
     "id": 431,
     "title": "Highlander",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "https://www.imdb.com/title/tt0091203/",
     "genres": [
       "Action",
@@ -1658,6 +1744,7 @@ window.moviePosterData = [
     "id": 173,
     "title": "Princess Bride",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)",
     "genres": [
       "Action",
@@ -1675,6 +1762,7 @@ window.moviePosterData = [
     "id": 164,
     "title": "Abyss",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Abyss,%20The%20(1989)",
     "genres": [
       "Action",
@@ -1692,6 +1780,7 @@ window.moviePosterData = [
     "id": 450,
     "title": "Star Trek V: The Final Frontier",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "https://www.imdb.com/title/tt0098382/",
     "genres": [
       "Action",
@@ -1709,6 +1798,7 @@ window.moviePosterData = [
     "id": 96,
     "title": "Terminator 2: Judgment Day",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0103064/",
     "genres": [
       "Action",
@@ -1726,6 +1816,7 @@ window.moviePosterData = [
     "id": 227,
     "title": "Star Trek VI: The Undiscovered Country",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0102975/",
     "genres": [
       "Action",
@@ -1743,6 +1834,7 @@ window.moviePosterData = [
     "id": 627,
     "title": "Robin Hood: Prince of Thieves",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0102798/",
     "genres": [
       "Action",
@@ -1760,6 +1852,7 @@ window.moviePosterData = [
     "id": 184,
     "title": "Army of Darkness",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Army%20of%20Darkness%20(1993)",
     "genres": [
       "Action",
@@ -1778,6 +1871,7 @@ window.moviePosterData = [
     "id": 391,
     "title": "Last Action Hero",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107362/",
     "genres": [
       "Action",
@@ -1795,6 +1889,7 @@ window.moviePosterData = [
     "id": 576,
     "title": "Cliffhanger",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106582/",
     "genres": [
       "Action",
@@ -1812,6 +1907,7 @@ window.moviePosterData = [
     "id": 62,
     "title": "Stargate",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111282/",
     "genres": [
       "Action",
@@ -1829,6 +1925,7 @@ window.moviePosterData = [
     "id": 73,
     "title": "Maverick",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110478/",
     "genres": [
       "Action",
@@ -1846,6 +1943,7 @@ window.moviePosterData = [
     "id": 380,
     "title": "Star Trek: Generations",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111280/",
     "genres": [
       "Action",
@@ -1863,6 +1961,7 @@ window.moviePosterData = [
     "id": 568,
     "title": "Speed",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111257/",
     "genres": [
       "Action",
@@ -1880,6 +1979,7 @@ window.moviePosterData = [
     "id": 779,
     "title": "Drop Zone",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109676/",
     "genres": [
       "Action",
@@ -1897,6 +1997,7 @@ window.moviePosterData = [
     "id": 1247,
     "title": "Bad Girls",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109198/",
     "genres": [
       "Action",
@@ -1914,6 +2015,7 @@ window.moviePosterData = [
     "id": 1314,
     "title": "Surviving the Game",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111323/",
     "genres": [
       "Action",
@@ -1931,6 +2033,7 @@ window.moviePosterData = [
     "id": 1413,
     "title": "Street Fighter",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111301/",
     "genres": [
       "Action",
@@ -1948,6 +2051,7 @@ window.moviePosterData = [
     "id": 1523,
     "title": "Good Man in Africa",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Good%20Man%20in%20Africa,%20A%20(1994)",
     "genres": [
       "Action",
@@ -1963,6 +2067,7 @@ window.moviePosterData = [
     "id": 2,
     "title": "GoldenEye",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113189/",
     "genres": [
       "Action",
@@ -1980,6 +2085,7 @@ window.moviePosterData = [
     "id": 29,
     "title": "Batman Forever",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112462/",
     "genres": [
       "Action",
@@ -1996,6 +2102,7 @@ window.moviePosterData = [
     "id": 110,
     "title": "Operation Dumbo Drop",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114048/",
     "genres": [
       "Action",
@@ -2013,6 +2120,7 @@ window.moviePosterData = [
     "id": 541,
     "title": "Mortal Kombat",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113855/",
     "genres": [
       "Action",
@@ -2030,6 +2138,7 @@ window.moviePosterData = [
     "id": 550,
     "title": "Die Hard: With a Vengeance",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112864/",
     "genres": [
       "Action",
@@ -2047,6 +2156,7 @@ window.moviePosterData = [
     "id": 554,
     "title": "Waterworld",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114898/",
     "genres": [
       "Action",
@@ -2064,6 +2174,7 @@ window.moviePosterData = [
     "id": 562,
     "title": "Quick and the Dead",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Quick%20and%20the%20Dead,%20The%20(1995)",
     "genres": [
       "Action",
@@ -2080,6 +2191,7 @@ window.moviePosterData = [
     "id": 720,
     "title": "First Knight",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113071/",
     "genres": [
       "Action",
@@ -2097,6 +2209,7 @@ window.moviePosterData = [
     "id": 769,
     "title": "Congo",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112715/",
     "genres": [
       "Action",
@@ -2114,6 +2227,7 @@ window.moviePosterData = [
     "id": 897,
     "title": "Time Tracers",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?imdb-title-128755",
     "genres": [
       "Action",
@@ -2130,6 +2244,7 @@ window.moviePosterData = [
     "id": 1107,
     "title": "Beyond Rangoon",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112495/",
     "genres": [
       "Action",
@@ -2147,6 +2262,7 @@ window.moviePosterData = [
     "id": 1228,
     "title": "Under Siege 2: Dark Territory",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114781/",
     "genres": [
       "Action",
@@ -2164,6 +2280,7 @@ window.moviePosterData = [
     "id": 1239,
     "title": "Cutthroat Island",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112760/",
     "genres": [
       "Action",
@@ -2181,6 +2298,7 @@ window.moviePosterData = [
     "id": 21,
     "title": "Muppet Treasure Island",
     "year": 1996,
+    "releaseDate": "16-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117110/",
     "genres": [
       "Action",
@@ -2198,6 +2316,7 @@ window.moviePosterData = [
     "id": 117,
     "title": "Rock",
     "year": 1996,
+    "releaseDate": "07-Jun-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)",
     "genres": [
       "Action",
@@ -2214,6 +2333,7 @@ window.moviePosterData = [
     "id": 118,
     "title": "Twister",
     "year": 1996,
+    "releaseDate": "10-May-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117998/",
     "genres": [
       "Action",
@@ -2231,6 +2351,7 @@ window.moviePosterData = [
     "id": 148,
     "title": "Ghost and the Darkness",
     "year": 1996,
+    "releaseDate": "11-Oct-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Ghost%20and%20the%20Darkness,%20The%20(1996)",
     "genres": [
       "Action",
@@ -2246,6 +2367,7 @@ window.moviePosterData = [
     "id": 222,
     "title": "Star Trek: First Contact",
     "year": 1996,
+    "releaseDate": "22-Nov-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117731/",
     "genres": [
       "Action",
@@ -2263,6 +2385,7 @@ window.moviePosterData = [
     "id": 405,
     "title": "Mission: Impossible",
     "year": 1996,
+    "releaseDate": "22-May-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117060/",
     "genres": [
       "Action",
@@ -2280,6 +2403,7 @@ window.moviePosterData = [
     "id": 472,
     "title": "Dragonheart",
     "year": 1996,
+    "releaseDate": "31-May-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116136/",
     "genres": [
       "Action",
@@ -2297,6 +2421,7 @@ window.moviePosterData = [
     "id": 546,
     "title": "Broken Arrow",
     "year": 1996,
+    "releaseDate": "09-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115759/",
     "genres": [
       "Action",
@@ -2314,6 +2439,7 @@ window.moviePosterData = [
     "id": 685,
     "title": "Executive Decision",
     "year": 1996,
+    "releaseDate": "09-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116253/",
     "genres": [
       "Action",
@@ -2331,6 +2457,7 @@ window.moviePosterData = [
     "id": 827,
     "title": "Daylight",
     "year": 1996,
+    "releaseDate": "06-Dec-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116040/",
     "genres": [
       "Action",
@@ -2348,6 +2475,7 @@ window.moviePosterData = [
     "id": 829,
     "title": "Fled",
     "year": 1996,
+    "releaseDate": "19-Jul-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116320/",
     "genres": [
       "Action",
@@ -2365,6 +2493,7 @@ window.moviePosterData = [
     "id": 831,
     "title": "Escape from L.A.",
     "year": 1996,
+    "releaseDate": "09-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116225/",
     "genres": [
       "Action",
@@ -2382,6 +2511,7 @@ window.moviePosterData = [
     "id": 247,
     "title": "Turbo: A Power Rangers Movie",
     "year": 1997,
+    "releaseDate": "28-Mar-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0120389/",
     "genres": [
       "Action",
@@ -2399,6 +2529,7 @@ window.moviePosterData = [
     "id": 252,
     "title": "Lost World: Jurassic Park",
     "year": 1997,
+    "releaseDate": "23-May-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Lost%20World%3A%20Jurassic%20Park%2C%20The%20%281997%29",
     "genres": [
       "Action",
@@ -2416,6 +2547,7 @@ window.moviePosterData = [
     "id": 257,
     "title": "Men in Black",
     "year": 1997,
+    "releaseDate": "04-Jul-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119654/",
     "genres": [
       "Action",
@@ -2433,6 +2565,7 @@ window.moviePosterData = [
     "id": 259,
     "title": "George of the Jungle",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119190/",
     "genres": [
       "Action",
@@ -2450,6 +2583,7 @@ window.moviePosterData = [
     "id": 263,
     "title": "Steel",
     "year": 1997,
+    "releaseDate": "15-Aug-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0120207/",
     "genres": [
       "Action",
@@ -2467,6 +2601,7 @@ window.moviePosterData = [
     "id": 266,
     "title": "Kull the Conqueror",
     "year": 1997,
+    "releaseDate": "29-Aug-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Kull+the+Conqueror+(1997)",
     "genres": [
       "Action",
@@ -2482,6 +2617,7 @@ window.moviePosterData = [
     "id": 271,
     "title": "Starship Troopers",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0120201/",
     "genres": [
       "Action",
@@ -2499,6 +2635,7 @@ window.moviePosterData = [
     "id": 323,
     "title": "Dante's Peak",
     "year": 1997,
+    "releaseDate": "07-Feb-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118928/",
     "genres": [
       "Action",
@@ -2516,6 +2653,7 @@ window.moviePosterData = [
     "id": 680,
     "title": "Kull the Conqueror",
     "year": 1997,
+    "releaseDate": "29-Aug-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Kull+the+Conqueror+(1997)",
     "genres": [
       "Action",
@@ -2531,6 +2669,7 @@ window.moviePosterData = [
     "id": 751,
     "title": "Tomorrow Never Dies",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0120347/",
     "genres": [
       "Action",
@@ -2548,6 +2687,7 @@ window.moviePosterData = [
     "id": 890,
     "title": "Mortal Kombat: Annihilation",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119707/",
     "genres": [
       "Action",
@@ -2565,6 +2705,7 @@ window.moviePosterData = [
     "id": 993,
     "title": "Hercules",
     "year": 1997,
+    "releaseDate": "27-Jun-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119282/",
     "genres": [
       "Action",
@@ -2582,6 +2723,7 @@ window.moviePosterData = [
     "id": 1013,
     "title": "Anaconda",
     "year": 1997,
+    "releaseDate": "11-Apr-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118615/",
     "genres": [
       "Action",
@@ -2599,6 +2741,7 @@ window.moviePosterData = [
     "id": 1089,
     "title": "Speed 2: Cruise Control",
     "year": 1997,
+    "releaseDate": "13-Jun-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0120179/",
     "genres": [
       "Action",
@@ -2616,6 +2759,7 @@ window.moviePosterData = [
     "id": 1279,
     "title": "Wild America",
     "year": 1997,
+    "releaseDate": "04-Jul-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0120512/",
     "genres": [
       "Action",
@@ -2633,6 +2777,7 @@ window.moviePosterData = [
     "id": 1615,
     "title": "Warriors of Virtue",
     "year": 1997,
+    "releaseDate": "02-May-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0120479/",
     "genres": [
       "Action",
@@ -2650,6 +2795,7 @@ window.moviePosterData = [
     "id": 314,
     "title": "3 Ninjas: High Noon At Mega Mountain",
     "year": 1998,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118539/",
     "genres": [
       "Action",
@@ -2667,6 +2813,7 @@ window.moviePosterData = [
     "id": 353,
     "title": "Deep Rising",
     "year": 1998,
+    "releaseDate": "30-Jan-1998",
     "imdbUrl": "https://www.imdb.com/title/tt0118956/",
     "genres": [
       "Action",
@@ -2684,6 +2831,7 @@ window.moviePosterData = [
     "id": 916,
     "title": "Lost in Space",
     "year": 1998,
+    "releaseDate": "27-Mar-1998",
     "imdbUrl": "https://www.imdb.com/title/tt0120738/",
     "genres": [
       "Action",
@@ -2701,6 +2849,7 @@ window.moviePosterData = [
     "id": 612,
     "title": "Lost Horizon",
     "year": 1937,
+    "releaseDate": "01-Jan-1937",
     "imdbUrl": "https://www.imdb.com/title/tt0029162/",
     "genres": [
       "Adventure",
@@ -2718,6 +2867,7 @@ window.moviePosterData = [
     "id": 1116,
     "title": "Mark of Zorro",
     "year": 1940,
+    "releaseDate": "01-Jan-1940",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Mark%20of%20Zorro,%20The%20(1940)",
     "genres": [
       "Adventure"
@@ -2732,6 +2882,7 @@ window.moviePosterData = [
     "id": 1451,
     "title": "Foreign Correspondent",
     "year": 1940,
+    "releaseDate": "01-Jan-1940",
     "imdbUrl": "https://www.imdb.com/title/tt0032484/",
     "genres": [
       "Action",
@@ -2749,6 +2900,7 @@ window.moviePosterData = [
     "id": 601,
     "title": "For Whom the Bell Tolls",
     "year": 1943,
+    "releaseDate": "01-Jan-1943",
     "imdbUrl": "https://www.imdb.com/title/tt0035896/",
     "genres": [
       "Adventure",
@@ -2766,6 +2918,7 @@ window.moviePosterData = [
     "id": 1453,
     "title": "Angel on My Shoulder",
     "year": 1946,
+    "releaseDate": "01-Jan-1946",
     "imdbUrl": "https://www.imdb.com/title/tt0038300/",
     "genres": [
       "Adventure",
@@ -2783,6 +2936,7 @@ window.moviePosterData = [
     "id": 1450,
     "title": "Golden Earrings",
     "year": 1947,
+    "releaseDate": "01-Jan-1947",
     "imdbUrl": "https://www.imdb.com/title/tt0039428/",
     "genres": [
       "Adventure",
@@ -2800,6 +2954,7 @@ window.moviePosterData = [
     "id": 50,
     "title": "Star Wars",
     "year": 1977,
+    "releaseDate": "01-Jan-1977",
     "imdbUrl": "https://www.imdb.com/title/tt0076759/",
     "genres": [
       "Adventure",
@@ -2817,6 +2972,7 @@ window.moviePosterData = [
     "id": 560,
     "title": "Kid in King Arthur's Court",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Kid%20in%20King%20Arthur's%20Court,%20A%20(1995)",
     "genres": [
       "Adventure",
@@ -2836,6 +2992,7 @@ window.moviePosterData = [
     "id": 411,
     "title": "Nutty Professor",
     "year": 1996,
+    "releaseDate": "28-Jun-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Nutty%20Professor,%20The%20(1996)",
     "genres": [
       "Comedy",
@@ -2853,6 +3010,7 @@ window.moviePosterData = [
     "id": 691,
     "title": "Dark City",
     "year": 1998,
+    "releaseDate": "09-Jan-1998",
     "imdbUrl": "https://www.imdb.com/title/tt0118929/",
     "genres": [
       "Fantasy",
@@ -2870,6 +3028,7 @@ window.moviePosterData = [
     "id": 671,
     "title": "Bride of Frankenstein",
     "year": 1935,
+    "releaseDate": "01-Jan-1935",
     "imdbUrl": "https://www.imdb.com/title/tt0026138/",
     "genres": [
       "Drama",
@@ -2887,6 +3046,7 @@ window.moviePosterData = [
     "id": 429,
     "title": "Day the Earth Stood Still",
     "year": 1951,
+    "releaseDate": "01-Jan-1951",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Day%20the%20Earth%20Stood%20Still,%20The%20(1951)",
     "genres": [
       "Drama",
@@ -2902,6 +3062,7 @@ window.moviePosterData = [
     "id": 434,
     "title": "Forbidden Planet",
     "year": 1956,
+    "releaseDate": "01-Jan-1956",
     "imdbUrl": "https://www.imdb.com/title/tt0049223/",
     "genres": [
       "Adventure",
@@ -2918,6 +3079,7 @@ window.moviePosterData = [
     "id": 474,
     "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
     "year": 1963,
+    "releaseDate": "01-Jan-1963",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Dr.%20Strangelove%20or:%20How%20I%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Bomb%20(1963)",
     "genres": [
       "Sci-Fi",
@@ -2933,6 +3095,7 @@ window.moviePosterData = [
     "id": 135,
     "title": "2001: A Space Odyssey",
     "year": 1968,
+    "releaseDate": "01-Jan-1968",
     "imdbUrl": "https://www.imdb.com/title/tt0062622/",
     "genres": [
       "Adventure",
@@ -2949,6 +3112,7 @@ window.moviePosterData = [
     "id": 179,
     "title": "Clockwork Orange",
     "year": 1971,
+    "releaseDate": "01-Jan-1971",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Clockwork%20Orange,%20A%20(1971)",
     "genres": [
       "Sci-Fi"
@@ -2963,6 +3127,7 @@ window.moviePosterData = [
     "id": 152,
     "title": "Sleeper",
     "year": 1973,
+    "releaseDate": "01-Jan-1973",
     "imdbUrl": "https://www.imdb.com/title/tt0070707/",
     "genres": [
       "Comedy",
@@ -2979,6 +3144,7 @@ window.moviePosterData = [
     "id": 667,
     "title": "Audrey Rose",
     "year": 1977,
+    "releaseDate": "01-Jan-1977",
     "imdbUrl": "https://www.imdb.com/title/tt0075704/",
     "genres": [
       "Drama",
@@ -2996,6 +3162,7 @@ window.moviePosterData = [
     "id": 183,
     "title": "Alien",
     "year": 1979,
+    "releaseDate": "01-Jan-1979",
     "imdbUrl": "https://www.imdb.com/title/tt0078748/",
     "genres": [
       "Horror",
@@ -3012,6 +3179,7 @@ window.moviePosterData = [
     "id": 449,
     "title": "Star Trek: The Motion Picture",
     "year": 1979,
+    "releaseDate": "01-Jan-1979",
     "imdbUrl": "https://www.imdb.com/title/tt0079945/",
     "genres": [
       "Adventure",
@@ -3029,6 +3197,7 @@ window.moviePosterData = [
     "id": 1159,
     "title": "Stalker",
     "year": 1979,
+    "releaseDate": "01-Jan-1979",
     "imdbUrl": "https://www.imdb.com/title/tt0079944/",
     "genres": [
       "Drama",
@@ -3045,6 +3214,7 @@ window.moviePosterData = [
     "id": 662,
     "title": "Somewhere in Time",
     "year": 1980,
+    "releaseDate": "01-Jan-1980",
     "imdbUrl": "https://www.imdb.com/title/tt0081534/",
     "genres": [
       "Drama",
@@ -3062,6 +3232,7 @@ window.moviePosterData = [
     "id": 89,
     "title": "Blade Runner",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "https://www.imdb.com/title/tt0083658/",
     "genres": [
       "Action",
@@ -3079,6 +3250,7 @@ window.moviePosterData = [
     "id": 674,
     "title": "Cat People",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "https://www.imdb.com/title/tt0083722/",
     "genres": [
       "Fantasy",
@@ -3096,6 +3268,7 @@ window.moviePosterData = [
     "id": 195,
     "title": "Terminator",
     "year": 1984,
+    "releaseDate": "01-Jan-1984",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Terminator,%20The%20(1984)",
     "genres": [
       "Action",
@@ -3112,6 +3285,7 @@ window.moviePosterData = [
     "id": 175,
     "title": "Brazil",
     "year": 1985,
+    "releaseDate": "01-Jan-1985",
     "imdbUrl": "https://www.imdb.com/title/tt0088846/",
     "genres": [
       "Drama",
@@ -3129,6 +3303,7 @@ window.moviePosterData = [
     "id": 204,
     "title": "Back to the Future",
     "year": 1985,
+    "releaseDate": "01-Jan-1985",
     "imdbUrl": "https://www.imdb.com/title/tt0088763/",
     "genres": [
       "Adventure",
@@ -3146,6 +3321,7 @@ window.moviePosterData = [
     "id": 746,
     "title": "Real Genius",
     "year": 1985,
+    "releaseDate": "01-Jan-1985",
     "imdbUrl": "https://www.imdb.com/title/tt0089886/",
     "genres": [
       "Comedy",
@@ -3163,6 +3339,7 @@ window.moviePosterData = [
     "id": 230,
     "title": "Star Trek IV: The Voyage Home",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "https://www.imdb.com/title/tt0092007/",
     "genres": [
       "Adventure",
@@ -3180,6 +3357,7 @@ window.moviePosterData = [
     "id": 512,
     "title": "Wings of Desire",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "https://www.imdb.com/title/tt0093191/",
     "genres": [
       "Drama",
@@ -3197,6 +3375,7 @@ window.moviePosterData = [
     "id": 854,
     "title": "Bad Taste",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "https://www.imdb.com/title/tt0092610/",
     "genres": [
       "Comedy",
@@ -3214,6 +3393,7 @@ window.moviePosterData = [
     "id": 1576,
     "title": "Hungarian Fairy Tale",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Hol%20volt,%20hol%20nem%20volt%20(1987)",
     "genres": [
       "Fantasy"
@@ -3228,6 +3408,7 @@ window.moviePosterData = [
     "id": 402,
     "title": "Ghost",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0099653/",
     "genres": [
       "Drama",
@@ -3245,6 +3426,7 @@ window.moviePosterData = [
     "id": 669,
     "title": "Body Parts",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0101492/",
     "genres": [
       "Horror",
@@ -3262,6 +3444,7 @@ window.moviePosterData = [
     "id": 1006,
     "title": "Until the End of the World (Bis ans Ende der Welt)",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Bis%20ans%20Ende%20der%20Welt%20(1991)",
     "genres": [
       "Drama",
@@ -3277,6 +3460,7 @@ window.moviePosterData = [
     "id": 1036,
     "title": "Drop Dead Fred",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0101775/",
     "genres": [
       "Comedy",
@@ -3294,6 +3478,7 @@ window.moviePosterData = [
     "id": 145,
     "title": "Lawnmower Man",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Lawnmower%20Man,%20The%20(1992)",
     "genres": [
       "Action",
@@ -3310,6 +3495,7 @@ window.moviePosterData = [
     "id": 217,
     "title": "Bram Stoker's Dracula",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0103874/",
     "genres": [
       "Fantasy",
@@ -3327,6 +3513,7 @@ window.moviePosterData = [
     "id": 231,
     "title": "Batman Returns",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0103776/",
     "genres": [
       "Action",
@@ -3344,6 +3531,7 @@ window.moviePosterData = [
     "id": 665,
     "title": "Alien 3",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Alien%203%20(1992)",
     "genres": [
       "Action",
@@ -3361,6 +3549,7 @@ window.moviePosterData = [
     "id": 1386,
     "title": "Tetsuo II: Body Hammer",
     "year": 1992,
+    "releaseDate": "20-Jun-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0105569/",
     "genres": [
       "Drama",
@@ -3378,6 +3567,7 @@ window.moviePosterData = [
     "id": 82,
     "title": "Jurassic Park",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107290/",
     "genres": [
       "Adventure",
@@ -3394,6 +3584,7 @@ window.moviePosterData = [
     "id": 202,
     "title": "Groundhog Day",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107048/",
     "genres": [
       "Comedy",
@@ -3411,6 +3602,7 @@ window.moviePosterData = [
     "id": 386,
     "title": "Addams Family Values",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106220/",
     "genres": [
       "Comedy",
@@ -3427,6 +3619,7 @@ window.moviePosterData = [
     "id": 573,
     "title": "Body Snatchers",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Body%20Snatchers%20(1993)",
     "genres": [
       "Horror",
@@ -3443,6 +3636,7 @@ window.moviePosterData = [
     "id": 577,
     "title": "Coneheads",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106598/",
     "genres": [
       "Comedy",
@@ -3459,6 +3653,7 @@ window.moviePosterData = [
     "id": 578,
     "title": "Demolition Man",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106697/",
     "genres": [
       "Action",
@@ -3476,6 +3671,7 @@ window.moviePosterData = [
     "id": 670,
     "title": "Body Snatchers",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106452/",
     "genres": [
       "Horror",
@@ -3492,6 +3688,7 @@ window.moviePosterData = [
     "id": 1274,
     "title": "Robocop 3",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107978/",
     "genres": [
       "Action",
@@ -3509,6 +3706,7 @@ window.moviePosterData = [
     "id": 1472,
     "title": "Visitors, The (Visiteurs, Les)",
     "year": 1993,
+    "releaseDate": "19-Jul-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Visiteurs,%20Les%20(1993)",
     "genres": [
       "Comedy",
@@ -3524,6 +3722,7 @@ window.moviePosterData = [
     "id": 72,
     "title": "Mask",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Mask,%20The%20(1994)",
     "genres": [
       "Comedy",
@@ -3540,6 +3739,7 @@ window.moviePosterData = [
     "id": 84,
     "title": "Robert A. Heinlein's The Puppet Masters",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Robert%20A.%20Heinlein's%20The%20Puppet%20Masters%20(1994)",
     "genres": [
       "Horror",
@@ -3555,6 +3755,7 @@ window.moviePosterData = [
     "id": 567,
     "title": "Wes Craven's New Nightmare",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111686/",
     "genres": [
       "Fantasy",
@@ -3572,6 +3773,7 @@ window.moviePosterData = [
     "id": 728,
     "title": "Junior",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110216/",
     "genres": [
       "Comedy",
@@ -3589,6 +3791,7 @@ window.moviePosterData = [
     "id": 797,
     "title": "Timecop",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111438/",
     "genres": [
       "Action",
@@ -3606,6 +3809,7 @@ window.moviePosterData = [
     "id": 1416,
     "title": "No Escape",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110678/",
     "genres": [
       "Action",
@@ -3623,6 +3827,7 @@ window.moviePosterData = [
     "id": 1419,
     "title": "Highlander III: The Sorcerer",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110027/",
     "genres": [
       "Action",
@@ -3640,6 +3845,7 @@ window.moviePosterData = [
     "id": 7,
     "title": "Twelve Monkeys",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114746/",
     "genres": [
       "Mystery",
@@ -3657,6 +3863,7 @@ window.moviePosterData = [
     "id": 10,
     "title": "Richard III",
     "year": 1995,
+    "releaseDate": "22-Jan-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0114279/",
     "genres": [
       "Drama",
@@ -3674,6 +3881,7 @@ window.moviePosterData = [
     "id": 13,
     "title": "Mighty Aphrodite",
     "year": 1995,
+    "releaseDate": "30-Oct-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113819/",
     "genres": [
       "Comedy",
@@ -3691,6 +3899,7 @@ window.moviePosterData = [
     "id": 38,
     "title": "Net",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Net,%20The%20(1995)",
     "genres": [
       "Sci-Fi",
@@ -3706,6 +3915,7 @@ window.moviePosterData = [
     "id": 39,
     "title": "Strange Days",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114558/",
     "genres": [
       "Crime",
@@ -3723,6 +3933,7 @@ window.moviePosterData = [
     "id": 365,
     "title": "Powder",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114168/",
     "genres": [
       "Drama",
@@ -3740,6 +3951,7 @@ window.moviePosterData = [
     "id": 373,
     "title": "Judge Dredd",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113492/",
     "genres": [
       "Action",
@@ -3757,6 +3969,7 @@ window.moviePosterData = [
     "id": 545,
     "title": "Vampire in Brooklyn",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114825/",
     "genres": [
       "Comedy",
@@ -3774,6 +3987,7 @@ window.moviePosterData = [
     "id": 552,
     "title": "Species",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114508/",
     "genres": [
       "Action",
@@ -3791,6 +4005,7 @@ window.moviePosterData = [
     "id": 565,
     "title": "Village of the Damned",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114852/",
     "genres": [
       "Horror",
@@ -3808,6 +4023,7 @@ window.moviePosterData = [
     "id": 726,
     "title": "Fluke",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113089/",
     "genres": [
       "Drama",
@@ -3825,6 +4041,7 @@ window.moviePosterData = [
     "id": 760,
     "title": "Screamers",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114367/",
     "genres": [
       "Horror",
@@ -3842,6 +4059,7 @@ window.moviePosterData = [
     "id": 768,
     "title": "Casper",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112642/",
     "genres": [
       "Comedy",
@@ -3859,6 +4077,7 @@ window.moviePosterData = [
     "id": 771,
     "title": "Johnny Mnemonic",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113481/",
     "genres": [
       "Action",
@@ -3876,6 +4095,7 @@ window.moviePosterData = [
     "id": 776,
     "title": "Three Wishes",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114663/",
     "genres": [
       "Drama",
@@ -3893,6 +4113,7 @@ window.moviePosterData = [
     "id": 919,
     "title": "City of Lost Children",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/Title?Cit%E9+des+enfants+perdus,+La+(1995)",
     "genres": [
       "Adventure",
@@ -3908,6 +4129,7 @@ window.moviePosterData = [
     "id": 951,
     "title": "Indian in the Cupboard",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Indian%20in%20the%20Cupboard,%20The%20(1995)",
     "genres": [
       "Adventure",
@@ -3924,6 +4146,7 @@ window.moviePosterData = [
     "id": 1052,
     "title": "Dracula: Dead and Loving It",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112896/",
     "genres": [
       "Comedy",
@@ -3941,6 +4164,7 @@ window.moviePosterData = [
     "id": 1110,
     "title": "Tank Girl",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114614/",
     "genres": [
       "Action",
@@ -3958,6 +4182,7 @@ window.moviePosterData = [
     "id": 1210,
     "title": "Virtuosity",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114857/",
     "genres": [
       "Action",
@@ -3975,6 +4200,7 @@ window.moviePosterData = [
     "id": 1240,
     "title": "Ghost in the Shell (Kokaku kidotai)",
     "year": 1995,
+    "releaseDate": "12-Apr-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Kokaku%20Kidotai%20(1995)",
     "genres": [
       "Animation",
@@ -3990,6 +4216,7 @@ window.moviePosterData = [
     "id": 1471,
     "title": "Hideaway",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113303/",
     "genres": [
       "Fantasy",
@@ -4007,6 +4234,7 @@ window.moviePosterData = [
     "id": 1479,
     "title": "Reckless",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114241/",
     "genres": [
       "Comedy",
@@ -4024,6 +4252,7 @@ window.moviePosterData = [
     "id": 1529,
     "title": "Underground",
     "year": 1995,
+    "releaseDate": "29-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0114787/",
     "genres": [
       "Comedy",
@@ -4041,6 +4270,7 @@ window.moviePosterData = [
     "id": 1550,
     "title": "Destiny Turns on the Radio",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112854/",
     "genres": [
       "Comedy",
@@ -4058,6 +4288,7 @@ window.moviePosterData = [
     "id": 1596,
     "title": "Nemesis 2: Nebula",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113948/",
     "genres": [
       "Action",
@@ -4075,6 +4306,7 @@ window.moviePosterData = [
     "id": 656,
     "title": "M",
     "year": 1931,
+    "releaseDate": "01-Jan-1931",
     "imdbUrl": "https://www.imdb.com/title/tt0022100/",
     "genres": [
       "Crime",
@@ -4092,6 +4324,7 @@ window.moviePosterData = [
     "id": 484,
     "title": "Maltese Falcon",
     "year": 1941,
+    "releaseDate": "01-Jan-1941",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Maltese%20Falcon,%20The%20(1941)",
     "genres": [
       "Film-Noir",
@@ -4107,6 +4340,7 @@ window.moviePosterData = [
     "id": 611,
     "title": "Laura",
     "year": 1944,
+    "releaseDate": "01-Jan-1944",
     "imdbUrl": "https://www.imdb.com/title/tt0037008/",
     "genres": [
       "Drama",
@@ -4124,6 +4358,7 @@ window.moviePosterData = [
     "id": 848,
     "title": "Murder, My Sweet",
     "year": 1944,
+    "releaseDate": "01-Jan-1944",
     "imdbUrl": "https://www.imdb.com/title/tt0037101/",
     "genres": [
       "Crime",
@@ -4141,6 +4376,7 @@ window.moviePosterData = [
     "id": 1020,
     "title": "Gaslight",
     "year": 1944,
+    "releaseDate": "01-Jan-1944",
     "imdbUrl": "https://www.imdb.com/title/tt0036855/",
     "genres": [
       "Crime",
@@ -4158,6 +4394,7 @@ window.moviePosterData = [
     "id": 608,
     "title": "Spellbound",
     "year": 1945,
+    "releaseDate": "01-Jan-1945",
     "imdbUrl": "https://www.imdb.com/title/tt0038109/",
     "genres": [
       "Drama",
@@ -4175,6 +4412,7 @@ window.moviePosterData = [
     "id": 489,
     "title": "Notorious",
     "year": 1946,
+    "releaseDate": "01-Jan-1946",
     "imdbUrl": "https://www.imdb.com/title/tt0038787/",
     "genres": [
       "Drama",
@@ -4192,6 +4430,7 @@ window.moviePosterData = [
     "id": 525,
     "title": "Big Sleep",
     "year": 1946,
+    "releaseDate": "01-Jan-1946",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Big%20Sleep,%20The%20(1946)",
     "genres": [
       "Film-Noir",
@@ -4207,6 +4446,7 @@ window.moviePosterData = [
     "id": 1064,
     "title": "Crossfire",
     "year": 1947,
+    "releaseDate": "01-Jan-1947",
     "imdbUrl": "https://www.imdb.com/title/tt0039286/",
     "genres": [
       "Crime",
@@ -4224,6 +4464,7 @@ window.moviePosterData = [
     "id": 1582,
     "title": "T-Men",
     "year": 1947,
+    "releaseDate": "01-Jan-1947",
     "imdbUrl": "https://www.imdb.com/title/tt0039881/",
     "genres": [
       "Crime",
@@ -4241,6 +4482,7 @@ window.moviePosterData = [
     "id": 1476,
     "title": "Raw Deal",
     "year": 1948,
+    "releaseDate": "01-Jan-1948",
     "imdbUrl": "https://www.imdb.com/title/tt0040723/",
     "genres": [
       "Crime",
@@ -4258,6 +4500,7 @@ window.moviePosterData = [
     "id": 1604,
     "title": "He Walked by Night",
     "year": 1948,
+    "releaseDate": "01-Jan-1948",
     "imdbUrl": "https://www.imdb.com/title/tt0040427/",
     "genres": [
       "Crime",
@@ -4275,6 +4518,7 @@ window.moviePosterData = [
     "id": 505,
     "title": "Dial M for Murder",
     "year": 1954,
+    "releaseDate": "01-Jan-1954",
     "imdbUrl": "https://www.imdb.com/title/tt0046912/",
     "genres": [
       "Crime",
@@ -4292,6 +4536,7 @@ window.moviePosterData = [
     "id": 653,
     "title": "Touch of Evil",
     "year": 1958,
+    "releaseDate": "01-Jan-1958",
     "imdbUrl": "https://www.imdb.com/title/tt0052311/",
     "genres": [
       "Crime",
@@ -4309,6 +4554,7 @@ window.moviePosterData = [
     "id": 1579,
     "title": "Baton Rouge",
     "year": 1988,
+    "releaseDate": "01-Jan-1988",
     "imdbUrl": "https://www.imdb.com/title/tt0094822/",
     "genres": [
       "Crime",
@@ -4326,6 +4572,7 @@ window.moviePosterData = [
     "id": 642,
     "title": "Grifters",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Grifters,%20The%20(1990)",
     "genres": [
       "Crime",
@@ -4342,6 +4589,7 @@ window.moviePosterData = [
     "id": 160,
     "title": "Glengarry Glen Ross",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0104348/",
     "genres": [
       "Crime",
@@ -4359,6 +4607,7 @@ window.moviePosterData = [
     "id": 397,
     "title": "Striking Distance",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108238/",
     "genres": [
       "Action",
@@ -4376,6 +4625,7 @@ window.moviePosterData = [
     "id": 1046,
     "title": "Malice",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107497/",
     "genres": [
       "Crime",
@@ -4393,6 +4643,7 @@ window.moviePosterData = [
     "id": 1248,
     "title": "Blink",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109297/",
     "genres": [
       "Crime",
@@ -4410,6 +4661,7 @@ window.moviePosterData = [
     "id": 592,
     "title": "True Crime",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114736/",
     "genres": [
       "Crime",
@@ -4427,6 +4679,7 @@ window.moviePosterData = [
     "id": 770,
     "title": "Devil in a Blue Dress",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112857/",
     "genres": [
       "Crime",
@@ -4444,6 +4697,7 @@ window.moviePosterData = [
     "id": 1108,
     "title": "Feast of July",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113044/",
     "genres": [
       "Crime",
@@ -4461,6 +4715,7 @@ window.moviePosterData = [
     "id": 1267,
     "title": "Clockers",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112688/",
     "genres": [
       "Crime",
@@ -4478,6 +4733,7 @@ window.moviePosterData = [
     "id": 591,
     "title": "Primal Fear",
     "year": 1996,
+    "releaseDate": "30-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117381/",
     "genres": [
       "Crime",
@@ -4495,6 +4751,7 @@ window.moviePosterData = [
     "id": 619,
     "title": "Extreme Measures",
     "year": 1996,
+    "releaseDate": "27-Sep-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116259/",
     "genres": [
       "Crime",
@@ -4512,6 +4769,7 @@ window.moviePosterData = [
     "id": 696,
     "title": "City Hall",
     "year": 1996,
+    "releaseDate": "16-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115907/",
     "genres": [
       "Crime",
@@ -4529,6 +4787,7 @@ window.moviePosterData = [
     "id": 823,
     "title": "Mulholland Falls",
     "year": 1996,
+    "releaseDate": "26-Apr-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117107/",
     "genres": [
       "Crime",
@@ -4546,6 +4805,7 @@ window.moviePosterData = [
     "id": 1284,
     "title": "Before and After",
     "year": 1996,
+    "releaseDate": "23-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115645/",
     "genres": [
       "Crime",
@@ -4563,6 +4823,7 @@ window.moviePosterData = [
     "id": 244,
     "title": "Smilla's Sense of Snow",
     "year": 1997,
+    "releaseDate": "14-Mar-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0120152/",
     "genres": [
       "Crime",
@@ -4580,6 +4841,7 @@ window.moviePosterData = [
     "id": 302,
     "title": "L.A. Confidential",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119488/",
     "genres": [
       "Crime",
@@ -4597,6 +4859,7 @@ window.moviePosterData = [
     "id": 307,
     "title": "Devil's Advocate",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Devil's+Advocate,+The+(1997)",
     "genres": [
       "Crime",
@@ -4614,6 +4877,7 @@ window.moviePosterData = [
     "id": 312,
     "title": "Midnight in the Garden of Good and Evil",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119668/",
     "genres": [
       "Crime",
@@ -4631,6 +4895,7 @@ window.moviePosterData = [
     "id": 332,
     "title": "Kiss the Girls",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119468/",
     "genres": [
       "Crime",
@@ -4648,6 +4913,7 @@ window.moviePosterData = [
     "id": 1038,
     "title": "Switchback",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119210/",
     "genres": [
       "Crime",
@@ -4665,6 +4931,7 @@ window.moviePosterData = [
     "id": 1606,
     "title": "Deceiver",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119527/",
     "genres": [
       "Crime",
@@ -4682,6 +4949,7 @@ window.moviePosterData = [
     "id": 902,
     "title": "Big Lebowski",
     "year": 1998,
+    "releaseDate": "26-Dec-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?imdb-title-118715",
     "genres": [
       "Comedy",
@@ -4699,6 +4967,7 @@ window.moviePosterData = [
     "id": 911,
     "title": "Twilight",
     "year": 1998,
+    "releaseDate": "30-Jan-1998",
     "imdbUrl": "https://www.imdb.com/title/tt0119594/",
     "genres": [
       "Crime",
@@ -4716,6 +4985,7 @@ window.moviePosterData = [
     "id": 914,
     "title": "Wild Things",
     "year": 1998,
+    "releaseDate": "14-Mar-1998",
     "imdbUrl": "https://www.imdb.com/title/tt0120890/",
     "genres": [
       "Crime",
@@ -4733,6 +5003,7 @@ window.moviePosterData = [
     "id": 1313,
     "title": "Palmetto",
     "year": 1998,
+    "releaseDate": "20-Feb-1998",
     "imdbUrl": "https://www.imdb.com/title/tt0120782/",
     "genres": [
       "Crime",
@@ -4750,6 +5021,7 @@ window.moviePosterData = [
     "id": 493,
     "title": "Thin Man",
     "year": 1934,
+    "releaseDate": "01-Jan-1934",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Thin%20Man,%20The%20(1934)",
     "genres": [
       "Mystery"
@@ -4764,6 +5036,7 @@ window.moviePosterData = [
     "id": 1397,
     "title": "Of Human Bondage",
     "year": 1934,
+    "releaseDate": "01-Jan-1934",
     "imdbUrl": "https://www.imdb.com/title/tt0025586/",
     "genres": [
       "Drama",
@@ -4781,6 +5054,7 @@ window.moviePosterData = [
     "id": 1122,
     "title": "They Made Me a Criminal",
     "year": 1939,
+    "releaseDate": "01-Jan-1939",
     "imdbUrl": "http://us.imdb.com/M/title-exact?They%20Made%20Me%20a%20Criminal%20(1939)",
     "genres": [
       "Crime",
@@ -4796,6 +5070,7 @@ window.moviePosterData = [
     "id": 607,
     "title": "Rebecca",
     "year": 1940,
+    "releaseDate": "01-Jan-1940",
     "imdbUrl": "https://www.imdb.com/title/tt0032976/",
     "genres": [
       "Drama",
@@ -4813,6 +5088,7 @@ window.moviePosterData = [
     "id": 134,
     "title": "Citizen Kane",
     "year": 1941,
+    "releaseDate": "01-Jan-1941",
     "imdbUrl": "https://www.imdb.com/title/tt0033467/",
     "genres": [
       "Drama",
@@ -4829,6 +5105,7 @@ window.moviePosterData = [
     "id": 659,
     "title": "Arsenic and Old Lace",
     "year": 1944,
+    "releaseDate": "01-Jan-1944",
     "imdbUrl": "https://www.imdb.com/title/tt0036613/",
     "genres": [
       "Comedy",
@@ -4846,6 +5123,7 @@ window.moviePosterData = [
     "id": 513,
     "title": "Third Man",
     "year": 1949,
+    "releaseDate": "01-Jan-1949",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Third%20Man,%20The%20(1949)",
     "genres": [
       "Mystery",
@@ -4861,6 +5139,7 @@ window.moviePosterData = [
     "id": 488,
     "title": "Sunset Blvd.",
     "year": 1950,
+    "releaseDate": "01-Jan-1950",
     "imdbUrl": "https://www.imdb.com/title/tt0043014/",
     "genres": [
       "Drama",
@@ -4877,6 +5156,7 @@ window.moviePosterData = [
     "id": 1581,
     "title": "Woman in Question",
     "year": 1950,
+    "releaseDate": "01-Jan-1950",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Woman%20in%20Question,%20The%20(1950)",
     "genres": [
       "Mystery"
@@ -4891,6 +5171,7 @@ window.moviePosterData = [
     "id": 603,
     "title": "Rear Window",
     "year": 1954,
+    "releaseDate": "01-Jan-1954",
     "imdbUrl": "https://www.imdb.com/title/tt0047396/",
     "genres": [
       "Drama",
@@ -4908,6 +5189,7 @@ window.moviePosterData = [
     "id": 490,
     "title": "To Catch a Thief",
     "year": 1955,
+    "releaseDate": "01-Jan-1955",
     "imdbUrl": "https://www.imdb.com/title/tt0048728/",
     "genres": [
       "Drama",
@@ -4925,6 +5207,7 @@ window.moviePosterData = [
     "id": 178,
     "title": "12 Angry Men",
     "year": 1957,
+    "releaseDate": "01-Jan-1957",
     "imdbUrl": "https://www.imdb.com/title/tt0050083/",
     "genres": [
       "Crime",
@@ -4941,6 +5224,7 @@ window.moviePosterData = [
     "id": 1269,
     "title": "Love in the Afternoon",
     "year": 1957,
+    "releaseDate": "01-Jan-1957",
     "imdbUrl": "https://www.imdb.com/title/tt0050658/",
     "genres": [
       "Comedy",
@@ -4958,6 +5242,7 @@ window.moviePosterData = [
     "id": 479,
     "title": "Vertigo",
     "year": 1958,
+    "releaseDate": "01-Jan-1958",
     "imdbUrl": "https://www.imdb.com/title/tt0052357/",
     "genres": [
       "Mystery",
@@ -4975,6 +5260,7 @@ window.moviePosterData = [
     "id": 480,
     "title": "North by Northwest",
     "year": 1959,
+    "releaseDate": "01-Jan-1959",
     "imdbUrl": "https://www.imdb.com/title/tt0053125/",
     "genres": [
       "Adventure",
@@ -4992,6 +5278,7 @@ window.moviePosterData = [
     "id": 185,
     "title": "Psycho",
     "year": 1960,
+    "releaseDate": "01-Jan-1960",
     "imdbUrl": "https://www.imdb.com/title/tt0054215/",
     "genres": [
       "Drama",
@@ -5009,6 +5296,7 @@ window.moviePosterData = [
     "id": 1198,
     "title": "Purple Noon",
     "year": 1960,
+    "releaseDate": "28-Jun-1960",
     "imdbUrl": "https://www.imdb.com/title/tt0054189/",
     "genres": [
       "Crime",
@@ -5026,6 +5314,7 @@ window.moviePosterData = [
     "id": 427,
     "title": "To Kill a Mockingbird",
     "year": 1962,
+    "releaseDate": "01-Jan-1962",
     "imdbUrl": "https://www.imdb.com/title/tt0056592/",
     "genres": [
       "Crime",
@@ -5042,6 +5331,7 @@ window.moviePosterData = [
     "id": 657,
     "title": "Manchurian Candidate",
     "year": 1962,
+    "releaseDate": "01-Jan-1962",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Manchurian%20Candidate,%20The%20(1962)",
     "genres": [
       "Film-Noir",
@@ -5057,6 +5347,7 @@ window.moviePosterData = [
     "id": 945,
     "title": "Charade",
     "year": 1963,
+    "releaseDate": "01-Jan-1963",
     "imdbUrl": "https://www.imdb.com/title/tt0056923/",
     "genres": [
       "Comedy",
@@ -5074,6 +5365,7 @@ window.moviePosterData = [
     "id": 1154,
     "title": "Alphaville",
     "year": 1965,
+    "releaseDate": "01-Jan-1965",
     "imdbUrl": "https://www.imdb.com/title/tt0058898/",
     "genres": [
       "Comedy",
@@ -5091,6 +5383,7 @@ window.moviePosterData = [
     "id": 504,
     "title": "Bonnie and Clyde",
     "year": 1967,
+    "releaseDate": "01-Jan-1967",
     "imdbUrl": "https://www.imdb.com/title/tt0061418/",
     "genres": [
       "Action",
@@ -5108,6 +5401,7 @@ window.moviePosterData = [
     "id": 523,
     "title": "Cool Hand Luke",
     "year": 1967,
+    "releaseDate": "01-Jan-1967",
     "imdbUrl": "https://www.imdb.com/title/tt0061512/",
     "genres": [
       "Crime",
@@ -5124,6 +5418,7 @@ window.moviePosterData = [
     "id": 435,
     "title": "Butch Cassidy and the Sundance Kid",
     "year": 1969,
+    "releaseDate": "01-Jan-1969",
     "imdbUrl": "https://www.imdb.com/title/tt0064115/",
     "genres": [
       "Adventure",
@@ -5141,6 +5436,7 @@ window.moviePosterData = [
     "id": 127,
     "title": "Godfather",
     "year": 1972,
+    "releaseDate": "01-Jan-1972",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)",
     "genres": [
       "Action",
@@ -5157,6 +5453,7 @@ window.moviePosterData = [
     "id": 194,
     "title": "Sting",
     "year": 1973,
+    "releaseDate": "01-Jan-1973",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Sting,%20The%20(1973)",
     "genres": [
       "Comedy",
@@ -5172,6 +5469,7 @@ window.moviePosterData = [
     "id": 187,
     "title": "Godfather: Part II",
     "year": 1974,
+    "releaseDate": "01-Jan-1974",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Godfather:%20Part%20II,%20The%20(1974)",
     "genres": [
       "Action",
@@ -5188,6 +5486,7 @@ window.moviePosterData = [
     "id": 654,
     "title": "Chinatown",
     "year": 1974,
+    "releaseDate": "01-Jan-1974",
     "imdbUrl": "https://www.imdb.com/title/tt0071315/",
     "genres": [
       "Drama",
@@ -5205,6 +5504,7 @@ window.moviePosterData = [
     "id": 1187,
     "title": "Switchblade Sisters",
     "year": 1975,
+    "releaseDate": "17-May-1975",
     "imdbUrl": "https://www.imdb.com/title/tt0073778/",
     "genres": [
       "Action",
@@ -5222,6 +5522,7 @@ window.moviePosterData = [
     "id": 23,
     "title": "Taxi Driver",
     "year": 1976,
+    "releaseDate": "16-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0075314/",
     "genres": [
       "Crime",
@@ -5238,6 +5539,7 @@ window.moviePosterData = [
     "id": 446,
     "title": "Burnt Offerings",
     "year": 1976,
+    "releaseDate": "01-Jan-1976",
     "imdbUrl": "https://www.imdb.com/title/tt0074258/",
     "genres": [
       "Horror",
@@ -5255,6 +5557,7 @@ window.moviePosterData = [
     "id": 180,
     "title": "Apocalypse Now",
     "year": 1979,
+    "releaseDate": "01-Jan-1979",
     "imdbUrl": "https://www.imdb.com/title/tt0078788/",
     "genres": [
       "Drama",
@@ -5272,6 +5575,7 @@ window.moviePosterData = [
     "id": 855,
     "title": "Diva",
     "year": 1981,
+    "releaseDate": "01-Jan-1981",
     "imdbUrl": "https://www.imdb.com/title/tt0082269/",
     "genres": [
       "Crime",
@@ -5289,6 +5593,7 @@ window.moviePosterData = [
     "id": 1560,
     "title": "Clean Slate (Coup de Torchon)",
     "year": 1981,
+    "releaseDate": "01-Jan-1981",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Coup%20de%20torchon%20(1981)",
     "genres": [
       "Crime"
@@ -5303,6 +5608,7 @@ window.moviePosterData = [
     "id": 649,
     "title": "Once Upon a Time in America",
     "year": 1984,
+    "releaseDate": "01-Jan-1984",
     "imdbUrl": "https://www.imdb.com/title/tt0087843/",
     "genres": [
       "Crime",
@@ -5319,6 +5625,7 @@ window.moviePosterData = [
     "id": 1526,
     "title": "Witness",
     "year": 1985,
+    "releaseDate": "01-Jan-1985",
     "imdbUrl": "https://www.imdb.com/title/tt0090329/",
     "genres": [
       "Crime",
@@ -5336,6 +5643,7 @@ window.moviePosterData = [
     "id": 522,
     "title": "Down by Law",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "https://www.imdb.com/title/tt0090967/",
     "genres": [
       "Comedy",
@@ -5353,6 +5661,7 @@ window.moviePosterData = [
     "id": 616,
     "title": "Night of the Living Dead",
     "year": 1968,
+    "releaseDate": "01-Jan-1968",
     "imdbUrl": "https://www.imdb.com/title/tt0063350/",
     "genres": [
       "Horror",
@@ -5369,6 +5678,7 @@ window.moviePosterData = [
     "id": 452,
     "title": "Jaws 2",
     "year": 1978,
+    "releaseDate": "01-Jan-1978",
     "imdbUrl": "https://www.imdb.com/title/tt0077766/",
     "genres": [
       "Adventure",
@@ -5386,6 +5696,7 @@ window.moviePosterData = [
     "id": 453,
     "title": "Jaws 3-D",
     "year": 1983,
+    "releaseDate": "01-Jan-1983",
     "imdbUrl": "https://www.imdb.com/title/tt0085750/",
     "genres": [
       "Adventure",
@@ -5403,6 +5714,7 @@ window.moviePosterData = [
     "id": 860,
     "title": "Believers",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Believers,%20The%20(1987)",
     "genres": [
       "Horror",
@@ -5418,6 +5730,7 @@ window.moviePosterData = [
     "id": 672,
     "title": "Candyman",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0103919/",
     "genres": [
       "Horror",
@@ -5434,6 +5747,7 @@ window.moviePosterData = [
     "id": 788,
     "title": "Relative Fear",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110965/",
     "genres": [
       "Drama",
@@ -5451,6 +5765,7 @@ window.moviePosterData = [
     "id": 551,
     "title": "Lord of Illusions",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113690/",
     "genres": [
       "Horror",
@@ -5468,6 +5783,7 @@ window.moviePosterData = [
     "id": 800,
     "title": "In the Mouth of Madness",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?In%20the%20Mouth%20of%20Madness%20(1995)",
     "genres": [
       "Horror",
@@ -5483,6 +5799,7 @@ window.moviePosterData = [
     "id": 816,
     "title": "Candyman: Farewell to the Flesh",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112625/",
     "genres": [
       "Horror",
@@ -5499,6 +5816,7 @@ window.moviePosterData = [
     "id": 834,
     "title": "Halloween: The Curse of Michael Myers",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113253/",
     "genres": [
       "Horror",
@@ -5515,6 +5833,7 @@ window.moviePosterData = [
     "id": 839,
     "title": "Loch Ness",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Loch%20Ness%20(1995)",
     "genres": [
       "Horror",
@@ -5530,6 +5849,7 @@ window.moviePosterData = [
     "id": 706,
     "title": "Bad Moon",
     "year": 1996,
+    "releaseDate": "01-Nov-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115610/",
     "genres": [
       "Horror",
@@ -5546,6 +5866,7 @@ window.moviePosterData = [
     "id": 260,
     "title": "Event Horizon",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119081/",
     "genres": [
       "Horror",
@@ -5563,6 +5884,7 @@ window.moviePosterData = [
     "id": 1477,
     "title": "Nightwatch",
     "year": 1997,
+    "releaseDate": "22-Apr-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Nightwatch%20(1997)",
     "genres": [
       "Horror",
@@ -5578,6 +5900,7 @@ window.moviePosterData = [
     "id": 1625,
     "title": "Nightwatch",
     "year": 1997,
+    "releaseDate": "22-Apr-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119791/",
     "genres": [
       "Drama",
@@ -5595,6 +5918,7 @@ window.moviePosterData = [
     "id": 885,
     "title": "Phantoms",
     "year": 1998,
+    "releaseDate": "01-Jan-1998",
     "imdbUrl": "https://www.imdb.com/title/tt0119891/",
     "genres": [
       "Horror",
@@ -5612,6 +5936,7 @@ window.moviePosterData = [
     "id": 675,
     "title": "Nosferatu (Nosferatu, eine Symphonie des Grauens)",
     "year": 1922,
+    "releaseDate": "01-Jan-1922",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Nosferatu,%20eine%20Symphonie%20des%20Grauens%20(1922)",
     "genres": [
       "Horror"
@@ -5626,6 +5951,7 @@ window.moviePosterData = [
     "id": 615,
     "title": "39 Steps",
     "year": 1935,
+    "releaseDate": "01-Jan-1935",
     "imdbUrl": "http://us.imdb.com/M/title-exact?39%20Steps,%20The%20(1935)",
     "genres": [
       "Thriller"
@@ -5640,6 +5966,7 @@ window.moviePosterData = [
     "id": 1452,
     "title": "Lady of Burlesque",
     "year": 1943,
+    "releaseDate": "01-Jan-1943",
     "imdbUrl": "https://www.imdb.com/title/tt0036094/",
     "genres": [
       "Comedy",
@@ -5657,6 +5984,7 @@ window.moviePosterData = [
     "id": 445,
     "title": "Body Snatcher",
     "year": 1945,
+    "releaseDate": "01-Jan-1945",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Body%20Snatcher,%20The%20(1945)",
     "genres": [
       "Horror"
@@ -5671,6 +5999,7 @@ window.moviePosterData = [
     "id": 661,
     "title": "High Noon",
     "year": 1952,
+    "releaseDate": "01-Jan-1952",
     "imdbUrl": "https://www.imdb.com/title/tt0044706/",
     "genres": [
       "Drama",
@@ -5688,6 +6017,7 @@ window.moviePosterData = [
     "id": 673,
     "title": "Cape Fear",
     "year": 1962,
+    "releaseDate": "01-Jan-1962",
     "imdbUrl": "https://www.imdb.com/title/tt0055824/",
     "genres": [
       "Drama",
@@ -5704,6 +6034,7 @@ window.moviePosterData = [
     "id": 443,
     "title": "Birds",
     "year": 1963,
+    "releaseDate": "01-Jan-1963",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Birds,%20The%20(1963)",
     "genres": [
       "Horror"
@@ -5718,6 +6049,7 @@ window.moviePosterData = [
     "id": 1573,
     "title": "Spirits of the Dead (Tre passi nel delirio)",
     "year": 1968,
+    "releaseDate": "01-Jan-1968",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Tre%20passi%20nel%20delirio%20(1968)",
     "genres": [
       "Horror"
@@ -5732,6 +6064,7 @@ window.moviePosterData = [
     "id": 666,
     "title": "Blood For Dracula (Andy Warhol's Dracula)",
     "year": 1974,
+    "releaseDate": "01-Jan-1974",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Andy%20Warhol's%20Dracula%20(1974)",
     "genres": [
       "Horror"
@@ -5746,6 +6079,7 @@ window.moviePosterData = [
     "id": 234,
     "title": "Jaws",
     "year": 1975,
+    "releaseDate": "01-Jan-1975",
     "imdbUrl": "https://www.imdb.com/title/tt0073195/",
     "genres": [
       "Adventure",
@@ -5763,6 +6097,7 @@ window.moviePosterData = [
     "id": 447,
     "title": "Carrie",
     "year": 1976,
+    "releaseDate": "01-Jan-1976",
     "imdbUrl": "https://www.imdb.com/title/tt0074285/",
     "genres": [
       "Horror"
@@ -5778,6 +6113,7 @@ window.moviePosterData = [
     "id": 448,
     "title": "Omen",
     "year": 1976,
+    "releaseDate": "01-Jan-1976",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Omen,%20The%20(1976)",
     "genres": [
       "Horror"
@@ -5792,6 +6128,7 @@ window.moviePosterData = [
     "id": 441,
     "title": "Amityville Horror",
     "year": 1979,
+    "releaseDate": "01-Jan-1979",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Amityville%20Horror,%20The%20(1979)",
     "genres": [
       "Horror"
@@ -5806,6 +6143,7 @@ window.moviePosterData = [
     "id": 200,
     "title": "Shining",
     "year": 1980,
+    "releaseDate": "01-Jan-1980",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Shining,%20The%20(1980)",
     "genres": [
       "Horror"
@@ -5820,6 +6158,7 @@ window.moviePosterData = [
     "id": 635,
     "title": "Fog",
     "year": 1980,
+    "releaseDate": "01-Jan-1980",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Fog,%20The%20(1980)",
     "genres": [
       "Horror"
@@ -5834,6 +6173,7 @@ window.moviePosterData = [
     "id": 436,
     "title": "American Werewolf in London",
     "year": 1981,
+    "releaseDate": "01-Jan-1981",
     "imdbUrl": "http://us.imdb.com/M/title-exact?American%20Werewolf%20in%20London,%20An%20(1981)",
     "genres": [
       "Horror"
@@ -5848,6 +6188,7 @@ window.moviePosterData = [
     "id": 637,
     "title": "Howling",
     "year": 1981,
+    "releaseDate": "01-Jan-1981",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Howling,%20The%20(1981)",
     "genres": [
       "Comedy",
@@ -5863,6 +6204,7 @@ window.moviePosterData = [
     "id": 668,
     "title": "Blood Beach",
     "year": 1981,
+    "releaseDate": "01-Jan-1981",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Blood%20Beach%20(1981)",
     "genres": [
       "Action",
@@ -5878,6 +6220,7 @@ window.moviePosterData = [
     "id": 440,
     "title": "Amityville II: The Possession",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "https://www.imdb.com/title/tt0083550/",
     "genres": [
       "Horror"
@@ -5893,6 +6236,7 @@ window.moviePosterData = [
     "id": 438,
     "title": "Amityville 3-D",
     "year": 1983,
+    "releaseDate": "01-Jan-1983",
     "imdbUrl": "https://www.imdb.com/title/tt0085159/",
     "genres": [
       "Horror"
@@ -5908,6 +6252,7 @@ window.moviePosterData = [
     "id": 219,
     "title": "Nightmare on Elm Street",
     "year": 1984,
+    "releaseDate": "01-Jan-1984",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Nightmare%20on%20Elm%20Street,%20A%20(1984)",
     "genres": [
       "Horror"
@@ -5922,6 +6267,7 @@ window.moviePosterData = [
     "id": 859,
     "title": "April Fool's Day",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "https://www.imdb.com/title/tt0090655/",
     "genres": [
       "Horror",
@@ -5938,6 +6284,7 @@ window.moviePosterData = [
     "id": 201,
     "title": "Evil Dead II",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "https://www.imdb.com/title/tt0092991/",
     "genres": [
       "Comedy",
@@ -5954,6 +6301,7 @@ window.moviePosterData = [
     "id": 144,
     "title": "Die Hard",
     "year": 1988,
+    "releaseDate": "01-Jan-1988",
     "imdbUrl": "https://www.imdb.com/title/tt0095016/",
     "genres": [
       "Action",
@@ -5970,6 +6318,7 @@ window.moviePosterData = [
     "id": 1019,
     "title": "Die xue shuang xiong (Killer, The)",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Die%20xue%20shuang%20xiong%20(1989)",
     "genres": [
       "Action",
@@ -5985,6 +6334,7 @@ window.moviePosterData = [
     "id": 198,
     "title": "Nikita (La Femme Nikita)",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Nikita%20(1990)",
     "genres": [
       "Thriller"
@@ -5999,6 +6349,7 @@ window.moviePosterData = [
     "id": 226,
     "title": "Die Hard 2",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0099423/",
     "genres": [
       "Action",
@@ -6015,6 +6366,7 @@ window.moviePosterData = [
     "id": 265,
     "title": "Hunt for Red October",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Hunt+for+Red+October%2C+The+(1990)",
     "genres": [
       "Action",
@@ -6030,6 +6382,7 @@ window.moviePosterData = [
     "id": 442,
     "title": "Amityville Curse",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Amityville%20Curse,%20The%20(1990)",
     "genres": [
       "Horror"
@@ -6044,6 +6397,7 @@ window.moviePosterData = [
     "id": 518,
     "title": "Miller's Crossing",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0100150/",
     "genres": [
       "Crime",
@@ -6061,6 +6415,7 @@ window.moviePosterData = [
     "id": 1618,
     "title": "King of New York",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0099939/",
     "genres": [
       "Crime",
@@ -6077,6 +6432,7 @@ window.moviePosterData = [
     "id": 98,
     "title": "Silence of the Lambs",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)",
     "genres": [
       "Drama",
@@ -6092,6 +6448,7 @@ window.moviePosterData = [
     "id": 218,
     "title": "Cape Fear",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0101540/",
     "genres": [
       "Crime",
@@ -6109,6 +6466,7 @@ window.moviePosterData = [
     "id": 128,
     "title": "Supercop",
     "year": 1992,
+    "releaseDate": "26-Jul-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Police%20Story%20III:%20Supercop%20(1992)",
     "genres": [
       "Action",
@@ -6124,6 +6482,7 @@ window.moviePosterData = [
     "id": 156,
     "title": "Reservoir Dogs",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0105236/",
     "genres": [
       "Crime",
@@ -6140,6 +6499,7 @@ window.moviePosterData = [
     "id": 233,
     "title": "Under Siege",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0105690/",
     "genres": [
       "Action",
@@ -6156,6 +6516,7 @@ window.moviePosterData = [
     "id": 437,
     "title": "Amityville 1992: It's About Time",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0103678/",
     "genres": [
       "Horror"
@@ -6171,6 +6532,7 @@ window.moviePosterData = [
     "id": 466,
     "title": "Red Rock West",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Red%20Rock%20West%20(1992)",
     "genres": [
       "Thriller"
@@ -6185,6 +6547,7 @@ window.moviePosterData = [
     "id": 1268,
     "title": "Bitter Moon",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0104779/",
     "genres": [
       "Drama",
@@ -6202,6 +6565,7 @@ window.moviePosterData = [
     "id": 1567,
     "title": "Careful",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0103926/",
     "genres": [
       "Comedy",
@@ -6219,6 +6583,7 @@ window.moviePosterData = [
     "id": 1597,
     "title": "Romper Stomper",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0105275/",
     "genres": [
       "Crime",
@@ -6236,6 +6601,7 @@ window.moviePosterData = [
     "id": 76,
     "title": "Carlito's Way",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106519/",
     "genres": [
       "Crime",
@@ -6253,6 +6619,7 @@ window.moviePosterData = [
     "id": 77,
     "title": "Firm",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Firm,%20The%20(1993)",
     "genres": [
       "Drama",
@@ -6268,6 +6635,7 @@ window.moviePosterData = [
     "id": 79,
     "title": "Fugitive",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Fugitive,%20The%20(1993)",
     "genres": [
       "Action",
@@ -6283,6 +6651,7 @@ window.moviePosterData = [
     "id": 439,
     "title": "Amityville: A New Generation",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106262/",
     "genres": [
       "Horror"
@@ -6298,6 +6667,7 @@ window.moviePosterData = [
     "id": 579,
     "title": "Fatal Instinct",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106873/",
     "genres": [
       "Comedy",
@@ -6315,6 +6685,7 @@ window.moviePosterData = [
     "id": 581,
     "title": "Kalifornia",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107302/",
     "genres": [
       "Crime",
@@ -6332,6 +6703,7 @@ window.moviePosterData = [
     "id": 784,
     "title": "Beyond Bedlam",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/Title?Beyond+Bedlam+(1993)",
     "genres": [
       "Drama",
@@ -6347,6 +6719,7 @@ window.moviePosterData = [
     "id": 802,
     "title": "Hard Target",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107076/",
     "genres": [
       "Action",
@@ -6364,6 +6737,7 @@ window.moviePosterData = [
     "id": 806,
     "title": "Menace II Society",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107554/",
     "genres": [
       "Crime",
@@ -6381,6 +6755,7 @@ window.moviePosterData = [
     "id": 963,
     "title": "Some Folks Call It a Sling Blade",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Some%20Folks%20Call%20It%20a%20Sling%20Blade%20(1993)",
     "genres": [
       "Drama",
@@ -6396,6 +6771,7 @@ window.moviePosterData = [
     "id": 1045,
     "title": "Fearless",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106881/",
     "genres": [
       "Drama",
@@ -6412,6 +6788,7 @@ window.moviePosterData = [
     "id": 1090,
     "title": "Sliver",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108162/",
     "genres": [
       "Drama",
@@ -6428,6 +6805,7 @@ window.moviePosterData = [
     "id": 1213,
     "title": "Guilty as Sin",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107057/",
     "genres": [
       "Crime",
@@ -6445,6 +6823,7 @@ window.moviePosterData = [
     "id": 1365,
     "title": "Johnny 100 Pesos",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107274/",
     "genres": [
       "Crime",
@@ -6462,6 +6841,7 @@ window.moviePosterData = [
     "id": 1422,
     "title": "Suture",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108260/",
     "genres": [
       "Drama",
@@ -6478,6 +6858,7 @@ window.moviePosterData = [
     "id": 1622,
     "title": "Paris, France",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107779/",
     "genres": [
       "Comedy",
@@ -6495,6 +6876,7 @@ window.moviePosterData = [
     "id": 37,
     "title": "Nadja",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110620/",
     "genres": [
       "Drama",
@@ -6512,6 +6894,7 @@ window.moviePosterData = [
     "id": 43,
     "title": "Disclosure",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109635/",
     "genres": [
       "Drama",
@@ -6528,6 +6911,7 @@ window.moviePosterData = [
     "id": 44,
     "title": "Dolores Claiborne",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Dolores%20Claiborne%20(1994)",
     "genres": [
       "Drama",
@@ -6543,6 +6927,7 @@ window.moviePosterData = [
     "id": 55,
     "title": "Professional",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/Title?L%E9on+(1994)",
     "genres": [
       "Crime",
@@ -6560,6 +6945,7 @@ window.moviePosterData = [
     "id": 430,
     "title": "Duck Soup",
     "year": 1933,
+    "releaseDate": "01-Jan-1933",
     "imdbUrl": "https://www.imdb.com/title/tt0023969/",
     "genres": [
       "Comedy",
@@ -6576,6 +6962,7 @@ window.moviePosterData = [
     "id": 604,
     "title": "It Happened One Night",
     "year": 1934,
+    "releaseDate": "01-Jan-1934",
     "imdbUrl": "https://www.imdb.com/title/tt0025316/",
     "genres": [
       "Comedy",
@@ -6592,6 +6979,7 @@ window.moviePosterData = [
     "id": 835,
     "title": "Gay Divorcee",
     "year": 1934,
+    "releaseDate": "01-Jan-1934",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Gay%20Divorcee%2C%20The%20%281934%29",
     "genres": [
       "Comedy",
@@ -6608,6 +6996,7 @@ window.moviePosterData = [
     "id": 1203,
     "title": "Top Hat",
     "year": 1935,
+    "releaseDate": "01-Jan-1935",
     "imdbUrl": "https://www.imdb.com/title/tt0027125/",
     "genres": [
       "Comedy",
@@ -6625,6 +7014,7 @@ window.moviePosterData = [
     "id": 1461,
     "title": "Here Comes Cookie",
     "year": 1935,
+    "releaseDate": "01-Jan-1935",
     "imdbUrl": "https://www.imdb.com/title/tt0026465/",
     "genres": [
       "Comedy",
@@ -6642,6 +7032,7 @@ window.moviePosterData = [
     "id": 613,
     "title": "My Man Godfrey",
     "year": 1936,
+    "releaseDate": "01-Jan-1936",
     "imdbUrl": "https://www.imdb.com/title/tt0028010/",
     "genres": [
       "Comedy",
@@ -6659,6 +7050,7 @@ window.moviePosterData = [
     "id": 1286,
     "title": "Shall We Dance?",
     "year": 1937,
+    "releaseDate": "01-Jan-1937",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Shall%20We%20Dance?%20(1937)",
     "genres": [
       "Comedy",
@@ -6675,6 +7067,7 @@ window.moviePosterData = [
     "id": 1458,
     "title": "Damsel in Distress",
     "year": 1937,
+    "releaseDate": "01-Jan-1937",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Damsel%20in%20Distress,%20A%20(1937)",
     "genres": [
       "Comedy",
@@ -6691,6 +7084,7 @@ window.moviePosterData = [
     "id": 497,
     "title": "Bringing Up Baby",
     "year": 1938,
+    "releaseDate": "01-Jan-1938",
     "imdbUrl": "https://www.imdb.com/title/tt0029947/",
     "genres": [
       "Comedy"
@@ -6706,6 +7100,7 @@ window.moviePosterData = [
     "id": 136,
     "title": "Mr. Smith Goes to Washington",
     "year": 1939,
+    "releaseDate": "01-Jan-1939",
     "imdbUrl": "https://www.imdb.com/title/tt0031679/",
     "genres": [
       "Comedy",
@@ -6722,6 +7117,7 @@ window.moviePosterData = [
     "id": 836,
     "title": "Ninotchka",
     "year": 1939,
+    "releaseDate": "01-Jan-1939",
     "imdbUrl": "https://www.imdb.com/title/tt0031725/",
     "genres": [
       "Comedy",
@@ -6738,6 +7134,7 @@ window.moviePosterData = [
     "id": 478,
     "title": "Philadelphia Story",
     "year": 1940,
+    "releaseDate": "01-Jan-1940",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Philadelphia%20Story,%20The%20(1940)",
     "genres": [
       "Comedy",
@@ -6753,6 +7150,7 @@ window.moviePosterData = [
     "id": 494,
     "title": "His Girl Friday",
     "year": 1940,
+    "releaseDate": "01-Jan-1940",
     "imdbUrl": "https://www.imdb.com/title/tt0032599/",
     "genres": [
       "Comedy",
@@ -6770,6 +7168,7 @@ window.moviePosterData = [
     "id": 524,
     "title": "Great Dictator",
     "year": 1940,
+    "releaseDate": "01-Jan-1940",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Great%20Dictator,%20The%20(1940)",
     "genres": [
       "Comedy"
@@ -6784,6 +7183,7 @@ window.moviePosterData = [
     "id": 837,
     "title": "Meet John Doe",
     "year": 1941,
+    "releaseDate": "01-Jan-1941",
     "imdbUrl": "https://www.imdb.com/title/tt0033891/",
     "genres": [
       "Comedy",
@@ -6801,6 +7201,7 @@ window.moviePosterData = [
     "id": 1204,
     "title": "To Be or Not to Be",
     "year": 1942,
+    "releaseDate": "01-Jan-1942",
     "imdbUrl": "https://www.imdb.com/title/tt0035446/",
     "genres": [
       "Comedy",
@@ -6818,6 +7219,7 @@ window.moviePosterData = [
     "id": 609,
     "title": "Father of the Bride",
     "year": 1950,
+    "releaseDate": "01-Jan-1950",
     "imdbUrl": "https://www.imdb.com/title/tt0042451/",
     "genres": [
       "Comedy",
@@ -6835,6 +7237,7 @@ window.moviePosterData = [
     "id": 648,
     "title": "Quiet Man",
     "year": 1952,
+    "releaseDate": "01-Jan-1952",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Quiet%20Man,%20The%20(1952)",
     "genres": [
       "Comedy",
@@ -6850,6 +7253,7 @@ window.moviePosterData = [
     "id": 705,
     "title": "Singin' in the Rain",
     "year": 1952,
+    "releaseDate": "01-Jan-1952",
     "imdbUrl": "https://www.imdb.com/title/tt0045152/",
     "genres": [
       "Comedy",
@@ -6867,6 +7271,7 @@ window.moviePosterData = [
     "id": 487,
     "title": "Roman Holiday",
     "year": 1953,
+    "releaseDate": "01-Jan-1953",
     "imdbUrl": "https://www.imdb.com/title/tt0046250/",
     "genres": [
       "Comedy",
@@ -6884,6 +7289,7 @@ window.moviePosterData = [
     "id": 1298,
     "title": "Band Wagon",
     "year": 1953,
+    "releaseDate": "01-Jan-1953",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Band%20Wagon,%20The%20(1953)",
     "genres": [
       "Comedy",
@@ -6899,6 +7305,7 @@ window.moviePosterData = [
     "id": 486,
     "title": "Sabrina",
     "year": 1954,
+    "releaseDate": "01-Jan-1954",
     "imdbUrl": "https://www.imdb.com/title/tt0047437/",
     "genres": [
       "Comedy",
@@ -6916,6 +7323,7 @@ window.moviePosterData = [
     "id": 1456,
     "title": "Beat the Devil",
     "year": 1954,
+    "releaseDate": "01-Jan-1954",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Beat%20the%20Devil%20(1954)",
     "genres": [
       "Comedy",
@@ -6931,6 +7339,7 @@ window.moviePosterData = [
     "id": 965,
     "title": "Funny Face",
     "year": 1957,
+    "releaseDate": "01-Jan-1957",
     "imdbUrl": "https://www.imdb.com/title/tt0050419/",
     "genres": [
       "Comedy",
@@ -6948,6 +7357,7 @@ window.moviePosterData = [
     "id": 610,
     "title": "Gigi",
     "year": 1958,
+    "releaseDate": "01-Jan-1958",
     "imdbUrl": "https://www.imdb.com/title/tt0051658/",
     "genres": [
       "Comedy",
@@ -6965,6 +7375,7 @@ window.moviePosterData = [
     "id": 1614,
     "title": "Reluctant Debutante",
     "year": 1958,
+    "releaseDate": "01-Jan-1958",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Reluctant%20Debutante,%20The%20(1958)",
     "genres": [
       "Comedy",
@@ -6980,6 +7391,7 @@ window.moviePosterData = [
     "id": 482,
     "title": "Some Like It Hot",
     "year": 1959,
+    "releaseDate": "01-Jan-1959",
     "imdbUrl": "https://www.imdb.com/title/tt0053291/",
     "genres": [
       "Comedy",
@@ -6997,6 +7409,7 @@ window.moviePosterData = [
     "id": 481,
     "title": "Apartment",
     "year": 1960,
+    "releaseDate": "01-Jan-1960",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Apartment,%20The%20(1960)",
     "genres": [
       "Comedy",
@@ -7012,6 +7425,7 @@ window.moviePosterData = [
     "id": 131,
     "title": "Breakfast at Tiffany's",
     "year": 1961,
+    "releaseDate": "01-Jan-1961",
     "imdbUrl": "https://www.imdb.com/title/tt0054698/",
     "genres": [
       "Comedy",
@@ -7029,6 +7443,7 @@ window.moviePosterData = [
     "id": 74,
     "title": "Faster Pussycat! Kill! Kill!",
     "year": 1965,
+    "releaseDate": "01-Jan-1965",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Faster%20Pussycat!%20Kill!%20Kill!%20(1965)",
     "genres": [
       "Action",
@@ -7045,6 +7460,7 @@ window.moviePosterData = [
     "id": 630,
     "title": "Great Race",
     "year": 1965,
+    "releaseDate": "01-Jan-1965",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Great%20Race,%20The%20(1965)",
     "genres": [
       "Comedy",
@@ -7060,6 +7476,7 @@ window.moviePosterData = [
     "id": 211,
     "title": "M*A*S*H",
     "year": 1970,
+    "releaseDate": "01-Jan-1970",
     "imdbUrl": "https://www.imdb.com/title/tt0066026/",
     "genres": [
       "Comedy",
@@ -7077,6 +7494,7 @@ window.moviePosterData = [
     "id": 428,
     "title": "Harold and Maude",
     "year": 1971,
+    "releaseDate": "01-Jan-1971",
     "imdbUrl": "https://www.imdb.com/title/tt0067185/",
     "genres": [
       "Comedy",
@@ -7094,6 +7512,7 @@ window.moviePosterData = [
     "id": 502,
     "title": "Bananas",
     "year": 1971,
+    "releaseDate": "01-Jan-1971",
     "imdbUrl": "https://www.imdb.com/title/tt0066808/",
     "genres": [
       "Comedy"
@@ -7109,6 +7528,7 @@ window.moviePosterData = [
     "id": 745,
     "title": "Ruling Class",
     "year": 1972,
+    "releaseDate": "01-Jan-1972",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Ruling%20Class,%20The%20(1972)",
     "genres": [
       "Comedy"
@@ -7123,6 +7543,7 @@ window.moviePosterData = [
     "id": 163,
     "title": "Return of the Pink Panther",
     "year": 1974,
+    "releaseDate": "01-Jan-1974",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Return%20of%20the%20Pink%20Panther,%20The%20(1974)",
     "genres": [
       "Comedy"
@@ -7137,6 +7558,7 @@ window.moviePosterData = [
     "id": 168,
     "title": "Monty Python and the Holy Grail",
     "year": 1974,
+    "releaseDate": "01-Jan-1974",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Monty%20Python%20and%20the%20Holy%20Grail%20(1974)",
     "genres": [
       "Comedy"
@@ -7151,6 +7573,7 @@ window.moviePosterData = [
     "id": 208,
     "title": "Young Frankenstein",
     "year": 1974,
+    "releaseDate": "01-Jan-1974",
     "imdbUrl": "https://www.imdb.com/title/tt0072431/",
     "genres": [
       "Comedy"
@@ -7166,6 +7589,7 @@ window.moviePosterData = [
     "id": 514,
     "title": "Annie Hall",
     "year": 1977,
+    "releaseDate": "01-Jan-1977",
     "imdbUrl": "https://www.imdb.com/title/tt0075686/",
     "genres": [
       "Comedy",
@@ -7182,6 +7606,7 @@ window.moviePosterData = [
     "id": 451,
     "title": "Grease",
     "year": 1978,
+    "releaseDate": "01-Jan-1978",
     "imdbUrl": "https://www.imdb.com/title/tt0077631/",
     "genres": [
       "Comedy",
@@ -7199,6 +7624,7 @@ window.moviePosterData = [
     "id": 1118,
     "title": "Up in Smoke",
     "year": 1978,
+    "releaseDate": "01-Jan-1978",
     "imdbUrl": "https://www.imdb.com/title/tt0078446/",
     "genres": [
       "Adventure",
@@ -7216,6 +7642,7 @@ window.moviePosterData = [
     "id": 154,
     "title": "Monty Python's Life of Brian",
     "year": 1979,
+    "releaseDate": "01-Jan-1979",
     "imdbUrl": "https://www.imdb.com/title/tt0079470/",
     "genres": [
       "Comedy"
@@ -7231,6 +7658,7 @@ window.moviePosterData = [
     "id": 517,
     "title": "Manhattan",
     "year": 1979,
+    "releaseDate": "01-Jan-1979",
     "imdbUrl": "https://www.imdb.com/title/tt0079522/",
     "genres": [
       "Comedy",
@@ -7248,6 +7676,7 @@ window.moviePosterData = [
     "id": 663,
     "title": "Being There",
     "year": 1979,
+    "releaseDate": "01-Jan-1979",
     "imdbUrl": "https://www.imdb.com/title/tt0078841/",
     "genres": [
       "Comedy",
@@ -7264,6 +7693,7 @@ window.moviePosterData = [
     "id": 167,
     "title": "Private Benjamin",
     "year": 1980,
+    "releaseDate": "01-Jan-1980",
     "imdbUrl": "https://www.imdb.com/title/tt0081375/",
     "genres": [
       "Comedy",
@@ -7280,6 +7710,7 @@ window.moviePosterData = [
     "id": 186,
     "title": "Blues Brothers",
     "year": 1980,
+    "releaseDate": "01-Jan-1980",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Blues%20Brothers,%20The%20(1980)",
     "genres": [
       "Action",
@@ -7296,6 +7727,7 @@ window.moviePosterData = [
     "id": 1301,
     "title": "Stripes",
     "year": 1981,
+    "releaseDate": "01-Jan-1981",
     "imdbUrl": "https://www.imdb.com/title/tt0083131/",
     "genres": [
       "Comedy",
@@ -7312,6 +7744,7 @@ window.moviePosterData = [
     "id": 414,
     "title": "My Favorite Year",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "https://www.imdb.com/title/tt0084370/",
     "genres": [
       "Comedy",
@@ -7328,6 +7761,7 @@ window.moviePosterData = [
     "id": 629,
     "title": "Victor/Victoria",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "https://www.imdb.com/title/tt0084865/",
     "genres": [
       "Comedy",
@@ -7345,6 +7779,7 @@ window.moviePosterData = [
     "id": 1037,
     "title": "Grease 2",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "https://www.imdb.com/title/tt0084021/",
     "genres": [
       "Comedy",
@@ -7362,6 +7797,7 @@ window.moviePosterData = [
     "id": 516,
     "title": "Local Hero",
     "year": 1983,
+    "releaseDate": "01-Jan-1983",
     "imdbUrl": "https://www.imdb.com/title/tt0085859/",
     "genres": [
       "Comedy",
@@ -7378,6 +7814,7 @@ window.moviePosterData = [
     "id": 209,
     "title": "This Is Spinal Tap",
     "year": 1984,
+    "releaseDate": "01-Jan-1984",
     "imdbUrl": "https://www.imdb.com/title/tt0088258/",
     "genres": [
       "Comedy",
@@ -7394,6 +7831,7 @@ window.moviePosterData = [
     "id": 710,
     "title": "Better Off Dead...",
     "year": 1985,
+    "releaseDate": "01-Jan-1985",
     "imdbUrl": "https://www.imdb.com/title/tt0088794/",
     "genres": [
       "Comedy",
@@ -7410,6 +7848,7 @@ window.moviePosterData = [
     "id": 238,
     "title": "Raising Arizona",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "https://www.imdb.com/title/tt0093822/",
     "genres": [
       "Comedy",
@@ -7426,6 +7865,7 @@ window.moviePosterData = [
     "id": 712,
     "title": "Tin Men",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "https://www.imdb.com/title/tt0094155/",
     "genres": [
       "Comedy",
@@ -7442,6 +7882,7 @@ window.moviePosterData = [
     "id": 1404,
     "title": "Withnail and I",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "https://www.imdb.com/title/tt0094336/",
     "genres": [
       "Comedy",
@@ -7458,6 +7899,7 @@ window.moviePosterData = [
     "id": 153,
     "title": "Fish Called Wanda",
     "year": 1988,
+    "releaseDate": "01-Jan-1988",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Fish%20Called%20Wanda,%20A%20(1988)",
     "genres": [
       "Comedy"
@@ -7472,6 +7914,7 @@ window.moviePosterData = [
     "id": 158,
     "title": "Weekend at Bernie's",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "https://www.imdb.com/title/tt0098627/",
     "genres": [
       "Adventure",
@@ -7489,6 +7932,7 @@ window.moviePosterData = [
     "id": 196,
     "title": "Dead Poets Society",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "https://www.imdb.com/title/tt0097165/",
     "genres": [
       "Comedy",
@@ -7505,6 +7949,7 @@ window.moviePosterData = [
     "id": 216,
     "title": "When Harry Met Sally...",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "https://www.imdb.com/title/tt0098635/",
     "genres": [
       "Comedy",
@@ -7522,6 +7967,7 @@ window.moviePosterData = [
     "id": 207,
     "title": "Cyrano de Bergerac",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0099334/",
     "genres": [
       "Comedy",
@@ -7539,6 +7985,7 @@ window.moviePosterData = [
     "id": 652,
     "title": "Rosencrantz and Guildenstern Are Dead",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Rosencrantz%20and%20Guildenstern%20Are%20Dead%20(1990)",
     "genres": [
       "Comedy",
@@ -7554,6 +8001,7 @@ window.moviePosterData = [
     "id": 658,
     "title": "Pump Up the Volume",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0100436/",
     "genres": [
       "Comedy",
@@ -7571,6 +8019,7 @@ window.moviePosterData = [
     "id": 739,
     "title": "Pretty Woman",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0100405/",
     "genres": [
       "Comedy",
@@ -7587,6 +8036,7 @@ window.moviePosterData = [
     "id": 1103,
     "title": "Trust",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0103130/",
     "genres": [
       "Comedy",
@@ -7604,6 +8054,7 @@ window.moviePosterData = [
     "id": 171,
     "title": "Delicatessen",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0101700/",
     "genres": [
       "Comedy",
@@ -7620,6 +8071,7 @@ window.moviePosterData = [
     "id": 856,
     "title": "Night on Earth",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0102536/",
     "genres": [
       "Comedy",
@@ -7636,6 +8088,7 @@ window.moviePosterData = [
     "id": 970,
     "title": "Hear My Song",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0102014/",
     "genres": [
       "Comedy",
@@ -7653,6 +8106,7 @@ window.moviePosterData = [
     "id": 971,
     "title": "Mediterraneo",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0102426/",
     "genres": [
       "Comedy",
@@ -7670,6 +8124,7 @@ window.moviePosterData = [
     "id": 1242,
     "title": "Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La)",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Vieille%20qui%20marchait%20dans%20la%20mer,%20La%20(1991)",
     "genres": [
       "Comedy"
@@ -7684,6 +8139,7 @@ window.moviePosterData = [
     "id": 1564,
     "title": "To Cross the Rubicon",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0103095/",
     "genres": [
       "Comedy"
@@ -7699,6 +8155,7 @@ window.moviePosterData = [
     "id": 1593,
     "title": "Death in Brunswick",
     "year": 1991,
+    "releaseDate": "16-Aug-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Death%20in%20Brunswick%20(1991)",
     "genres": [
       "Comedy"
@@ -7713,6 +8170,7 @@ window.moviePosterData = [
     "id": 239,
     "title": "Sneakers",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0105435/",
     "genres": [
       "Comedy",
@@ -7730,6 +8188,7 @@ window.moviePosterData = [
     "id": 425,
     "title": "Bob Roberts",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0103850/",
     "genres": [
       "Comedy",
@@ -7746,6 +8205,7 @@ window.moviePosterData = [
     "id": 709,
     "title": "Strictly Ballroom",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0105488/",
     "genres": [
       "Comedy",
@@ -7763,6 +8223,7 @@ window.moviePosterData = [
     "id": 765,
     "title": "Boomerang",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0103859/",
     "genres": [
       "Comedy",
@@ -7780,6 +8241,7 @@ window.moviePosterData = [
     "id": 957,
     "title": "Pushing Hands",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Tui%20Shou%20(1992)",
     "genres": [
       "Comedy"
@@ -7794,6 +8256,7 @@ window.moviePosterData = [
     "id": 1124,
     "title": "Farewell to Arms",
     "year": 1932,
+    "releaseDate": "01-Jan-1932",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Farewell%20to%20Arms,%20A%20(1932)",
     "genres": [
       "Romance",
@@ -7809,6 +8272,7 @@ window.moviePosterData = [
     "id": 1580,
     "title": "Liebelei",
     "year": 1933,
+    "releaseDate": "01-Jan-1933",
     "imdbUrl": "https://www.imdb.com/title/tt0024252/",
     "genres": [
       "Drama",
@@ -7825,6 +8289,7 @@ window.moviePosterData = [
     "id": 133,
     "title": "Gone with the Wind",
     "year": 1939,
+    "releaseDate": "01-Jan-1939",
     "imdbUrl": "https://www.imdb.com/title/tt0031381/",
     "genres": [
       "Drama",
@@ -7842,6 +8307,7 @@ window.moviePosterData = [
     "id": 1299,
     "title": "Penny Serenade",
     "year": 1941,
+    "releaseDate": "01-Jan-1941",
     "imdbUrl": "https://www.imdb.com/title/tt0034012/",
     "genres": [
       "Drama",
@@ -7858,6 +8324,7 @@ window.moviePosterData = [
     "id": 483,
     "title": "Casablanca",
     "year": 1942,
+    "releaseDate": "01-Jan-1942",
     "imdbUrl": "https://www.imdb.com/title/tt0034583/",
     "genres": [
       "Drama",
@@ -7875,6 +8342,7 @@ window.moviePosterData = [
     "id": 1050,
     "title": "Ghost and Mrs. Muir",
     "year": 1947,
+    "releaseDate": "01-Jan-1947",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Ghost%20and%20Mrs.%20Muir,%20The%20(1947)",
     "genres": [
       "Drama",
@@ -7890,6 +8358,7 @@ window.moviePosterData = [
     "id": 1454,
     "title": "Angel and the Badman",
     "year": 1947,
+    "releaseDate": "01-Jan-1947",
     "imdbUrl": "https://www.imdb.com/title/tt0039152/",
     "genres": [
       "Drama",
@@ -7907,6 +8376,7 @@ window.moviePosterData = [
     "id": 602,
     "title": "American in Paris",
     "year": 1951,
+    "releaseDate": "01-Jan-1951",
     "imdbUrl": "http://us.imdb.com/M/title-exact?American%20in%20Paris,%20An%20(1951)",
     "genres": [
       "Musical",
@@ -7922,6 +8392,7 @@ window.moviePosterData = [
     "id": 618,
     "title": "Picnic",
     "year": 1955,
+    "releaseDate": "01-Jan-1955",
     "imdbUrl": "https://www.imdb.com/title/tt0048491/",
     "genres": [
       "Drama",
@@ -7938,6 +8409,7 @@ window.moviePosterData = [
     "id": 966,
     "title": "Affair to Remember",
     "year": 1957,
+    "releaseDate": "01-Jan-1957",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Affair%20to%20Remember,%20An%20(1957)",
     "genres": [
       "Romance"
@@ -7952,6 +8424,7 @@ window.moviePosterData = [
     "id": 485,
     "title": "My Fair Lady",
     "year": 1964,
+    "releaseDate": "01-Jan-1964",
     "imdbUrl": "https://www.imdb.com/title/tt0058385/",
     "genres": [
       "Drama",
@@ -7969,6 +8442,7 @@ window.moviePosterData = [
     "id": 30,
     "title": "Belle de jour",
     "year": 1967,
+    "releaseDate": "01-Jan-1967",
     "imdbUrl": "https://www.imdb.com/title/tt0061395/",
     "genres": [
       "Drama",
@@ -7985,6 +8459,7 @@ window.moviePosterData = [
     "id": 197,
     "title": "Graduate",
     "year": 1967,
+    "releaseDate": "01-Jan-1967",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Graduate,%20The%20(1967)",
     "genres": [
       "Drama",
@@ -8000,6 +8475,7 @@ window.moviePosterData = [
     "id": 1374,
     "title": "Falling in Love Again",
     "year": 1980,
+    "releaseDate": "01-Jan-1980",
     "imdbUrl": "https://www.imdb.com/title/tt0080714/",
     "genres": [
       "Drama",
@@ -8016,6 +8492,7 @@ window.moviePosterData = [
     "id": 632,
     "title": "Sophie's Choice",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "https://www.imdb.com/title/tt0084707/",
     "genres": [
       "Drama",
@@ -8032,6 +8509,7 @@ window.moviePosterData = [
     "id": 213,
     "title": "Room with a View",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Room%20with%20a%20View,%20A%20(1986)",
     "genres": [
       "Drama",
@@ -8047,6 +8525,7 @@ window.moviePosterData = [
     "id": 155,
     "title": "Dirty Dancing",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "https://www.imdb.com/title/tt0092890/",
     "genres": [
       "Drama",
@@ -8064,6 +8543,7 @@ window.moviePosterData = [
     "id": 1119,
     "title": "Some Kind of Wonderful",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "https://www.imdb.com/title/tt0094006/",
     "genres": [
       "Drama",
@@ -8080,6 +8560,7 @@ window.moviePosterData = [
     "id": 170,
     "title": "Cinema Paradiso",
     "year": 1988,
+    "releaseDate": "01-Jan-1988",
     "imdbUrl": "https://www.imdb.com/title/tt0095765/",
     "genres": [
       "Drama",
@@ -8096,6 +8577,7 @@ window.moviePosterData = [
     "id": 947,
     "title": "Big Blue, The (Grand bleu, Le)",
     "year": 1988,
+    "releaseDate": "01-Jan-1988",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Grand%20bleu,%20Le%20(1988)",
     "genres": [
       "Adventure",
@@ -8111,6 +8593,7 @@ window.moviePosterData = [
     "id": 923,
     "title": "Raise the Red Lantern",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0101640/",
     "genres": [
       "Drama",
@@ -8127,6 +8610,7 @@ window.moviePosterData = [
     "id": 159,
     "title": "Basic Instinct",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0103772/",
     "genres": [
       "Drama",
@@ -8144,6 +8628,7 @@ window.moviePosterData = [
     "id": 241,
     "title": "Last of the Mohicans",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Last%20of%20the%20Mohicans,%20The%20(1992)",
     "genres": [
       "Action",
@@ -8160,6 +8645,7 @@ window.moviePosterData = [
     "id": 462,
     "title": "Like Water For Chocolate (Como agua para chocolate)",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Como%20agua%20para%20chocolate%20(1992)",
     "genres": [
       "Drama",
@@ -8175,6 +8661,7 @@ window.moviePosterData = [
     "id": 631,
     "title": "Crying Game",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Crying%20Game,%20The%20(1992)",
     "genres": [
       "Action",
@@ -8192,6 +8679,7 @@ window.moviePosterData = [
     "id": 1341,
     "title": "Hedd Wyn",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0104403/",
     "genres": [
       "Biography",
@@ -8209,6 +8697,7 @@ window.moviePosterData = [
     "id": 1354,
     "title": "Venice/Venice",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0105729/",
     "genres": [
       "Drama",
@@ -8225,6 +8714,7 @@ window.moviePosterData = [
     "id": 83,
     "title": "Much Ado About Nothing",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107616/",
     "genres": [
       "Comedy",
@@ -8242,6 +8732,7 @@ window.moviePosterData = [
     "id": 88,
     "title": "Sleepless in Seattle",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108160/",
     "genres": [
       "Comedy",
@@ -8259,6 +8750,7 @@ window.moviePosterData = [
     "id": 90,
     "title": "So I Married an Axe Murderer",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108174/",
     "genres": [
       "Comedy",
@@ -8275,6 +8767,7 @@ window.moviePosterData = [
     "id": 92,
     "title": "True Romance",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108399/",
     "genres": [
       "Crime",
@@ -8292,6 +8785,7 @@ window.moviePosterData = [
     "id": 574,
     "title": "Boxing Helena",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106471/",
     "genres": [
       "Drama",
@@ -8309,6 +8803,7 @@ window.moviePosterData = [
     "id": 582,
     "title": "Piano",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Piano,%20The%20(1993)",
     "genres": [
       "Drama",
@@ -8324,6 +8819,7 @@ window.moviePosterData = [
     "id": 583,
     "title": "Romeo Is Bleeding",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107983/",
     "genres": [
       "Crime",
@@ -8341,6 +8837,7 @@ window.moviePosterData = [
     "id": 585,
     "title": "Son in Law",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108186/",
     "genres": [
       "Comedy",
@@ -8358,6 +8855,7 @@ window.moviePosterData = [
     "id": 704,
     "title": "House of the Spirits",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?House%20of%20the%20Spirits,%20The%20(1993)",
     "genres": [
       "Drama",
@@ -8373,6 +8871,7 @@ window.moviePosterData = [
     "id": 732,
     "title": "Dave",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106673/",
     "genres": [
       "Comedy",
@@ -8389,6 +8888,7 @@ window.moviePosterData = [
     "id": 736,
     "title": "Shadowlands",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108101/",
     "genres": [
       "Biography",
@@ -8406,6 +8906,7 @@ window.moviePosterData = [
     "id": 747,
     "title": "Benny & Joon",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106387/",
     "genres": [
       "Comedy",
@@ -8423,6 +8924,7 @@ window.moviePosterData = [
     "id": 807,
     "title": "Poetic Justice",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107840/",
     "genres": [
       "Drama",
@@ -8439,6 +8941,7 @@ window.moviePosterData = [
     "id": 921,
     "title": "Farewell My Concubine",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106332/",
     "genres": [
       "Drama",
@@ -8456,6 +8959,7 @@ window.moviePosterData = [
     "id": 962,
     "title": "Ruby in Paradise",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108000/",
     "genres": [
       "Drama",
@@ -8472,6 +8976,7 @@ window.moviePosterData = [
     "id": 1212,
     "title": "Flesh and Bone",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106926/",
     "genres": [
       "Drama",
@@ -8489,6 +8994,7 @@ window.moviePosterData = [
     "id": 1249,
     "title": "For Love or Money",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106941/",
     "genres": [
       "Comedy",
@@ -8506,6 +9012,7 @@ window.moviePosterData = [
     "id": 1349,
     "title": "Mille bolle blu",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107575/",
     "genres": [
       "Comedy",
@@ -8522,6 +9029,7 @@ window.moviePosterData = [
     "id": 1401,
     "title": "M. Butterfly",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107468/",
     "genres": [
       "Drama",
@@ -8538,6 +9046,7 @@ window.moviePosterData = [
     "id": 1436,
     "title": "Mr. Jones",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107611/",
     "genres": [
       "Drama",
@@ -8554,6 +9063,7 @@ window.moviePosterData = [
     "id": 1447,
     "title": "Century",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106537/",
     "genres": [
       "Drama",
@@ -8570,6 +9080,7 @@ window.moviePosterData = [
     "id": 1448,
     "title": "My Favorite Season",
     "year": 1993,
+    "releaseDate": "19-Apr-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0107471/",
     "genres": [
       "Drama",
@@ -8586,6 +9097,7 @@ window.moviePosterData = [
     "id": 1487,
     "title": "Even Cowgirls Get the Blues",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106834/",
     "genres": [
       "Comedy",
@@ -8603,6 +9115,7 @@ window.moviePosterData = [
     "id": 1488,
     "title": "Germinal",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107002/",
     "genres": [
       "Drama",
@@ -8619,6 +9132,7 @@ window.moviePosterData = [
     "id": 1521,
     "title": "Mr. Wonderful",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107613/",
     "genres": [
       "Comedy",
@@ -8635,6 +9149,7 @@ window.moviePosterData = [
     "id": 14,
     "title": "Postino, Il",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Postino,%20Il%20(1994)",
     "genres": [
       "Drama",
@@ -8650,6 +9165,7 @@ window.moviePosterData = [
     "id": 45,
     "title": "Eat Drink Man Woman",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111797/",
     "genres": [
       "Comedy",
@@ -8667,6 +9183,7 @@ window.moviePosterData = [
     "id": 49,
     "title": "I.Q.",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110099/",
     "genres": [
       "Comedy",
@@ -8683,6 +9200,7 @@ window.moviePosterData = [
     "id": 51,
     "title": "Legends of the Fall",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110322/",
     "genres": [
       "Drama",
@@ -8700,6 +9218,7 @@ window.moviePosterData = [
     "id": 53,
     "title": "Natural Born Killers",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110632/",
     "genres": [
       "Crime",
@@ -8716,6 +9235,7 @@ window.moviePosterData = [
     "id": 57,
     "title": "Priest",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110889/",
     "genres": [
       "Drama",
@@ -8732,6 +9252,7 @@ window.moviePosterData = [
     "id": 59,
     "title": "Three Colors: Red",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111495/",
     "genres": [
       "Drama",
@@ -8749,6 +9270,7 @@ window.moviePosterData = [
     "id": 61,
     "title": "Three Colors: White",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111507/",
     "genres": [
       "Comedy",
@@ -8766,6 +9288,7 @@ window.moviePosterData = [
     "id": 68,
     "title": "Crow",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Crow,%20The%20(1994)",
     "genres": [
       "Action",
@@ -8782,6 +9305,7 @@ window.moviePosterData = [
     "id": 69,
     "title": "Forrest Gump",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109830/",
     "genres": [
       "Drama",
@@ -8798,6 +9322,7 @@ window.moviePosterData = [
     "id": 70,
     "title": "Four Weddings and a Funeral",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109831/",
     "genres": [
       "Comedy",
@@ -8815,6 +9340,7 @@ window.moviePosterData = [
     "id": 81,
     "title": "Hudsucker Proxy",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Hudsucker%20Proxy,%20The%20(1994)",
     "genres": [
       "Comedy",
@@ -8830,6 +9356,7 @@ window.moviePosterData = [
     "id": 464,
     "title": "Vanya on 42nd Street",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111590/",
     "genres": [
       "Comedy",
@@ -8847,6 +9374,7 @@ window.moviePosterData = [
     "id": 561,
     "title": "Mary Shelley's Frankenstein",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109836/",
     "genres": [
       "Drama",
@@ -8864,6 +9392,7 @@ window.moviePosterData = [
     "id": 569,
     "title": "Wolf",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111742/",
     "genres": [
       "Drama",
@@ -8881,6 +9410,7 @@ window.moviePosterData = [
     "id": 586,
     "title": "Terminal Velocity",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111400/",
     "genres": [
       "Action",
@@ -8898,6 +9428,7 @@ window.moviePosterData = [
     "id": 702,
     "title": "Barcelona",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109219/",
     "genres": [
       "Comedy",
@@ -8915,6 +9446,7 @@ window.moviePosterData = [
     "id": 725,
     "title": "Exit to Eden",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109758/",
     "genres": [
       "Comedy",
@@ -8932,6 +9464,7 @@ window.moviePosterData = [
     "id": 730,
     "title": "Queen Margot (Reine Margot, La)",
     "year": 1994,
+    "releaseDate": "01-Jan-1996",
     "imdbUrl": "http://us.imdb.com/Title?Reine+Margot,+La+(1994)",
     "genres": [
       "Drama",
@@ -8947,6 +9480,7 @@ window.moviePosterData = [
     "id": 731,
     "title": "Corrina, Corrina",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109484/",
     "genres": [
       "Comedy",
@@ -8964,6 +9498,7 @@ window.moviePosterData = [
     "id": 733,
     "title": "Go Fish",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109913/",
     "genres": [
       "Comedy",
@@ -8981,6 +9516,7 @@ window.moviePosterData = [
     "id": 737,
     "title": "Sirens",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111201/",
     "genres": [
       "Comedy",
@@ -8998,6 +9534,7 @@ window.moviePosterData = [
     "id": 738,
     "title": "Threesome",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111418/",
     "genres": [
       "Comedy",
@@ -9015,6 +9552,7 @@ window.moviePosterData = [
     "id": 783,
     "title": "Milk Money",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110516/",
     "genres": [
       "Comedy",
@@ -9031,6 +9569,7 @@ window.moviePosterData = [
     "id": 785,
     "title": "Only You",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110737/",
     "genres": [
       "Comedy",
@@ -9047,6 +9586,7 @@ window.moviePosterData = [
     "id": 1542,
     "title": "Scarlet Letter",
     "year": 1926,
+    "releaseDate": "01-Jan-1926",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Scarlet%20Letter,%20The%20(1926)",
     "genres": [
       "Drama"
@@ -9061,6 +9601,7 @@ window.moviePosterData = [
     "id": 617,
     "title": "Blue Angel, The (Blaue Engel, Der)",
     "year": 1930,
+    "releaseDate": "01-Jan-1930",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Blaue%20Engel,%20Der%20(1930)",
     "genres": [
       "Drama"
@@ -9075,6 +9616,7 @@ window.moviePosterData = [
     "id": 633,
     "title": "Christmas Carol",
     "year": 1938,
+    "releaseDate": "01-Jan-1938",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Christmas%20Carol,%20A%20(1938)",
     "genres": [
       "Drama"
@@ -9089,6 +9631,7 @@ window.moviePosterData = [
     "id": 1566,
     "title": "Man from Down Under",
     "year": 1943,
+    "releaseDate": "01-Jan-1943",
     "imdbUrl": "http://us.imdb.com/Title?Man+from+Down+Under,+The+(1943)",
     "genres": [
       "Drama"
@@ -9103,6 +9646,7 @@ window.moviePosterData = [
     "id": 1310,
     "title": "Walk in the Sun",
     "year": 1945,
+    "releaseDate": "01-Jan-1945",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Walk%20in%20the%20Sun,%20A%20(1945)",
     "genres": [
       "Drama"
@@ -9117,6 +9661,7 @@ window.moviePosterData = [
     "id": 1350,
     "title": "Crows and Sparrows",
     "year": 1949,
+    "releaseDate": "01-Jan-1949",
     "imdbUrl": "https://www.imdb.com/title/tt0042054/",
     "genres": [
       "Drama"
@@ -9132,6 +9677,7 @@ window.moviePosterData = [
     "id": 606,
     "title": "All About Eve",
     "year": 1950,
+    "releaseDate": "01-Jan-1950",
     "imdbUrl": "https://www.imdb.com/title/tt0042192/",
     "genres": [
       "Drama"
@@ -9147,6 +9693,7 @@ window.moviePosterData = [
     "id": 507,
     "title": "Streetcar Named Desire",
     "year": 1951,
+    "releaseDate": "01-Jan-1951",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Streetcar%20Named%20Desire,%20A%20(1951)",
     "genres": [
       "Drama"
@@ -9161,6 +9708,7 @@ window.moviePosterData = [
     "id": 510,
     "title": "Magnificent Seven",
     "year": 1954,
+    "releaseDate": "01-Jan-1954",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Shichinin%20no%20samurai%20(1954)",
     "genres": [
       "Action",
@@ -9177,6 +9725,7 @@ window.moviePosterData = [
     "id": 1123,
     "title": "Last Time I Saw Paris",
     "year": 1954,
+    "releaseDate": "01-Jan-1954",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Last%20Time%20I%20Saw%20Paris,%20The%20(1954)",
     "genres": [
       "Drama"
@@ -9191,6 +9740,7 @@ window.moviePosterData = [
     "id": 492,
     "title": "East of Eden",
     "year": 1955,
+    "releaseDate": "01-Jan-1955",
     "imdbUrl": "https://www.imdb.com/title/tt0048028/",
     "genres": [
       "Drama"
@@ -9206,6 +9756,7 @@ window.moviePosterData = [
     "id": 506,
     "title": "Rebel Without a Cause",
     "year": 1955,
+    "releaseDate": "01-Jan-1955",
     "imdbUrl": "https://www.imdb.com/title/tt0048545/",
     "genres": [
       "Drama"
@@ -9221,6 +9772,7 @@ window.moviePosterData = [
     "id": 1449,
     "title": "Pather Panchali",
     "year": 1955,
+    "releaseDate": "22-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0048473/",
     "genres": [
       "Drama",
@@ -9237,6 +9789,7 @@ window.moviePosterData = [
     "id": 614,
     "title": "Giant",
     "year": 1956,
+    "releaseDate": "01-Jan-1956",
     "imdbUrl": "https://www.imdb.com/title/tt0049261/",
     "genres": [
       "Drama",
@@ -9253,6 +9806,7 @@ window.moviePosterData = [
     "id": 1558,
     "title": "Aparajito",
     "year": 1956,
+    "releaseDate": "29-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0048956/",
     "genres": [
       "Drama"
@@ -9268,6 +9822,7 @@ window.moviePosterData = [
     "id": 1577,
     "title": "Death in the Garden (Mort en ce jardin, La)",
     "year": 1956,
+    "releaseDate": "01-Jan-1956",
     "imdbUrl": "http://us.imdb.com/Title?Mort+en+ce+jardin,+La+(1956)",
     "genres": [
       "Drama"
@@ -9282,6 +9837,7 @@ window.moviePosterData = [
     "id": 199,
     "title": "Bridge on the River Kwai",
     "year": 1957,
+    "releaseDate": "01-Jan-1957",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Bridge%20on%20the%20River%20Kwai,%20The%20(1957)",
     "genres": [
       "Drama",
@@ -9297,6 +9853,7 @@ window.moviePosterData = [
     "id": 641,
     "title": "Paths of Glory",
     "year": 1957,
+    "releaseDate": "01-Jan-1957",
     "imdbUrl": "https://www.imdb.com/title/tt0050825/",
     "genres": [
       "Drama",
@@ -9313,6 +9870,7 @@ window.moviePosterData = [
     "id": 650,
     "title": "Seventh Seal, The (Sjunde inseglet, Det)",
     "year": 1957,
+    "releaseDate": "01-Jan-1957",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Sjunde%20inseglet,%20Det%20(1957)",
     "genres": [
       "Drama"
@@ -9327,6 +9885,7 @@ window.moviePosterData = [
     "id": 499,
     "title": "Cat on a Hot Tin Roof",
     "year": 1958,
+    "releaseDate": "01-Jan-1958",
     "imdbUrl": "https://www.imdb.com/title/tt0051459/",
     "genres": [
       "Drama"
@@ -9342,6 +9901,7 @@ window.moviePosterData = [
     "id": 1126,
     "title": "Old Man and the Sea",
     "year": 1958,
+    "releaseDate": "01-Jan-1958",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Old%20Man%20and%20the%20Sea,%20The%20(1958)",
     "genres": [
       "Adventure",
@@ -9357,6 +9917,7 @@ window.moviePosterData = [
     "id": 1347,
     "title": "Ballad of Narayama, The (Narayama Bushiko)",
     "year": 1958,
+    "releaseDate": "01-Jan-1958",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Narayama%20Bushiko%20%281958%29",
     "genres": [
       "Drama"
@@ -9371,6 +9932,7 @@ window.moviePosterData = [
     "id": 1587,
     "title": "Terror in a Texas Town",
     "year": 1958,
+    "releaseDate": "01-Jan-1958",
     "imdbUrl": "https://www.imdb.com/title/tt0052287/",
     "genres": [
       "Drama",
@@ -9387,6 +9949,7 @@ window.moviePosterData = [
     "id": 526,
     "title": "Ben-Hur",
     "year": 1959,
+    "releaseDate": "01-Jan-1959",
     "imdbUrl": "https://www.imdb.com/title/tt0052618/",
     "genres": [
       "Adventure",
@@ -9403,6 +9966,7 @@ window.moviePosterData = [
     "id": 1512,
     "title": "World of Apu, The (Apur Sansar)",
     "year": 1959,
+    "releaseDate": "05-Apr-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Apur%20Sansar%20(1959)",
     "genres": [
       "Drama"
@@ -9417,6 +9981,7 @@ window.moviePosterData = [
     "id": 511,
     "title": "Lawrence of Arabia",
     "year": 1962,
+    "releaseDate": "01-Jan-1962",
     "imdbUrl": "https://www.imdb.com/title/tt0056172/",
     "genres": [
       "Adventure",
@@ -9434,6 +9999,7 @@ window.moviePosterData = [
     "id": 1674,
     "title": "Mamma Roma",
     "year": 1962,
+    "releaseDate": "01-Jan-1962",
     "imdbUrl": "https://www.imdb.com/title/tt0056215/",
     "genres": [
       "Drama"
@@ -9449,6 +10015,7 @@ window.moviePosterData = [
     "id": 1252,
     "title": "Contempt (Mépris, Le)",
     "year": 1963,
+    "releaseDate": "27-Jun-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?M%E9pris%2C+Le+(1963)",
     "genres": [
       "Drama"
@@ -9463,6 +10030,7 @@ window.moviePosterData = [
     "id": 1121,
     "title": "Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)",
     "year": 1964,
+    "releaseDate": "05-Apr-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Parapluies%20de%20Cherbourg,%20Les%20(1964)",
     "genres": [
       "Drama",
@@ -9478,6 +10046,7 @@ window.moviePosterData = [
     "id": 1382,
     "title": "Bonheur, Le",
     "year": 1965,
+    "releaseDate": "16-May-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Bonheur%2C%20Le%20%281965%29",
     "genres": [
       "Drama"
@@ -9492,6 +10061,7 @@ window.moviePosterData = [
     "id": 851,
     "title": "Two or Three Things I Know About Her",
     "year": 1966,
+    "releaseDate": "01-Jan-1966",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Deux%20ou%20trois%20choses%20que%20je%20sais%20d'elle%20(1966)",
     "genres": [
       "Drama"
@@ -9506,6 +10076,7 @@ window.moviePosterData = [
     "id": 1578,
     "title": "Collectionneuse, La",
     "year": 1967,
+    "releaseDate": "01-Jan-1967",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Collectionneuse,%20La%20(1967)",
     "genres": [
       "Drama"
@@ -9520,6 +10091,7 @@ window.moviePosterData = [
     "id": 822,
     "title": "Faces",
     "year": 1968,
+    "releaseDate": "01-Jan-1968",
     "imdbUrl": "https://www.imdb.com/title/tt0062952/",
     "genres": [
       "Drama"
@@ -9535,6 +10107,7 @@ window.moviePosterData = [
     "id": 205,
     "title": "Patton",
     "year": 1970,
+    "releaseDate": "01-Jan-1970",
     "imdbUrl": "https://www.imdb.com/title/tt0066206/",
     "genres": [
       "Biography",
@@ -9552,6 +10125,7 @@ window.moviePosterData = [
     "id": 863,
     "title": "Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il)",
     "year": 1970,
+    "releaseDate": "08-Nov-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Giardino%20dei%20Finzi-Contini,%20Il%20(1970)",
     "genres": [
       "Drama"
@@ -9566,6 +10140,7 @@ window.moviePosterData = [
     "id": 1149,
     "title": "Walkabout",
     "year": 1971,
+    "releaseDate": "20-Dec-1971",
     "imdbUrl": "https://www.imdb.com/title/tt0067959/",
     "genres": [
       "Adventure",
@@ -9582,6 +10157,7 @@ window.moviePosterData = [
     "id": 503,
     "title": "Candidate",
     "year": 1972,
+    "releaseDate": "01-Jan-1972",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Candidate,%20The%20(1972)",
     "genres": [
       "Drama"
@@ -9596,6 +10172,7 @@ window.moviePosterData = [
     "id": 1571,
     "title": "Touki Bouki (Journey of the Hyena)",
     "year": 1973,
+    "releaseDate": "01-Jan-1973",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Touki%20Bouki%20(1973)",
     "genres": [
       "Drama"
@@ -9610,6 +10187,7 @@ window.moviePosterData = [
     "id": 1309,
     "title": "Very Natural Thing",
     "year": 1974,
+    "releaseDate": "01-Jan-1974",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Very%20Natural%20Thing,%20A%20(1974)",
     "genres": [
       "Drama"
@@ -9624,6 +10202,7 @@ window.moviePosterData = [
     "id": 357,
     "title": "One Flew Over the Cuckoo's Nest",
     "year": 1975,
+    "releaseDate": "01-Jan-1975",
     "imdbUrl": "https://www.imdb.com/title/tt0073486/",
     "genres": [
       "Drama"
@@ -9639,6 +10218,7 @@ window.moviePosterData = [
     "id": 1214,
     "title": "In the Realm of the Senses (Ai no corrida)",
     "year": 1976,
+    "releaseDate": "08-Mar-1976",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Ai%20no%20Corrida%20(1976)",
     "genres": [
       "Drama"
@@ -9653,6 +10233,7 @@ window.moviePosterData = [
     "id": 1352,
     "title": "Shadow of Angels (Schatten der Engel)",
     "year": 1976,
+    "releaseDate": "01-Jan-1976",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Schatten%20der%20Engel%20(1976)",
     "genres": [
       "Drama"
@@ -9667,6 +10248,7 @@ window.moviePosterData = [
     "id": 521,
     "title": "Deer Hunter",
     "year": 1978,
+    "releaseDate": "01-Jan-1978",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Deer%20Hunter,%20The%20(1978)",
     "genres": [
       "Drama",
@@ -9682,6 +10264,7 @@ window.moviePosterData = [
     "id": 639,
     "title": "Tin Drum, The (Blechtrommel, Die)",
     "year": 1979,
+    "releaseDate": "01-Jan-1979",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Blechtrommel,%20Die%20(1979)",
     "genres": [
       "Drama"
@@ -9696,6 +10279,7 @@ window.moviePosterData = [
     "id": 192,
     "title": "Raging Bull",
     "year": 1980,
+    "releaseDate": "01-Jan-1980",
     "imdbUrl": "https://www.imdb.com/title/tt0081398/",
     "genres": [
       "Biography",
@@ -9713,6 +10297,7 @@ window.moviePosterData = [
     "id": 162,
     "title": "On Golden Pond",
     "year": 1981,
+    "releaseDate": "01-Jan-1981",
     "imdbUrl": "https://www.imdb.com/title/tt0082846/",
     "genres": [
       "Drama"
@@ -9728,6 +10313,7 @@ window.moviePosterData = [
     "id": 515,
     "title": "Boot, Das",
     "year": 1981,
+    "releaseDate": "04-Apr-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Boot,%20Das%20(1981)",
     "genres": [
       "Action",
@@ -9744,6 +10330,7 @@ window.moviePosterData = [
     "id": 214,
     "title": "Pink Floyd - The Wall",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Pink%20Floyd%20-%20The%20Wall%20(1982)",
     "genres": [
       "Drama",
@@ -9760,6 +10347,7 @@ window.moviePosterData = [
     "id": 527,
     "title": "Gandhi",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "https://www.imdb.com/title/tt0083987/",
     "genres": [
       "Biography",
@@ -9777,6 +10365,7 @@ window.moviePosterData = [
     "id": 638,
     "title": "Return of Martin Guerre, The (Retour de Martin Guerre, Le)",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Retour%20de%20Martin%20Guerre,%20Le%20(1982)",
     "genres": [
       "Drama"
@@ -9791,6 +10380,7 @@ window.moviePosterData = [
     "id": 1572,
     "title": "Wend Kuuni (God's Gift)",
     "year": 1982,
+    "releaseDate": "01-Jan-1982",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Wend%20Kuuni%20(1982)",
     "genres": [
       "Drama"
@@ -9805,6 +10395,7 @@ window.moviePosterData = [
     "id": 193,
     "title": "Right Stuff",
     "year": 1983,
+    "releaseDate": "01-Jan-1983",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Right%20Stuff,%20The%20(1983)",
     "genres": [
       "Drama"
@@ -9819,6 +10410,7 @@ window.moviePosterData = [
     "id": 191,
     "title": "Amadeus",
     "year": 1984,
+    "releaseDate": "01-Jan-1984",
     "imdbUrl": "https://www.imdb.com/title/tt0086879/",
     "genres": [
       "Biography",
@@ -9836,6 +10428,7 @@ window.moviePosterData = [
     "id": 664,
     "title": "Paris, Texas",
     "year": 1984,
+    "releaseDate": "01-Jan-1984",
     "imdbUrl": "https://www.imdb.com/title/tt0087884/",
     "genres": [
       "Drama"
@@ -9851,6 +10444,7 @@ window.moviePosterData = [
     "id": 529,
     "title": "My Life as a Dog (Mitt liv som hund)",
     "year": 1985,
+    "releaseDate": "01-Jan-1985",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Mitt%20liv%20som%20hund%20(1985)",
     "genres": [
       "Drama"
@@ -9865,6 +10459,7 @@ window.moviePosterData = [
     "id": 647,
     "title": "Ran",
     "year": 1985,
+    "releaseDate": "01-Jan-1985",
     "imdbUrl": "https://www.imdb.com/title/tt0089881/",
     "genres": [
       "Action",
@@ -9882,6 +10477,7 @@ window.moviePosterData = [
     "id": 157,
     "title": "Platoon",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "https://www.imdb.com/title/tt0091763/",
     "genres": [
       "Drama",
@@ -9898,6 +10494,7 @@ window.moviePosterData = [
     "id": 161,
     "title": "Top Gun",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "https://www.imdb.com/title/tt0092099/",
     "genres": [
       "Action",
@@ -9914,6 +10511,7 @@ window.moviePosterData = [
     "id": 165,
     "title": "Jean de Florette",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "https://www.imdb.com/title/tt0091288/",
     "genres": [
       "Drama"
@@ -9929,6 +10527,7 @@ window.moviePosterData = [
     "id": 166,
     "title": "Manon of the Spring (Manon des sources)",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Manon%20des%20sources%20(1986)",
     "genres": [
       "Drama"
@@ -9943,6 +10542,7 @@ window.moviePosterData = [
     "id": 655,
     "title": "Stand by Me",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "https://www.imdb.com/title/tt0092005/",
     "genres": [
       "Adventure",
@@ -9959,6 +10559,7 @@ window.moviePosterData = [
     "id": 1583,
     "title": "Invitation, The (Zaproszenie)",
     "year": 1986,
+    "releaseDate": "01-Jan-1986",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Zaproszenie%20(1986)",
     "genres": [
       "Drama"
@@ -9973,6 +10574,7 @@ window.moviePosterData = [
     "id": 1635,
     "title": "Two Friends",
     "year": 1986,
+    "releaseDate": "26-Apr-1986",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Two%20Friends%20(1986)%20(TV)",
     "genres": [
       "Drama"
@@ -9987,6 +10589,7 @@ window.moviePosterData = [
     "id": 188,
     "title": "Full Metal Jacket",
     "year": 1987,
+    "releaseDate": "01-Jan-1987",
     "imdbUrl": "https://www.imdb.com/title/tt0093058/",
     "genres": [
       "Drama",
@@ -10003,6 +10606,7 @@ window.moviePosterData = [
     "id": 212,
     "title": "Unbearable Lightness of Being",
     "year": 1988,
+    "releaseDate": "01-Jan-1988",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Unbearable%20Lightness%20of%20Being,%20The%20(1988)",
     "genres": [
       "Drama"
@@ -10017,6 +10621,7 @@ window.moviePosterData = [
     "id": 232,
     "title": "Young Guns",
     "year": 1988,
+    "releaseDate": "01-Jan-1988",
     "imdbUrl": "https://www.imdb.com/title/tt0096487/",
     "genres": [
       "Action",
@@ -10034,6 +10639,7 @@ window.moviePosterData = [
     "id": 1546,
     "title": "Shadows (Cienie)",
     "year": 1988,
+    "releaseDate": "01-Jan-1988",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Cienie%20(1988)",
     "genres": [
       "Drama"
@@ -10048,6 +10654,7 @@ window.moviePosterData = [
     "id": 190,
     "title": "Henry V",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "https://www.imdb.com/title/tt0097499/",
     "genres": [
       "Biography",
@@ -10065,6 +10672,7 @@ window.moviePosterData = [
     "id": 509,
     "title": "My Left Foot",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "https://www.imdb.com/title/tt0097937/",
     "genres": [
       "Biography",
@@ -10081,6 +10689,7 @@ window.moviePosterData = [
     "id": 640,
     "title": "Cook the Thief His Wife & Her Lover",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Cook%20the%20Thief%20His%20Wife%20&%20Her%20Lover,%20The%20(1989)",
     "genres": [
       "Drama"
@@ -10095,6 +10704,7 @@ window.moviePosterData = [
     "id": 651,
     "title": "Glory",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "https://www.imdb.com/title/tt0097441/",
     "genres": [
       "Biography",
@@ -10112,6 +10722,7 @@ window.moviePosterData = [
     "id": 708,
     "title": "Sex, Lies, and Videotape",
     "year": 1989,
+    "releaseDate": "01-Jan-1989",
     "imdbUrl": "https://www.imdb.com/title/tt0098724/",
     "genres": [
       "Drama"
@@ -10127,6 +10738,7 @@ window.moviePosterData = [
     "id": 97,
     "title": "Dances with Wolves",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0099348/",
     "genres": [
       "Adventure",
@@ -10144,6 +10756,7 @@ window.moviePosterData = [
     "id": 182,
     "title": "GoodFellas",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0099685/",
     "genres": [
       "Biography",
@@ -10161,6 +10774,7 @@ window.moviePosterData = [
     "id": 849,
     "title": "Days of Thunder",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0099371/",
     "genres": [
       "Action",
@@ -10178,6 +10792,7 @@ window.moviePosterData = [
     "id": 1018,
     "title": "Tie Me Up! Tie Me Down!",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "http://us.imdb.com/Title?%A1%C1tame%21+(1990)",
     "genres": [
       "Drama"
@@ -10192,6 +10807,7 @@ window.moviePosterData = [
     "id": 1188,
     "title": "Young Guns II",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0100994/",
     "genres": [
       "Action",
@@ -10209,6 +10825,7 @@ window.moviePosterData = [
     "id": 922,
     "title": "Dead Man",
     "year": 1995,
+    "releaseDate": "10-May-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0112817/",
     "genres": [
       "Adventure",
@@ -10226,6 +10843,7 @@ window.moviePosterData = [
     "id": 1574,
     "title": "Pharaoh's Army",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114122/",
     "genres": [
       "Drama",
@@ -10243,6 +10861,7 @@ window.moviePosterData = [
     "id": 245,
     "title": "Devil's Own",
     "year": 1997,
+    "releaseDate": "26-Mar-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Devil%27s%20Own%2C%20The%20(1997)",
     "genres": [
       "Action",
@@ -10260,6 +10879,7 @@ window.moviePosterData = [
     "id": 326,
     "title": "G.I. Jane",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119173/",
     "genres": [
       "Action",
@@ -10277,6 +10897,7 @@ window.moviePosterData = [
     "id": 1231,
     "title": "Marked for Death",
     "year": 1990,
+    "releaseDate": "01-Jan-1990",
     "imdbUrl": "https://www.imdb.com/title/tt0100114/",
     "genres": [
       "Action",
@@ -10294,6 +10915,7 @@ window.moviePosterData = [
     "id": 203,
     "title": "Unforgiven",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0105695/",
     "genres": [
       "Drama",
@@ -10310,6 +10932,7 @@ window.moviePosterData = [
     "id": 140,
     "title": "Homeward Bound: The Incredible Journey",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107131/",
     "genres": [
       "Adventure",
@@ -10327,6 +10950,7 @@ window.moviePosterData = [
     "id": 593,
     "title": "Stalingrad",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108211/",
     "genres": [
       "Drama",
@@ -10343,6 +10967,7 @@ window.moviePosterData = [
     "id": 684,
     "title": "In the Line of Fire",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107206/",
     "genres": [
       "Action",
@@ -10360,6 +10985,7 @@ window.moviePosterData = [
     "id": 686,
     "title": "Perfect World",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Perfect%20World,%20A%20(1993)",
     "genres": [
       "Action",
@@ -10375,6 +11001,7 @@ window.moviePosterData = [
     "id": 803,
     "title": "Heaven & Earth",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107096/",
     "genres": [
       "Action",
@@ -10392,6 +11019,7 @@ window.moviePosterData = [
     "id": 808,
     "title": "Program",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Program,%20The%20(1993)",
     "genres": [
       "Action",
@@ -10407,6 +11035,7 @@ window.moviePosterData = [
     "id": 809,
     "title": "Rising Sun",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107969/",
     "genres": [
       "Action",
@@ -10424,6 +11053,7 @@ window.moviePosterData = [
     "id": 1004,
     "title": "Geronimo: An American Legend",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107004/",
     "genres": [
       "Drama",
@@ -10441,6 +11071,7 @@ window.moviePosterData = [
     "id": 1222,
     "title": "Judgment Night",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107286/",
     "genres": [
       "Action",
@@ -10458,6 +11089,7 @@ window.moviePosterData = [
     "id": 1475,
     "title": "Bhaji on the Beach",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106408/",
     "genres": [
       "Adventure",
@@ -10475,6 +11107,7 @@ window.moviePosterData = [
     "id": 566,
     "title": "Clear and Present Danger",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109444/",
     "genres": [
       "Action",
@@ -10492,6 +11125,7 @@ window.moviePosterData = [
     "id": 570,
     "title": "Wyatt Earp",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111756/",
     "genres": [
       "Adventure",
@@ -10509,6 +11143,7 @@ window.moviePosterData = [
     "id": 572,
     "title": "Blown Away",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109303/",
     "genres": [
       "Action",
@@ -10526,6 +11161,7 @@ window.moviePosterData = [
     "id": 753,
     "title": "Burnt By the Sun",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111579/",
     "genres": [
       "Drama",
@@ -10542,6 +11178,7 @@ window.moviePosterData = [
     "id": 1058,
     "title": "War",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?War,%20The%20(1994)",
     "genres": [
       "Adventure",
@@ -10557,6 +11194,7 @@ window.moviePosterData = [
     "id": 1271,
     "title": "North",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110687/",
     "genres": [
       "Adventure",
@@ -10574,6 +11212,7 @@ window.moviePosterData = [
     "id": 1330,
     "title": "An Unforgettable Summer",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111546/",
     "genres": [
       "Drama",
@@ -10591,6 +11230,7 @@ window.moviePosterData = [
     "id": 1485,
     "title": "Colonel Chabert, Le",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Colonel%20Chabert,%20Le%20(1994)",
     "genres": [
       "Drama",
@@ -10607,6 +11247,7 @@ window.moviePosterData = [
     "id": 1489,
     "title": "Chasers",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109403/",
     "genres": [
       "Action",
@@ -10624,6 +11265,7 @@ window.moviePosterData = [
     "id": 1559,
     "title": "Hostile Intentions",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Hostile%20Intentions%20(1994)",
     "genres": [
       "Action",
@@ -10640,6 +11282,7 @@ window.moviePosterData = [
     "id": 1595,
     "title": "Shopping",
     "year": 1994,
+    "releaseDate": "09-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0111173/",
     "genres": [
       "Action",
@@ -10657,6 +11300,7 @@ window.moviePosterData = [
     "id": 22,
     "title": "Braveheart",
     "year": 1995,
+    "releaseDate": "16-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0112573/",
     "genres": [
       "Drama",
@@ -10673,6 +11317,7 @@ window.moviePosterData = [
     "id": 28,
     "title": "Apollo 13",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112384/",
     "genres": [
       "Adventure",
@@ -10690,6 +11335,7 @@ window.moviePosterData = [
     "id": 31,
     "title": "Crimson Tide",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112740/",
     "genres": [
       "Action",
@@ -10707,6 +11353,7 @@ window.moviePosterData = [
     "id": 33,
     "title": "Desperado",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112851/",
     "genres": [
       "Action",
@@ -10724,6 +11371,7 @@ window.moviePosterData = [
     "id": 54,
     "title": "Outbreak",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114069/",
     "genres": [
       "Action",
@@ -10741,6 +11389,7 @@ window.moviePosterData = [
     "id": 273,
     "title": "Heat",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113277/",
     "genres": [
       "Action",
@@ -10758,6 +11407,7 @@ window.moviePosterData = [
     "id": 542,
     "title": "Pocahontas",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114148/",
     "genres": [
       "Adventure",
@@ -10775,6 +11425,7 @@ window.moviePosterData = [
     "id": 549,
     "title": "Rob Roy",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114287/",
     "genres": [
       "Adventure",
@@ -10792,6 +11443,7 @@ window.moviePosterData = [
     "id": 556,
     "title": "Wild Bill",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114938/",
     "genres": [
       "Action",
@@ -10809,6 +11461,7 @@ window.moviePosterData = [
     "id": 757,
     "title": "Across the Sea of Time",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112286/",
     "genres": [
       "Adventure",
@@ -10826,6 +11479,7 @@ window.moviePosterData = [
     "id": 761,
     "title": "Nick of Time",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113972/",
     "genres": [
       "Action",
@@ -10843,6 +11497,7 @@ window.moviePosterData = [
     "id": 1042,
     "title": "Just Cause",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113501/",
     "genres": [
       "Action",
@@ -10860,6 +11515,7 @@ window.moviePosterData = [
     "id": 1066,
     "title": "Balto",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112453/",
     "genres": [
       "Adventure",
@@ -10877,6 +11533,7 @@ window.moviePosterData = [
     "id": 1250,
     "title": "Best of the Best 3: No Turning Back",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112483/",
     "genres": [
       "Action",
@@ -10894,6 +11551,7 @@ window.moviePosterData = [
     "id": 1338,
     "title": "Two Deaths",
     "year": 1995,
+    "releaseDate": "09-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117999/",
     "genres": [
       "Drama",
@@ -10910,6 +11568,7 @@ window.moviePosterData = [
     "id": 1423,
     "title": "Walking Dead",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Walking%20Dead,%20The%20(1995)",
     "genres": [
       "Drama",
@@ -10925,6 +11584,7 @@ window.moviePosterData = [
     "id": 1469,
     "title": "Tom and Huck",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112302/",
     "genres": [
       "Adventure",
@@ -10942,6 +11602,7 @@ window.moviePosterData = [
     "id": 1478,
     "title": "Dead Presidents",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112819/",
     "genres": [
       "Action",
@@ -10959,6 +11620,7 @@ window.moviePosterData = [
     "id": 1486,
     "title": "Girl in the Cadillac",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113173/",
     "genres": [
       "Adventure",
@@ -10976,6 +11638,7 @@ window.moviePosterData = [
     "id": 1491,
     "title": "Tough and Deadly",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114706/",
     "genres": [
       "Action",
@@ -10993,6 +11656,7 @@ window.moviePosterData = [
     "id": 1503,
     "title": "Gold Diggers: The Secret of Bear Mountain",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113188/",
     "genres": [
       "Adventure",
@@ -11010,6 +11674,7 @@ window.moviePosterData = [
     "id": 1545,
     "title": "Frankie Starlight",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113107/",
     "genres": [
       "Drama",
@@ -11027,6 +11692,7 @@ window.moviePosterData = [
     "id": 1556,
     "title": "Condition Red",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112712/",
     "genres": [
       "Action",
@@ -11044,6 +11710,7 @@ window.moviePosterData = [
     "id": 1613,
     "title": "Tokyo Fist",
     "year": 1995,
+    "releaseDate": "11-Feb-1998",
     "imdbUrl": "https://www.imdb.com/title/tt0114690/",
     "genres": [
       "Action",
@@ -11061,6 +11728,7 @@ window.moviePosterData = [
     "id": 112,
     "title": "Flipper",
     "year": 1996,
+    "releaseDate": "10-May-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116322/",
     "genres": [
       "Adventure",
@@ -11078,6 +11746,7 @@ window.moviePosterData = [
     "id": 121,
     "title": "Independence Day (ID4)",
     "year": 1996,
+    "releaseDate": "03-Jul-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)",
     "genres": [
       "Action",
@@ -11094,6 +11763,7 @@ window.moviePosterData = [
     "id": 124,
     "title": "Lone Star",
     "year": 1996,
+    "releaseDate": "21-Jun-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116905/",
     "genres": [
       "Drama",
@@ -11111,6 +11781,7 @@ window.moviePosterData = [
     "id": 138,
     "title": "D3: The Mighty Ducks",
     "year": 1996,
+    "releaseDate": "04-Oct-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116000/",
     "genres": [
       "Action",
@@ -11128,6 +11799,7 @@ window.moviePosterData = [
     "id": 286,
     "title": "English Patient",
     "year": 1996,
+    "releaseDate": "15-Nov-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)",
     "genres": [
       "Drama",
@@ -11144,6 +11816,7 @@ window.moviePosterData = [
     "id": 471,
     "title": "Courage Under Fire",
     "year": 1996,
+    "releaseDate": "08-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115956/",
     "genres": [
       "Action",
@@ -11161,6 +11834,7 @@ window.moviePosterData = [
     "id": 500,
     "title": "Fly Away Home",
     "year": 1996,
+    "releaseDate": "13-Sep-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116329/",
     "genres": [
       "Adventure",
@@ -11178,6 +11852,7 @@ window.moviePosterData = [
     "id": 742,
     "title": "Ransom",
     "year": 1996,
+    "releaseDate": "08-Nov-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117438/",
     "genres": [
       "Action",
@@ -11195,6 +11870,7 @@ window.moviePosterData = [
     "id": 828,
     "title": "Alaska",
     "year": 1996,
+    "releaseDate": "21-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115493/",
     "genres": [
       "Adventure",
@@ -11212,6 +11888,7 @@ window.moviePosterData = [
     "id": 840,
     "title": "Last Man Standing",
     "year": 1996,
+    "releaseDate": "20-Sep-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116830/",
     "genres": [
       "Action",
@@ -11229,6 +11906,7 @@ window.moviePosterData = [
     "id": 924,
     "title": "White Squall",
     "year": 1996,
+    "releaseDate": "01-Jan-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0118158/",
     "genres": [
       "Adventure",
@@ -11245,6 +11923,7 @@ window.moviePosterData = [
     "id": 930,
     "title": "Chain Reaction",
     "year": 1996,
+    "releaseDate": "31-Jul-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115857/",
     "genres": [
       "Action",
@@ -11262,6 +11941,7 @@ window.moviePosterData = [
     "id": 980,
     "title": "Mother Night",
     "year": 1996,
+    "releaseDate": "01-Nov-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117093/",
     "genres": [
       "Drama",
@@ -11279,6 +11959,7 @@ window.moviePosterData = [
     "id": 1134,
     "title": "Get on the Bus",
     "year": 1996,
+    "releaseDate": "16-Oct-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116404/",
     "genres": [
       "Adventure",
@@ -11296,6 +11977,7 @@ window.moviePosterData = [
     "id": 1151,
     "title": "Original Gangstas",
     "year": 1996,
+    "releaseDate": "10-May-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117260/",
     "genres": [
       "Action",
@@ -11313,6 +11995,7 @@ window.moviePosterData = [
     "id": 1161,
     "title": "Palookaville",
     "year": 1996,
+    "releaseDate": "25-Oct-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Palookaville%20(1996)",
     "genres": [
       "Action",
@@ -11328,6 +12011,7 @@ window.moviePosterData = [
     "id": 1277,
     "title": "Set It Off",
     "year": 1996,
+    "releaseDate": "25-Sep-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117603/",
     "genres": [
       "Action",
@@ -11345,6 +12029,7 @@ window.moviePosterData = [
     "id": 1391,
     "title": "For Ever Mozart",
     "year": 1996,
+    "releaseDate": "04-Jul-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0116334/",
     "genres": [
       "Comedy",
@@ -11362,6 +12047,7 @@ window.moviePosterData = [
     "id": 1517,
     "title": "Race the Sun",
     "year": 1996,
+    "releaseDate": "01-Jan-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117427/",
     "genres": [
       "Adventure",
@@ -11379,6 +12065,7 @@ window.moviePosterData = [
     "id": 291,
     "title": "Absolute Power",
     "year": 1997,
+    "releaseDate": "14-Feb-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118548/",
     "genres": [
       "Action",
@@ -11396,6 +12083,7 @@ window.moviePosterData = [
     "id": 292,
     "title": "Rosewood",
     "year": 1997,
+    "releaseDate": "21-Feb-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0120036/",
     "genres": [
       "Action",
@@ -11413,6 +12101,7 @@ window.moviePosterData = [
     "id": 295,
     "title": "Breakdown",
     "year": 1997,
+    "releaseDate": "02-May-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118771/",
     "genres": [
       "Action",
@@ -11430,6 +12119,7 @@ window.moviePosterData = [
     "id": 300,
     "title": "Air Force One",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118571/",
     "genres": [
       "Action",
@@ -11447,6 +12137,7 @@ window.moviePosterData = [
     "id": 322,
     "title": "Murder at 1600",
     "year": 1997,
+    "releaseDate": "18-Apr-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119731/",
     "genres": [
       "Action",
@@ -11464,6 +12155,7 @@ window.moviePosterData = [
     "id": 328,
     "title": "Conspiracy Theory",
     "year": 1997,
+    "releaseDate": "08-Aug-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118883/",
     "genres": [
       "Action",
@@ -11481,6 +12173,7 @@ window.moviePosterData = [
     "id": 331,
     "title": "Edge",
     "year": 1997,
+    "releaseDate": "26-Sep-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0123817/",
     "genres": [
       "Action",
@@ -11498,6 +12191,7 @@ window.moviePosterData = [
     "id": 794,
     "title": "It Could Happen to You",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110167/",
     "genres": [
       "Comedy",
@@ -11515,6 +12209,7 @@ window.moviePosterData = [
     "id": 1074,
     "title": "Reality Bites",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110950/",
     "genres": [
       "Comedy",
@@ -11532,6 +12227,7 @@ window.moviePosterData = [
     "id": 1100,
     "title": "What Happened Was...",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111689/",
     "genres": [
       "Comedy",
@@ -11549,6 +12245,7 @@ window.moviePosterData = [
     "id": 1272,
     "title": "Talking About Sex",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111357/",
     "genres": [
       "Comedy",
@@ -11566,6 +12263,7 @@ window.moviePosterData = [
     "id": 1297,
     "title": "Love Affair",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110391/",
     "genres": [
       "Comedy",
@@ -11583,6 +12281,7 @@ window.moviePosterData = [
     "id": 1308,
     "title": "Babyfever",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109191/",
     "genres": [
       "Comedy",
@@ -11600,6 +12299,7 @@ window.moviePosterData = [
     "id": 1424,
     "title": "I Like It Like That",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110091/",
     "genres": [
       "Comedy",
@@ -11617,6 +12317,7 @@ window.moviePosterData = [
     "id": 1474,
     "title": "Nina Takes a Lover",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110671/",
     "genres": [
       "Comedy",
@@ -11634,6 +12335,7 @@ window.moviePosterData = [
     "id": 36,
     "title": "Mad Love",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113729/",
     "genres": [
       "Comedy",
@@ -11651,6 +12353,7 @@ window.moviePosterData = [
     "id": 66,
     "title": "While You Were Sleeping",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114924/",
     "genres": [
       "Comedy",
@@ -11668,6 +12371,7 @@ window.moviePosterData = [
     "id": 274,
     "title": "Sabrina",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114319/",
     "genres": [
       "Comedy",
@@ -11685,6 +12389,7 @@ window.moviePosterData = [
     "id": 692,
     "title": "American President",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?American%20President,%20The%20(1995)",
     "genres": [
       "Comedy",
@@ -11701,6 +12406,7 @@ window.moviePosterData = [
     "id": 695,
     "title": "Kicking and Screaming",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113537/",
     "genres": [
       "Comedy",
@@ -11718,6 +12424,7 @@ window.moviePosterData = [
     "id": 716,
     "title": "Home for the Holidays",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113321/",
     "genres": [
       "Comedy",
@@ -11735,6 +12442,7 @@ window.moviePosterData = [
     "id": 775,
     "title": "Something to Talk About",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114496/",
     "genres": [
       "Comedy",
@@ -11752,6 +12460,7 @@ window.moviePosterData = [
     "id": 778,
     "title": "Don Juan DeMarco",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Don%20Juan%20DeMarco%20and%20the%20Centerfold%20(1995)",
     "genres": [
       "Comedy",
@@ -11768,6 +12477,7 @@ window.moviePosterData = [
     "id": 781,
     "title": "French Kiss",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113117/",
     "genres": [
       "Comedy",
@@ -11785,6 +12495,7 @@ window.moviePosterData = [
     "id": 949,
     "title": "How to Make an American Quilt",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113347/",
     "genres": [
       "Comedy",
@@ -11802,6 +12513,7 @@ window.moviePosterData = [
     "id": 955,
     "title": "Before Sunrise",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112471/",
     "genres": [
       "Comedy",
@@ -11819,6 +12531,7 @@ window.moviePosterData = [
     "id": 1053,
     "title": "Now and Then",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114011/",
     "genres": [
       "Comedy",
@@ -11836,6 +12549,7 @@ window.moviePosterData = [
     "id": 1071,
     "title": "Party Girl",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114095/",
     "genres": [
       "Comedy",
@@ -11853,6 +12567,7 @@ window.moviePosterData = [
     "id": 1311,
     "title": "Waiting to Exhale",
     "year": 1995,
+    "releaseDate": "15-Jan-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0114885/",
     "genres": [
       "Comedy",
@@ -11870,6 +12585,7 @@ window.moviePosterData = [
     "id": 1396,
     "title": "Stonewall",
     "year": 1995,
+    "releaseDate": "26-Jul-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0114550/",
     "genres": [
       "Comedy",
@@ -11887,6 +12603,7 @@ window.moviePosterData = [
     "id": 1441,
     "title": "Moonlight and Valentino",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113851/",
     "genres": [
       "Comedy",
@@ -11904,6 +12621,7 @@ window.moviePosterData = [
     "id": 1621,
     "title": "Butterfly Kiss",
     "year": 1995,
+    "releaseDate": "26-Apr-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0112604/",
     "genres": [
       "Comedy",
@@ -11921,6 +12639,7 @@ window.moviePosterData = [
     "id": 237,
     "title": "Jerry Maguire",
     "year": 1996,
+    "releaseDate": "13-Dec-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116695/",
     "genres": [
       "Comedy",
@@ -11938,6 +12657,7 @@ window.moviePosterData = [
     "id": 242,
     "title": "Kolya",
     "year": 1996,
+    "releaseDate": "24-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0116790/",
     "genres": [
       "Comedy",
@@ -11955,6 +12675,7 @@ window.moviePosterData = [
     "id": 251,
     "title": "Shall We Dance?",
     "year": 1996,
+    "releaseDate": "11-Jul-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0117615/",
     "genres": [
       "Comedy",
@@ -11972,6 +12693,7 @@ window.moviePosterData = [
     "id": 283,
     "title": "Emma",
     "year": 1996,
+    "releaseDate": "02-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116191/",
     "genres": [
       "Comedy",
@@ -11989,6 +12711,7 @@ window.moviePosterData = [
     "id": 284,
     "title": "Tin Cup",
     "year": 1996,
+    "releaseDate": "16-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117918/",
     "genres": [
       "Comedy",
@@ -12006,6 +12729,7 @@ window.moviePosterData = [
     "id": 319,
     "title": "Everyone Says I Love You",
     "year": 1996,
+    "releaseDate": "06-Dec-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116242/",
     "genres": [
       "Comedy",
@@ -12023,6 +12747,7 @@ window.moviePosterData = [
     "id": 762,
     "title": "Beautiful Girls",
     "year": 1996,
+    "releaseDate": "09-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115639/",
     "genres": [
       "Comedy",
@@ -12040,6 +12765,7 @@ window.moviePosterData = [
     "id": 764,
     "title": "If Lucy Fell",
     "year": 1996,
+    "releaseDate": "08-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116606/",
     "genres": [
       "Comedy",
@@ -12057,6 +12783,7 @@ window.moviePosterData = [
     "id": 815,
     "title": "One Fine Day",
     "year": 1996,
+    "releaseDate": "30-Nov-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117247/",
     "genres": [
       "Comedy",
@@ -12074,6 +12801,7 @@ window.moviePosterData = [
     "id": 821,
     "title": "Mrs. Winterbourne",
     "year": 1996,
+    "releaseDate": "19-Apr-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117104/",
     "genres": [
       "Comedy",
@@ -12091,6 +12819,7 @@ window.moviePosterData = [
     "id": 845,
     "title": "That Thing You Do!",
     "year": 1996,
+    "releaseDate": "28-Sep-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117887/",
     "genres": [
       "Comedy",
@@ -12108,6 +12837,7 @@ window.moviePosterData = [
     "id": 936,
     "title": "Brassed Off",
     "year": 1996,
+    "releaseDate": "13-Jun-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0115744/",
     "genres": [
       "Comedy",
@@ -12125,6 +12855,7 @@ window.moviePosterData = [
     "id": 1048,
     "title": "She's the One",
     "year": 1996,
+    "releaseDate": "23-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117628/",
     "genres": [
       "Comedy",
@@ -12142,6 +12873,7 @@ window.moviePosterData = [
     "id": 1137,
     "title": "Beautiful Thing",
     "year": 1996,
+    "releaseDate": "09-Oct-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115640/",
     "genres": [
       "Comedy",
@@ -12159,6 +12891,7 @@ window.moviePosterData = [
     "id": 1262,
     "title": "Walking and Talking",
     "year": 1996,
+    "releaseDate": "12-Jul-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0118113/",
     "genres": [
       "Comedy",
@@ -12176,6 +12909,7 @@ window.moviePosterData = [
     "id": 1296,
     "title": "Indian Summer",
     "year": 1996,
+    "releaseDate": "01-Jan-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116631/",
     "genres": [
       "Comedy",
@@ -12193,6 +12927,7 @@ window.moviePosterData = [
     "id": 1302,
     "title": "Late Bloomers",
     "year": 1996,
+    "releaseDate": "06-Jun-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0116834/",
     "genres": [
       "Comedy",
@@ -12210,6 +12945,7 @@ window.moviePosterData = [
     "id": 1325,
     "title": "August",
     "year": 1996,
+    "releaseDate": "12-Apr-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115591/",
     "genres": [
       "Comedy",
@@ -12227,6 +12963,7 @@ window.moviePosterData = [
     "id": 1377,
     "title": "Hotel de Love",
     "year": 1996,
+    "releaseDate": "07-Feb-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0116565/",
     "genres": [
       "Comedy",
@@ -12244,6 +12981,7 @@ window.moviePosterData = [
     "id": 1426,
     "title": "Grace of My Heart",
     "year": 1996,
+    "releaseDate": "13-Sep-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116442/",
     "genres": [
       "Comedy",
@@ -12261,6 +12999,7 @@ window.moviePosterData = [
     "id": 1511,
     "title": "Children of the Revolution",
     "year": 1996,
+    "releaseDate": "01-May-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0115886/",
     "genres": [
       "Comedy",
@@ -12278,6 +13017,7 @@ window.moviePosterData = [
     "id": 1537,
     "title": "Cosi",
     "year": 1996,
+    "releaseDate": "11-Apr-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0115951/",
     "genres": [
       "Comedy",
@@ -12295,6 +13035,7 @@ window.moviePosterData = [
     "id": 255,
     "title": "My Best Friend's Wedding",
     "year": 1997,
+    "releaseDate": "20-Jun-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119738/",
     "genres": [
       "Comedy",
@@ -12312,6 +13053,7 @@ window.moviePosterData = [
     "id": 268,
     "title": "Chasing Amy",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118842/",
     "genres": [
       "Comedy",
@@ -12329,6 +13071,7 @@ window.moviePosterData = [
     "id": 316,
     "title": "As Good As It Gets",
     "year": 1997,
+    "releaseDate": "23-Dec-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119822/",
     "genres": [
       "Comedy",
@@ -12346,6 +13089,7 @@ window.moviePosterData = [
     "id": 869,
     "title": "Fools Rush In",
     "year": 1997,
+    "releaseDate": "14-Feb-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119141/",
     "genres": [
       "Comedy",
@@ -12363,6 +13107,7 @@ window.moviePosterData = [
     "id": 870,
     "title": "Touch",
     "year": 1997,
+    "releaseDate": "14-Feb-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0120357/",
     "genres": [
       "Comedy",
@@ -12380,6 +13125,7 @@ window.moviePosterData = [
     "id": 872,
     "title": "Love Jones",
     "year": 1997,
+    "releaseDate": "14-Mar-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119572/",
     "genres": [
       "Comedy",
@@ -12397,6 +13143,7 @@ window.moviePosterData = [
     "id": 873,
     "title": "Picture Perfect",
     "year": 1997,
+    "releaseDate": "01-Aug-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119896/",
     "genres": [
       "Comedy",
@@ -12414,6 +13161,7 @@ window.moviePosterData = [
     "id": 903,
     "title": "Afterglow",
     "year": 1997,
+    "releaseDate": "26-Dec-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118566/",
     "genres": [
       "Comedy",
@@ -12431,6 +13179,7 @@ window.moviePosterData = [
     "id": 1096,
     "title": "Commandments",
     "year": 1997,
+    "releaseDate": "02-May-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0115927/",
     "genres": [
       "Comedy",
@@ -12448,6 +13197,7 @@ window.moviePosterData = [
     "id": 1160,
     "title": "Love! Valour! Compassion!",
     "year": 1997,
+    "releaseDate": "16-May-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119578/",
     "genres": [
       "Comedy",
@@ -12465,6 +13215,7 @@ window.moviePosterData = [
     "id": 1135,
     "title": "Doors",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Doors,%20The%20(1991)",
     "genres": [
       "Drama",
@@ -12480,6 +13231,7 @@ window.moviePosterData = [
     "id": 1232,
     "title": "Madonna: Truth or Dare",
     "year": 1991,
+    "releaseDate": "01-Jan-1991",
     "imdbUrl": "https://www.imdb.com/title/tt0102370/",
     "genres": [
       "Documentary",
@@ -12496,6 +13248,7 @@ window.moviePosterData = [
     "id": 1104,
     "title": "C'est arrivé près de chez vous",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0103905/",
     "genres": [
       "Comedy",
@@ -12513,6 +13266,7 @@ window.moviePosterData = [
     "id": 1570,
     "title": "Quartier Mozart",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0105201/",
     "genres": [
       "Comedy",
@@ -12529,6 +13283,7 @@ window.moviePosterData = [
     "id": 60,
     "title": "Three Colors: Blue",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108394/",
     "genres": [
       "Drama",
@@ -12546,6 +13301,7 @@ window.moviePosterData = [
     "id": 390,
     "title": "Fear of a Black Hat",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106880/",
     "genres": [
       "Comedy",
@@ -12562,6 +13318,7 @@ window.moviePosterData = [
     "id": 395,
     "title": "Robin Hood: Men in Tights",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107977/",
     "genres": [
       "Adventure",
@@ -12579,6 +13336,7 @@ window.moviePosterData = [
     "id": 469,
     "title": "Short Cuts",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108122/",
     "genres": [
       "Comedy",
@@ -12595,6 +13353,7 @@ window.moviePosterData = [
     "id": 942,
     "title": "What's Love Got to Do with It",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108551/",
     "genres": [
       "Biography",
@@ -12612,6 +13371,7 @@ window.moviePosterData = [
     "id": 960,
     "title": "Naked",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107653/",
     "genres": [
       "Comedy",
@@ -12628,6 +13388,7 @@ window.moviePosterData = [
     "id": 1101,
     "title": "Six Degrees of Separation",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108149/",
     "genres": [
       "Comedy",
@@ -12645,6 +13406,7 @@ window.moviePosterData = [
     "id": 1146,
     "title": "Calendar Girl",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0106505/",
     "genres": [
       "Comedy",
@@ -12661,6 +13423,7 @@ window.moviePosterData = [
     "id": 1339,
     "title": "Stefano Quantestorie",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108220/",
     "genres": [
       "Comedy",
@@ -12677,6 +13440,7 @@ window.moviePosterData = [
     "id": 1631,
     "title": "Slingshot",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "http://us.imdb.com/Title?K%E5disbellan+(1993)",
     "genres": [
       "Comedy",
@@ -12692,6 +13456,7 @@ window.moviePosterData = [
     "id": 32,
     "title": "Crumb",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109508/",
     "genres": [
       "Biography",
@@ -12709,6 +13474,7 @@ window.moviePosterData = [
     "id": 47,
     "title": "Ed Wood",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109707/",
     "genres": [
       "Biography",
@@ -12726,6 +13492,7 @@ window.moviePosterData = [
     "id": 48,
     "title": "Hoop Dreams",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110057/",
     "genres": [
       "Documentary",
@@ -12743,6 +13510,7 @@ window.moviePosterData = [
     "id": 381,
     "title": "Muriel's Wedding",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110598/",
     "genres": [
       "Comedy",
@@ -12759,6 +13527,7 @@ window.moviePosterData = [
     "id": 382,
     "title": "Adventures of Priscilla, Queen of the Desert",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Adventures%20of%20Priscilla,%20Queen%20of%20the%20Desert,%20The%20(1994)",
     "genres": [
       "Comedy",
@@ -12774,6 +13543,7 @@ window.moviePosterData = [
     "id": 394,
     "title": "Radioland Murders",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110939/",
     "genres": [
       "Comedy",
@@ -12791,6 +13561,7 @@ window.moviePosterData = [
     "id": 1565,
     "title": "Daens",
     "year": 1992,
+    "releaseDate": "01-Jan-1992",
     "imdbUrl": "https://www.imdb.com/title/tt0104046/",
     "genres": [
       "Biography",
@@ -12808,6 +13579,7 @@ window.moviePosterData = [
     "id": 317,
     "title": "In the Name of the Father",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107207/",
     "genres": [
       "Biography",
@@ -12825,6 +13597,7 @@ window.moviePosterData = [
     "id": 318,
     "title": "Schindler's List",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108052/",
     "genres": [
       "Biography",
@@ -12842,6 +13615,7 @@ window.moviePosterData = [
     "id": 470,
     "title": "Tombstone",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108358/",
     "genres": [
       "Biography",
@@ -12859,6 +13633,7 @@ window.moviePosterData = [
     "id": 58,
     "title": "Quiz Show",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110932/",
     "genres": [
       "Biography",
@@ -12876,6 +13651,7 @@ window.moviePosterData = [
     "id": 558,
     "title": "Heavenly Creatures",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110005/",
     "genres": [
       "Biography",
@@ -12893,6 +13669,7 @@ window.moviePosterData = [
     "id": 277,
     "title": "Restoration",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114272/",
     "genres": [
       "Biography",
@@ -12910,6 +13687,7 @@ window.moviePosterData = [
     "id": 458,
     "title": "Nixon",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113987/",
     "genres": [
       "Biography",
@@ -12927,6 +13705,7 @@ window.moviePosterData = [
     "id": 1084,
     "title": "Anne Frank Remembered",
     "year": 1995,
+    "releaseDate": "23-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0112373/",
     "genres": [
       "Biography",
@@ -12944,6 +13723,7 @@ window.moviePosterData = [
     "id": 1505,
     "title": "Killer: A Journal of Murder",
     "year": 1995,
+    "releaseDate": "06-Sep-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0113542/",
     "genres": [
       "Biography",
@@ -12961,6 +13741,7 @@ window.moviePosterData = [
     "id": 1530,
     "title": "Jefferson in Paris",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113463/",
     "genres": [
       "Biography",
@@ -12978,6 +13759,7 @@ window.moviePosterData = [
     "id": 289,
     "title": "Evita",
     "year": 1996,
+    "releaseDate": "25-Dec-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116250/",
     "genres": [
       "Biography",
@@ -12995,6 +13777,7 @@ window.moviePosterData = [
     "id": 532,
     "title": "Kama Sutra: A Tale of Love",
     "year": 1996,
+    "releaseDate": "07-Mar-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0116743/",
     "genres": [
       "Crime",
@@ -13012,6 +13795,7 @@ window.moviePosterData = [
     "id": 744,
     "title": "Michael Collins",
     "year": 1996,
+    "releaseDate": "11-Oct-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117039/",
     "genres": [
       "Biography",
@@ -13029,6 +13813,7 @@ window.moviePosterData = [
     "id": 293,
     "title": "Donnie Brasco",
     "year": 1997,
+    "releaseDate": "28-Feb-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119008/",
     "genres": [
       "Biography",
@@ -13046,6 +13831,7 @@ window.moviePosterData = [
     "id": 750,
     "title": "Amistad",
     "year": 1997,
+    "releaseDate": "18-Dec-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118607/",
     "genres": [
       "Biography",
@@ -13063,6 +13849,7 @@ window.moviePosterData = [
     "id": 900,
     "title": "Kundun",
     "year": 1997,
+    "releaseDate": "25-Dec-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119485/",
     "genres": [
       "Biography",
@@ -13080,6 +13867,7 @@ window.moviePosterData = [
     "id": 935,
     "title": "Paradise Road",
     "year": 1997,
+    "releaseDate": "18-Apr-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119859/",
     "genres": [
       "Drama",
@@ -13097,6 +13885,7 @@ window.moviePosterData = [
     "id": 1065,
     "title": "Koyaanisqatsi",
     "year": 1983,
+    "releaseDate": "01-Jan-1983",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Koyaanisqatsi%20(1983)",
     "genres": [
       "Documentary",
@@ -13112,6 +13901,7 @@ window.moviePosterData = [
     "id": 87,
     "title": "Searching for Bobby Fischer",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108065/",
     "genres": [
       "Biography",
@@ -13129,6 +13919,7 @@ window.moviePosterData = [
     "id": 468,
     "title": "Rudy",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0108002/",
     "genres": [
       "Biography",
@@ -13146,6 +13937,7 @@ window.moviePosterData = [
     "id": 1223,
     "title": "King of the Hill",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107322/",
     "genres": [
       "Drama",
@@ -13162,6 +13954,7 @@ window.moviePosterData = [
     "id": 1524,
     "title": "Kaspar Hauser",
     "year": 1993,
+    "releaseDate": "07-Jun-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0110246/",
     "genres": [
       "Drama",
@@ -13179,6 +13972,7 @@ window.moviePosterData = [
     "id": 56,
     "title": "Pulp Fiction",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110912/",
     "genres": [
       "Crime",
@@ -13195,6 +13989,7 @@ window.moviePosterData = [
     "id": 119,
     "title": "Maya Lin: A Strong Clear Vision",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110480/",
     "genres": [
       "Biography",
@@ -13211,6 +14006,7 @@ window.moviePosterData = [
     "id": 643,
     "title": "The Innocent",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110139/",
     "genres": [
       "Crime",
@@ -13228,6 +14024,7 @@ window.moviePosterData = [
     "id": 703,
     "title": "Widows' Peak",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111712/",
     "genres": [
       "Comedy",
@@ -13245,6 +14042,7 @@ window.moviePosterData = [
     "id": 727,
     "title": "Immortal Beloved",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110116/",
     "genres": [
       "Biography",
@@ -13262,6 +14060,7 @@ window.moviePosterData = [
     "id": 782,
     "title": "Little Odessa",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110365/",
     "genres": [
       "Crime",
@@ -13278,6 +14077,7 @@ window.moviePosterData = [
     "id": 804,
     "title": "Jimmy Hollywood",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110197/",
     "genres": [
       "Comedy",
@@ -13295,6 +14095,7 @@ window.moviePosterData = [
     "id": 1069,
     "title": "Amateur",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109093/",
     "genres": [
       "Comedy",
@@ -13312,6 +14113,7 @@ window.moviePosterData = [
     "id": 1073,
     "title": "Shallow Grave",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111149/",
     "genres": [
       "Crime",
@@ -13329,6 +14131,7 @@ window.moviePosterData = [
     "id": 1112,
     "title": "Cobb",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109450/",
     "genres": [
       "Biography",
@@ -13346,6 +14149,7 @@ window.moviePosterData = [
     "id": 1113,
     "title": "Mrs. Parker and the Vicious Circle",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110588/",
     "genres": [
       "Biography",
@@ -13362,6 +14166,7 @@ window.moviePosterData = [
     "id": 1129,
     "title": "Chungking Express",
     "year": 1994,
+    "releaseDate": "16-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0109424/",
     "genres": [
       "Comedy",
@@ -13379,6 +14184,7 @@ window.moviePosterData = [
     "id": 1148,
     "title": "Tom & Viv",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111454/",
     "genres": [
       "Biography",
@@ -13396,6 +14202,7 @@ window.moviePosterData = [
     "id": 1169,
     "title": "Fresh",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109842/",
     "genres": [
       "Crime",
@@ -13413,6 +14220,7 @@ window.moviePosterData = [
     "id": 1194,
     "title": "Once Were Warriors",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110729/",
     "genres": [
       "Crime",
@@ -13429,6 +14237,7 @@ window.moviePosterData = [
     "id": 1285,
     "title": "Princess Caraboo",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110892/",
     "genres": [
       "Comedy",
@@ -13446,6 +14255,7 @@ window.moviePosterData = [
     "id": 1327,
     "title": "Captives",
     "year": 1994,
+    "releaseDate": "16-Sep-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109374/",
     "genres": [
       "Crime",
@@ -13463,6 +14273,7 @@ window.moviePosterData = [
     "id": 1366,
     "title": "JLG/JLG - autoportrait de décembre",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110173/",
     "genres": [
       "Documentary",
@@ -13479,6 +14290,7 @@ window.moviePosterData = [
     "id": 1439,
     "title": "Jason's Lyric",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110186/",
     "genres": [
       "Crime",
@@ -13496,6 +14308,7 @@ window.moviePosterData = [
     "id": 1440,
     "title": "Above the Rim",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109035/",
     "genres": [
       "Crime",
@@ -13513,6 +14326,7 @@ window.moviePosterData = [
     "id": 1443,
     "title": "8 Seconds",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109021/",
     "genres": [
       "Biography",
@@ -13530,6 +14344,7 @@ window.moviePosterData = [
     "id": 1522,
     "title": "Trial by Jury",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111488/",
     "genres": [
       "Crime",
@@ -13547,6 +14362,7 @@ window.moviePosterData = [
     "id": 1561,
     "title": "Tigrero: A Film That Was Never Made",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111430/",
     "genres": [
       "Documentary",
@@ -13563,6 +14379,7 @@ window.moviePosterData = [
     "id": 9,
     "title": "Dead Man Walking",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112818/",
     "genres": [
       "Crime",
@@ -13579,6 +14396,7 @@ window.moviePosterData = [
     "id": 366,
     "title": "Dangerous Minds",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112792/",
     "genres": [
       "Biography",
@@ -13595,6 +14413,7 @@ window.moviePosterData = [
     "id": 544,
     "title": "Things to Do in Denver when You're Dead",
     "year": 1995,
+    "releaseDate": "02-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0114660/",
     "genres": [
       "Crime",
@@ -13612,6 +14431,7 @@ window.moviePosterData = [
     "id": 564,
     "title": "Tales from the Hood",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114609/",
     "genres": [
       "Crime",
@@ -13629,6 +14449,7 @@ window.moviePosterData = [
     "id": 693,
     "title": "Casino",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112641/",
     "genres": [
       "Crime",
@@ -13645,6 +14466,7 @@ window.moviePosterData = [
     "id": 714,
     "title": "Carrington",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112637/",
     "genres": [
       "Biography",
@@ -13662,6 +14484,7 @@ window.moviePosterData = [
     "id": 715,
     "title": "To Die For",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114681/",
     "genres": [
       "Comedy",
@@ -13679,6 +14502,7 @@ window.moviePosterData = [
     "id": 798,
     "title": "Bad Company",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112443/",
     "genres": [
       "Crime",
@@ -13696,6 +14520,7 @@ window.moviePosterData = [
     "id": 1128,
     "title": "Heidi Fleiss: Hollywood Madam",
     "year": 1995,
+    "releaseDate": "09-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0113283/",
     "genres": [
       "Biography",
@@ -13712,6 +14537,7 @@ window.moviePosterData = [
     "id": 1139,
     "title": "Hackers",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113243/",
     "genres": [
       "Crime",
@@ -13729,6 +14555,7 @@ window.moviePosterData = [
     "id": 1156,
     "title": "Cyclo",
     "year": 1995,
+    "releaseDate": "02-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0112767/",
     "genres": [
       "Crime",
@@ -13745,6 +14572,7 @@ window.moviePosterData = [
     "id": 1207,
     "title": "Jade",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113451/",
     "genres": [
       "Crime",
@@ -13762,6 +14590,7 @@ window.moviePosterData = [
     "id": 1208,
     "title": "Kiss of Death",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113552/",
     "genres": [
       "Crime",
@@ -13779,6 +14608,7 @@ window.moviePosterData = [
     "id": 1220,
     "title": "Higher Learning",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113305/",
     "genres": [
       "Crime",
@@ -13796,6 +14626,7 @@ window.moviePosterData = [
     "id": 1260,
     "title": "Total Eclipse",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114702/",
     "genres": [
       "Biography",
@@ -13813,6 +14644,7 @@ window.moviePosterData = [
     "id": 1519,
     "title": "New Jersey Drive",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113967/",
     "genres": [
       "Crime",
@@ -13829,6 +14661,7 @@ window.moviePosterData = [
     "id": 1629,
     "title": "Nico Icon",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113973/",
     "genres": [
       "Biography",
@@ -13846,6 +14679,7 @@ window.moviePosterData = [
     "id": 100,
     "title": "Fargo",
     "year": 1996,
+    "releaseDate": "14-Feb-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0116282/",
     "genres": [
       "Crime",
@@ -13863,6 +14697,7 @@ window.moviePosterData = [
     "id": 120,
     "title": "Striptease",
     "year": 1996,
+    "releaseDate": "28-Jun-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117765/",
     "genres": [
       "Comedy",
@@ -13880,6 +14715,7 @@ window.moviePosterData = [
     "id": 130,
     "title": "Kansas City",
     "year": 1996,
+    "releaseDate": "16-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116745/",
     "genres": [
       "Crime",
@@ -13897,6 +14733,7 @@ window.moviePosterData = [
     "id": 224,
     "title": "Ridicule",
     "year": 1996,
+    "releaseDate": "27-Nov-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117477/",
     "genres": [
       "Comedy",
@@ -13914,6 +14751,7 @@ window.moviePosterData = [
     "id": 320,
     "title": "Paradise Lost: The Child Murders at Robin Hood Hills",
     "year": 1996,
+    "releaseDate": "06-Dec-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117293/",
     "genres": [
       "Crime",
@@ -13930,6 +14768,7 @@ window.moviePosterData = [
     "id": 475,
     "title": "Trainspotting",
     "year": 1996,
+    "releaseDate": "19-Jul-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117951/",
     "genres": [
       "Crime",
@@ -13946,6 +14785,7 @@ window.moviePosterData = [
     "id": 531,
     "title": "Shine",
     "year": 1996,
+    "releaseDate": "22-Nov-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117631/",
     "genres": [
       "Biography",
@@ -13963,6 +14803,7 @@ window.moviePosterData = [
     "id": 628,
     "title": "Sleepers",
     "year": 1996,
+    "releaseDate": "18-Oct-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117665/",
     "genres": [
       "Crime",
@@ -13980,6 +14821,7 @@ window.moviePosterData = [
     "id": 844,
     "title": "Freeway",
     "year": 1996,
+    "releaseDate": "23-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116361/",
     "genres": [
       "Crime",
@@ -13997,6 +14839,7 @@ window.moviePosterData = [
     "id": 847,
     "title": "Looking for Richard",
     "year": 1996,
+    "releaseDate": "11-Oct-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116913/",
     "genres": [
       "Documentary",
@@ -14013,6 +14856,7 @@ window.moviePosterData = [
     "id": 974,
     "title": "Eye for an Eye",
     "year": 1996,
+    "releaseDate": "01-Jan-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116260/",
     "genres": [
       "Crime",
@@ -14030,6 +14874,7 @@ window.moviePosterData = [
     "id": 1008,
     "title": "I Shot Andy Warhol",
     "year": 1996,
+    "releaseDate": "01-May-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116594/",
     "genres": [
       "Biography",
@@ -14046,6 +14891,7 @@ window.moviePosterData = [
     "id": 1010,
     "title": "Basquiat",
     "year": 1996,
+    "releaseDate": "16-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115632/",
     "genres": [
       "Biography",
@@ -14062,6 +14908,7 @@ window.moviePosterData = [
     "id": 1067,
     "title": "Bottle Rocket",
     "year": 1996,
+    "releaseDate": "21-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115734/",
     "genres": [
       "Comedy",
@@ -14079,6 +14926,7 @@ window.moviePosterData = [
     "id": 385,
     "title": "True Lies",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111503/",
     "genres": [
       "Action",
@@ -14096,6 +14944,7 @@ window.moviePosterData = [
     "id": 1180,
     "title": "I Love Trouble",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110093/",
     "genres": [
       "Action",
@@ -14113,6 +14962,7 @@ window.moviePosterData = [
     "id": 1328,
     "title": "Of Love and Shadows",
     "year": 1994,
+    "releaseDate": "10-May-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0110712/",
     "genres": [
       "Drama",
@@ -14130,6 +14980,7 @@ window.moviePosterData = [
     "id": 759,
     "title": "Fair Game",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113010/",
     "genres": [
       "Action",
@@ -14147,6 +14998,7 @@ window.moviePosterData = [
     "id": 1414,
     "title": "Coldblooded",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112702/",
     "genres": [
       "Action",
@@ -14164,6 +15016,7 @@ window.moviePosterData = [
     "id": 311,
     "title": "Wings of the Dove",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Wings+of+the+Dove%2C+The+(1997)",
     "genres": [
       "Drama",
@@ -14180,6 +15033,7 @@ window.moviePosterData = [
     "id": 337,
     "title": "House of Yes",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?House+of+Yes,+The+(1997)",
     "genres": [
       "Comedy",
@@ -14196,6 +15050,7 @@ window.moviePosterData = [
     "id": 748,
     "title": "Saint",
     "year": 1997,
+    "releaseDate": "14-Mar-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Saint%2C%20The%20(1997)",
     "genres": [
       "Action",
@@ -14212,6 +15067,7 @@ window.moviePosterData = [
     "id": 1025,
     "title": "Fire Down Below",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0119123/",
     "genres": [
       "Action",
@@ -14229,6 +15085,7 @@ window.moviePosterData = [
     "id": 1393,
     "title": "Stag",
     "year": 1997,
+    "releaseDate": "01-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0120192/",
     "genres": [
       "Action",
@@ -14246,6 +15103,7 @@ window.moviePosterData = [
     "id": 1483,
     "title": "Man in the Iron Mask",
     "year": 1998,
+    "releaseDate": "17-Mar-1998",
     "imdbUrl": "http://us.imdb.com/Title?Man+in+the+Iron+Mask,+The+(1998/I)",
     "genres": [
       "Action",
@@ -14262,6 +15120,7 @@ window.moviePosterData = [
     "id": 80,
     "title": "Hot Shots! Part Deux",
     "year": 1993,
+    "releaseDate": "01-Jan-1993",
     "imdbUrl": "https://www.imdb.com/title/tt0107144/",
     "genres": [
       "Action",
@@ -14278,6 +15137,7 @@ window.moviePosterData = [
     "id": 281,
     "title": "River Wild",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?River%20Wild,%20The%20(1994)",
     "genres": [
       "Action",
@@ -14293,6 +15153,7 @@ window.moviePosterData = [
     "id": 356,
     "title": "Client",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Client,%20The%20(1994)",
     "genres": [
       "Drama",
@@ -14309,6 +15170,7 @@ window.moviePosterData = [
     "id": 388,
     "title": "Beverly Hills Cop III",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109254/",
     "genres": [
       "Action",
@@ -14326,6 +15188,7 @@ window.moviePosterData = [
     "id": 396,
     "title": "Serial Mom",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111127/",
     "genres": [
       "Comedy",
@@ -14343,6 +15206,7 @@ window.moviePosterData = [
     "id": 793,
     "title": "Crooklyn",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109504/",
     "genres": [
       "Comedy",
@@ -14359,6 +15223,7 @@ window.moviePosterData = [
     "id": 796,
     "title": "Speechless",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111256/",
     "genres": [
       "Comedy",
@@ -14375,6 +15240,7 @@ window.moviePosterData = [
     "id": 941,
     "title": "With Honors",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111732/",
     "genres": [
       "Comedy",
@@ -14391,6 +15257,7 @@ window.moviePosterData = [
     "id": 944,
     "title": "Renaissance Man",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110971/",
     "genres": [
       "Comedy",
@@ -14407,6 +15274,7 @@ window.moviePosterData = [
     "id": 956,
     "title": "Nobody's Fool",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110684/",
     "genres": [
       "Comedy",
@@ -14423,6 +15291,7 @@ window.moviePosterData = [
     "id": 998,
     "title": "Cabin Boy",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109361/",
     "genres": [
       "Adventure",
@@ -14440,6 +15309,7 @@ window.moviePosterData = [
     "id": 1044,
     "title": "Paper",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Paper,%20The%20(1994)",
     "genres": [
       "Comedy",
@@ -14455,6 +15325,7 @@ window.moviePosterData = [
     "id": 1077,
     "title": "Love and a .45",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110395/",
     "genres": [
       "Crime",
@@ -14472,6 +15343,7 @@ window.moviePosterData = [
     "id": 1099,
     "title": "Red Firecracker, Green Firecracker",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110769/",
     "genres": [
       "Drama",
@@ -14488,6 +15360,7 @@ window.moviePosterData = [
     "id": 1109,
     "title": "Death and the Maiden",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109579/",
     "genres": [
       "Drama",
@@ -14505,6 +15378,7 @@ window.moviePosterData = [
     "id": 1111,
     "title": "Double Happiness",
     "year": 1994,
+    "releaseDate": "01-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0109655/",
     "genres": [
       "Drama",
@@ -14521,6 +15395,7 @@ window.moviePosterData = [
     "id": 1170,
     "title": "Spanking the Monkey",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111252/",
     "genres": [
       "Comedy",
@@ -14537,6 +15412,7 @@ window.moviePosterData = [
     "id": 1171,
     "title": "Wild Reeds",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111019/",
     "genres": [
       "Drama",
@@ -14553,6 +15429,7 @@ window.moviePosterData = [
     "id": 1181,
     "title": "Low Down Dirty Shame",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Low%20Down%20Dirty%20Shame,%20A%20(1994)",
     "genres": [
       "Action",
@@ -14568,6 +15445,7 @@ window.moviePosterData = [
     "id": 1182,
     "title": "Cops and Robbersons",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109480/",
     "genres": [
       "Comedy",
@@ -14585,6 +15463,7 @@ window.moviePosterData = [
     "id": 1183,
     "title": "Cowboy Way",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Cowboy%20Way,%20The%20(1994)",
     "genres": [
       "Action",
@@ -14600,6 +15479,7 @@ window.moviePosterData = [
     "id": 1186,
     "title": "Inkwell",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Inkwell,%20The%20(1994)",
     "genres": [
       "Comedy",
@@ -14615,6 +15495,7 @@ window.moviePosterData = [
     "id": 1209,
     "title": "Mixed Nuts",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110538/",
     "genres": [
       "Comedy",
@@ -14631,6 +15512,7 @@ window.moviePosterData = [
     "id": 1211,
     "title": "Blue Sky",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109306/",
     "genres": [
       "Drama",
@@ -14647,6 +15529,7 @@ window.moviePosterData = [
     "id": 1221,
     "title": "When a Man Loves a Woman",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111693/",
     "genres": [
       "Drama",
@@ -14663,6 +15546,7 @@ window.moviePosterData = [
     "id": 1273,
     "title": "Color of Night",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109456/",
     "genres": [
       "Drama",
@@ -14680,6 +15564,7 @@ window.moviePosterData = [
     "id": 1290,
     "title": "Country Life",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109491/",
     "genres": [
       "Drama",
@@ -14696,6 +15581,7 @@ window.moviePosterData = [
     "id": 1324,
     "title": "Loaded",
     "year": 1994,
+    "releaseDate": "12-Apr-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0110374/",
     "genres": [
       "Drama",
@@ -14713,6 +15599,7 @@ window.moviePosterData = [
     "id": 1333,
     "title": "Midnight Dancers (Sibak)",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Sibak%20(1994)",
     "genres": [
       "Comedy",
@@ -14728,6 +15615,7 @@ window.moviePosterData = [
     "id": 1334,
     "title": "Somebody to Love",
     "year": 1994,
+    "releaseDate": "14-Jun-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0111237/",
     "genres": [
       "Comedy",
@@ -14744,6 +15632,7 @@ window.moviePosterData = [
     "id": 1353,
     "title": "1-900",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0109001/",
     "genres": [
       "Drama",
@@ -14760,6 +15649,7 @@ window.moviePosterData = [
     "id": 1370,
     "title": "I Can't Sleep (J'ai pas sommeil)",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?J'ai%20pas%20sommeil%20(1994)",
     "genres": [
       "Drama",
@@ -14775,6 +15665,7 @@ window.moviePosterData = [
     "id": 1425,
     "title": "I'll Do Anything",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110097/",
     "genres": [
       "Comedy",
@@ -14791,6 +15682,7 @@ window.moviePosterData = [
     "id": 1481,
     "title": "S.F.W.",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0111048/",
     "genres": [
       "Comedy",
@@ -14807,6 +15699,7 @@ window.moviePosterData = [
     "id": 1484,
     "title": "Jerky Boys",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Jerky%20Boys,%20The%20(1994)",
     "genres": [
       "Action",
@@ -14822,6 +15715,7 @@ window.moviePosterData = [
     "id": 1502,
     "title": "Naked in New York",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/Title?Naked+in+New+York+(1994)",
     "genres": [
       "Comedy",
@@ -14837,6 +15731,7 @@ window.moviePosterData = [
     "id": 1626,
     "title": "Nobody Loves Me (Keiner liebt mich)",
     "year": 1994,
+    "releaseDate": "09-Feb-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Keiner%20liebt%20mich%20(1994)",
     "genres": [
       "Comedy",
@@ -14852,6 +15747,7 @@ window.moviePosterData = [
     "id": 1628,
     "title": "Lamerica",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "https://www.imdb.com/title/tt0110299/",
     "genres": [
       "Comedy",
@@ -14868,6 +15764,7 @@ window.moviePosterData = [
     "id": 1655,
     "title": "Favor",
     "year": 1994,
+    "releaseDate": "01-Jan-1994",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Favor,%20The%20(1994)",
     "genres": [
       "Comedy",
@@ -14883,6 +15780,7 @@ window.moviePosterData = [
     "id": 4,
     "title": "Get Shorty",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113161/",
     "genres": [
       "Comedy",
@@ -14900,6 +15798,7 @@ window.moviePosterData = [
     "id": 5,
     "title": "Copycat",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112722/",
     "genres": [
       "Drama",
@@ -14917,6 +15816,7 @@ window.moviePosterData = [
     "id": 16,
     "title": "French Twist (Gazon maudit)",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Gazon%20maudit%20(1995)",
     "genres": [
       "Comedy",
@@ -14932,6 +15832,7 @@ window.moviePosterData = [
     "id": 19,
     "title": "Antonia's Line",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112379/",
     "genres": [
       "Comedy",
@@ -14948,6 +15849,7 @@ window.moviePosterData = [
     "id": 20,
     "title": "Angels and Insects",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112365/",
     "genres": [
       "Drama",
@@ -14964,6 +15866,7 @@ window.moviePosterData = [
     "id": 24,
     "title": "Rumble in the Bronx",
     "year": 1995,
+    "releaseDate": "23-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0113326/",
     "genres": [
       "Action",
@@ -14981,6 +15884,7 @@ window.moviePosterData = [
     "id": 27,
     "title": "Bad Boys",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112442/",
     "genres": [
       "Action",
@@ -14998,6 +15902,7 @@ window.moviePosterData = [
     "id": 34,
     "title": "Doom Generation",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Doom%20Generation,%20The%20(1995)",
     "genres": [
       "Comedy",
@@ -15013,6 +15918,7 @@ window.moviePosterData = [
     "id": 40,
     "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114682/",
     "genres": [
       "Comedy",
@@ -15029,6 +15935,7 @@ window.moviePosterData = [
     "id": 93,
     "title": "Welcome to the Dollhouse",
     "year": 1995,
+    "releaseDate": "24-May-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0114906/",
     "genres": [
       "Comedy",
@@ -15045,6 +15952,7 @@ window.moviePosterData = [
     "id": 116,
     "title": "Cold Comfort Farm",
     "year": 1995,
+    "releaseDate": "23-Apr-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0112701/",
     "genres": [
       "Comedy",
@@ -15061,6 +15969,7 @@ window.moviePosterData = [
     "id": 253,
     "title": "Pillow Book",
     "year": 1995,
+    "releaseDate": "13-Jun-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Pillow%20Book%2C%20The%20%281995%29",
     "genres": [
       "Drama",
@@ -15076,6 +15985,7 @@ window.moviePosterData = [
     "id": 275,
     "title": "Sense and Sensibility",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114388/",
     "genres": [
       "Drama",
@@ -15092,6 +16002,7 @@ window.moviePosterData = [
     "id": 276,
     "title": "Leaving Las Vegas",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113627/",
     "genres": [
       "Drama",
@@ -15108,6 +16019,7 @@ window.moviePosterData = [
     "id": 279,
     "title": "Once Upon a Time... When We Were Colored",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114039/",
     "genres": [
       "Drama",
@@ -15124,6 +16036,7 @@ window.moviePosterData = [
     "id": 363,
     "title": "Sudden Death",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114576/",
     "genres": [
       "Action",
@@ -15141,6 +16054,7 @@ window.moviePosterData = [
     "id": 367,
     "title": "Clueless",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112697/",
     "genres": [
       "Comedy",
@@ -15157,6 +16071,7 @@ window.moviePosterData = [
     "id": 371,
     "title": "Bridges of Madison County",
     "year": 1995,
+    "releaseDate": "09-Feb-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Bridges%20of%20Madison%20County,%20The%20(1995)",
     "genres": [
       "Drama",
@@ -15172,6 +16087,7 @@ window.moviePosterData = [
     "id": 372,
     "title": "Jeffrey",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113464/",
     "genres": [
       "Comedy",
@@ -15188,6 +16104,7 @@ window.moviePosterData = [
     "id": 408,
     "title": "Close Shave",
     "year": 1995,
+    "releaseDate": "28-Apr-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Close%20Shave,%20A%20(1995)",
     "genres": [
       "Animation",
@@ -15204,6 +16121,7 @@ window.moviePosterData = [
     "id": 459,
     "title": "Cry, the Beloved Country",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112749/",
     "genres": [
       "Drama",
@@ -15220,6 +16138,7 @@ window.moviePosterData = [
     "id": 461,
     "title": "Smoke",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114478/",
     "genres": [
       "Comedy",
@@ -15236,6 +16155,7 @@ window.moviePosterData = [
     "id": 540,
     "title": "Money Train",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113845/",
     "genres": [
       "Action",
@@ -15253,6 +16173,7 @@ window.moviePosterData = [
     "id": 553,
     "title": "Walk in the Clouds",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Walk%20in%20the%20Clouds,%20A%20(1995)",
     "genres": [
       "Drama",
@@ -15268,6 +16189,7 @@ window.moviePosterData = [
     "id": 555,
     "title": "White Man's Burden",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114928/",
     "genres": [
       "Drama",
@@ -15284,6 +16206,7 @@ window.moviePosterData = [
     "id": 580,
     "title": "Englishman Who Went Up a Hill, But Came Down a Mountain",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Englishman%20Who%20Went%20Up%20a%20Hill,%20But%20Came%20Down%20a%20Mountain,%20The%20(1995)",
     "genres": [
       "Comedy",
@@ -15299,6 +16222,7 @@ window.moviePosterData = [
     "id": 594,
     "title": "Heavy",
     "year": 1995,
+    "releaseDate": "05-Jun-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0113280/",
     "genres": [
       "Drama",
@@ -15315,6 +16239,7 @@ window.moviePosterData = [
     "id": 1608,
     "title": "Buddy",
     "year": 1997,
+    "releaseDate": "06-Jun-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0118787/",
     "genres": [
       "Adventure",
@@ -15332,6 +16257,7 @@ window.moviePosterData = [
     "id": 364,
     "title": "Ace Ventura: When Nature Calls",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112281/",
     "genres": [
       "Adventure",
@@ -15349,6 +16275,7 @@ window.moviePosterData = [
     "id": 694,
     "title": "Persuasion",
     "year": 1995,
+    "releaseDate": "25-Sep-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114117/",
     "genres": [
       "Drama",
@@ -15365,6 +16292,7 @@ window.moviePosterData = [
     "id": 700,
     "title": "Miami Rhapsody",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113808/",
     "genres": [
       "Comedy",
@@ -15381,6 +16309,7 @@ window.moviePosterData = [
     "id": 713,
     "title": "Othello",
     "year": 1995,
+    "releaseDate": "18-Dec-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114057/",
     "genres": [
       "Drama",
@@ -15397,6 +16326,7 @@ window.moviePosterData = [
     "id": 721,
     "title": "Mallrats",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113749/",
     "genres": [
       "Comedy",
@@ -15413,6 +16343,7 @@ window.moviePosterData = [
     "id": 722,
     "title": "Nine Months",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113986/",
     "genres": [
       "Comedy",
@@ -15429,6 +16360,7 @@ window.moviePosterData = [
     "id": 723,
     "title": "Boys on the Side",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112571/",
     "genres": [
       "Comedy",
@@ -15445,6 +16377,7 @@ window.moviePosterData = [
     "id": 724,
     "title": "Circle of Friends",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112679/",
     "genres": [
       "Drama",
@@ -15461,6 +16394,7 @@ window.moviePosterData = [
     "id": 755,
     "title": "Jumanji",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113497/",
     "genres": [
       "Adventure",
@@ -15478,6 +16412,7 @@ window.moviePosterData = [
     "id": 756,
     "title": "Father of the Bride Part II",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113041/",
     "genres": [
       "Comedy",
@@ -15495,6 +16430,7 @@ window.moviePosterData = [
     "id": 766,
     "title": "Man of the Year",
     "year": 1995,
+    "releaseDate": "01-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0113756/",
     "genres": [
       "Comedy",
@@ -15511,6 +16447,7 @@ window.moviePosterData = [
     "id": 786,
     "title": "Perez Family",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Perez%20Family,%20The%20(1995)",
     "genres": [
       "Comedy",
@@ -15526,6 +16463,7 @@ window.moviePosterData = [
     "id": 787,
     "title": "Roommates",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114296/",
     "genres": [
       "Comedy",
@@ -15542,6 +16480,7 @@ window.moviePosterData = [
     "id": 789,
     "title": "Swimming with Sharks",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Swimming%20with%20Sharks%20(1995)",
     "genres": [
       "Comedy",
@@ -15557,6 +16496,7 @@ window.moviePosterData = [
     "id": 790,
     "title": "Tommy Boy",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114694/",
     "genres": [
       "Adventure",
@@ -15573,6 +16513,7 @@ window.moviePosterData = [
     "id": 817,
     "title": "Frisk",
     "year": 1995,
+    "releaseDate": "29-Mar-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0113122/",
     "genres": [
       "Drama",
@@ -15589,6 +16530,7 @@ window.moviePosterData = [
     "id": 920,
     "title": "Two Bits",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114753/",
     "genres": [
       "Comedy",
@@ -15605,6 +16547,7 @@ window.moviePosterData = [
     "id": 939,
     "title": "Murder in the First",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113870/",
     "genres": [
       "Drama",
@@ -15621,6 +16564,7 @@ window.moviePosterData = [
     "id": 953,
     "title": "Unstrung Heroes",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114798/",
     "genres": [
       "Comedy",
@@ -15637,6 +16581,7 @@ window.moviePosterData = [
     "id": 964,
     "title": "Month by the Lake",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Month%20by%20The%20Lake,%20A%20(1995)",
     "genres": [
       "Comedy",
@@ -15652,6 +16597,7 @@ window.moviePosterData = [
     "id": 997,
     "title": "Stuart Saves His Family",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114571/",
     "genres": [
       "Comedy",
@@ -15668,6 +16614,7 @@ window.moviePosterData = [
     "id": 1028,
     "title": "Grumpier Old Men",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113228/",
     "genres": [
       "Comedy",
@@ -15684,6 +16631,7 @@ window.moviePosterData = [
     "id": 1041,
     "title": "Forget Paris",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113097/",
     "genres": [
       "Comedy",
@@ -15700,6 +16648,7 @@ window.moviePosterData = [
     "id": 1043,
     "title": "Rent-a-Kid",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114268/",
     "genres": [
       "Comedy",
@@ -15717,6 +16666,7 @@ window.moviePosterData = [
     "id": 1070,
     "title": "Living in Oblivion",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113677/",
     "genres": [
       "Comedy",
@@ -15733,6 +16683,7 @@ window.moviePosterData = [
     "id": 1072,
     "title": "Pyromaniac's Love Story",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Pyromaniac's%20Love%20Story,%20A%20(1995)",
     "genres": [
       "Comedy",
@@ -15748,6 +16699,7 @@ window.moviePosterData = [
     "id": 1155,
     "title": "Rendezvous in Paris (Rendez-vous de Paris, Les)",
     "year": 1995,
+    "releaseDate": "28-Jun-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Rendez-vous%20de%20Paris,%20Les%20(1995)",
     "genres": [
       "Comedy",
@@ -15763,6 +16715,7 @@ window.moviePosterData = [
     "id": 1217,
     "title": "Assassins",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112401/",
     "genres": [
       "Action",
@@ -15780,6 +16733,7 @@ window.moviePosterData = [
     "id": 1218,
     "title": "Friday",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113118/",
     "genres": [
       "Comedy",
@@ -15796,6 +16750,7 @@ window.moviePosterData = [
     "id": 1225,
     "title": "Angus",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112368/",
     "genres": [
       "Comedy",
@@ -15812,6 +16767,7 @@ window.moviePosterData = [
     "id": 1229,
     "title": "Poison Ivy II",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Poison%20Ivy%20II%20(1995)",
     "genres": [
       "Drama",
@@ -15827,6 +16783,7 @@ window.moviePosterData = [
     "id": 1246,
     "title": "Bushwhacked",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112602/",
     "genres": [
       "Adventure",
@@ -15844,6 +16801,7 @@ window.moviePosterData = [
     "id": 1259,
     "title": "Pie in the Sky",
     "year": 1995,
+    "releaseDate": "09-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0114131/",
     "genres": [
       "Comedy",
@@ -15860,6 +16818,7 @@ window.moviePosterData = [
     "id": 1305,
     "title": "National Lampoon's Senior Trip",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113936/",
     "genres": [
       "Adventure",
@@ -15876,6 +16835,7 @@ window.moviePosterData = [
     "id": 1400,
     "title": "Picture Bride",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Picture%20Bride%20(1995)",
     "genres": [
       "Drama",
@@ -15891,6 +16851,7 @@ window.moviePosterData = [
     "id": 1406,
     "title": "When Night Is Falling",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114916/",
     "genres": [
       "Drama",
@@ -15907,6 +16868,7 @@ window.moviePosterData = [
     "id": 1465,
     "title": "Last Summer in the Hamptons",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113612/",
     "genres": [
       "Comedy",
@@ -15923,6 +16885,7 @@ window.moviePosterData = [
     "id": 1470,
     "title": "Gumby: The Movie",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113234/",
     "genres": [
       "Adventure",
@@ -15940,6 +16903,7 @@ window.moviePosterData = [
     "id": 1495,
     "title": "Flirt",
     "year": 1995,
+    "releaseDate": "07-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0113080/",
     "genres": [
       "Drama",
@@ -15956,6 +16920,7 @@ window.moviePosterData = [
     "id": 1508,
     "title": "Babysitter",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Babysitter,%20The%20(1995)",
     "genres": [
       "Drama",
@@ -15971,6 +16936,7 @@ window.moviePosterData = [
     "id": 1515,
     "title": "Wings of Courage",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0114952/",
     "genres": [
       "Adventure",
@@ -15987,6 +16953,7 @@ window.moviePosterData = [
     "id": 1544,
     "title": "It Takes Two",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113442/",
     "genres": [
       "Comedy",
@@ -16004,6 +16971,7 @@ window.moviePosterData = [
     "id": 1548,
     "title": "The Courtyard",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0112727/",
     "genres": [
       "Action",
@@ -16020,6 +16988,7 @@ window.moviePosterData = [
     "id": 1599,
     "title": "Someone Else's America",
     "year": 1995,
+    "releaseDate": "10-May-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0114494/",
     "genres": [
       "Comedy",
@@ -16036,6 +17005,7 @@ window.moviePosterData = [
     "id": 1627,
     "title": "Wife",
     "year": 1995,
+    "releaseDate": "26-Jul-1996",
     "imdbUrl": "http://us.imdb.com/Title?Wife,+The+(1995)",
     "genres": [
       "Comedy",
@@ -16051,6 +17021,7 @@ window.moviePosterData = [
     "id": 1636,
     "title": "Brothers in Trouble",
     "year": 1995,
+    "releaseDate": "26-Apr-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0112586/",
     "genres": [
       "Comedy",
@@ -16067,6 +17038,7 @@ window.moviePosterData = [
     "id": 1643,
     "title": "Angel Baby",
     "year": 1995,
+    "releaseDate": "10-Jan-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0112362/",
     "genres": [
       "Drama",
@@ -16083,6 +17055,7 @@ window.moviePosterData = [
     "id": 1662,
     "title": "Rough Magic",
     "year": 1995,
+    "releaseDate": "30-May-1997",
     "imdbUrl": "https://www.imdb.com/title/tt0114303/",
     "genres": [
       "Comedy",
@@ -16100,6 +17073,7 @@ window.moviePosterData = [
     "id": 1673,
     "title": "Mirage",
     "year": 1995,
+    "releaseDate": "01-Jan-1995",
     "imdbUrl": "https://www.imdb.com/title/tt0113827/",
     "genres": [
       "Action",
@@ -16116,6 +17090,7 @@ window.moviePosterData = [
     "id": 107,
     "title": "Moll Flanders",
     "year": 1996,
+    "releaseDate": "14-Jun-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117071/",
     "genres": [
       "Drama",
@@ -16132,6 +17107,7 @@ window.moviePosterData = [
     "id": 109,
     "title": "Mystery Science Theater 3000: The Movie",
     "year": 1996,
+    "releaseDate": "19-Apr-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117128/",
     "genres": [
       "Comedy",
@@ -16149,6 +17125,7 @@ window.moviePosterData = [
     "id": 111,
     "title": "Truth About Cats & Dogs",
     "year": 1996,
+    "releaseDate": "26-Apr-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Truth%20About%20Cats%20&%20Dogs,%20The%20(1996)",
     "genres": [
       "Comedy",
@@ -16164,6 +17141,7 @@ window.moviePosterData = [
     "id": 125,
     "title": "Phenomenon",
     "year": 1996,
+    "releaseDate": "29-Jun-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117333/",
     "genres": [
       "Drama",
@@ -16181,6 +17159,7 @@ window.moviePosterData = [
     "id": 137,
     "title": "Big Night",
     "year": 1996,
+    "releaseDate": "20-Sep-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115678/",
     "genres": [
       "Drama",
@@ -16197,6 +17176,7 @@ window.moviePosterData = [
     "id": 146,
     "title": "Unhook the Stars",
     "year": 1996,
+    "releaseDate": "30-Oct-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0118044/",
     "genres": [
       "Drama",
@@ -16213,6 +17193,7 @@ window.moviePosterData = [
     "id": 147,
     "title": "Long Kiss Goodnight",
     "year": 1996,
+    "releaseDate": "05-Oct-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Long%20Kiss%20Goodnight,%20The%20(1996)",
     "genres": [
       "Action",
@@ -16228,6 +17209,7 @@ window.moviePosterData = [
     "id": 149,
     "title": "Jude",
     "year": 1996,
+    "releaseDate": "01-Nov-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116722/",
     "genres": [
       "Drama",
@@ -16244,6 +17226,7 @@ window.moviePosterData = [
     "id": 150,
     "title": "Swingers",
     "year": 1996,
+    "releaseDate": "18-Oct-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117802/",
     "genres": [
       "Comedy",
@@ -16260,6 +17243,7 @@ window.moviePosterData = [
     "id": 220,
     "title": "Mirror Has Two Faces",
     "year": 1996,
+    "releaseDate": "15-Nov-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Mirror%20Has%20Two%20Faces,%20The%20(1996)",
     "genres": [
       "Comedy",
@@ -16275,6 +17259,7 @@ window.moviePosterData = [
     "id": 225,
     "title": "101 Dalmatians",
     "year": 1996,
+    "releaseDate": "27-Nov-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115433/",
     "genres": [
       "Adventure",
@@ -16292,6 +17277,7 @@ window.moviePosterData = [
     "id": 236,
     "title": "Citizen Ruth",
     "year": 1996,
+    "releaseDate": "13-Dec-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115906/",
     "genres": [
       "Comedy",
@@ -16308,6 +17294,7 @@ window.moviePosterData = [
     "id": 240,
     "title": "Beavis and Butt-head Do America",
     "year": 1996,
+    "releaseDate": "20-Dec-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115641/",
     "genres": [
       "Adventure",
@@ -16325,6 +17312,7 @@ window.moviePosterData = [
     "id": 256,
     "title": "When the Cats Away (Chacun cherche son chat)",
     "year": 1996,
+    "releaseDate": "20-Jun-1997",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Chacun+cherche+son+chat+(1996)",
     "genres": [
       "Comedy",
@@ -16340,6 +17328,7 @@ window.moviePosterData = [
     "id": 278,
     "title": "Bed of Roses",
     "year": 1996,
+    "releaseDate": "01-Jan-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115644/",
     "genres": [
       "Drama",
@@ -16356,6 +17345,7 @@ window.moviePosterData = [
     "id": 285,
     "title": "Secrets & Lies",
     "year": 1996,
+    "releaseDate": "04-Oct-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117589/",
     "genres": [
       "Comedy",
@@ -16372,6 +17362,7 @@ window.moviePosterData = [
     "id": 321,
     "title": "Mother",
     "year": 1996,
+    "releaseDate": "25-Dec-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117091/",
     "genres": [
       "Comedy",
@@ -16388,6 +17379,7 @@ window.moviePosterData = [
     "id": 370,
     "title": "Mary Reilly",
     "year": 1996,
+    "releaseDate": "23-Feb-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117002/",
     "genres": [
       "Drama",
@@ -16405,6 +17397,7 @@ window.moviePosterData = [
     "id": 407,
     "title": "Spy Hard",
     "year": 1996,
+    "releaseDate": "24-May-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0117723/",
     "genres": [
       "Action",
@@ -16421,6 +17414,7 @@ window.moviePosterData = [
     "id": 409,
     "title": "Jack",
     "year": 1996,
+    "releaseDate": "07-Aug-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116669/",
     "genres": [
       "Comedy",
@@ -16438,6 +17432,7 @@ window.moviePosterData = [
     "id": 421,
     "title": "William Shakespeare's Romeo and Juliet",
     "year": 1996,
+    "releaseDate": "25-Oct-1996",
     "imdbUrl": "http://us.imdb.com/Title?Romeo+%2B+Juliet+(1996)",
     "genres": [
       "Drama",
@@ -16453,6 +17448,7 @@ window.moviePosterData = [
     "id": 422,
     "title": "Aladdin and the King of Thieves",
     "year": 1996,
+    "releaseDate": "01-Jan-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0115491/",
     "genres": [
       "Adventure",
@@ -16470,6 +17466,7 @@ window.moviePosterData = [
     "id": 597,
     "title": "Eraser",
     "year": 1996,
+    "releaseDate": "21-Jun-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116213/",
     "genres": [
       "Action",
@@ -16487,6 +17484,7 @@ window.moviePosterData = [
     "id": 598,
     "title": "Big Squeeze",
     "year": 1996,
+    "releaseDate": "06-Sep-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Big%20Squeeze,%20The%20(1996)",
     "genres": [
       "Comedy",
@@ -16502,6 +17500,7 @@ window.moviePosterData = [
     "id": 717,
     "title": "Juror",
     "year": 1996,
+    "releaseDate": "01-Jan-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Juror,%20The%20(1996)",
     "genres": [
       "Drama",
@@ -16517,6 +17516,7 @@ window.moviePosterData = [
     "id": 740,
     "title": "Jane Eyre",
     "year": 1996,
+    "releaseDate": "05-Apr-1996",
     "imdbUrl": "https://www.imdb.com/title/tt0116684/",
     "genres": [
       "Drama",
@@ -16533,6 +17533,7 @@ window.moviePosterData = [
     "id": 743,
     "title": "Crow: City of Angels",
     "year": 1996,
+    "releaseDate": "30-Aug-1996",
     "imdbUrl": "http://us.imdb.com/M/title-exact?Crow%3A%20City%20of%20Angels%2C%20The%20%281996%29",
     "genres": [
       "Action",
