@@ -136,11 +136,15 @@ function escapeHtml(value) {
 }
 
 const videoPlatforms = [
-  { label: "腾讯视频", buildUrl: (query) => `https://v.qq.com/x/search/?q=${query}` },
-  { label: "爱奇艺", buildUrl: (query) => `https://so.iqiyi.com/so/q_${query}` },
-  { label: "优酷", buildUrl: (query) => `https://search.youku.com/search_video?keyword=${query}` },
-  { label: "哔哩哔哩", buildUrl: (query) => `https://search.bilibili.com/all?keyword=${query}` },
-  { label: "豆瓣", buildUrl: (query) => `https://search.douban.com/movie/subject_search?search_text=${query}` },
+  { label: "腾讯视频", host: "v.qq.com", buildUrl: (query) => `https://v.qq.com/x/search/?q=${query}` },
+  { label: "爱奇艺", host: "www.iqiyi.com", buildUrl: (query) => `https://so.iqiyi.com/so/q_${query}` },
+  { label: "优酷", host: "www.youku.com", buildUrl: (query) => `https://search.youku.com/search_video?keyword=${query}` },
+  { label: "哔哩哔哩", host: "www.bilibili.com", buildUrl: (query) => `https://search.bilibili.com/all?keyword=${query}` },
+];
+
+const infoPlatforms = [
+  { label: "IMDb", host: "www.imdb.com", buildUrl: (query, movie) => movie.imdbUrl || `https://www.imdb.com/find/?q=${query}` },
+  { label: "豆瓣", host: "movie.douban.com", buildUrl: (query) => `https://search.douban.com/movie/subject_search?search_text=${query}` },
 ];
 
 function buildVideoLinks(movie) {
@@ -148,17 +152,37 @@ function buildVideoLinks(movie) {
   const query = encodeURIComponent(queryText);
   return videoPlatforms.map((platform) => ({
     label: platform.label,
+    icon: `https://www.google.com/s2/favicons?domain=${platform.host}&sz=32`,
     url: platform.buildUrl(query),
   }));
 }
 
-function renderVideoLinks(movie, className = "video-links") {
-  const links = movie.videoLinks || buildVideoLinks(movie);
+function buildInfoLinks(movie) {
+  const queryText = [movie.title, movie.year].filter(Boolean).join(" ");
+  const query = encodeURIComponent(queryText);
+  return infoPlatforms.map((platform) => ({
+    label: platform.label,
+    icon: `https://www.google.com/s2/favicons?domain=${platform.host}&sz=32`,
+    url: platform.buildUrl(query, movie),
+  }));
+}
+
+function renderLinkGroup(links, className) {
   return `
-    <div class="${className}" aria-label="视频平台链接">
-      ${links.map((link) => `<a href="${escapeHtml(link.url)}" target="_blank" rel="noreferrer">${escapeHtml(link.label)}</a>`).join("")}
+    <div class="${className}">
+      ${links.map((link) => `<a href="${escapeHtml(link.url)}" target="_blank" rel="noreferrer"><img src="${escapeHtml(link.icon)}" alt="" loading="lazy">${escapeHtml(link.label)}</a>`).join("")}
     </div>
   `;
+}
+
+function renderInfoLinks(movie, className = "site-links") {
+  const links = movie.infoLinks || buildInfoLinks(movie);
+  return renderLinkGroup(links, className);
+}
+
+function renderVideoLinks(movie, className = "video-links") {
+  const links = movie.videoLinks || buildVideoLinks(movie);
+  return renderLinkGroup(links, className);
 }
 
 function buildMovies() {
@@ -183,6 +207,7 @@ function buildMovies() {
         posterUrl: movie.poster || movie.posterUrl || "",
         number: movie.number || String(index + 1).padStart(4, "0"),
       };
+      output.infoLinks = buildInfoLinks(output);
       output.videoLinks = buildVideoLinks(output);
       return output;
     });
@@ -217,6 +242,7 @@ function buildMovies() {
           posterUrl: sourceMovie?.poster || "",
           number: String(index).padStart(4, "0"),
         };
+        output.infoLinks = buildInfoLinks(output);
         output.videoLinks = buildVideoLinks(output);
         movies.push(output);
         index += 1;
@@ -570,8 +596,8 @@ function renderMovies() {
           <span>${escapeHtml(movie.year)} · ${escapeHtml((movie.genres || []).slice(0, 2).join(", ") || movie.region)}</span>
           <span>${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}</span>
           <span>${escapeHtml(movie.subtitle)}</span>
-          ${movie.imdbUrl ? `<span><a href="${escapeHtml(movie.imdbUrl)}" target="_blank" rel="noreferrer">IMDb</a></span>` : ""}
         </div>
+        ${renderInfoLinks(movie, "site-links compact")}
         ${renderVideoLinks(movie, "video-links compact")}
       </div>
     </article>
@@ -616,8 +642,10 @@ function openMovieDialog(number) {
     <span>${escapeHtml(movie.subcategory)}</span>
     ${(movie.genres || []).map((genre) => `<span>${escapeHtml(genre)}</span>`).join("")}
   `;
-  dialogNote.innerHTML = `归入“${escapeHtml(movie.category)} / ${escapeHtml(movie.subcategory)}”，类型标记：${escapeHtml((movie.genres || []).join(", ") || movie.subtitle)}。${movie.imdbUrl ? ` <a href="${escapeHtml(movie.imdbUrl)}" target="_blank" rel="noreferrer">查看 IMDb 条目</a>` : ""}`;
-  dialogNote.innerHTML += renderVideoLinks(movie, "video-links dialog-video-links");
+  dialogNote.innerHTML = `
+    ${renderInfoLinks(movie, "site-links dialog-site-links")}
+    ${renderVideoLinks(movie, "video-links dialog-video-links")}
+  `;
   renderDialogActions(movie);
   renderDialogNavigation(movie);
   dialogShare.textContent = "复制链接";

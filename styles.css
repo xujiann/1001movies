@@ -562,6 +562,7 @@ select {
   gap: 4px;
 }
 
+.site-links,
 .video-links {
   display: flex;
   flex-wrap: wrap;
@@ -569,7 +570,9 @@ select {
   margin-top: 10px;
 }
 
+.site-links a,
 .video-links a {
+  align-items: center;
   background: rgba(232, 194, 112, 0.1);
   border: 1px solid rgba(232, 194, 112, 0.28);
   border-radius: 999px;
@@ -583,6 +586,22 @@ select {
   transition: 160ms ease;
 }
 
+.site-links img,
+.video-links img {
+  border-radius: 3px;
+  height: 14px;
+  margin-right: 6px;
+  width: 14px;
+}
+
+.site-links a {
+  background: rgba(255, 255, 255, 0.07);
+  border-color: rgba(255, 255, 255, 0.18);
+  color: #dce0e5;
+}
+
+.site-links a:hover,
+.site-links a:focus-visible,
 .video-links a:hover,
 .video-links a:focus-visible {
   background: var(--gold);
@@ -590,18 +609,25 @@ select {
   outline: none;
 }
 
+.site-links.compact a,
 .video-links.compact a {
   font-size: 11px;
   padding: 6px 7px;
 }
 
+.dialog-site-links,
 .dialog-video-links {
   margin-top: 18px;
 }
 
+.dialog-site-links a,
 .dialog-video-links a {
   font-size: 13px;
   padding: 9px 11px;
+}
+
+.dialog-site-links + .dialog-video-links {
+  margin-top: 12px;
 }
 
 .movie-grid.list-view {
@@ -625,7 +651,7 @@ select {
   align-items: center;
   display: grid;
   gap: 10px;
-  grid-template-columns: minmax(150px, 1.1fr) minmax(240px, 1.5fr) minmax(180px, 0.9fr);
+  grid-template-columns: minmax(150px, 1fr) minmax(220px, 1.25fr) minmax(120px, 0.7fr) minmax(220px, 1fr);
   padding: 14px 18px;
 }
 
@@ -638,6 +664,7 @@ select {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.movie-grid.list-view .site-links,
 .movie-grid.list-view .video-links {
   margin-top: 0;
 }
