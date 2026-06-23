@@ -28,10 +28,19 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
+      - name: Audit movie data
+        run: node scripts/audit-movie-data.js
+
+      - name: Prepare production artifact
+        run: |
+          mkdir -p _site/data
+          cp index.html en.html zh.html app.js styles.css favicon.svg robots.txt sitemap.xml .nojekyll _site/
+          node scripts/minify-movie-data.js data/movies.js _site/data/movies.js
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _site
 
       - name: Deploy to GitHub Pages
         id: deployment

@@ -54,6 +54,7 @@ function titleKey(title, year) {
 }
 
 function parseMovieLensRows() {
+  const seenTitles = new Set();
   return itemText.trim().split(/\r?\n/).map((line) => {
     const parts = line.split("|");
     const id = Number(parts[0]);
@@ -69,7 +70,12 @@ function parseMovieLensRows() {
       genres: genres.filter((genre) => genre !== "Unknown"),
       poster: posters.get(id) || "",
     };
-  }).filter((movie) => movie.poster);
+  }).filter((movie) => {
+    const key = titleKey(movie.title, movie.year);
+    if (!movie.poster || seenTitles.has(key)) return false;
+    seenTitles.add(key);
+    return true;
+  });
 }
 
 async function loadImdbGenres(sourceMovies) {

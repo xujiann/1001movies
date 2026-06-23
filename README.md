@@ -16,7 +16,7 @@ The site is a self-contained HTML/CSS/JavaScript app. It displays 1001 movies wi
 - 13 top-level movie categories
 - 11 subcategories in each category
 - 7 movies in each subcategory
-- 1001 total movie cards
+- 1001 total movies with incremental card rendering
 - Real poster images from a public MovieLens poster mapping dataset
 - Release dates from the MovieLens item file
 - IMDb `title.basics` genre enrichment when `data/imdb/title.basics.tsv.gz` is available
@@ -37,7 +37,7 @@ The site is a self-contained HTML/CSS/JavaScript app. It displays 1001 movies wi
 - Local favorites and watched markers using `localStorage`
 - Clickable movie detail dialog
 - Shareable movie detail hashes such as `#movie-0073`
-- One-click copy for movie detail links
+- Export and import of local watch data
 - Static deployment friendly: GitHub Pages, Netlify, Vercel, or any file server
 
 ## Files
@@ -56,6 +56,22 @@ node scripts/build-movie-data.js
 ```
 
 The generator uses IMDb genres first when `data/imdb/title.basics.tsv.gz` exists locally. The large IMDb dataset is intentionally ignored by git and should not be committed.
+
+## Audit Data
+
+```bash
+node scripts/audit-movie-data.js
+```
+
+The audit verifies the 1,001-entry structure and reports missing metadata, year-only dates, duplicate titles, and duplicate poster URLs.
+
+## Build Production Data
+
+```bash
+node scripts/minify-movie-data.js
+```
+
+The Pages workflow also minifies the generated movie data before deployment, keeping the readable source file in the repository while reducing transfer size. By default, the minified output is written to `_site/data/movies.js`.
 
 ## Local Use
 

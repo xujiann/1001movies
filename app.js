@@ -71,6 +71,7 @@ const uiText = {
     all: "全部",
     allTypes: "全部类型",
     allDecades: "全部年代",
+    unknownDecade: "年代未知",
     allStatus: "全部状态",
     favorite: "已收藏",
     watched: "已看",
@@ -88,6 +89,7 @@ const uiText = {
     next: "下一部",
     detail: "查看详情",
     showing: "当前显示",
+    ofResults: "条匹配结果，共",
     moviesUnit: "部电影",
     watchedShort: "已看",
     favoritesShort: "收藏",
@@ -107,7 +109,17 @@ const uiText = {
     releaseDate: "上映日期",
     viewRating: "查看评分",
     pending: "待补充",
-    completePosters: "海报完整度",
+    dataSource: "数据来源",
+    loadMore: "显示更多",
+    exportState: "导出观影记录",
+    importState: "导入观影记录",
+    exportDone: "观影记录已导出。",
+    importDone: "观影记录已导入。",
+    importError: "无法导入：文件格式不正确。",
+    platformHint: "以下按钮用于在外部平台搜索该影片，不代表当前可播放。",
+    dataNote: "片单元数据来自 MovieLens 与 IMDb；视频平台按钮仅用于搜索，不代表当前可播放。评分与上映信息以外部平台页面为准。",
+    votes: "人评分",
+    skip: "跳到主要内容",
     languageLabel: "English",
   },
   en: {
@@ -137,6 +149,7 @@ const uiText = {
     all: "All",
     allTypes: "All genres",
     allDecades: "All decades",
+    unknownDecade: "Unknown decade",
     allStatus: "All status",
     favorite: "Favorited",
     watched: "Watched",
@@ -154,6 +167,7 @@ const uiText = {
     next: "Next",
     detail: "Details",
     showing: "Showing",
+    ofResults: "matching results out of",
     moviesUnit: "movies",
     watchedShort: "watched",
     favoritesShort: "favorites",
@@ -173,7 +187,17 @@ const uiText = {
     releaseDate: "Release",
     viewRating: "View rating",
     pending: "To be added",
-    completePosters: "Poster coverage",
+    dataSource: "Data source",
+    loadMore: "Show more",
+    exportState: "Export watch data",
+    importState: "Import watch data",
+    exportDone: "Watch data exported.",
+    importDone: "Watch data imported.",
+    importError: "Import failed: invalid file format.",
+    platformHint: "These buttons search external platforms and do not indicate current availability.",
+    dataNote: "Metadata comes from MovieLens and IMDb. Platform buttons only perform searches and do not indicate current availability. Verify ratings and release information on the linked service.",
+    votes: "votes",
+    skip: "Skip to main content",
     languageLabel: "中文",
   },
 };
@@ -239,7 +263,12 @@ function displaySubcategory(movieOrValue) {
 
 function formatReleaseDate(value, year) {
   if (!value) return year ? String(year) : t("pending");
-  const date = new Date(value);
+  const legacyDate = String(value).match(/^(\d{2})-([A-Za-z]{3})-(\d{4})$/);
+  if (legacyDate && legacyDate[1] === "01" && legacyDate[2].toLowerCase() === "jan") return legacyDate[3];
+  const monthNames = { jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5, jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11 };
+  const date = legacyDate
+    ? new Date(Date.UTC(Number(legacyDate[3]), monthNames[legacyDate[2].toLowerCase()], Number(legacyDate[1])))
+    : new Date(value);
   if (Number.isNaN(date.getTime())) return value;
   return new Intl.DateTimeFormat(language === "en" ? "en-US" : "zh-CN", {
     year: "numeric",
@@ -274,11 +303,17 @@ function formatRating(value) {
   return Number.isFinite(score) && score > 0 ? `${score.toFixed(1)} / 10` : t("viewRating");
 }
 
+function formatVotes(value) {
+  const votes = Number(value);
+  if (!Number.isFinite(votes) || votes <= 0) return "";
+  return `${new Intl.NumberFormat(language === "en" ? "en-US" : "zh-CN", { notation: "compact", maximumFractionDigits: 1 }).format(votes)} ${t("votes")}`;
+}
+
 const videoPlatforms = [
-  { label: "腾讯视频", host: "v.qq.com", buildUrl: (query) => `https://v.qq.com/x/search/?q=${query}` },
-  { label: "爱奇艺", host: "www.iqiyi.com", buildUrl: (query) => `https://so.iqiyi.com/so/q_${query}` },
-  { label: "优酷", host: "www.youku.com", buildUrl: (query) => `https://search.youku.com/search_video?keyword=${query}` },
-  { label: "哔哩哔哩", host: "www.bilibili.com", buildUrl: (query) => `https://search.bilibili.com/all?keyword=${query}` },
+  { zh: "腾讯视频搜索", en: "Tencent Video search", host: "v.qq.com", buildUrl: (query) => `https://v.qq.com/x/search/?q=${query}` },
+  { zh: "爱奇艺搜索", en: "iQIYI search", host: "www.iqiyi.com", buildUrl: (query) => `https://so.iqiyi.com/so/q_${query}` },
+  { zh: "优酷搜索", en: "Youku search", host: "www.youku.com", buildUrl: (query) => `https://search.youku.com/search_video?keyword=${query}` },
+  { zh: "哔哩哔哩搜索", en: "Bilibili search", host: "www.bilibili.com", buildUrl: (query) => `https://search.bilibili.com/all?keyword=${query}` },
 ];
 
 const infoPlatforms = [
@@ -290,7 +325,7 @@ function buildVideoLinks(movie) {
   const queryText = [movie.title, movie.year].filter(Boolean).join(" ");
   const query = encodeURIComponent(queryText);
   return videoPlatforms.map((platform) => ({
-    label: platform.label,
+    label: platform[language],
     icon: `https://www.google.com/s2/favicons?domain=${platform.host}&sz=32`,
     url: platform.buildUrl(query),
   }));
@@ -301,7 +336,7 @@ function buildInfoLinks(movie) {
   const query = encodeURIComponent(queryText);
   return infoPlatforms.map((platform) => ({
     label: platform.label,
-    rating: formatRating(movie.ratings?.[platform.ratingKey]),
+    rating: [formatRating(movie.ratings?.[platform.ratingKey]), platform.ratingKey === "imdb" ? formatVotes(movie.ratings?.imdbVotes) : ""].filter(Boolean).join(" · "),
     icon: `https://www.google.com/s2/favicons?domain=${platform.host}&sz=32`,
     url: platform.buildUrl(query, movie),
   }));
@@ -310,7 +345,7 @@ function buildInfoLinks(movie) {
 function renderLinkGroup(links, className) {
   return `
     <div class="${className}">
-      ${links.map((link) => `<a href="${escapeHtml(link.url)}" target="_blank" rel="noreferrer"><img src="${escapeHtml(link.icon)}" alt="" loading="lazy"><span>${escapeHtml(link.label)}</span>${link.rating ? `<small>${escapeHtml(link.rating)}</small>` : ""}</a>`).join("")}
+      ${links.map((link) => `<a href="${escapeHtml(link.url)}" target="_blank" rel="noopener noreferrer"><img src="${escapeHtml(link.icon)}" alt="" loading="lazy" referrerpolicy="no-referrer"><span>${escapeHtml(link.label)}</span>${link.rating ? `<small>${escapeHtml(link.rating)}</small>` : ""}</a>`).join("")}
     </div>
   `;
 }
@@ -345,7 +380,7 @@ function buildMovies() {
         director: movie.director || movie.directors || [],
         cast: movie.cast || movie.actors || [],
         ratings: movie.ratings || { imdb: null, douban: null },
-        imdbUrl: movie.imdbUrl || "",
+        imdbUrl: /^https:\/\/www\.imdb\.com\/title\//.test(movie.imdbUrl || "") ? movie.imdbUrl : "",
         doubanUrl: movie.doubanUrl || "",
         posterA: color[0],
         posterB: color[1],
@@ -406,6 +441,32 @@ function buildMovies() {
 }
 
 const movies = buildMovies();
+const posterGroups = new Map();
+movies.forEach((movie) => {
+  if (!movie.posterUrl) return;
+  const group = posterGroups.get(movie.posterUrl) || [];
+  group.push(movie);
+  posterGroups.set(movie.posterUrl, group);
+});
+posterGroups.forEach((group) => {
+  if (new Set(group.map((movie) => `${movie.title}|${movie.year}`)).size <= 1) return;
+  group.forEach((movie) => {
+    movie.posterUrl = "";
+    movie.posterComplete = false;
+  });
+});
+const PAGE_SIZE = 42;
+
+function readStoredArray(key) {
+  try {
+    const value = JSON.parse(localStorage.getItem(key) || "[]");
+    return Array.isArray(value) ? value : [];
+  } catch {
+    localStorage.removeItem(key);
+    return [];
+  }
+}
+
 const state = {
   category: ALL,
   subcategory: ALL,
@@ -413,13 +474,14 @@ const state = {
   decade: ALL,
   status: ALL,
   sort: "number",
-  view: localStorage.getItem("movieViewMode") || "grid",
+  view: localStorage.getItem("movieViewMode") === "list" ? "list" : "grid",
   query: "",
+  visibleCount: PAGE_SIZE,
 };
 
 const userState = {
-  favorites: new Set(JSON.parse(localStorage.getItem("movieFavorites") || "[]")),
-  watched: new Set(JSON.parse(localStorage.getItem("movieWatched") || "[]")),
+  favorites: new Set(readStoredArray("movieFavorites")),
+  watched: new Set(readStoredArray("movieWatched")),
 };
 
 const categoryGrid = document.querySelector("#category-grid");
@@ -443,6 +505,7 @@ const clearButton = document.querySelector("#clear-button");
 const emptyClearButton = document.querySelector("#empty-clear-button");
 const emptyState = document.querySelector("#empty-state");
 const resultCount = document.querySelector("#result-count");
+const loadMoreButton = document.querySelector("#load-more-button");
 const toTopButton = document.querySelector("#to-top");
 const movieDialog = document.querySelector("#movie-dialog");
 const dialogClose = document.querySelector("#dialog-close");
@@ -455,9 +518,17 @@ const dialogPrev = document.querySelector("#dialog-prev");
 const dialogNext = document.querySelector("#dialog-next");
 const dialogFavorite = document.querySelector("#dialog-favorite");
 const dialogWatched = document.querySelector("#dialog-watched");
+const platformSearchHint = document.querySelector("#platform-search-hint");
+const exportStateButton = document.querySelector("#export-state");
+const importStateButton = document.querySelector("#import-state-button");
+const importStateInput = document.querySelector("#import-state");
+const stateMessage = document.querySelector("#state-message");
 
 let activeDialogMovieNumber = null;
 let featuredOffset = Number(localStorage.getItem("featuredOffset") || "0");
+if (!Number.isFinite(featuredOffset)) featuredOffset = 0;
+let searchTimer = null;
+let lastFilterSignature = "";
 let isApplyingUrlState = false;
 let hasInitialized = false;
 
@@ -516,6 +587,10 @@ function syncControls() {
   listViewButton.classList.toggle("active", state.view === "list");
 }
 
+function resetVisibleMovies() {
+  state.visibleCount = PAGE_SIZE;
+}
+
 function resetFilters() {
   state.category = ALL;
   state.subcategory = ALL;
@@ -524,6 +599,7 @@ function resetFilters() {
   state.status = ALL;
   state.sort = "number";
   state.query = "";
+  resetVisibleMovies();
   renderSubnav();
   renderMovies();
 }
@@ -533,13 +609,17 @@ function getAllGenres() {
 }
 
 function getDecade(year) {
-  if (!year) return "Unknown";
+  if (!year) return t("unknownDecade");
   return `${Math.floor(year / 10) * 10}s`;
 }
 
 function getAllDecades() {
   return [...new Set(movies.map((movie) => getDecade(movie.year)))]
-    .sort((a, b) => Number(a.slice(0, 4)) - Number(b.slice(0, 4)));
+    .sort((a, b) => {
+      if (a === t("unknownDecade")) return 1;
+      if (b === t("unknownDecade")) return -1;
+      return Number(a.slice(0, 4)) - Number(b.slice(0, 4));
+    });
 }
 
 function isFavorite(movie) {
@@ -553,6 +633,27 @@ function isWatched(movie) {
 function toggleSet(set, value) {
   if (set.has(value)) set.delete(value);
   else set.add(value);
+}
+
+function bindPosterImages(root) {
+  root.querySelectorAll("img[data-poster-image]").forEach((image) => {
+    const markLoaded = () => image.classList.add("is-loaded");
+    const markFailed = () => {
+      if (!image.dataset.retried && image.src.includes("images-na.ssl-images-amazon.com")) {
+        image.dataset.retried = "true";
+        image.src = image.src.replace("images-na.ssl-images-amazon.com", "m.media-amazon.com");
+        return;
+      }
+      image.closest(".poster, .dialog-poster")?.classList.add("poster-fallback");
+      image.remove();
+    };
+    image.addEventListener("load", markLoaded, { once: true });
+    image.addEventListener("error", markFailed);
+    if (image.complete) {
+      if (image.naturalWidth) markLoaded();
+      else markFailed();
+    }
+  });
 }
 
 function renderStats() {
@@ -573,7 +674,7 @@ function renderFeatured() {
   const movie = getDailyMovie();
   featuredCard.innerHTML = `
     <div class="poster" style="--poster-a: ${movie.posterA}; --poster-b: ${movie.posterB}">
-      ${movie.posterUrl ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} poster" loading="eager" onload="this.classList.add('is-loaded')" onerror="this.closest('.poster').classList.add('poster-fallback');this.remove()">` : ""}
+      ${movie.posterUrl ? `<img data-poster-image src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} poster" loading="eager" referrerpolicy="no-referrer">` : ""}
       <span>${escapeHtml(movie.number)}</span>
     </div>
       <div class="featured-body">
@@ -586,6 +687,7 @@ function renderFeatured() {
       <button class="button primary" type="button" data-featured-open="${escapeHtml(movie.number)}">${escapeHtml(t("detail"))}</button>
     </div>
   `;
+  bindPosterImages(featuredCard);
   featuredCard.querySelector("[data-featured-open]").addEventListener("click", () => openMovieDialog(movie.number));
 }
 
@@ -621,11 +723,23 @@ function closeMovieDialog() {
   } else {
     movieDialog.removeAttribute("open");
   }
+  document.title = language === "en" ? "1001 Movies | Curated Movie Index" : "1001 Movies｜精选电影索引";
 }
 
 function applyLanguageText() {
   document.documentElement.lang = language === "en" ? "en" : "zh-CN";
-  document.title = language === "en" ? "1001 Movies" : "1001 部电影";
+  document.title = language === "en" ? "1001 Movies | Curated Movie Index" : "1001 Movies｜精选电影索引";
+  document.querySelector('meta[name="description"]')?.setAttribute("content", language === "en"
+    ? "Browse 1,001 films across 13 themes and 143 sections, track your progress, and explore by director, cast, and genre."
+    : "按 13 个主题与 143 个小类浏览 1001 部电影，追踪观影进度，并从导演、演员与类型继续探索。");
+  document.querySelector('meta[property="og:locale"]')?.setAttribute("content", language === "en" ? "en_US" : "zh_CN");
+  document.querySelector('meta[property="og:title"]')?.setAttribute("content", language === "en" ? "1001 Movies" : "1001 部电影");
+  document.querySelector('meta[property="og:description"]')?.setAttribute("content", language === "en"
+    ? "Explore 1,001 films from classics to contemporary cinema."
+    : "从经典到当代，探索 1001 部值得观看的电影。");
+  document.querySelector('link[rel="canonical"]')?.setAttribute("href", language === "en"
+    ? "https://xujiann.github.io/1001movies/index.html?lang=en"
+    : "https://xujiann.github.io/1001movies/");
   document.querySelector(".brand")?.setAttribute("aria-label", language === "en" ? "1001 Movies home" : "1001 Movies 首页");
   document.querySelector('.nav a[href="#featured"]').textContent = t("featured");
   document.querySelector('.nav a[href="#categories"]').textContent = t("categories");
@@ -659,10 +773,16 @@ function applyLanguageText() {
   clearButton.textContent = t("clear");
   emptyState.querySelector("p").textContent = t("noResults");
   emptyClearButton.textContent = t("clear");
+  loadMoreButton.textContent = t("loadMore");
   toTopButton.setAttribute("aria-label", t("top"));
   dialogClose.setAttribute("aria-label", t("close"));
   dialogPrev.textContent = t("prev");
   dialogNext.textContent = t("next");
+  platformSearchHint.textContent = t("platformHint");
+  exportStateButton.textContent = t("exportState");
+  importStateButton.textContent = t("importState");
+  document.querySelector("#data-note").textContent = t("dataNote");
+  document.querySelector(".skip-link").textContent = t("skip");
   document.querySelector("#about-kicker").textContent = language === "en" ? "About" : "关于";
   document.querySelector("#about-title").textContent = language === "en" ? "About 1001 Movies" : "关于 1001 Movies";
   document.querySelector("#about-description").textContent = language === "en"
@@ -675,12 +795,15 @@ function applyLanguageText() {
   const switcher = document.querySelector("#language-switch");
   if (switcher) {
     const target = language === "en" ? "zh" : "en";
-    switcher.innerHTML = `<a href="index.html?lang=${target}" aria-label="${escapeHtml(t("languageLabel"))}">${escapeHtml(t("languageLabel"))}</a>`;
+    switcher.innerHTML = `<a href="index.html?lang=${target}${escapeHtml(location.hash)}" aria-label="${escapeHtml(t("languageLabel"))}">${escapeHtml(t("languageLabel"))}</a>`;
   }
 }
 
 function getSearchText(movie) {
-  return `${movie.title} ${movie.subtitle} ${movie.category} ${displayCategory(movie.category)} ${movie.subcategory} ${displaySubcategory(movie)} ${movie.region} ${formatPersonList(movie.director)} ${formatPersonList(movie.cast)} ${(movie.genres || []).join(" ")} ${(movie.genres || []).map(displayGenre).join(" ")}`.toLowerCase();
+  if (!movie.searchText) {
+    movie.searchText = `${movie.title} ${movie.subtitle} ${movie.category} ${displayCategory(movie.category)} ${movie.subcategory} ${displaySubcategory(movie)} ${movie.region} ${formatPersonList(movie.director)} ${formatPersonList(movie.cast)} ${(movie.genres || []).join(" ")} ${(movie.genres || []).map(displayGenre).join(" ")}`.toLowerCase();
+  }
+  return movie.searchText;
 }
 
 function renderFilters() {
@@ -736,7 +859,7 @@ function renderActiveFilters() {
   if (state.view !== "grid") filters.push(["view", t("viewLabel"), t("list")]);
 
   activeFilters.innerHTML = filters.map(([key, label, value]) => (
-    `<button class="filter-pill" type="button" data-filter-key="${key}"><span>${escapeHtml(label)}</span>${escapeHtml(value)} x</button>`
+    `<button class="filter-pill" type="button" data-filter-key="${key}" aria-label="${escapeHtml(`${t("clear")} ${label}: ${value}`)}"><span>${escapeHtml(label)}</span>${escapeHtml(value)} ×</button>`
   )).join("");
 
   activeFilters.querySelectorAll(".filter-pill").forEach((pill) => {
@@ -772,7 +895,7 @@ function renderCategories() {
     const watched = categoryMovies.filter(isWatched).length;
     const percent = Math.round((watched / count) * 100);
     return `
-      <article class="category-card" style="--accent: ${category.accent}" data-category="${escapeHtml(category.name)}" tabindex="0">
+      <article class="category-card" style="--accent: ${category.accent}" data-category="${escapeHtml(category.name)}" tabindex="0" role="button" aria-label="${escapeHtml(displayCategory(category.name))}">
         <h3>${escapeHtml(displayCategory(category.name))}</h3>
         <p>${escapeHtml(language === "en" ? `${count} curated movies in this theme.` : category.description)}</p>
         <div class="category-meta">
@@ -799,7 +922,10 @@ function renderCategories() {
     };
     card.addEventListener("click", selectCategory);
     card.addEventListener("keydown", (event) => {
-      if (event.key === "Enter") selectCategory();
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        selectCategory();
+      }
     });
   });
 }
@@ -825,15 +951,22 @@ function getFilteredMovies() {
 
 function renderMovies() {
   const filtered = getFilteredMovies();
+  const filterSignature = [state.category, state.subcategory, state.genre, state.decade, state.status, state.sort, state.query].join("|");
+  if (filterSignature !== lastFilterSignature) {
+    resetVisibleMovies();
+    lastFilterSignature = filterSignature;
+  }
+  const visible = filtered.slice(0, state.visibleCount);
   emptyState.hidden = filtered.length > 0;
-  resultCount.textContent = `${t("showing")} ${filtered.length} / ${movies.length} ${t("moviesUnit")} · ${t("watchedShort")} ${userState.watched.size} · ${t("favoritesShort")} ${userState.favorites.size}`;
+  resultCount.textContent = `${t("showing")} ${visible.length} / ${filtered.length} ${t("ofResults")} ${movies.length} ${t("moviesUnit")} · ${t("watchedShort")} ${userState.watched.size} · ${t("favoritesShort")} ${userState.favorites.size}`;
+  loadMoreButton.parentElement.hidden = visible.length >= filtered.length;
   movieGrid.classList.toggle("list-view", state.view === "list");
-  movieGrid.innerHTML = filtered.map((movie) => `
+  movieGrid.innerHTML = visible.map((movie) => `
     <article class="movie-card ${isWatched(movie) ? "is-watched" : ""} ${isFavorite(movie) ? "is-favorite" : ""}" data-movie-number="${escapeHtml(movie.number)}" tabindex="0" role="button" aria-label="${escapeHtml(t("detail"))}: ${escapeHtml(movie.title)}">
       <div class="poster" style="--poster-a: ${movie.posterA}; --poster-b: ${movie.posterB}">
-        ${movie.posterUrl ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} poster" loading="lazy" onload="this.classList.add('is-loaded')" onerror="this.closest('.poster').classList.add('poster-fallback');this.remove()">` : ""}
+        ${movie.posterUrl ? `<img data-poster-image src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} poster" loading="lazy" referrerpolicy="no-referrer">` : ""}
         <span>${escapeHtml(movie.number)}</span>
-        <div class="card-badges" aria-label="status">
+        <div class="card-badges" aria-label="${escapeHtml(t("statusLabel"))}">
           ${isFavorite(movie) ? `<b>${escapeHtml(t("favoritesShort"))}</b>` : ""}
           ${isWatched(movie) ? `<b>${escapeHtml(t("watchedShort"))}</b>` : ""}
         </div>
@@ -849,14 +982,13 @@ function renderMovies() {
           <span>${escapeHtml(t("director"))}: ${escapeHtml(formatPersonList(movie.director))}</span>
           <span>${escapeHtml(t("cast"))}: ${escapeHtml(formatPersonList(movie.cast))}</span>
         </div>
-        ${renderInfoLinks(movie, "site-links compact")}
-        ${renderVideoLinks(movie, "video-links compact")}
       </div>
     </article>
   `).join("");
   syncControls();
   renderActiveFilters();
   updateLibraryHash();
+  bindPosterImages(movieGrid);
 
   movieGrid.querySelectorAll(".movie-card").forEach((card) => {
     const open = () => openMovieDialog(card.dataset.movieNumber);
@@ -869,9 +1001,6 @@ function renderMovies() {
     });
   });
 
-  movieGrid.querySelectorAll("a").forEach((link) => {
-    link.addEventListener("click", (event) => event.stopPropagation());
-  });
 }
 
 function openMovieDialog(number) {
@@ -882,8 +1011,9 @@ function openMovieDialog(number) {
 
   dialogPoster.style.setProperty("--poster-a", movie.posterA);
   dialogPoster.style.setProperty("--poster-b", movie.posterB);
+  dialogPoster.classList.remove("poster-fallback");
   dialogPoster.innerHTML = movie.posterUrl
-    ? `<img src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} poster" onload="this.classList.add('is-loaded')" onerror="this.remove()">`
+    ? `<img data-poster-image src="${escapeHtml(movie.posterUrl)}" alt="${escapeHtml(movie.title)} poster" referrerpolicy="no-referrer">`
     : `<span>${escapeHtml(movie.number)}</span>`;
   dialogNumber.textContent = `No. ${movie.number}`;
   dialogTitle.textContent = movie.title;
@@ -897,13 +1027,15 @@ function openMovieDialog(number) {
       <div><span>${escapeHtml(t("director"))}</span><strong>${renderPersonLinks(movie.director)}</strong></div>
       <div><span>${escapeHtml(t("cast"))}</span><strong>${renderPersonLinks(movie.cast)}</strong></div>
       <div><span>${escapeHtml(t("releaseDate"))}</span><strong>${escapeHtml(formatReleaseDate(movie.releaseDate, movie.year))}</strong></div>
-      <div><span>${escapeHtml(t("completePosters"))}</span><strong>${movie.posterComplete ? "100%" : escapeHtml(t("pending"))}</strong></div>
+      <div><span>${escapeHtml(t("dataSource"))}</span><strong>${escapeHtml(movie.region || "MovieLens")}</strong></div>
     </div>
     ${renderInfoLinks(movie, "site-links dialog-site-links")}
     ${renderVideoLinks(movie, "video-links dialog-video-links")}
   `;
   renderDialogActions(movie);
   renderDialogNavigation(movie);
+  bindPosterImages(dialogPoster);
+  document.title = `${movie.title} | 1001 Movies`;
   dialogNote.querySelectorAll("[data-person]").forEach((link) => {
     link.addEventListener("click", (event) => {
       event.preventDefault();
@@ -937,9 +1069,61 @@ function renderDialogActions(movie) {
   dialogWatched.classList.toggle("active", isWatched(movie));
 }
 
+function exportUserState() {
+  const payload = {
+    version: 1,
+    exportedAt: new Date().toISOString(),
+    favorites: [...userState.favorites],
+    watched: [...userState.watched],
+  };
+  const url = URL.createObjectURL(new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" }));
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = `1001-movies-${new Date().toISOString().slice(0, 10)}.json`;
+  document.body.append(link);
+  link.click();
+  link.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 0);
+  stateMessage.textContent = t("exportDone");
+}
+
+async function importUserState(file) {
+  try {
+    const payload = JSON.parse(await file.text());
+    if (!Array.isArray(payload.favorites) || !Array.isArray(payload.watched)) throw new Error("Invalid state");
+    const validNumbers = new Set(movies.map((movie) => movie.number));
+    userState.favorites = new Set(payload.favorites.filter((number) => validNumbers.has(number)));
+    userState.watched = new Set(payload.watched.filter((number) => validNumbers.has(number)));
+    saveUserState();
+    renderStats();
+    renderCategories();
+    renderMovies();
+    stateMessage.textContent = t("importDone");
+  } catch {
+    stateMessage.textContent = t("importError");
+  } finally {
+    importStateInput.value = "";
+  }
+}
+
 searchInput.addEventListener("input", (event) => {
   state.query = event.target.value;
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(renderMovies, 200);
+});
+
+loadMoreButton.addEventListener("click", () => {
+  state.visibleCount += PAGE_SIZE;
   renderMovies();
+});
+
+exportStateButton.addEventListener("click", exportUserState);
+
+importStateButton.addEventListener("click", () => importStateInput.click());
+
+importStateInput.addEventListener("change", () => {
+  const [file] = importStateInput.files;
+  if (file) importUserState(file);
 });
 
 filterToggle.addEventListener("click", () => {
@@ -1006,7 +1190,7 @@ clearButton.addEventListener("click", () => {
 emptyClearButton.addEventListener("click", resetFilters);
 
 toTopButton.addEventListener("click", () => {
-  document.querySelector("#top").scrollIntoView({ behavior: "smooth" });
+  document.querySelector("#main-content").scrollIntoView({ behavior: "smooth" });
 });
 
 dialogPrev.addEventListener("click", () => openAdjacentMovie(-1));
@@ -1036,6 +1220,11 @@ dialogWatched.addEventListener("click", () => {
 });
 
 dialogClose.addEventListener("click", closeMovieDialog);
+
+movieDialog.addEventListener("cancel", (event) => {
+  event.preventDefault();
+  closeMovieDialog();
+});
 
 movieDialog.addEventListener("click", (event) => {
   if (event.target === movieDialog) closeMovieDialog();

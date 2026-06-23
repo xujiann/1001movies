@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xujiann.github.io/1001movies/sitemap.xml

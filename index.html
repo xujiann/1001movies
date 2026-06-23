@@ -3,12 +3,32 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>1001 Movies</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta name="description" content="按 13 个主题与 143 个小类浏览 1001 部电影，追踪观影进度，并从导演、演员与类型继续探索。">
+    <meta name="theme-color" content="#0d0f12">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'; upgrade-insecure-requests">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="1001 Movies">
+    <meta property="og:description" content="从经典到当代，探索 1001 部值得观看的电影。">
+    <meta property="og:url" content="https://xujiann.github.io/1001movies/">
+    <meta property="og:locale" content="zh_CN">
+    <meta name="twitter:card" content="summary">
+    <title>1001 Movies｜精选电影索引</title>
+    <link rel="canonical" href="https://xujiann.github.io/1001movies/">
+    <link rel="alternate" hreflang="zh-CN" href="https://xujiann.github.io/1001movies/index.html?lang=zh">
+    <link rel="alternate" hreflang="en" href="https://xujiann.github.io/1001movies/index.html?lang=en">
+    <link rel="alternate" hreflang="x-default" href="https://xujiann.github.io/1001movies/">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://images-na.ssl-images-amazon.com" crossorigin>
+    <link rel="preconnect" href="https://m.media-amazon.com" crossorigin>
+    <link rel="preconnect" href="https://www.google.com" crossorigin>
+    <link rel="preconnect" href="https://images.unsplash.com" crossorigin>
+    <link rel="stylesheet" href="styles.css?v=20260620-2">
   </head>
   <body>
+    <a class="skip-link" href="#main-content">跳到主要内容</a>
     <header class="topbar">
-      <a class="brand" href="#top" aria-label="1001 Movies 首页">
+      <a class="brand" href="#main-content" aria-label="1001 Movies 首页">
         <span class="brand-mark">1001</span>
         <span>Movies</span>
       </a>
@@ -21,7 +41,7 @@
       <div class="language-switch" id="language-switch" aria-label="Language"></div>
     </header>
 
-    <main id="top">
+    <main id="main-content">
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-overlay">
           <p class="kicker">精选电影索引</p>
@@ -116,6 +136,9 @@
         <div class="active-filters" id="active-filters" aria-label="当前筛选"></div>
         <p class="result-count" id="result-count" aria-live="polite"></p>
         <div class="movie-grid" id="movie-grid"></div>
+        <div class="load-more-wrap">
+          <button class="button secondary" id="load-more-button" type="button">显示更多</button>
+        </div>
         <div class="empty-state" id="empty-state" hidden>
           <p>没有找到匹配的电影。</p>
           <button class="icon-button text-button" id="empty-clear-button" type="button">清空筛选</button>
@@ -136,6 +159,13 @@
             <span><strong>13</strong><i>个主题</i></span>
             <span><strong>143</strong><i>个小类</i></span>
           </div>
+          <div class="about-actions">
+            <button class="icon-button text-button" id="export-state" type="button">导出观影记录</button>
+            <button class="icon-button text-button" id="import-state-button" type="button">导入观影记录</button>
+            <input class="visually-hidden" id="import-state" type="file" accept="application/json">
+            <p class="state-message" id="state-message" aria-live="polite"></p>
+          </div>
+          <p class="data-note" id="data-note">片单元数据来自 MovieLens 与 IMDb；视频平台按钮仅用于搜索，不代表当前可播放。评分与上映信息以外部平台页面为准。</p>
         </div>
       </section>
     </main>
@@ -150,6 +180,7 @@
         <h2 id="dialog-title"></h2>
         <div class="dialog-meta" id="dialog-meta"></div>
         <div id="dialog-note"></div>
+        <p class="platform-search-hint" id="platform-search-hint">以下按钮用于在外部平台搜索该影片。</p>
         <div class="dialog-actions">
           <button class="icon-button text-button" id="dialog-prev" type="button">上一部</button>
           <button class="icon-button text-button" id="dialog-next" type="button">下一部</button>
@@ -159,7 +190,8 @@
       </div>
     </dialog>
 
-    <script src="data/movies.js"></script>
-    <script src="app.js"></script>
+    <noscript><p class="noscript-message">此网站需要 JavaScript 才能浏览和筛选电影。</p></noscript>
+    <script src="data/movies.js?v=20260620-2"></script>
+    <script src="app.js?v=20260620-2"></script>
   </body>
 </html>
