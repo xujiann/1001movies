@@ -457,12 +457,36 @@ posterGroups.forEach((group) => {
 });
 const PAGE_SIZE = 42;
 
+function readStorage(key, fallback = "") {
+  try {
+    return localStorage.getItem(key) ?? fallback;
+  } catch {
+    return fallback;
+  }
+}
+
+function writeStorage(key, value) {
+  try {
+    localStorage.setItem(key, value);
+  } catch {
+    // Browsing should keep working when storage is blocked or full.
+  }
+}
+
+function removeStorage(key) {
+  try {
+    localStorage.removeItem(key);
+  } catch {
+    // Ignore unavailable storage.
+  }
+}
+
 function readStoredArray(key) {
   try {
-    const value = JSON.parse(localStorage.getItem(key) || "[]");
+    const value = JSON.parse(readStorage(key, "[]"));
     return Array.isArray(value) ? value : [];
   } catch {
-    localStorage.removeItem(key);
+    removeStorage(key);
     return [];
   }
 }
@@ -474,7 +498,7 @@ const state = {
   decade: ALL,
   status: ALL,
   sort: "number",
-  view: localStorage.getItem("movieViewMode") === "list" ? "list" : "grid",
+  view: readStorage("movieViewMode") === "list" ? "list" : "grid",
   query: "",
   visibleCount: PAGE_SIZE,
 };
@@ -525,7 +549,7 @@ const importStateInput = document.querySelector("#import-state");
 const stateMessage = document.querySelector("#state-message");
 
 let activeDialogMovieNumber = null;
-let featuredOffset = Number(localStorage.getItem("featuredOffset") || "0");
+let featuredOffset = Number(readStorage("featuredOffset", "0"));
 if (!Number.isFinite(featuredOffset)) featuredOffset = 0;
 let searchTimer = null;
 let lastFilterSignature = "";
@@ -533,8 +557,8 @@ let isApplyingUrlState = false;
 let hasInitialized = false;
 
 function saveUserState() {
-  localStorage.setItem("movieFavorites", JSON.stringify([...userState.favorites]));
-  localStorage.setItem("movieWatched", JSON.stringify([...userState.watched]));
+  writeStorage("movieFavorites", JSON.stringify([...userState.favorites]));
+  writeStorage("movieWatched", JSON.stringify([...userState.watched]));
 }
 
 function fromSlug(value) {
@@ -881,7 +905,7 @@ function renderActiveFilters() {
       if (key === "sort") state.sort = "number";
       if (key === "view") {
         state.view = "grid";
-        localStorage.setItem("movieViewMode", state.view);
+        writeStorage("movieViewMode", state.view);
       }
       renderMovies();
     });
@@ -1133,19 +1157,19 @@ filterToggle.addEventListener("click", () => {
 
 gridViewButton.addEventListener("click", () => {
   state.view = "grid";
-  localStorage.setItem("movieViewMode", state.view);
+  writeStorage("movieViewMode", state.view);
   renderMovies();
 });
 
 listViewButton.addEventListener("click", () => {
   state.view = "list";
-  localStorage.setItem("movieViewMode", state.view);
+  writeStorage("movieViewMode", state.view);
   renderMovies();
 });
 
 featuredRefresh.addEventListener("click", () => {
   featuredOffset = (featuredOffset + 37) % movies.length;
-  localStorage.setItem("featuredOffset", String(featuredOffset));
+  writeStorage("featuredOffset", String(featuredOffset));
   renderFeatured();
 });
 
