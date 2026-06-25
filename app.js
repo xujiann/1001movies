@@ -549,6 +549,7 @@ const importStateInput = document.querySelector("#import-state");
 const stateMessage = document.querySelector("#state-message");
 
 let activeDialogMovieNumber = null;
+let activeDialogReturnHash = "#library";
 let featuredOffset = Number(readStorage("featuredOffset", "0"));
 if (!Number.isFinite(featuredOffset)) featuredOffset = 0;
 let searchTimer = null;
@@ -740,8 +741,9 @@ function openAdjacentMovie(direction) {
 }
 
 function closeMovieDialog() {
-  if (location.hash.startsWith("#movie-")) history.replaceState(null, "", "#library");
+  if (location.hash.startsWith("#movie-")) history.replaceState(null, "", activeDialogReturnHash || "#library");
   activeDialogMovieNumber = null;
+  activeDialogReturnHash = "#library";
   if (typeof movieDialog.close === "function") {
     movieDialog.close();
   } else {
@@ -1030,6 +1032,9 @@ function renderMovies() {
 function openMovieDialog(number) {
   const movie = movies.find((item) => item.number === number);
   if (!movie) return;
+  if (!location.hash.startsWith("#movie-")) {
+    activeDialogReturnHash = location.hash.startsWith("#library") ? location.hash : getLibraryHash();
+  }
   activeDialogMovieNumber = movie.number;
   if (location.hash !== `#movie-${movie.number}`) history.replaceState(null, "", `#movie-${movie.number}`);
 
