@@ -1116,13 +1116,27 @@ function exportUserState() {
   stateMessage.textContent = t("exportDone");
 }
 
+function normalizeStateNumber(value) {
+  if (typeof value === "number" && Number.isInteger(value) && value > 0) {
+    return String(value).padStart(4, "0");
+  }
+  if (typeof value === "string") {
+    const trimmed = value.trim();
+    if (/^\d{1,4}$/.test(trimmed)) return trimmed.padStart(4, "0");
+  }
+  return "";
+}
+
 async function importUserState(file) {
   try {
     const payload = JSON.parse(await file.text());
     if (!Array.isArray(payload.favorites) || !Array.isArray(payload.watched)) throw new Error("Invalid state");
     const validNumbers = new Set(movies.map((movie) => movie.number));
-    userState.favorites = new Set(payload.favorites.filter((number) => validNumbers.has(number)));
-    userState.watched = new Set(payload.watched.filter((number) => validNumbers.has(number)));
+    const cleanNumbers = (values) => values
+      .map(normalizeStateNumber)
+      .filter((number) => validNumbers.has(number));
+    userState.favorites = new Set(cleanNumbers(payload.favorites));
+    userState.watched = new Set(cleanNumbers(payload.watched));
     saveUserState();
     renderStats();
     renderCategories();
