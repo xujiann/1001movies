@@ -598,7 +598,26 @@ function applyLibraryParams(hash = location.hash) {
   state.sort = params.get("sort") || "number";
   state.view = params.get("view") === "list" ? "list" : "grid";
   state.query = fromSlug(params.get("q")) || "";
+  validateLibraryState();
   return true;
+}
+
+function validateLibraryState() {
+  if (state.category !== ALL && !categories.some((category) => category.name === state.category)) {
+    state.category = ALL;
+  }
+
+  const validSubcategories = state.category === ALL
+    ? new Set(movies.map((movie) => movie.subcategory))
+    : new Set(categories.find((category) => category.name === state.category)?.subs || []);
+  if (state.subcategory !== ALL && !validSubcategories.has(state.subcategory)) {
+    state.subcategory = ALL;
+  }
+
+  if (state.genre !== ALL && !getAllGenres().includes(state.genre)) state.genre = ALL;
+  if (state.decade !== ALL && !getAllDecades().includes(state.decade)) state.decade = ALL;
+  if (![ALL, FAVORITE_STATUS, WATCHED_STATUS, UNWATCHED_STATUS].includes(state.status)) state.status = ALL;
+  if (!["number", "title", "year-asc", "year-desc"].includes(state.sort)) state.sort = "number";
 }
 
 function syncControls() {
